@@ -15,7 +15,11 @@
             "Rules": [
                 {
                     "RuleParagraph": "1.1.",
-                    "RuleText": "There is no rules except it is pve and you cant destroy the base's"
+                    "RuleText": "Do not troll."
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "Cheating will result in ban."
                 }
             ]
         }
@@ -131,7 +135,7 @@
             "CategoryName": "General Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "There is a base. it is located at 3223.94 / 13716.60"
+                    "DescriptionText": "There is ai in almost every town, village, and city. Coastal AI is melee and pistol, but inland you will find more geared AI."
                 }
             ]
         },
@@ -139,22 +143,10 @@
             "CategoryName": "Mod Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "Base building is pretty much same as vanilla, but there are more options."
+                    "DescriptionText": "Vanilla for now."
                 },
                 {
-                    "DescriptionText": "To access the book press B, Earplugs are N, Mini map is Backslash, it does'nt work while driving though. Check key bindings for more."
-                },
-                {
-                    "DescriptionText": "quest r default still working on it."
-                },
-                {
-                    "DescriptionText": "Go to options/expansion to set up the mod how u would like!"
-                },
-                {
-                    "DescriptionText": "AI Patrols spwan almost in every town, city and military. They are hostile everywhere except spawn points. At the spwan points they will not be hostile unless you are to them! Be careful"
-                },
-                {
-                    "DescriptionText": "AI's are .25 min accuracy and .75 max accuracy, and there damage is half of a players."
+                    "DescriptionText": "AI's are .25 min accuracy and .75-.85 max accuracy, and there damage is half of a players."
                 }
             ]
         }
@@ -181,16 +173,9 @@
         {
             "CategoryName": "Base-Building",
             "Results": [
-                "expansionbarbedwirekit",
                 "fencekit",
-                "expansionfloorkit",
-                "expansionhelipadkit",
-                "expansionhescokit",
-                "expansionrampkit",
                 "shelterkit",
-                "expansionstairkit",
                 "territoryflagkit",
-                "expansionwallkit",
                 "watchtowerkit"
             ]
         },
@@ -286,9 +271,6 @@
                 "burlapsack",
                 "burlapstrip",
                 "longwoodenstick",
-                "expansionlumber1",
-                "expansionlumber1_5",
-                "expansionlumber3",
                 "nails",
                 "netting",
                 "rag",
