@@ -25,42 +25,6 @@
             "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        },
-        {
-            "ClassName": "AmmoBox_308Win_20",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 0.25
-        },
-        {
-            "ClassName": "AmmoBox_762x39_20Rnd",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 0.25
-        },
-        {
-            "ClassName": "AmmoBox_556x45_20Rnd",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 0.25
-        },
-        {
-            "ClassName": "AmmoBox_545x39_20Rnd",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 0.25
         }
     ],
     "NeedToSelectReward": 0,
