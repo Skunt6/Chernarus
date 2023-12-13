@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find Sokol Tower",
+    "TimeLimit": -1,
+    "Position": [
+        11983.5, 186.98, 14772.8
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Sokol Tower",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,120 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the treasure on Skalisty island",
+    "TimeLimit": -1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "?",
+    "MarkerVisibility": 0,
+    "Positions": [
+        [
+            13508.8, 75.87, 3317.52
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "ItemAlienIngot",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemRodochrosite",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemPinkTourmaline",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemAlexandrit",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemIndicolite",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemAquamarine",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemEmerald",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemYellowBeryl",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemRuby",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemCitrine",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ItemKunzite",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 4,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 11,
+    "MaxDistance": 10.0
+}

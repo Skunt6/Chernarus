@@ -1,0 +1,17 @@
+{
+    "m_Version": 2,
+    "Enabled": 0,
+    "UTC": 0,
+    "UseMissionTime": 0,
+    "Notifications": [
+        {
+            "Hour": 2,
+            "Minute": 0,
+            "Second": 0,
+            "Title": "Open your book!",
+            "Text": "Press B",
+            "Icon": "To find helpful tips!",
+            "Color": ""
+        }
+    ]
+}

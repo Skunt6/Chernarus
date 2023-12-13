@@ -1,0 +1,30 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the treasure in the hills near Berezhki",
+    "TimeLimit": -1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 0,
+    "Positions": [
+        [
+            15145.4, 39.7569, 13696
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "expansionbanknoteUSD",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 50000,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 20,
+    "MaxDistance": 10.0
+}

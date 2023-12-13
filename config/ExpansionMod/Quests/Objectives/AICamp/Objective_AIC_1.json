@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill all 10 Reapers at the marked location",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                277.633, 196.85, 6621.72
+            ],
+            [
+                272.448, 196.854, 6618.63
+            ],
+            [
+                268.289, 196.827, 6616.17
+            ],
+            [
+                262.478, 196.854, 6612.71
+            ],
+            [
+                257.334, 212.767, 6576.9
+            ],
+            [
+                303.753, 186.991, 6604.24
+            ],
+            [
+                295.766, 186.991, 6597.34
+            ],
+            [
+                291.911, 186.991, 6592.74
+            ],
+            [
+                293.786, 190.505, 6566.61
+            ],
+            [
+                261.895, 212.767, 6580.56
+            ]
+        ],
+        "NPCSpeed": "WALK",
+        "NPCMode": "JOG",
+        "NPCFaction": "Mercenaries",
+        "NPCLoadoutFile": "BanditLoadout",
+        "NPCAccuracyMin": 0.35,
+        "NPCAccuracyMax": 0.85,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 500
+}

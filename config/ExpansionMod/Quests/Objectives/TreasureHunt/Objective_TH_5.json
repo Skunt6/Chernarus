@@ -1,0 +1,39 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Collect",
+    "TimeLimit": -1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "Gold and Silver",
+    "MarkerVisibility": 1,
+    "Positions": [
+        [
+            299.325, 186.991, 6598.89
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "ExpansionGoldBar",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSilverBar",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 2,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0
+}

@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 20,
+    "ID": 11,
+    "Type": 1,
+    "Title": "Radio Resurgence",
+    "Descriptions": [
+        "Survivor, we're at a critical juncture. Our radio tower, our connection to the outside world, is failing, plunging us into a perilous silence. I've learned that three essential circuit boards, hidden behind one of the sheds at Sokol Tower by my colleague, Dr. Elena, are the key to its restoration. Your task is to navigate the dangers of Sokol Tower, confront the zombie-infested surroundings, and retrieve these circuit boards. Time is of the essence; other survivors rely on the tower's functionality for critical information. Bring those circuit boards back, secure our connection, and your success in this mission will be a beacon of hope in this bleak world."
+    ],
+    "ObjectiveText": "Find the circut boards",
+    "FollowUpQuest": 12,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "FieldShovel",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 4,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 22,
+            "ID": 2,
+            "ObjectiveType": 6
+        },
+        {
+            "ConfigVersion": 22,
+            "ID": 2,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        4
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}

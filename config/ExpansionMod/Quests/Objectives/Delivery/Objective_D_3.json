@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the treasure to Sylvan Mystique",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 4,
+            "ClassName": "ItemAlienIngot",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemRodochrosite",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemPinkTourmaline",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemAlexandrit",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemIndicolite",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemAquamarine",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemEmerald",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemYellowBeryl",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemRuby",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemCitrine",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 5.0,
+    "MarkerName": "Sylvan Mystique"
+}

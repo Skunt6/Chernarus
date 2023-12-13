@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2,
+    "ObjectiveType": 7,
+    "ObjectiveText": "Kill all 5 units of the Iron Serpents at the marked location",
+    "TimeLimit": -1,
+    "AIPatrol": {
+        "NPCUnits": 5,
+        "Waypoints": [
+            [
+                11844.4, 140.605, 12468.6
+            ],
+            [
+                11831.8, 140.605, 12461.6
+            ],
+            [
+                11843, 140.605, 12456.2
+            ],
+            [
+                11852.1, 140.605, 12452.5
+            ],
+            [
+                11858.6, 140.605, 12454.5
+            ],
+            [
+                11858.4, 140.135, 12428
+            ],
+            [
+                11876.5, 140.135, 12418
+            ],
+            [
+                11882.6, 140.135, 12438.6
+            ],
+            [
+                11874.8, 140.012, 12459.2
+            ],
+            [
+                11897.5, 140.032, 12449.8
+            ]
+        ],
+        "NPCSpeed": "WALK",
+        "NPCMode": "RUN",
+        "NPCFaction": "Mercenaries",
+        "NPCFormation": "RANDOM",
+        "NPCLoadoutFile": "SerpentsLoadout",
+        "NPCAccuracyMin": 0.35,
+        "NPCAccuracyMax": 0.80,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1
+}

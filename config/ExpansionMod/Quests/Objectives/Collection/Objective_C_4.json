@@ -1,0 +1,24 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Acquire 5 Pox Grenades",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "Grenade_ChemGas",
+            "QuantityPercent": 50,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 5,
+            "ClassName": "Ammo_40mm_Chemgas",
+            "QuantityPercent": 50,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

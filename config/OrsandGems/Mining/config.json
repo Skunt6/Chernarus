@@ -1,0 +1,158 @@
+{
+    "OrsAndGems": [
+        {
+            "actionText": "Mine for Alien Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "AlienOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemAlienNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for Copper Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "CopperOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemCopperNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for Diamond Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "DiamondOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemDiamondNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for Gold Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "GoldOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemGoldNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for Iron Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "IronOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemIronNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for Silver Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "SilverOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemSilverNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for Tin Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "TinOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemTinNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for CharCoal Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "CharCoalOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemCharCoalNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Mine for Sulfur Ore",
+            "max_mine": -1,
+            "enabledTypes": [
+                "SulfurOre"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "ItemSulfurNugget",
+                    "probability": 70
+                },
+                {
+                    "item": "Stones",
+                    "probability": 30
+                }
+            ]
+        }
+    ],
+    "minedItemsProbabilities": {}
+}

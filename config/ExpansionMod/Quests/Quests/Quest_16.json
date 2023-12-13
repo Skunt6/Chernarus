@@ -1,0 +1,69 @@
+{
+    "ConfigVersion": 20,
+    "ID": 16,
+    "Type": 1,
+    "Title": "Temporal Echoes: A Seeker's Quest",
+    "Descriptions": [
+        "Seeker of mysteries, within the pages of 'A Traveler in Time,' a legend whispers of a time traveler's cache on the island of Skalisty, adorned with artifacts from untold eras. Unearth these relics, each echoing the essence of a bygone era. Yet, beware, for dangerous bandits guard these temporal treasures. Your quest promises encounters with enigmatic artifacts, sparking whispers of history untold. As the pages guide you to the trove that transcends ages, hidden on Skalisty, bring your discoveries back, for these treasures may unlock the mysteries of our time."
+    ],
+    "ObjectiveText": "look for the time travlers cache ",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        6
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 9,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 22,
+            "ID": 3,
+            "ObjectiveType": 6
+        },
+        {
+            "ConfigVersion": 22,
+            "ID": 3,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}

@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the Metals to Rico",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 100,
+            "ClassName": "ExpansionGoldBar",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 100,
+            "ClassName": "ExpansionSilverBar",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 5.0,
+    "MarkerName": "Bring to Rico"
+}

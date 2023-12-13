@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go to Zelenogorsk",
+    "TimeLimit": -1,
+    "Position": [
+        2738.57, 205.04, 5265.7
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "Zelenogorsk",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

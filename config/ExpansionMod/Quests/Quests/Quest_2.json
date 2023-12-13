@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 20,
+    "ID": 2,
+    "Type": 1,
+    "Title": "Gain their trust",
+    "Descriptions": [
+        "Alright, listen up, Survivor. You're under this roof now, but don't get comfortable. Here's your ration – it's not a feast, but it's what we've got. Zelenogorsk's a nightmare, infested with the undead. Your task? Clean it up, 25 of them, and maybe we'll consider you part of the crew. Supplies won't shield you from those biters; it's a fight for survival, and we don't hold hands. Keep your eyes peeled for bandits; they're scavenging the area too. Move fast, but move smart. Clock's ticking, and we're not your babysitters. Now, if you manage to wade through that mess and make it back in one piece, there might be a reward waiting for you – notice I said 'might.' This isn't a charity, Survivor. Prove you're worth a damn out there, and maybe, just maybe, you'll find yourself with a little more than just scraps. Now, get going. Time waits for no one."
+    ],
+    "ObjectiveText": "Kill 25 Infected in Zelenogorsk",
+    "FollowUpQuest": 3,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 5,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 22,
+            "ID": 1,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        1
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}

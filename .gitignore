@@ -1,0 +1,42 @@
+*.log
+*config.vdf
+*.ADM
+*.RPT
+*.exe
+*.dll
+*areaflags.map
+@CF/
+@Community-Online-Tools/
+@Dabs Framework/
+@DayZ Editor Loader/
+@DayZ-Expansion-Bundle/
+@DayZ-Expansion-Licensed/
+@DayZOresAndGems/
+@Furniture/
+@InventoryInCar/
+@InventoryPlusPlus/
+@MMG - Mightys Military Gear/
+@SNAFU Weapons/
+addons/
+appcache/
+battleye/
+bliss/
+docs/
+dta/
+keys/
+logs/
+steamapps/
+config/DataCache/
+config/BattlEye/
+config/EventManagerLog/
+config/Users/
+config/CommunityOnlineTools/Logs/
+config/ExpansionMod/AI/
+config/ExpansionMod/Groups/
+config/ExpansionMod/Hardline/
+config/ExpansionMod/Logs/
+mpmissions/dayzOffline.chernarusplus/storage_0/
+mpmissions/dayzOffline.chernarusplus/storage_1/
+mpmissions/dayzOffline.enoch/
+config/ExpansionMod/Quests/PlayerData/
+config/ExpansionMod/Quests/GroupData/

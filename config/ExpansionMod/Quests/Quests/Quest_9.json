@@ -1,0 +1,47 @@
+{
+    "ConfigVersion": 20,
+    "ID": 9,
+    "Type": 1,
+    "Title": "Whispers of the Celestial Cache",
+    "Descriptions": [
+        "Amidst the hills of Berezhki, a mystical treasure known as Celestial Cache beckons in secrecy. Captivated by its tales, I bestow upon you a quest as daring as the whispers of the wind: embark on a mystical journey to unveil and claim the Celestial Cache. The rewards, shrouded in legend, promise abundance, and your odyssey will test your mettle in the unforgiving landscape. Guided by this ethereal challenge, may fortune favor your path."
+    ],
+    "ObjectiveText": "Find the treasure",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 1,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}

@@ -1,0 +1,71 @@
+{
+    "ConfigVersion": 20,
+    "ID": 13,
+    "Type": 1,
+    "Title": "Reaper's Wrath: A Raid on the Outlaws",
+    "Descriptions": [
+        "Alright, listen up. We've got a pressing matter on our hands. The Crimson Reapers, those relentless outlaws, have set up a compound not too far from here, and they're causing trouble for everyone. We can't let 'em run wild. Your mission, Survivor, is to raid their compound. Take a team of AI with you – they're armed and ready. These Reapers are cunning, and they won't go down without a fight. Your objective is to infiltrate their stronghold, eliminate the threat, and secure any intel you can find. This ain't a stroll in the park; it's a showdown. Be strategic, stay vigilant, and remember, we're counting on you to send a clear message to these bandits. Get in there, Survivor, and let the Reapers know that this camp isn't one to be trifled with. Good luck."
+    ],
+    "ObjectiveText": "Raid The Reapers Compound",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 50000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 1,
+            "ObjectiveType": 8
+        },
+        {
+            "ConfigVersion": 22,
+            "ID": 5,
+            "ObjectiveType": 6
+        },
+        {
+            "ConfigVersion": 22,
+            "ID": 4,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 2000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        10
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}

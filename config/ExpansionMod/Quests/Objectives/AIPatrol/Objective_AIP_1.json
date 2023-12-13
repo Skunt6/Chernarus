@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "ObjectiveType": 7,
+    "ObjectiveText": "Kill all 4 units of the Crimsom Reapers at the marked location",
+    "TimeLimit": -1,
+    "AIPatrol": {
+        "NPCUnits": 4,
+        "Waypoints": [
+            [
+                1073.95, 152.214, 6635.12
+            ],
+            [
+                1110.05, 149.362, 6587.14
+            ],
+            [
+                1120.67, 149.585, 6639.43
+            ],
+            [
+                1101.09, 150.332, 6629.9
+            ],
+            [
+                1099.34, 153.071, 6631.79
+            ],
+            [
+                1066.99, 153.199, 6646.98
+            ],
+            [
+                1067.29, 153.34, 6688.96
+            ],
+            [
+                1089.88, 150.149, 6673.51
+            ],
+            [
+                1072.93, 152.59, 6595.63
+            ],
+            [
+                1076.21, 152.533, 6584.45
+            ]
+        ],
+        "NPCSpeed": "WALK",
+        "NPCMode": "RUN",
+        "NPCFaction": "Mercenaries",
+        "NPCFormation": "RANDOM",
+        "NPCLoadoutFile": "BanditLoadout",
+        "NPCAccuracyMin": 0.35,
+        "NPCAccuracyMax": 0.80,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1
+}

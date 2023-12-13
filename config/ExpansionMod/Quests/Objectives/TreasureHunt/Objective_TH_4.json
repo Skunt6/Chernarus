@@ -1,0 +1,39 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Collect ",
+    "TimeLimit": -1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "Serpents Battle plans",
+    "MarkerVisibility": 1,
+    "Positions": [
+        [
+            13613.5, 65.723, 2930.59
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "paper",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "BookTheCosmicComputer",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0
+}

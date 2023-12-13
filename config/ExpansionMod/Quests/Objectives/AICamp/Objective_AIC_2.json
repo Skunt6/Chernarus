@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill all 10 Reapers at the marked location",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                13687.3, 46.7956, 2987.68
+            ],
+            [
+                13662.4, 44.812, 2970.48
+            ],
+            [
+                13640.4, 46.0144, 2954.28
+            ],
+            [
+                13650.6, 50.1917, 2955.97
+            ],
+            [
+                13633, 50.3333, 2944.34
+            ],
+            [
+                13629.4, 55.1483, 2944.09
+            ],
+            [
+                13656.9, 58.7409, 2963.37
+            ],
+            [
+                13625.8, 65.723, 2934.52
+            ],
+            [
+                13616.3, 65.723, 2947.94
+            ],
+            [
+                13615, 93.8818, 2933.67
+            ]
+        ],
+        "NPCSpeed": "HALT",
+        "NPCMode": "JOG",
+        "NPCFaction": "Mercenaries",
+        "NPCLoadoutFile": "SerpentsLoadout",
+        "NPCAccuracyMin": 0.35,
+        "NPCAccuracyMax": 0.85,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 200.0,
+    "MaxDistRadius": 300.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 500
+}

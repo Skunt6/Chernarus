@@ -1,0 +1,93 @@
+{
+    "ConfigVersion": 22,
+    "ID": 6,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Collect The travelers stash.",
+    "TimeLimit": -1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "Armour",
+    "MarkerVisibility": 1,
+    "Positions": [
+        [
+            620.777, 447.888, 14626.7
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "Chainmail",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Chainmail_Coif",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Chainmail_Leggings",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Chestplate",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "MedievalBoots",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WoolGloves_Black",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Sword",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "NorseHelm",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 8,
+    "MaxDistance": 10.0
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to the reserchers camp!",
+    "TimeLimit": -1,
+    "Position": [
+        3699.718994, 402.012390, 5989.668457
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "The camp",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

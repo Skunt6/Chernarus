@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 12 Tetracycline",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 12,
+            "ClassName": "TetracyclineAntibiotics",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

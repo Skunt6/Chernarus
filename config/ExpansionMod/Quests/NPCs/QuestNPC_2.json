@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 5,
+    "ID": 2,
+    "ClassName": "ExpansionQuestNPCAIEva",
+    "Position": [
+        3708.8, 
+        425.0,
+        5989.6
+    ],
+    "Orientation": [
+        73.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Dr. Milena",
+    "DefaultNPCText": "Hello?",
+    "Waypoints": [
+        [
+            3708.8,
+            425.0,
+            5989.6
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "DrMilenaNovakLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2
+}

@@ -1,0 +1,30 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect The Circuts",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionCircuitBoard_MK1",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionCircuitBoard_MK2",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionCircuitBoard_MK3",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

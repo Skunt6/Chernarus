@@ -1,0 +1,48 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Look behind one of the sheds with a shovel",
+    "TimeLimit": -1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 0,
+    "Positions": [
+        [
+            11982.6, 187.472, 14792.3
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "ExpansionCircuitBoard_MK1",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionCircuitBoard_MK2",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionCircuitBoard_MK3",
+            "Attachments": [],
+            "Chance": 1.0,
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 3,
+    "MaxDistance": 10.0
+}

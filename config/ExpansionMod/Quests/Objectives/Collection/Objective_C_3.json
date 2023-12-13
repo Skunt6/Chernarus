@@ -1,0 +1,24 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Take the plans and mysterious book",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "paper",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "BookTheCosmicComputer",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

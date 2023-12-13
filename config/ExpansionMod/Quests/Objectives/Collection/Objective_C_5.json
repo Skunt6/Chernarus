@@ -1,0 +1,60 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Acquire The traverlers armour.",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Chainmail",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Chainmail_Coif",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Chainmail_Leggings",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Chestplate",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "MedievalBoots",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "WoolGloves_Black",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Sword",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "NorseHelm",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0 
+}
