@@ -1,7 +1,7 @@
 {
     "m_Version": 4,
     "ServerMarkerOnDropLocation": 1,
-    "Server3DMarkerOnDropLocation": 1,
+    "Server3DMarkerOnDropLocation": 0,
     "ShowAirdropTypeOnMarker": 1,
     "HideCargoWhileParachuteIsDeployed": 1,
     "HeightIsRelativeToGroundLevel": 1,
@@ -1957,7 +1957,7 @@
             "SpawnInfectedForPlayerCalledDrops": 0
         },
         {
-            "Container": "ExpansionAirdropContainer_Provisions",
+            "Container": "ExpansionAirdropContainer",
             "FallSpeed": 4.5,
             "Usage": 0,
             "Weight": 5.0,
@@ -2956,8 +2956,8 @@
                 "ZmbF_MilkMaidOld_Green",
                 "ZmbF_MilkMaidOld_Grey"
             ],
-            "ItemCount": 100,
-            "InfectedCount": 25,
+            "eAI_Base|faction:Mercenaries,loadout:CoastalLoadout": 1,
+            "InfectedCount": 5,
             "SpawnInfectedForPlayerCalledDrops": 0 
         },
         {
