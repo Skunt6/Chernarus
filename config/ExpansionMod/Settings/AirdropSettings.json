@@ -1957,6 +1957,1010 @@
             "SpawnInfectedForPlayerCalledDrops": 0
         },
         {
+            "Container": "ExpansionAirdropContainer_Provisions",
+            "FallSpeed": 4.5,
+            "Usage": 0,
+            "Weight": 5.0,
+            "Loot": [
+                {
+                    "Name": "ExpansionMilkBottle",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ExpansionBread1",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ExpansionBread2",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ExpansionBread3",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ExpansionCheese1",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ExpansionCheese2",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ExpansionCheese3",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ExpansionCheese4",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AgaricusMushroom",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Apple",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AuriculariaMushroom",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BakedBeansCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BakedBeansCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BearSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Bitterlings",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BoarSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BoletusMushroom",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BoxCerealCrunchin",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BrisketSpread",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BrisketSpread_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Candycane_Green",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Candycane_Red",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Candycane_RedGreen",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Candycane_Yellow",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Canteen",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Carp",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CarpFilletMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CatFoodCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CatFoodCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ChickenBreastMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Chips",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CowSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Crackers",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeadChicken_Brown",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeadChicken_Spotted",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeadChicken_White",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeadRabbit",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeadRooster",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeerSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DogFoodCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DogFoodCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "GoatSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "GreenBellPepper",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Honey",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HumanSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "LactariusMushroom",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Lard",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Lunchmeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Lunchmeat_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Mackerel",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "MackerelFilletMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "MacrolepiotaMushroom",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Marmalade",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Pajka",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Pajka_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Pate",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Pate_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PeachesCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PeachesCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Pear",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PepperSeedsPack",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PigSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PleurotusMushroom",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Plum",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PorkCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PorkCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Potato",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PotatoSeed",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PowderedMilk",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Pumpkin",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PumpkinSeedsPack",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RabbitLegMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Rice",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SaltySticks",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Sardines",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SardinesCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SardinesCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SheepSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SlicedPumpkin",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SodaCan_Cola",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SodaCan_Fronta",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SodaCan_Kvass",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SodaCan_Pipsi",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SodaCan_Spite",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SpaghettiCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SpaghettiCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TacticalBaconCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TacticalBaconCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Tomato",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TomatoSeedsPack",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TunaCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TunaCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "UnknownFoodCan",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "UnknownFoodCan_Opened",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "WolfSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Zagorky",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ZagorkyChocolate",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ZagorkyPeanuts",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Zucchini",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ZucchiniSeedsPack",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                }
+            ],
+            "Infected": [
+                "ZmbM_HermitSkinny_Beige",
+                "ZmbM_HermitSkinny_Black",
+                "ZmbM_HermitSkinny_Green",
+                "ZmbM_HermitSkinny_Red",
+                "ZmbM_FarmerFat_Beige",
+                "ZmbM_FarmerFat_Blue",
+                "ZmbM_FarmerFat_Brown",
+                "ZmbM_FarmerFat_Green",
+                "ZmbF_CitizenANormal_Beige",
+                "ZmbF_CitizenANormal_Blue",
+                "ZmbF_CitizenANormal_Brown",
+                "ZmbM_CitizenBFat_Blue",
+                "ZmbM_CitizenBFat_Red",
+                "ZmbM_CitizenBFat_Green",
+                "ZmbF_CitizenBSkinny",
+                "ZmbM_FishermanOld_Blue",
+                "ZmbM_FishermanOld_Green",
+                "ZmbM_FishermanOld_Grey",
+                "ZmbM_FishermanOld_Red",
+                "ZmbM_JournalistSkinny",
+                "ZmbF_JournalistNormal_Blue",
+                "ZmbF_JournalistNormal_Green",
+                "ZmbF_JournalistNormal_Red",
+                "ZmbF_JournalistNormal_White",
+                "ZmbM_HikerSkinny_Blue",
+                "ZmbM_HikerSkinny_Green",
+                "ZmbM_HikerSkinny_Yellow",
+                "ZmbF_HikerSkinny_Blue",
+                "ZmbF_HikerSkinny_Grey",
+                "ZmbF_HikerSkinny_Green",
+                "ZmbF_HikerSkinny_Red",
+                "ZmbF_SurvivorNormal_Blue",
+                "ZmbF_SurvivorNormal_Orange",
+                "ZmbF_SurvivorNormal_Red",
+                "ZmbF_SurvivorNormal_White",
+                "ZmbM_CommercialPilotOld_Blue",
+                "ZmbM_CommercialPilotOld_Olive",
+                "ZmbM_CommercialPilotOld_Brown",
+                "ZmbM_CommercialPilotOld_Grey",
+                "ZmbM_JoggerSkinny_Blue",
+                "ZmbM_JoggerSkinny_Green",
+                "ZmbM_JoggerSkinny_Red",
+                "ZmbF_JoggerSkinny_Blue",
+                "ZmbF_JoggerSkinny_Brown",
+                "ZmbF_JoggerSkinny_Green",
+                "ZmbF_JoggerSkinny_Red",
+                "ZmbM_MotobikerFat_Beige",
+                "ZmbM_MotobikerFat_Black",
+                "ZmbM_MotobikerFat_Blue",
+                "ZmbM_VillagerOld_Blue",
+                "ZmbM_VillagerOld_Green",
+                "ZmbM_VillagerOld_White",
+                "ZmbM_SkaterYoung_Blue",
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_SkaterYoung_Green",
+                "ZmbM_SkaterYoung_Grey",
+                "ZmbF_SkaterYoung_Brown",
+                "ZmbF_SkaterYoung_Striped",
+                "ZmbF_SkaterYoung_Violet",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_OffshoreWorker_Orange",
+                "ZmbM_OffshoreWorker_Red",
+                "ZmbM_OffshoreWorker_Yellow",
+                "ZmbM_Jacket_beige",
+                "ZmbM_Jacket_black",
+                "ZmbM_Jacket_blue",
+                "ZmbM_Jacket_bluechecks",
+                "ZmbM_Jacket_brown",
+                "ZmbM_Jacket_greenchecks",
+                "ZmbM_Jacket_grey",
+                "ZmbM_Jacket_khaki",
+                "ZmbM_Jacket_magenta",
+                "ZmbM_Jacket_stripes",
+                "ZmbF_ShortSkirt_beige",
+                "ZmbF_ShortSkirt_black",
+                "ZmbF_ShortSkirt_brown",
+                "ZmbF_ShortSkirt_green",
+                "ZmbF_ShortSkirt_grey",
+                "ZmbF_ShortSkirt_checks",
+                "ZmbF_ShortSkirt_red",
+                "ZmbF_ShortSkirt_stripes",
+                "ZmbF_ShortSkirt_white",
+                "ZmbF_ShortSkirt_yellow",
+                "ZmbF_VillagerOld_Blue",
+                "ZmbF_VillagerOld_Green",
+                "ZmbF_VillagerOld_Red",
+                "ZmbF_VillagerOld_White",
+                "ZmbF_MilkMaidOld_Beige",
+                "ZmbF_MilkMaidOld_Black",
+                "ZmbF_MilkMaidOld_Green",
+                "ZmbF_MilkMaidOld_Grey"
+            ],
+            "ItemCount": 100,
+            "InfectedCount": 25,
+            "SpawnInfectedForPlayerCalledDrops": 0 
+        },
+        {
             "Container": "ExpansionAirdropContainer_Medical",
             "FallSpeed": 4.5,
             "Usage": 0,
