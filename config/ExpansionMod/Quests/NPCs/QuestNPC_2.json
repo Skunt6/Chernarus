@@ -3,22 +3,16 @@
     "ID": 2,
     "ClassName": "ExpansionQuestNPCAIEva",
     "Position": [
-        3708.8, 
-        425.0,
-        5989.6
+        3675.25, 402.691, 5990.16
     ],
     "Orientation": [
-        73.0,
-        0.0,
-        0.0
+        77.1072, 0, -0
     ],
     "NPCName": "Dr. Milena",
     "DefaultNPCText": "Hello?",
     "Waypoints": [
         [
-            3708.8,
-            425.0,
-            5989.6
+            3675.25, 402.691, 5990.16
         ]
     ],
     "NPCEmoteID": 46,
