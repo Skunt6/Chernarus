@@ -1,6 +1,0 @@
-{
-    "files.exclude": {
-        "*/.xml": true,
-        "*/.dzeinv": true
-    }
-}
