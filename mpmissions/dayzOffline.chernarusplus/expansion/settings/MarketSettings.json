@@ -38,6 +38,14 @@
     "AirSpawnPositions": [
         {
             "Position": [
+                10693.6, 349.588, 5686.89
+            ],
+            "Orientation": [
+                -60.5277, -0, 0
+            ]
+        },
+        {
+            "Position": [
                 3744.64, 403.401, 6024.026
             ],
             "Orientation": [
