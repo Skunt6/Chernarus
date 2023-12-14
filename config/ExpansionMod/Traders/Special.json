@@ -32,12 +32,12 @@
         "Ammo_Boxes",
         "Ammo",
         "Knifes",
-        "Magazines:3",
-        "Muzzles:3",
-        "Bayonets:3",
-        "Optics:3",
-        "Buttstocks:3",
-        "Handguards:3"
+        "Magazines",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards"
     ],
     "Items": {
         "expansionammorpg": 1,
