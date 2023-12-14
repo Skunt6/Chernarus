@@ -5,7 +5,7 @@
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Grenade",
+    "TraderIcon": "Shotgun",
     "Currencies": [
         "expansionbanknoteUSD"
     ],
@@ -20,7 +20,23 @@
         "Snafu_Scopes",
         "Snafu_Stocks",
         "Snafu_Suppressors",
-        "Snafu_Weapons"
+        "Snafu_Weapons",
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Rifles",
+        "Pistols",
+        "Sniper_Rifles",
+        "Shotguns",
+        "Crossbows",
+        "Melee_Weapons",
+        "Ammo_Boxes",
+        "Knifes",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Optics:3",
+        "Buttstocks:3",
+        "Handguards:3"
     ],
     "Items": {
         "expansionammorpg": 1,
