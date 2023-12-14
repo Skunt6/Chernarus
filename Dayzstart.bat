@@ -20,7 +20,6 @@ start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=2302 
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 34390
 taskkill /im DayZServer_x64.exe /F
-taskkill /im bec.exe /F
 ::Time in seconds to wait before..
 timeout 10
 ::Go back to the top and repeat the whole cycle again
