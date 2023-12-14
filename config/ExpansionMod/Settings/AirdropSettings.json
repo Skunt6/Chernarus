@@ -2957,7 +2957,7 @@
                 "ZmbF_MilkMaidOld_Grey"
             ],
             "eAI_Base|faction:Mercenaries,loadout:CoastalLoadout": 1,
-            "InfectedCount": 5,
+            "InfectedCount": 0,
             "SpawnInfectedForPlayerCalledDrops": 0 
         },
         {
