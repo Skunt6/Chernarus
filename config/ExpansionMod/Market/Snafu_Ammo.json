@@ -5,7 +5,7 @@
     "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
-	              		{
+	    {
             "ClassName": "GCGN_Ammo_3006",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,

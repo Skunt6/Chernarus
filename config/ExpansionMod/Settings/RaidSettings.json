@@ -20,23 +20,25 @@
     "SafeRaidUseSchedule": 1,
     "SafeExplosionDamageMultiplier": 17.0,
     "SafeProjectileDamageMultiplier": 1.0,
-    "SafeRaidTools": [
-        "ExpansionPropaneTorch"
-    ],
+    "SafeRaidTools": [],
     "SafeRaidToolTimeSeconds": 600,
     "SafeRaidToolCycles": 5,
     "SafeRaidToolDamagePercent": 100.0,
     "CanRaidBarbedWire": 1,
     "BarbedWireRaidTools": [
-        "ExpansionBoltCutters"
+        "ExpansionBoltCutters",
+        "ExpansionPropaneTorch"
     ],
-    "BarbedWireRaidToolTimeSeconds": 300,
+    "BarbedWireRaidToolTimeSeconds": 400,
     "BarbedWireRaidToolCycles": 5,
     "BarbedWireRaidToolDamagePercent": 100.0,
-    "CanRaidLocksOnWalls": 0,
-    "CanRaidLocksOnFences": 0,
-    "CanRaidLocksOnTents": 0,
-    "LockRaidTools": [],
+    "CanRaidLocksOnWalls": 1,
+    "CanRaidLocksOnFences": 1,
+    "CanRaidLocksOnTents": 1,
+    "LockRaidTools": [
+        "ExpansionBoltCutters",
+        "ExpansionPropaneTorch"
+    ],
     "LockOnWallRaidToolTimeSeconds": 900,
     "LockOnFenceRaidToolTimeSeconds": 900,
     "LockOnTentRaidToolTimeSeconds": 600,
@@ -45,6 +47,7 @@
     "CanRaidLocksOnContainers": 1,
     "LockOnContainerRaidUseSchedule": 1,
     "LockOnContainerRaidTools": [
+        "ExpansionBoltCutters",
         "ExpansionPropaneTorch"
     ],
     "LockOnContainerRaidToolTimeSeconds": 600,
@@ -54,7 +57,7 @@
         {
             "Weekday": "Sunday",
             "StartHour": 0,
-            "StartMinute": 0,
+            "StartMinute": 1,
             "DurationMinutes": 1440
         },
         {
@@ -90,7 +93,7 @@
         {
             "Weekday": "Saturday",
             "StartHour": 0,
-            "StartMinute": 0,
+            "StartMinute": 1,
             "DurationMinutes": 1440
         }
     ]

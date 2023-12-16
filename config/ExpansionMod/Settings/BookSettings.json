@@ -20,6 +20,14 @@
                 {
                     "RuleParagraph": "1.2.",
                     "RuleText": "Cheating will result in ban."
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Be resonable."
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "PVP on the weekends, PVE on the weekdays."
                 }
             ]
         }
@@ -125,28 +133,73 @@
     "Links": [
         {
             "Name": "Discord",
-            "URL": "https://discord.gg/JfpXa9kb",
+            "URL": "https://discord.gg/353HNf5eBx",
             "IconName": "Discord",
             "IconColor": -9270822
         }
     ],
     "Descriptions": [
         {
-            "CategoryName": "General Info",
+            "CategoryName": "Admin support",
             "Descriptions": [
                 {
-                    "DescriptionText": "There is ai in almost every town, village, and city. Coastal AI is melee and pistol, but inland you will find more geared AI."
+                    "DescriptionText": "Click the Discord link in the book, or hit esc and you will see it in the menu. Please submit a ticket, and we will help as soon as we can."
                 }
             ]
         },
         {
-            "CategoryName": "Mod Info",
+            "CategoryName": "PVP rules",
             "Descriptions": [
                 {
-                    "DescriptionText": "Vanilla for now."
+                    "DescriptionText": "PVP and raiding are only on the weekends EST. Raining or KOS during the weekdays can result in a ban."
                 },
                 {
-                    "DescriptionText": "AI's are .25 min accuracy and .75-.85 max accuracy, and there damage is half of a players."
+                    "DescriptionText": "Safes are unraidable."
+                }
+            ]
+        },
+        {
+            "CategoryName": "AI info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "AI will always be wearing a orange armband"
+                },
+                {
+                    "DescriptionText": "AI's are .25 min accuracy and .75-.85 max accuracy, and their damage is half of a players."
+                },
+                {
+                    "DescriptionText": "There is AI in almost every town, village, Military and city."
+                },
+                {
+                    "DescriptionText": "Coastal AI is melee and pistol, but inland you will find more geared AI."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Building info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "No building base's 700m from military bases."
+                },
+                {
+                    "DescriptionText": "Bases have a 14 day duration unless u raise the flag"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Vehical info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Vehical will last 7 days without being touched. If left in base they last 3 weeks"
+                },
+                {
+                    "DescriptionText": "Vehicals left at trader that are not parked in garage will be deleted after 12 hours."
+                },
+                {
+                    "DescriptionText": "Vehicals left at trader that are in the way will be deleted"
+                },
+                {
+                    "DescriptionText": "Two Vehicals per player"
                 }
             ]
         }

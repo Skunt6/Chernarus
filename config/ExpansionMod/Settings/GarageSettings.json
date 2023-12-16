@@ -8,7 +8,7 @@
     "MaxStorableVehicles": 2,
     "VehicleSearchRadius": 20.0,
     "MaxDistanceFromStoredPosition": 150.0,
-    "CanStoreWithCargo": 1,
+    "CanStoreWithCargo": 0,
     "UseVirtualStorageForCargo": 0,
     "NeedKeyToStore": 1,
     "EntityWhitelist": [

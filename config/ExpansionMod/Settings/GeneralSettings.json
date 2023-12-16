@@ -3,7 +3,7 @@
     "DisableShootToUnlock": 0,
     "EnableGravecross": 1,
     "GravecrossDeleteBody": 1,
-    "GravecrossTimeThreshold": 1200.0,
+    "GravecrossTimeThreshold": 3600.0,
     "GravecrossSpawnTimeDelay": 180.0,
     "Mapping": {
         "UseCustomMappingModule": 0,
@@ -97,7 +97,7 @@
     "UnlimitedStamina": 1,
     "UseDeathScreen": 1,
     "UseDeathScreenStatistics": 1,
-    "UseExpansionMainMenuLogo": 1,
+    "UseExpansionMainMenuLogo": 0,
     "UseExpansionMainMenuIcons": 1,
     "UseExpansionMainMenuIntroScene": 1,
     "UseNewsFeedInGameMenu": 1,

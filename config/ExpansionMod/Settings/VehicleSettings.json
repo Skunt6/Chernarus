@@ -7,13 +7,13 @@
     "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
     "MasterKeyPairingMode": 2,
     "MasterKeyUses": 2,
-    "CanPickLock": 0,
+    "CanPickLock": 1,
     "PickLockTools": [
         "Lockpick"
     ],
     "PickLockChancePercent": 40.0,
-    "PickLockTimeSeconds": 120,
-    "PickLockToolDamagePercent": 10.0,
+    "PickLockTimeSeconds": 300,
+    "PickLockToolDamagePercent": 100.0,
     "EnableWindAerodynamics": 0,
     "EnableTailRotorDamage": 1,
     "Towing": 1,
