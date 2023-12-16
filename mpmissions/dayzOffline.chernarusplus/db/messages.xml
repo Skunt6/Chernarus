@@ -49,6 +49,11 @@ Example messages:
         <text>Welcome To Natures Weavers Press: B For more information</text>
     </message>
     <message>
+        <delay>3</delay>
+        <onconnect>1</onconnect>
+        <text>AI wears orange armband</text>
+    </message>
+    <message>
         <deadline>480</deadline>
         <shutdown>1</shutdown>
         <text>#name will shutdown in #tmin minutes.</text>
