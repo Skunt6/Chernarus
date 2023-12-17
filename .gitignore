@@ -37,7 +37,8 @@ config/ExpansionMod/Hardline/
 config/ExpansionMod/Logs/
 mpmissions/dayzOffline.chernarusplus/storage_0/
 mpmissions/dayzOffline.chernarusplus/storage_1/
-mpmissions/dayzOffline.enoch/
+#mpmissions/dayzOffline.enoch/
 config/ExpansionMod/Quests/PlayerData/
 config/ExpansionMod/Quests/GroupData/
 config/ExpansionMod/ATM/
+mpmissions/dayzOffline.chernarusplus/

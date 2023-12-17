@@ -44,9 +44,12 @@
       "config/ExpansionMod/Logs/": true,
       "mpmissions/dayzOffline.chernarusplus/storage_0/": true,
       "mpmissions/dayzOffline.chernarusplus/storage_1/": true,
-      "mpmissions/dayzOffline.enoch/": true,
+      "mpmissions/dayzOffline.enoch/": false,
+      "mpmissions/dayzOffline.enoch/storage_0/": true,
+      "mpmissions/dayzOffline.enoch/storage_1/": true,
       "config/ExpansionMod/Quests/GroupData/": true,
       "config/ExpansionMod/Quests/PlayerData/": true,
-      "config/ExpansionMod/ATM/": true
+      "config/ExpansionMod/ATM/": true,
+      "mpmissions/dayzOffline.chernarusplus/": true
     }
   }
