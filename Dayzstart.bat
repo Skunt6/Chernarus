@@ -3,7 +3,7 @@
 ::Server name (This is just for the bat file)
 set serverName=Natures Weavers
 ::Server files location
-set serverLocation="C:\Program Files (x86)\Steam\steamapps\common\DayZServer"
+set serverLocation="C:\Users\rt603\Desktop\projects\Dayz server\Chernarusplus"
 ::Server Port
 set serverPort=2302
 ::Server config
