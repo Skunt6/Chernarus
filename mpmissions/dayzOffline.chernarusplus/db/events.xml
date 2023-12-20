@@ -3,7 +3,7 @@
     <event name="ItemOreSpawn">
         <nominal>200</nominal>
         <min>20</min>
-        <max>90</max>
+        <max>200</max>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <saferadius>200</saferadius>

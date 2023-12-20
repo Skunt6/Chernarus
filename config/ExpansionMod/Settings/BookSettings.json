@@ -27,7 +27,11 @@
                 },
                 {
                     "RuleParagraph": "1.4.",
-                    "RuleText": "PVP on the weekends, PVE on the weekdays."
+                    "RuleText": "PVE only."
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "Do not touch other players stuff."
                 }
             ]
         }

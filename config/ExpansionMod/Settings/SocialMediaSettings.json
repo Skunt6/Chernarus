@@ -11,11 +11,6 @@
             "m_Label": "Discord",
             "m_Icon": "set:expansion_iconset image:icon_discord",
             "m_URL": "https://discord.gg/wAsWKGkSEg"
-        },
-        {
-            "m_Label": "Homepage",
-            "m_Icon": "set:expansion_iconset image:icon_Homepage",
-            "m_URL": "https://naturesweavers.com"
         }
     ]
 }
