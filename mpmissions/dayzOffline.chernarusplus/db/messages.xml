@@ -53,10 +53,5 @@ Example messages:
         <onconnect>1</onconnect>
         <text>AI wears orange armband</text>
     </message>
-    <message>
-        <deadline>480</deadline>
-        <shutdown>1</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
-    </message>
 
 </messages>
