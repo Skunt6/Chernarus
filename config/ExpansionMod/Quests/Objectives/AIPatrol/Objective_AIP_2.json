@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 2,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 5 units of the Iron Serpents at the marked location",
+    "ObjectiveText": "Kill all 4 units of the Iron Serpents at the marked location",
     "TimeLimit": -1,
     "AIPatrol": {
-        "NPCUnits": 5,
+        "NPCUnits": 4,
         "Waypoints": [
             [
                 11844.4, 140.605, 12468.6
@@ -44,7 +44,7 @@
         "NPCFormation": "RANDOM",
         "NPCLoadoutFile": "SerpentsLoadout",
         "NPCAccuracyMin": 0.35,
-        "NPCAccuracyMax": 0.80,
+        "NPCAccuracyMax": 0.75,
         "ClassNames": [
             "eAIBase"
         ],
@@ -52,7 +52,7 @@
         "AllowedWeapons": []
     },
     "MinDistRadius": 50.0,
-    "MaxDistRadius": 150.0,
+    "MaxDistRadius": 880.0,
     "DespawnRadius": 880.0,
     "CanLootAI": 1
 }
