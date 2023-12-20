@@ -49,9 +49,9 @@
         "SpecialWeapon": 0,
         "AllowedWeapons": []
     },
-    "MinDistRadius": 50.0,
-    "MaxDistRadius": 800.0,
-    "DespawnRadius": 1000.0,
+    "MinDistRadius": 200.0,
+    "MaxDistRadius": 880.0,
+    "DespawnRadius": 880.0,
     "CanLootAI": 1,
     "InfectedDeletionRadius": 500
 }

@@ -385,157 +385,9 @@
         <usage name="Industrial"/>
     </type>
     <!--furniture end-->
-    <!--Gems and Ore start-->
-    <type name="AlienOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Tin"/>
-	</type>
-	<type name="GoldOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Gold"/>
-	</type>
-	<type name="SilverOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Silver"/>
-	</type>
-	<type name="DiamondOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Gold"/>
-	</type>
-	<type name="CopperOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Copper"/>
-	</type>
-	<type name="TinOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Tin"/>
-	</type>
-	<type name="IronOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Iron"/>
-	</type>
-	<type name="CharCoalOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_CharCoal"/>
-	</type>
-	<type name="SulfurOre">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>0</restock>
-		<min>9</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="Ore"/>
-		<usage name="DayzOresandGems_Sulfur"/>
-	</type>
-	<type name="Box_Kit_Furnace">
-		<nominal>3</nominal>
-		<lifetime>14400</lifetime>
-		<restock>100</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<tag name="floor"/>
-		<category name="tools"/>
-		<usage name="Industrial"/>
-	</type>
-	<type name="Furnace"> <!-- this is only for the lifetime of assembled furnace -->
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>0</restock>
-		<min>5</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
-	</type>
-    <type name="CopperStill">
-		<nominal>3</nominal>
-		<lifetime>432000</lifetime>
-		<restock>14400</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<tag name="floor"/>
-		<category name="tools"/>
-		<usage name="Farm"/>
-		<usage name="Industrial"/>
-		<usage name="Village"/>
-	</type>
-<!-- GEMS (dont change values here, unless you want them to spawn like normal loot) -->
+    <!-- GEMS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemStarRuby">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -543,10 +395,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemRodochrosite">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -554,10 +406,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemPinkTourmaline">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -565,10 +417,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemAlexandrit">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -576,10 +428,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIndicolite">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -587,10 +439,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemAquamarine">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -598,10 +450,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemEmerald">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -609,10 +461,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemYellowBeryl">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -620,10 +472,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCitrine">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -631,10 +483,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemRuby">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -642,10 +494,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemKunzite">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -653,11 +505,11 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 <!-- INGOTS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemAlienIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -665,10 +517,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCharCoalIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -676,10 +528,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSulfurIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -687,10 +539,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCopperIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -698,10 +550,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemDiamondIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -709,10 +561,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemGoldIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -720,10 +572,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIronIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -731,10 +583,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSilverIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -742,10 +594,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemTinIngot">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -753,11 +605,11 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 <!-- ORE NUGGETS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemAlienNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -765,10 +617,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCharCoalNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -776,10 +628,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSulfurNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -787,10 +639,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCopperNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -798,10 +650,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemDiamondNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -809,10 +661,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemGoldNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -820,10 +672,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIronNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -831,10 +683,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSilverNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -842,10 +694,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemTinNugget">
-		<nominal>0</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>5</min>
@@ -853,9 +705,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-		<category name="tools"/>
+        <usage name="ContaminatedArea"/>
 	</type>
-    <!--Gems and Ore end-->
+</types>
+    <!--Gems and Ores End-->
     <!--MMG Military Gear Start-->
 
     <type name="MMG_tt_vest_admin">

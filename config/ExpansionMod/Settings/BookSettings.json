@@ -32,6 +32,18 @@
                 {
                     "RuleParagraph": "1.5.",
                     "RuleText": "Do not touch other players stuff."
+                },
+                {
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "Server is always being worked on. Any feedback comments or complaints please drop a message in feedback channel located on our Discord"
+                },
+                {
+                    "RuleParagraph": "1.7.",
+                    "RuleText": "There are mysteries located through out the map."
+                },
+                {
+                    "RuleParagraph": "1.8.",
+                    "RuleText": "When you die you will leave a tombstone. You have 1 hour to retieve your body, and whats on it."
                 }
             ]
         }
@@ -48,41 +60,6 @@
                 },
                 {
                     "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
-                    "SettingText": "",
-                    "SettingValue": ""
-                }
-            ]
-        },
-        {
-            "CategoryName": "Raid Settings",
-            "Settings": [
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
-                    "SettingText": "",
-                    "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
                     "SettingText": "",
                     "SettingValue": ""
                 }
@@ -152,17 +129,6 @@
             ]
         },
         {
-            "CategoryName": "PVP rules",
-            "Descriptions": [
-                {
-                    "DescriptionText": "PVP and raiding are only on the weekends EST. Raining or KOS during the weekdays can result in a ban."
-                },
-                {
-                    "DescriptionText": "Safes are unraidable."
-                }
-            ]
-        },
-        {
             "CategoryName": "AI info",
             "Descriptions": [
                 {
@@ -176,6 +142,9 @@
                 },
                 {
                     "DescriptionText": "Coastal AI is melee and pistol, but inland you will find more geared AI."
+                },
+                {
+                    "DescriptionText": "During quests if a AI gets killed by their own kind your kill's wont count."
                 }
             ]
         },
@@ -187,6 +156,12 @@
                 },
                 {
                     "DescriptionText": "Bases have a 14 day duration unless u raise the flag"
+                },
+                {
+                    "DescriptionText": "Please submit a ticket, if you would like to build a base."
+                },
+                {
+                    "DescriptionText": "Only 2 car teats, 2 small and medium tents, and 2 large tents per player."
                 }
             ]
         },
