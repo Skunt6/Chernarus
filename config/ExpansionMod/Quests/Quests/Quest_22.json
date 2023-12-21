@@ -1,16 +1,16 @@
 {
     "ConfigVersion": 20,
-    "ID": 15,
+    "ID": 22,
     "Type": 1,
-    "Title": "Toxic Inquiry: The Poisin Apple",
+    "Title": "Vaccines in the Mist",
     "Descriptions": [
-        "Survivor, our situation is dire, and we need every resource at our disposal. I have a task for you, a hazardous one. I need you to collect five pox grenades. These vile creations have been wreaking havoc, but within their toxicity lies an opportunity. Bring them to me, and I'll study their effects. There's a chance we can unravel their composition, understand their mechanism, and potentially create a cure or antidote. It's a risky venture, but the potential payoff could save lives. Head out, be cautious, and retrieve those pox grenades. Our hopes for a remedy rest on your shoulders."
+        "Traveler, your timing is impeccable, yet the task ahead is fraught with danger. We face a dire situation – a Pox outbreak threatening our survival. Our only hope lies in acquiring more Pox vaccines. However, these vaccines are located in perilous gas zones, areas contaminated and hazardous. I implore you to navigate these treacherous zones and retrieve at least 5 doses of the vaccine. They may be in medical outposts, abandoned emergency shelters, or within forsaken pharmacies engulfed by these gas zones. Your bravery in venturing into such danger will not only be a heroic act but also immensely rewarded upon your safe return with the vaccines. Remember, every vial is a beacon of hope against this affliction."
     ],
-    "ObjectiveText": "Acquire 5 Pox Grenades",
+    "ObjectiveText": "Acquire 5 Pox Vaccines",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 75000,
+            "Amount": 25000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -41,7 +41,7 @@
     "Objectives": [
         {
             "ConfigVersion": 22,
-            "ID": 4,
+            "ID": 8,
             "ObjectiveType": 4
         }
     ],

@@ -1,19 +1,13 @@
 {
     "ConfigVersion": 22,
-    "ID": 4,
+    "ID": 8,
     "ObjectiveType": 4,
-    "ObjectiveText": "Acquire 5 Pox Grenades",
+    "ObjectiveText": "Acquire 5 Pox Vaccines",
     "TimeLimit": -1,
     "Collections": [
         {
             "Amount": 5,
-            "ClassName": "Grenade_ChemGas",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 5,
-            "ClassName": "Ammo_40mm_Chemgas",
+            "ClassName": "AntiChemInjector",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         }
