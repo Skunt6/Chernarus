@@ -7,7 +7,7 @@
     "Position": [
         13661.2, 44.6967, 2967.34
     ],
-    "MaxDistance": 100.0,
+    "MaxDistance": 800.0,
     "MarkerName": "Serpents Compound",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
