@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "expansionlhd",
-            "MaxPriceThreshold": 600000000,
-            "MinPriceThreshold": 300000000,
+            "MaxPriceThreshold": 60000000,
+            "MinPriceThreshold": 30000000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

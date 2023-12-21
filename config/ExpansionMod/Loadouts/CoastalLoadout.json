@@ -4060,6 +4060,123 @@
     ],
     "InventoryCargo": [
         {
+            "ClassName": "BandageDressing",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "EpoxyPutty",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "DuctTape",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "SewingKit",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "TireRepairKit",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WeaponCleaningKit",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "LeatherSewingKit",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "Rope",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "PetrolLighter",
+            "Chance": 0.20,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
             "ClassName": "AmmoBox_00buck_10rnd",
             "Chance": 0.08,
             "Quantity": {

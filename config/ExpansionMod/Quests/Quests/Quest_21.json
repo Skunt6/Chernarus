@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 20,
+    "ID": 21,
+    "Type": 1,
+    "Title": "Lifeline of the Lost",
+    "Descriptions": [
+        "Welcome, traveler. I am in dire need of your assistance. As a doctor serving in these desperate times, I find myself short of critical supplies. I require your help to gather blood bags and IV start kits, essential for treating the wounded and sick. These items can be found in various medical facilities across our land. Additionally, your own blood can serve as a valuable donation. Every bag you bring not only aids in saving lives but also strengthens our community's bond. Return with these vital resources, and you will be duly rewarded for your selfless act of bravery and kindness. Your journey is not just a quest, but a lifeline for many."
+    ],
+    "ObjectiveText": "Collect 12 bags of blood",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 50000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 7,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 1000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}

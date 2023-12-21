@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 22,
+    "ID": 7,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Acquire 12 bags of blood",
+    "TimeLimit": -1,
+    "Collections": [
+        {
+            "Amount": 12,
+            "ClassName": "BloodBagIV",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}
