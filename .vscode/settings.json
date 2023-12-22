@@ -5,6 +5,7 @@
       "*/config.vdf": true,
       "*/.txt": false,
       "*/.pbo": true,
+      "*/.MDMP": true,
       "*/.ADM": true,
       "*/.RPT": true,
       "*/.bin": true,
