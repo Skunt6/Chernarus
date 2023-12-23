@@ -172,10 +172,7 @@
                     "DescriptionText": "Vehical will last 7 days without being touched. If left in base they last 3 weeks"
                 },
                 {
-                    "DescriptionText": "Vehicals left at trader that are not parked in garage will be deleted after 12 hours."
-                },
-                {
-                    "DescriptionText": "Vehicals left at trader that are in the way will be deleted"
+                    "DescriptionText": "Vehicals left at trader that are in the way will be deleted."
                 },
                 {
                     "DescriptionText": "Two Vehicals per player"
