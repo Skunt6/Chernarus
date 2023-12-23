@@ -420,7 +420,7 @@
     <!--furniture end-->
     <!-- GEMS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemStarRuby">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -428,12 +428,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemRodochrosite">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -441,12 +439,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemPinkTourmaline">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -454,12 +450,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemAlexandrit">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -467,12 +461,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIndicolite">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -480,12 +472,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemAquamarine">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -493,12 +483,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemEmerald">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -506,12 +494,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemYellowBeryl">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -519,12 +505,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCitrine">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -532,12 +516,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemRuby">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -545,12 +527,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemKunzite">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -558,13 +538,11 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 <!-- INGOTS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemAlienIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -572,12 +550,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCharCoalIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -585,12 +561,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSulfurIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -598,12 +572,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCopperIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -611,12 +583,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemDiamondIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -624,12 +594,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemGoldIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -637,12 +605,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIronIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -650,12 +616,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSilverIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -663,12 +627,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemTinIngot">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -676,13 +638,11 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 <!-- ORE NUGGETS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemAlienNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -690,12 +650,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCharCoalNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -703,12 +661,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSulfurNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -716,12 +672,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCopperNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -729,12 +683,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemDiamondNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -742,12 +694,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemGoldNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -755,12 +705,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIronNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -768,12 +716,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSilverNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -781,12 +727,10 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemTinNugget">
-		<nominal>10</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -794,8 +738,6 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 	</type>
     <!--Gems and Ores End-->
@@ -13570,7 +13512,7 @@
     <!-- HATCHBACK 2 - Bandit Kitty -->
     <type name="Hatchback_02_BanditKitty">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>388800</lifetime>
         <restock>1800</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -13579,7 +13521,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Hatchback_02_Door_1_1_BanditKitty">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -13591,7 +13533,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Door_1_2_BanditKitty">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -13603,7 +13545,7 @@
         <usage name="Industrial"/>
     </type>
      <type name="Hatchback_02_Door_2_1_BanditKitty">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -13615,7 +13557,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Door_2_2_BanditKitty">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -13627,7 +13569,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Hood_BanditKitty">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -13639,7 +13581,7 @@
         <usage name="Industrial"/>
     </type>
      <type name="Hatchback_02_Trunk_BanditKitty">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15608,7 +15550,7 @@
         <usage name="Farm"/>
     </type>
 	<type name="ExpansionTractorDoorsDriver">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15621,7 +15563,7 @@
         <usage name="Farm"/>
     </type>
 	<type name="ExpansionTractorDoorsCoDriver">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15646,7 +15588,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionVodnikDoorDriver">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15658,7 +15600,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionVodnikDoorCoDriver">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15682,7 +15624,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorDriver">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15694,7 +15636,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCoDriver">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15706,7 +15648,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo1">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15718,7 +15660,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo2">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15850,7 +15792,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUh1hDoor_1_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15862,7 +15804,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUh1hDoor_1_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15874,7 +15816,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUh1hDoor_2_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15886,7 +15828,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUh1hDoor_2_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -16090,7 +16032,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="Expansion_Mh6_Door_1_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -16102,7 +16044,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="Expansion_Mh6_Door_1_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -16114,7 +16056,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="Expansion_Mh6_Door_2_1">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -16126,7 +16068,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="Expansion_Mh6_Door_2_2">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -19586,8 +19528,6 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Ammo_40mm_Explosive">
@@ -20215,8 +20155,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
     </type>
     <type name="AntiPestsSpray">
@@ -26923,8 +26861,6 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
 
     </type>
