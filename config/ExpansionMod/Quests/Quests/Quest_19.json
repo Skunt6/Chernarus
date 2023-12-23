@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 50000,
+            "Amount": 25000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -51,7 +51,7 @@
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 1000,
+    "ReputationReward": 500,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
         16
