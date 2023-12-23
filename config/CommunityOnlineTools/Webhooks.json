@@ -102,15 +102,15 @@
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMESPModuleVehicle_Unstuck",
+                    "Name": "JMESPModuleCar_Unstuck",
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMESPModuleRepair",
+                    "Name": "JMESPModuleCar_Repair",
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMESPModuleVehicle_Refuel",
+                    "Name": "JMESPModuleCar_Refuel",
                     "Enabled": 0
                 },
                 {
