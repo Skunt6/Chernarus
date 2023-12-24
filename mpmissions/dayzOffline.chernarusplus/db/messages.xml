@@ -43,6 +43,8 @@ Example messages:
         <text>Welcome to my server #name</text>
     </message>
     -->
+    
+    <!--On connect-->
     <message>
         <delay>2</delay>
         <onconnect>1</onconnect>
@@ -53,5 +55,40 @@ Example messages:
         <onconnect>1</onconnect>
         <text>AI wears orange armband</text>
     </message>
+    
+    <!--Server restart-->
+
+    <message>
+        <delay>300</delay>
+        <onconnect>0</onconnect>
+        <text>#name Will be restarting in 1 Hour</text>
+    </message>
+    <message>
+        <delay>330</delay>
+        <onconnect>0</onconnect>
+        <text>#name Will be restarting in 30 Mins</text>
+    </message>
+    <message>
+        <delay>350</delay>
+        <onconnect>0</onconnect>
+        <text>#name Will be restarting in 10 Mins</text>
+    </message>
+    <message>
+        <delay>355</delay>
+        <onconnect>0</onconnect>
+        <text>#name Will be restarting in 5 Mins</text>
+    </message>
+    <message>
+        <delay>358</delay>
+        <onconnect>0</onconnect>
+        <text>#name Will be restarting in 2 Mins</text>
+    </message>
+    <message>
+        <delay>359</delay>
+        <onconnect>0</onconnect>
+        <text>#name Will be restarting in 1 Min</text>
+    </message>
+
+    <!--Server restart end-->
 
 </messages>
