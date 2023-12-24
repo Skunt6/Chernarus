@@ -155,13 +155,10 @@
                     "DescriptionText": "No building base's 700m from military bases."
                 },
                 {
-                    "DescriptionText": "Bases have a 14 day duration unless u raise the flag"
+                    "DescriptionText": "Bases have a 14 day duration unless you raise the flag"
                 },
                 {
-                    "DescriptionText": "Please submit a ticket, if you would like to build a base."
-                },
-                {
-                    "DescriptionText": "Only 2 car teats, 2 small and medium tents, and 2 large tents per player."
+                    "DescriptionText": "Only 2 car tents, 2 small and medium tents, and 2 large tents per player."
                 },
                 {
                     "DescriptionText": "No bases within 500m of traders"
