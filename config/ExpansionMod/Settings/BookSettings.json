@@ -162,6 +162,9 @@
                 },
                 {
                     "DescriptionText": "Only 2 car teats, 2 small and medium tents, and 2 large tents per player."
+                },
+                {
+                    "DescriptionText": "No bases within 500m of traders"
                 }
             ]
         },
