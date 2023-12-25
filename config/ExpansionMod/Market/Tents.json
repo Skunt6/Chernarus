@@ -38,7 +38,7 @@
         {
             "ClassName": "largetent",
             "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 6000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -49,7 +49,7 @@
         {
             "ClassName": "cartent",
             "MaxPriceThreshold": 14000,
-            "MinPriceThreshold": 7000,
+            "MinPriceThreshold": 14000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -60,7 +60,7 @@
         {
             "ClassName": "expansioncamotentkit",
             "MaxPriceThreshold": 5200,
-            "MinPriceThreshold": 2600,
+            "MinPriceThreshold": 5200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -71,7 +71,7 @@
         {
             "ClassName": "expansioncamoboxkit",
             "MaxPriceThreshold": 5200,
-            "MinPriceThreshold": 2600,
+            "MinPriceThreshold": 5200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
