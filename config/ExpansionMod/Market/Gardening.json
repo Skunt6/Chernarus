@@ -8,11 +8,11 @@
     "Items": [
         {
             "ClassName": "gardenlime",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 0.75,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []

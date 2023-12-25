@@ -110,7 +110,7 @@
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": 0.75,
-            "MaxStockThreshold": 50,
+            "MaxStockThreshold": 25,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
