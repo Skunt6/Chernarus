@@ -418,6 +418,154 @@
         <usage name="Industrial"/>
     </type>
     <!--furniture end-->
+    <!--Gems and ore start-->
+    <type name="AlienOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Tin" />
+	</type>
+	<type name="GoldOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Gold" />
+	</type>
+	<type name="SilverOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Silver" />
+	</type>
+	<type name="DiamondOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Gold"/>
+	</type>
+	<type name="CopperOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Copper" />
+	</type>
+	<type name="TinOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Tin" />
+	</type>
+	<type name="IronOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Iron" />
+	</type>
+	<type name="CharCoalOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_CharCoal" />
+	</type>
+	<type name="SulfurOre">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>9</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="Ore"/>
+		<usage name="DayzOresandGems_Sulfur" />
+	</type>
+	<type name="Box_Kit_Furnace">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<tag name="floor"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Furnace"> <!-- this is only for the lifetime of assembled furnace -->
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<category name="tools"/>
+	</type>
+    <type name="CopperStill">
+		<nominal>20</nominal>
+		<lifetime>432000</lifetime>
+		<restock>14400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<tag name="floor"/>
+		<category name="tools"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+		<usage name="Village"/>
+	</type>
     <!-- GEMS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemStarRuby">
 		<nominal>1</nominal>
