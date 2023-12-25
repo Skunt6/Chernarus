@@ -3,14 +3,10 @@
     "m_TraderID": 1,
     "m_ClassName": "ExpansionP2PTraderAIIrena",
     "m_Position": [
-        3697.77001953125,
-        402.0119934082031,
-        5971.1201171875
+        3694.12, 402.012, 5976.09
     ],
     "m_Orientation": [
-        150.1320037841797,
-        0.0,
-        0.0
+        78.4827, 0, -0
     ],
     "m_LoadoutFile": "YellowKingLoadout",
     "m_VehicleSpawnPosition": [
