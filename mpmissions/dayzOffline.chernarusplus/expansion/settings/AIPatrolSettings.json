@@ -442,6 +442,47 @@
             ]
         },
         {
+            "Name": "Depot",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "SerpentsLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "Walk",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2319.06,
+                    249.971,
+                    11797.2
+                ],
+                [
+                    2357.49,
+                    249.973,
+                    11800.0
+                ]
+            ]
+        },
+        {
             "Name": "North West Air Field",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
