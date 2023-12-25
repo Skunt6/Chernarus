@@ -4074,7 +4074,7 @@
         },
         {
             "ClassName": "SRP_BigUtilityRack",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4087,7 +4087,7 @@
         },
         {
             "ClassName": "SRP_SmallUtilityRack",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4100,7 +4100,7 @@
         },
         {
             "ClassName": "SRP_SkKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4113,7 +4113,7 @@
         },
         {
             "ClassName": "SRP_UtilityRackKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4126,7 +4126,7 @@
         },
         {
             "ClassName": "SRP_WoodReserveKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4139,7 +4139,7 @@
         },
         {
             "ClassName": "SRP_WoodpileKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4152,7 +4152,7 @@
         },
         {
             "ClassName": "SRP_LockerGrayKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4165,7 +4165,7 @@
         },
         {
             "ClassName": "SRP_LockerBlueKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4178,7 +4178,7 @@
         },
         {
             "ClassName": "SRP_WeaponCrateKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4191,7 +4191,7 @@
         },
         {
             "ClassName": "SRP_LogpileKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4204,7 +4204,7 @@
         },
         {
             "ClassName": "SRP_WardrobeKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4217,7 +4217,7 @@
         },
         {
             "ClassName": "SRP_GarbageContainerKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4230,7 +4230,7 @@
         },
         {
             "ClassName": "SRP_SmallCupboardKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4243,7 +4243,7 @@
         },
         {
             "ClassName": "SRP_MetalGarbageBinKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4256,7 +4256,7 @@
         },
         {
             "ClassName": "SRP_PlasticGarbageBinKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4269,7 +4269,7 @@
         },
         {
             "ClassName": "SRP_ToolTrolleyKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -4282,7 +4282,7 @@
         },
         {
             "ClassName": "SRP_MaterialStorageCrateKit",
-            "Chance": 0.09,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
