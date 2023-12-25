@@ -26191,7 +26191,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="GardenLime">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
