@@ -8901,6 +8901,10 @@
                     "Sets": []
                 }
             ]
+        },
+        {
+            "SlotName": "Melee",
+            "Items": []
         }
     ],
     "InventoryCargo": [

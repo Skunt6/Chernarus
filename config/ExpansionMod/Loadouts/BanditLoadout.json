@@ -5763,6 +5763,10 @@
                         "Sets": []
                     }
                 ]
+            },
+            {
+                "SlotName": "Melee",
+                "Items": []
             }
      ],
         "InventoryCargo": [
@@ -18209,7 +18213,7 @@
             },
             {
                 "ClassName": "HandSaw",
-                "Chance": 0.5,
+                "Chance": 0.0,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -18248,7 +18252,7 @@
             },
             {
                 "ClassName": "Hatchet",
-                "Chance": 0.5,
+                "Chance": 0.0,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
