@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "Special Weapons",
+    "DisplayName": "Vanilla Weapons",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2000,
     "RequiredFaction": "",
@@ -10,16 +10,17 @@
         "expansionbanknoteUSD"
     ],
     "Categories": [
-        "Explosives_And_Grenades",
-        "Extras",
-        "Grips",
-        "Snafu_Weapons",
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Rifles",
+        "Pistols",
+        "Sniper_Rifles",
+        "Shotguns",
+        "Crossbows",
+        "Melee_Weapons",
         "Ammo_Boxes",
-        "Ammo",
-        "Magazines",
-        "Optics",
-        "Buttstocks",
-        "Handguards"
+        "Knifes",
+        "Bayonets"
     ],
     "Items": {}
 }

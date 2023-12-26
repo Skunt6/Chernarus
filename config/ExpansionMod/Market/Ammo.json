@@ -1,258 +1,11 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_AMMO",
+    "DisplayName": "Special Ammo",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
-        {
-            "ClassName": "ammo_12gapellets",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_12garubberslug",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_12gaslug",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_22",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_308win",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ammo_308wintracer"
-            ]
-        },
-        {
-            "ClassName": "ammo_308wintracer",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_357",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_380",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_45acp",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_545x39",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ammo_545x39tracer"
-            ]
-        },
-        {
-            "ClassName": "ammo_545x39tracer",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_556x45",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ammo_556x45tracer"
-            ]
-        },
-        {
-            "ClassName": "ammo_556x45tracer",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_762x39",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ammo_762x39tracer"
-            ]
-        },
-        {
-            "ClassName": "ammo_762x39tracer",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_762x54",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ammo_762x54tracer"
-            ]
-        },
-        {
-            "ClassName": "ammo_762x54tracer",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_9x19",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_9x39",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ammo_9x39ap"
-            ]
-        },
-        {
-            "ClassName": "ammo_9x39ap",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_flare",
-            "MaxPriceThreshold": 14,
-            "MinPriceThreshold": 7,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ammo_flareblue",
-                "ammo_flaregreen",
-                "ammo_flarered"
-            ]
-        },
         {
             "ClassName": "ammo_40mm_explosive",
             "MaxPriceThreshold": 1000,
@@ -294,22 +47,22 @@
         },
         {
             "ClassName": "expansionammolaw",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent":  1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "expansionammorpg",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent":  1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
