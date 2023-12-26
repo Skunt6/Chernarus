@@ -4,7 +4,7 @@
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 200067867887,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": 2,
+    "RequiredCompletedQuestID": -1,
     "TraderIcon": "Shotgun",
     "Currencies": [
         "expansionbanknoteUSD"
