@@ -14,37 +14,12 @@
         "Extras",
         "Grips",
         "Snafu_Weapons",
-        "Assault_Rifles",
-        "Submachine_Guns",
-        "Rifles",
-        "Pistols",
-        "Sniper_Rifles",
-        "Shotguns",
-        "Crossbows",
-        "Melee_Weapons",
         "Ammo_Boxes",
         "Ammo",
-        "Knifes",
         "Magazines",
-        "Muzzles",
-        "Bayonets",
         "Optics",
         "Buttstocks",
         "Handguards"
     ],
-    "Items": {
-        "expansionammorpg": 1,
-        "nvgoggles": 0,
-        "nvgheadstrap": 1,
-        "ammo_expansion_m203_sticky_smoke_teargas": 1,
-        "battery9v": 1,
-        "expansionlaw": 0,
-        "expansionammolaw": 1,
-        "ammo_expansion_m203_sticky_smoke_white": 1,
-        "ammo_expansion_m203_smoke_white": 1,
-        "expansionrpg7": 0,
-        "ammo_expansion_m203_smoke_teargas": 1,
-        "rangefinder": 1,
-        "ammo_expansion_m203_he": 1
-    }
+    "Items": {}
 }
