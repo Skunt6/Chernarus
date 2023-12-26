@@ -7,6 +7,7 @@
 *.dll
 *areaflags.map
 @CF/
+@CannabisPlus/
 @Community-Online-Tools/
 @Dabs Framework/
 @DayZ Editor Loader/
