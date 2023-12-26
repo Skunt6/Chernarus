@@ -12,7 +12,9 @@
     "Categories": [
         "Fishing",
         "Tents",
-        "Pelts"
+        "Pelts",
+        "Meat",
+        "Fish"
     ],
     "Items": {}
 }
