@@ -8923,7 +8923,7 @@
         },
         {
             "ClassName": "SRP_BigUtilityRack",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8936,7 +8936,7 @@
         },
         {
             "ClassName": "SRP_SmallUtilityRack",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8949,7 +8949,7 @@
         },
         {
             "ClassName": "SRP_SkKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8962,7 +8962,7 @@
         },
         {
             "ClassName": "SRP_UtilityRackKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8975,7 +8975,7 @@
         },
         {
             "ClassName": "SRP_WoodReserveKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8988,7 +8988,7 @@
         },
         {
             "ClassName": "SRP_WoodpileKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9001,7 +9001,7 @@
         },
         {
             "ClassName": "SRP_LockerGrayKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9014,7 +9014,7 @@
         },
         {
             "ClassName": "SRP_LockerBlueKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9027,7 +9027,7 @@
         },
         {
             "ClassName": "SRP_WeaponCrateKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9040,7 +9040,7 @@
         },
         {
             "ClassName": "SRP_LogpileKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9053,7 +9053,7 @@
         },
         {
             "ClassName": "SRP_WardrobeKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9066,7 +9066,7 @@
         },
         {
             "ClassName": "SRP_GarbageContainerKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9079,7 +9079,7 @@
         },
         {
             "ClassName": "SRP_SmallCupboardKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9092,7 +9092,7 @@
         },
         {
             "ClassName": "SRP_MetalGarbageBinKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9105,7 +9105,7 @@
         },
         {
             "ClassName": "SRP_PlasticGarbageBinKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9118,7 +9118,7 @@
         },
         {
             "ClassName": "SRP_ToolTrolleyKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9131,7 +9131,7 @@
         },
         {
             "ClassName": "SRP_MaterialStorageCrateKit",
-            "Chance": 0.12,
+            "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -30357,7 +30357,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30370,7 +30370,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30383,7 +30383,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30396,7 +30396,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30435,7 +30435,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30448,7 +30448,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30461,7 +30461,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30474,7 +30474,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30487,7 +30487,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -30500,7 +30500,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31148,7 +31148,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31161,7 +31161,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31174,7 +31174,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31187,7 +31187,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31226,7 +31226,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31239,7 +31239,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31252,7 +31252,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31265,7 +31265,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31278,7 +31278,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -31291,7 +31291,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32211,7 +32211,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32224,7 +32224,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32237,7 +32237,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32250,7 +32250,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32289,7 +32289,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32302,7 +32302,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32315,7 +32315,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32328,7 +32328,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32341,7 +32341,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32354,7 +32354,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32691,7 +32691,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32704,7 +32704,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32717,7 +32717,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32730,7 +32730,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32769,7 +32769,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32782,7 +32782,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32795,7 +32795,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32808,7 +32808,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32821,7 +32821,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -32834,7 +32834,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33572,7 +33572,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33585,7 +33585,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33598,7 +33598,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33611,7 +33611,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33650,7 +33650,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33663,7 +33663,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33676,7 +33676,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33689,7 +33689,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33702,7 +33702,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -33715,7 +33715,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38628,7 +38628,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38641,7 +38641,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38654,7 +38654,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38667,7 +38667,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38706,7 +38706,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38719,7 +38719,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38732,7 +38732,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38745,7 +38745,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38758,7 +38758,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -38771,7 +38771,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -47891,7 +47891,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -47904,7 +47904,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -47917,7 +47917,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -47930,7 +47930,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -47969,7 +47969,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -47982,7 +47982,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -47995,7 +47995,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -48008,7 +48008,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -48021,7 +48021,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -48034,7 +48034,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49588,7 +49588,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49601,7 +49601,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49614,7 +49614,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49627,7 +49627,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49666,7 +49666,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49679,7 +49679,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49692,7 +49692,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49705,7 +49705,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49718,7 +49718,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -49731,7 +49731,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50016,7 +50016,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50029,7 +50029,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50042,7 +50042,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50055,7 +50055,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50094,7 +50094,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50107,7 +50107,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50120,7 +50120,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50133,7 +50133,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50146,7 +50146,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50159,7 +50159,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50444,7 +50444,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50457,7 +50457,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50470,7 +50470,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50483,7 +50483,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50522,7 +50522,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50535,7 +50535,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50548,7 +50548,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50561,7 +50561,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50574,7 +50574,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -50587,7 +50587,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51326,7 +51326,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51339,7 +51339,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51352,7 +51352,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51365,7 +51365,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51404,7 +51404,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51417,7 +51417,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51430,7 +51430,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51443,7 +51443,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51456,7 +51456,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -51469,7 +51469,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55240,7 +55240,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55253,7 +55253,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55266,7 +55266,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55279,7 +55279,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55318,7 +55318,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55331,7 +55331,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55344,7 +55344,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55357,7 +55357,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55370,7 +55370,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -55383,7 +55383,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59630,7 +59630,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59643,7 +59643,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59656,7 +59656,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59669,7 +59669,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59708,7 +59708,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59721,7 +59721,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59734,7 +59734,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59747,7 +59747,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59760,7 +59760,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -59773,7 +59773,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60175,7 +60175,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60188,7 +60188,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60201,7 +60201,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60214,7 +60214,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60253,7 +60253,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60266,7 +60266,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60279,7 +60279,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60292,7 +60292,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60305,7 +60305,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60318,7 +60318,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60720,7 +60720,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60733,7 +60733,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60746,7 +60746,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60759,7 +60759,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60798,7 +60798,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60811,7 +60811,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60824,7 +60824,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60837,7 +60837,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60850,7 +60850,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -60863,7 +60863,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61265,7 +61265,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61278,7 +61278,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61291,7 +61291,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61304,7 +61304,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61343,7 +61343,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61356,7 +61356,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61369,7 +61369,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61382,7 +61382,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61395,7 +61395,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61408,7 +61408,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61810,7 +61810,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61823,7 +61823,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61836,7 +61836,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61849,7 +61849,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61888,7 +61888,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61901,7 +61901,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61914,7 +61914,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61927,7 +61927,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61940,7 +61940,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -61953,7 +61953,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62355,7 +62355,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62368,7 +62368,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Grey",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62381,7 +62381,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_OD",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62394,7 +62394,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_PMAG556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62433,7 +62433,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62446,7 +62446,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG30556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62459,7 +62459,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62472,7 +62472,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG40556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62485,7 +62485,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Black",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
@@ -62498,7 +62498,7 @@
                                             },
                                             {
                                                 "ClassName": "SNAFU_CMAG60556_Tan",
-                                                "Chance": 0.12,
+                                                "Chance": 0.02,
                                                 "Quantity": {
                                                     "Min": 0.0,
                                                     "Max": 0.0
