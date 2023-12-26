@@ -10,7 +10,7 @@
             "ClassName": "gardenlime",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
-            "SellPricePercent": 0.75,
+            "SellPricePercent": 100,
             "MaxStockThreshold": 25,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
