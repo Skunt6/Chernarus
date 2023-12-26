@@ -14,9 +14,5 @@
         "Tents",
         "Pelts"
     ],
-    "Items": {
-        "carp": 0,
-        "mackerel": 0,
-        "sardines": 0
-    }
+    "Items": {}
 }

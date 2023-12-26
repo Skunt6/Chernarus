@@ -15,6 +15,8 @@
 		<file path="env/hare_territories.xml" />
 		<file path="env/zombie_territories.xml" />
 		<file path="env/bear_territories.xml" />
+		<!--raptor entry-->
+		<file path="env/rap2and3_territories.xml" />
 
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
@@ -42,6 +44,31 @@
 		</territory>
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
+		</territory>
+
+		<!--Bear Spawn Raptor1 entry-->
+		<territory type="Herd" name="Raptor1" behavior="BlissBearGroupBeh">
+			<file usable="bear_territories"/>
+		</territory>
+		<!--Bear Spawn Raptor1B entry-->
+		<territory type="Herd" name="Raptor1B" behavior="BlissBearGroupBeh">
+			<file usable="bear_territories"/>
+		</territory>
+		<!--Bear Spawn Raptor1C entry-->
+		<territory type="Herd" name="Raptor1C" behavior="BlissBearGroupBeh">
+			<file usable="bear_territories"/>
+		</territory>
+		<!--Hen Spawn Raptor2 entry-->
+		<territory type="Herd" name="Raptor2" behavior="BlissBearGroupBeh">
+			<file usable="rap2and3_territories"/>
+		</territory>
+		<!--Hen Spawn Raptor3 entry-->
+		<territory type="Herd" name="Raptor3" behavior="BlissBearGroupBeh">
+			<file usable="rap2and3_territories"/>
+		</territory>
+		<!--Hen Spawn Raptor4 entry-->
+		<territory type="Herd" name="Raptor4" behavior="BlissBearGroupBeh">
+			<file usable="rap2and3_territories"/>
 		</territory>
 
 		<!-- HEN -->
