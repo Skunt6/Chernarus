@@ -12,9 +12,7 @@
     "Categories": [
         "Drinks",
         "Food",
-        "Fruit_And_Vegetables",
-        "Meat",
-        "Fish"
+        "Fruit_And_Vegetables"
     ],
     "Items": {}
 }
