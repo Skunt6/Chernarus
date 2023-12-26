@@ -1,0 +1,22 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Herbal Trader",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Herbal Medicine",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "Categories": [
+        "Cannabis",
+        "Gardening"
+    ],
+    "Items": {
+        "nvgoggles": 3,
+        "rangefinder": 3,
+        "universallight": 3,
+        "tlrlight": 3
+    }
+}
