@@ -88,7 +88,11 @@ Example messages:
         <onconnect>0</onconnect>
         <text>#name Will be restarting in 1 Min</text>
     </message>
-
+    <message>
+        <delay>3</delay>
+        <onconnect>0</onconnect>
+        <text>#name</text>
+    </message>
     <!--Server restart end-->
 
 </messages>
