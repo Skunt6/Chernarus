@@ -89,7 +89,7 @@ Example messages:
         <text>#name Will be restarting in 1 Min</text>
     </message>
     <message>
-        <delay>3</delay>
+        <delay>5</delay>
         <onconnect>0</onconnect>
         <text>#name</text>
     </message>
