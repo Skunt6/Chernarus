@@ -102,3 +102,6 @@ Logs Started: 2023-12-27_14-46-37
 14:46:37 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
 14:46:37 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
 14:48:4 | Player "Skunt" (steamId=76561198194461650) connected to server!
+15:13:44 | Player "Skunt" (steamId=76561198194461650) initiated disconnect process...
+15:13:46 | Player "Skunt" (steamId=76561198194461650) disconnected early from server (EXIT NOW).
+15:13:49 | Player "Skunt" (steamId=76561198194461650) disconnected from server.
