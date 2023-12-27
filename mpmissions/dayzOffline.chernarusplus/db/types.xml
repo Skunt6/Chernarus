@@ -1721,9 +1721,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Tin" />
+		<usage name="DayzOresandGems_Tin"/>
 	</type>
 	<type name="GoldOre">
 		<nominal>20</nominal>
@@ -1733,9 +1733,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Gold" />
+		<usage name="DayzOresandGems_Gold"/>
 	</type>
 	<type name="SilverOre">
 		<nominal>20</nominal>
@@ -1745,9 +1745,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Silver" />
+		<usage name="DayzOresandGems_Silver"/>
 	</type>
 	<type name="DiamondOre">
 		<nominal>20</nominal>
@@ -1757,7 +1757,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
 		<usage name="DayzOresandGems_Gold"/>
 	</type>
@@ -1769,9 +1769,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Copper" />
+		<usage name="DayzOresandGems_Copper"/>
 	</type>
 	<type name="TinOre">
 		<nominal>20</nominal>
@@ -1781,9 +1781,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Tin" />
+		<usage name="DayzOresandGems_Tin"/>
 	</type>
 	<type name="IronOre">
 		<nominal>20</nominal>
@@ -1793,9 +1793,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Iron" />
+		<usage name="DayzOresandGems_Iron"/>
 	</type>
 	<type name="CharCoalOre">
 		<nominal>20</nominal>
@@ -1805,9 +1805,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_CharCoal" />
+		<usage name="DayzOresandGems_CharCoal"/>
 	</type>
 	<type name="SulfurOre">
 		<nominal>20</nominal>
@@ -1817,9 +1817,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Sulfur" />
+		<usage name="DayzOresandGems_Sulfur"/>
 	</type>
 	<type name="Box_Kit_Furnace">
 		<nominal>10</nominal>

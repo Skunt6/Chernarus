@@ -10,70 +10,70 @@
 			<usage name="DayzOresandGems_Sulfur" />
 			<usage name="DayzOresandGems_Iron" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Alien" lootmax="1">
 			<usage name="DayzOresandGems_Alien" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Gold" lootmax="1">
 			<usage name="DayzOresandGems_Gold" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362" range="1" height="3" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Silver" lootmax="1">
 			<usage name="DayzOresandGems_Silver" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Diamond" lootmax="1">
 			<usage name="DayzOresandGems_Diamond" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Copper" lootmax="1">
 			<usage name="DayzOresandGems_Copper" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Tin" lootmax="1">
 			<usage name="DayzOresandGems_Tin" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362" range="1" height="2" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Iron" lootmax="1">
 			<usage name="DayzOresandGems_Iron" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_CharCoal" lootmax="1">
 			<usage name="DayzOresandGems_CharCoal" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32"/> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Sulfur" lootmax="1">
 			<usage name="DayzOresandGems_Sulfur" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" flags="32"/> 
 			</container>
 		</group>
@@ -87,70 +87,70 @@
 			<usage name="Ores_Sulfur" />
 			<usage name="Ores_Iron" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Alien" lootmax="1">
 			<usage name="Ores_Alien" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Gold" lootmax="1">
 			<usage name="Ores_Gold" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362" range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Silver" lootmax="1">
 			<usage name="Ores_Silver" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Diamond" lootmax="1">
 			<usage name="Ores_Diamond" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Copper" lootmax="1">
 			<usage name="Ores_Copper" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Tin" lootmax="1">
 			<usage name="Ores_Tin" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362" range="1" height="2" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Iron" lootmax="1">
 			<usage name="Ores_Iron" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_CharCoal" lootmax="1">
 			<usage name="Ores_CharCoal" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
 		<group name="Land_Oresspawnpoint_Sulfur" lootmax="1">
 			<usage name="Ores_Sulfur" />
 			<container name="lootFloor" lootmax="1">
-				<category name="Ore" />
+				<category name="Ore"/>
 				<point pos="0.089715 0.391542 0.052362"  range="1" height="3" /> 
 			</container>
 		</group>
