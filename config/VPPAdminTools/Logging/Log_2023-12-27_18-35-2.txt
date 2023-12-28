@@ -105,3 +105,17 @@ Logs Started: 2023-12-27_18-35-2
 19:10:26 | Player "Skunt" (steamId=76561198194461650) initiated disconnect process...
 19:10:28 | Player "Skunt" (steamId=76561198194461650) disconnected early from server (EXIT NOW).
 19:10:31 | Player "Skunt" (steamId=76561198194461650) disconnected from server.
+21:5:5 | Player "Laoch" (steamId=76561197967767769) connected to server!
+21:45:44 | Player "Rexecutioner" (steamId=76561199220631840) connected to server!
+22:12:1 | Player "Laoch" (steamId=76561197967767769) initiated disconnect process...
+22:12:2 | Player "Laoch" (steamId=76561197967767769) disconnected early from server (EXIT NOW).
+22:12:6 | Player "Laoch" (steamId=76561197967767769) disconnected from server.
+22:14:33 | Player "Kemosabe" (steamId=76561199155844816) connected to server!
+22:17:13 | Player "Kemosabe" (steamId=76561199155844816) initiated disconnect process...
+22:17:14 | Player "Kemosabe" (steamId=76561199155844816) disconnected early from server (EXIT NOW).
+22:17:18 | Player "Kemosabe" (steamId=76561199155844816) disconnected from server.
+22:48:55 | Player "Rexecutioner" (steamId=76561199220631840) initiated disconnect process...
+22:49:0 | Player "Rexecutioner" (steamId=76561199220631840) disconnected from server.
+23:39:5 | Player "Laoch" (steamId=76561197967767769) connected to server!
+0:12:48 | Player "Laoch" (steamId=76561197967767769) initiated disconnect process...
+0:12:53 | Player "Laoch" (steamId=76561197967767769) disconnected from server.
