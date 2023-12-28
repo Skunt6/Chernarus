@@ -19,8 +19,13 @@
         "Crossbows",
         "Melee_Weapons",
         "Ammo_Boxes",
-        "Knifes",
-        "Bayonets"
+        "Vanilla_Ammo",
+        "Vanilla_Mags",
+        "Vanilla_Optics",
+        "Vanilla_Buttstocks",
+        "Vanilla_Handgaurds",
+        "Vanilla_Bayonets",
+        "Knifes"
     ],
     "Items": {}
 }
