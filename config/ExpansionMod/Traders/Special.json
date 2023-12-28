@@ -15,12 +15,13 @@
         "Grips",
         "Snafu_Weapons",
         "Ammo_Boxes",
-        "Ammo",
+        "Vanilla_Ammo",
+        "Special_Ammo",
         "Magazines",
         "Optics",
         "Buttstocks",
         "Handguards",
-        "Vanilla_Weapons"
+        "Vanilla"
     ],
     "Items": {}
 }
