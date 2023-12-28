@@ -152,9 +152,9 @@
     <!--Dinos event end-->
     <!--Ore events start-->
     <event name="ItemOreSpawn">
-        <nominal>200</nominal>
+        <nominal>100</nominal>
         <min>20</min>
-        <max>200</max>
+        <max>100</max>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <saferadius>200</saferadius>
