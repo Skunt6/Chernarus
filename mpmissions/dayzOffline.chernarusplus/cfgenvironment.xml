@@ -16,7 +16,7 @@
 		<file path="env/zombie_territories.xml" />
 		<file path="env/bear_territories.xml" />
 		<!--raptor entry-->
-		<file path="env/rap2and3_territories.xml" />
+		<file path="env/Raptor_territories.xml" />
 		<!--Dayz dog-->
 		<file path="env/dog_territories.xml" />
 
