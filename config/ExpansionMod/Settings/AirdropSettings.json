@@ -9604,6 +9604,240 @@
             "InfectedCount": 20,
             "ItemCount": 15,
             "SpawnInfectedForPlayerCalledDrops": 0 
+        },
+        {
+            "Container": "ExpansionAirdropContainer",
+            "FallSpeed": 4.5,
+            "Usage": 0,
+            "Weight": 5.0,
+            "Loot": [
+                {
+                    "Name": "CarpFilletMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "MackerelFilletMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Carp",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Mackerel",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BearPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CowPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeerPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "GoatPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PigPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RabbitPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SheepPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "WildboarPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "WolfPelt",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BearSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BoarSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CowSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DeerSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "GoatSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HumanSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PigSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SheepSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SteakKnife",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "WolfSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RaptorSteakMeat",
+                    "Attachments": [],
+                    "Chance": 1.0,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                }
+            ],
+            "Infected": [
+                "dbo_idrex",
+                "dbo_trex",
+                "dbo_tricero",
+                "dbo_raptor",
+                "dbo_raptorB"
+            ],
+            "InfectedCount": 5,
+            "ItemCount": 40,
+            "SpawnInfectedForPlayerCalledDrops": 0 
         }
     ]
 }
