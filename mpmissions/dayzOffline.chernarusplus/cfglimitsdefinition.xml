@@ -1,59 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lists>
-    <categories>
-		<category name="tools"/>
-		<category name="containers"/>
-		<category name="clothes"/>
-		<category name="vehiclesparts"/>
-		<category name="food"/>
-		<category name="weapons"/>
-		<category name="books"/>
-		<category name="explosives"/>
-
-		<!-- Ores CUSTOM Category FLAGS -->
-		<category name="Ore"/>
-	</categories>
-	<tags>
-		<tag name="floor"/>
-		<tag name="shelves"/>
-		<tag name="ground"/>
-	</tags>
-	<usageflags>
-		<usage name="Military"/>
-		<usage name="Police"/>
-		<usage name="Medic"/>
-		<usage name="Firefighter"/>
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
-		<usage name="Coast"/>
-		<usage name="Town"/>
-		<usage name="Village"/>
-		<usage name="Hunting"/>
-		<usage name="Office"/>
-		<usage name="School"/>
-		<usage name="Prison"/>
-		<usage name="Lunapark"/>
-		<usage name="SeasonalEvent"/>
-		<usage name="ContaminatedArea"/>
-
-		<!-- Ores CUSTOM USAGE FLAGS -->
-		<usage name="DayzOresandGems_Tin" />
-		<usage name="DayzOresandGems_Alien" />
-		<usage name="DayzOresandGems_Gold" />
-		<usage name="DayzOresandGems_Silver" />
-		<usage name="DayzOresandGems_Diamond" />
-		<usage name="DayzOresandGems_Copper" />
-		<usage name="DayzOresandGems_CharCoal" />
-		<usage name="DayzOresandGems_Sulfur" />
-		<usage name="DayzOresandGems_Iron" />
-	</usageflags>
-	<valueflags>
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-	</valueflags>
-    <categories>
+   <categories>
         <category name="tools"/>
         <category name="containers"/>
         <category name="clothes"/>
@@ -62,6 +9,7 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
+		<category name="Ore"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -86,6 +34,15 @@
         <usage name="SeasonalEvent"/>
         <usage name="ContaminatedArea"/>
         <usage name="Historical"/>
+		<usage name="DayzOresandGems_Tin" />
+		<usage name="DayzOresandGems_Alien" />
+		<usage name="DayzOresandGems_Gold" />
+		<usage name="DayzOresandGems_Silver" />
+		<usage name="DayzOresandGems_Diamond" />
+		<usage name="DayzOresandGems_Copper" />
+		<usage name="DayzOresandGems_CharCoal" />
+		<usage name="DayzOresandGems_Sulfur" />
+		<usage name="DayzOresandGems_Iron" />
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
