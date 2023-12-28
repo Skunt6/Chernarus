@@ -18575,7 +18575,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionCircuitBoard_MK1">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -18586,7 +18586,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionCircuitBoard_MK2">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -18597,7 +18597,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionCircuitBoard_MK3">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
