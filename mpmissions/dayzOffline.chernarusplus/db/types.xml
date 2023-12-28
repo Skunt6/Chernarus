@@ -8559,7 +8559,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_408_Suppressor_T">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -8663,7 +8663,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_Agram_Suppressor_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -10015,7 +10015,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_LNormalized_Suppressor_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -10028,7 +10028,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_LNormalized_Suppressor_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -10041,7 +10041,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_LStandardized_Suppressor_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -10054,7 +10054,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_LStandardized_Suppressor_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -10925,7 +10925,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_MPX_Suppressor_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -11055,7 +11055,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_Normalized_Suppressor_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -11064,11 +11064,10 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="ContaminatedArea"/>
 </type>
     <type name="SNAFU_Normalized_Suppressor_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -11783,7 +11782,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFU_Standardized_Suppressor_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -11792,11 +11791,10 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="ContaminatedArea"/>
 </type>
     <type name="SNAFU_Standardized_Suppressor_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -12392,7 +12390,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFUGevar_Suppressor_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -12401,11 +12399,10 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="ContaminatedArea"/>
 </type>
     <type name="SNAFUGevar_Suppressor_Tan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -25225,7 +25222,7 @@
         <usage name="Village"/>
     </type>
     <type name="DogFoodCan">
-        <nominal>15</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
