@@ -2,15 +2,15 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 9,
-    "ObjectiveText": "Bring Alaric to the General",
+    "ObjectiveText": "Escort the apprentice to the General",
     "TimeLimit": 180,
     "Position": [
         11251.1, 305.299, 4278.05
     ],
     "MaxDistance": 5.0,
     "AIVIP": {
-        "NPCLoadoutFile": "AlaricLoadout",
-        "NPCClassName": "Alaric"
+        "NPCLoadoutFile": "ApprenticeLoadout",
+        "NPCClassName": "Apprentice"
     },
     "MarkerName": "The General",
     "ShowDistance": 1,
