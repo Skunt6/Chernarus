@@ -2,19 +2,17 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 9,
-    "ObjectiveText": "Bring the VIP to the marked location.",
+    "ObjectiveText": "Bring Alaric to the General",
     "TimeLimit": 180,
     "Position": [
-        3193.590087890625,
-        296.7070007324219,
-        6090.56982421875
+        11251.1, 305.299, 4278.05
     ],
-    "MaxDistance": 20.0,
+    "MaxDistance": 5.0,
     "AIVIP": {
-        "NPCLoadoutFile": "BanditLoadout",
-        "NPCClassName": ""
+        "NPCLoadoutFile": "AlaricLoadout",
+        "NPCClassName": "Alaric"
     },
-    "MarkerName": "Escort VIP",
+    "MarkerName": "The General",
     "ShowDistance": 1,
     "CanLootAI": 0
 }

@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 20,
-    "ID": 5,
+    "ID": 24,
     "Type": 1,
-    "Title": "Clear this place out",
+    "Title": "Kill 5 Dino's",
     "Descriptions": [
-        "In the relentless struggle for survival, a new quest emerges. Dr. Milena, the camp's chief scientist, unveils a pressing need for a substantial stock of samples from the infected. The horde has grown, and understanding their evolving nature becomes crucial for the ongoing research. The survivor is tasked with a monumental mission: eliminate 100 infected to gather vital specimens for Dr. Novak's analysis."
+        "Attention, survivors! I'm Arvandus Metalsmith, and I need your help. Dinosaurs threaten our camp's safety, and I'm offering a bounty. Hunt down and eliminate 5 of these mighty creatures. Step up, protect our home, and claim your well-deserved rewards."
     ],
-    "ObjectiveText": "Kill 100 infected",
+    "ObjectiveText": "Kill 5 Dino's",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 10000,
+            "Amount": 20000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -41,12 +41,12 @@
     "Objectives": [
         {
             "ConfigVersion": 22,
-            "ID": 2,
+            "ID": 6,
             "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 0,
+    "ReputationReward": 500,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
         2

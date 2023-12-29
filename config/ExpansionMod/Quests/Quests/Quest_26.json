@@ -1,17 +1,17 @@
 {
     "ConfigVersion": 20,
-    "ID": 5,
+    "ID": 26,
     "Type": 1,
-    "Title": "Clear this place out",
+    "Title": "Precious Convoy",
     "Descriptions": [
-        "In the relentless struggle for survival, a new quest emerges. Dr. Milena, the camp's chief scientist, unveils a pressing need for a substantial stock of samples from the infected. The horde has grown, and understanding their evolving nature becomes crucial for the ongoing research. The survivor is tasked with a monumental mission: eliminate 100 infected to gather vital specimens for Dr. Novak's analysis."
+        "Survivor, I need you to ensure the safe delivery of a valuable shipment—gold and silver—to our camp's general. Escort my apprentice, Alaric, on this journey. Dangers lurk, but I trust your skills. The general will protect these resources for our camp's benefit. Your efforts will be rewarded. Embark on the 'Precious Convoy,' and may success be with you."
     ],
-    "ObjectiveText": "Kill 100 infected",
+    "ObjectiveText": "Lead the apprentice",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
@@ -32,24 +32,24 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        3
+        7
     ],
     "QuestTurnInIDs": [
-        3
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 22,
-            "ID": 2,
-            "ObjectiveType": 2
+            "ID": 1,
+            "ObjectiveType": 9
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 0,
+    "ReputationReward": 500,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
-        2
+        14
     ],
     "RequiredFaction": "",
     "FactionReward": "",

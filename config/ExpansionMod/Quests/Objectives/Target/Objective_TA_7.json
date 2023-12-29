@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 22,
+    "ID": 7,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 25 Dino's",
+    "TimeLimit": -1,
+    "Position": [],
+    "MaxDistance": -1.0,
+    "Target": {
+        "Amount": 25,
+        "ClassNames": [
+            "dbo_idrex",
+            "dbo_trex",
+            "dbo_tricero",
+            "dbo_raptor",
+            "dbo_raptorB"
+        ],
+        "CountSelfKill": 0,
+        "SpecialWeapon": 0,
+        "AllowedWeapons": [],
+        "ExcludedClassNames": [],
+        "CountAIPlayers": 0,
+        "AllowedTargetFactions": []
+    }
+}
