@@ -2,11 +2,11 @@
     "ConfigVersion": 20,
     "ID": 20,
     "Type": 1,
-    "Title": "The Mystic's Bounty",
+    "Title": "Metals of Merit",
     "Descriptions": [
-        "Brave survivor, your journey through the vast lands of Chernarus calls for a task of great importance. Seek out the scattered stones that lie dormant across this realm, for these elements hold ancient powers essential to our mystic endeavors. Fear not, for your efforts shall not go unrewarded. Upon your successful return, you shall receive a bounty befitting a wanderer of your caliber. Tread carefully, and let fortune guide your path."
+        "Survivor, I'm Arvandus Metalsmith, collector of rare metals. I need your help gathering precious ingots—charcoal, sulfur, copper, diamonds, gold, iron, silver, tin—all scattered across this unforgiving landscape. These metals are essential for crafting roofs, bullets, computers, and more. All needed for the fight against the hordes of undead, and the ungrateful living. Hunt down these ingots and bring them to me. Your efforts will be richly rewarded, and our camp's capabilities will grow stronger in this challenging world. Begin your Metallic Pursuit now!"
     ],
-    "ObjectiveText": "Find the Stones",
+    "ObjectiveText": "Find the Ingots",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -32,16 +32,16 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        6
+        7
     ],
     "QuestTurnInIDs": [
-        6
+        7
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 22,
-            "ID": 6,
+            "ID": 9,
             "ObjectiveType": 4
         }
     ],
@@ -49,7 +49,7 @@
     "ReputationReward": 1000,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
-        16
+        2
     ],
     "RequiredFaction": "",
     "FactionReward": "",

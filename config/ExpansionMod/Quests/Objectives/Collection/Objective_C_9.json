@@ -1,73 +1,55 @@
 {
     "ConfigVersion": 22,
-    "ID": 6,
+    "ID": 9,
     "ObjectiveType": 4,
-    "ObjectiveText": "Acquire the stones.",
+    "ObjectiveText": "Acquire Ingots.",
     "TimeLimit": -1,
     "Collections": [
         {
             "Amount": 4,
-            "ClassName": "ItemRodochrosite",
+            "ClassName": "ItemCharCoalIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 4,
-            "ClassName": "ItemAlienIngot",
+            "ClassName": "ItemSulfurIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 4,
-            "ClassName": "ItemPinkTourmaline",
+            "ClassName": "ItemCopperIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 4,
-            "ClassName": "ItemAlexandrit",
+            "ClassName": "ItemDiamondIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 4,
-            "ClassName": "ItemIndicolite",
+            "ClassName": "ItemGoldIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 4,
-            "ClassName": "ItemAquamarine",
+            "ClassName": "ItemIronIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 4,
-            "ClassName": "ItemEmerald",
+            "ClassName": "ItemSilverIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         },
         {
             "Amount": 4,
-            "ClassName": "ItemYellowBeryl",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemRuby",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemCitrine",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemKunzite",
+            "ClassName": "ItemTinIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         }
