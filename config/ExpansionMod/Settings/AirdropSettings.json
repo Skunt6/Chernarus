@@ -9279,7 +9279,7 @@
                 {
                     "Name": "SRP_SmallUtilityRackKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9288,7 +9288,7 @@
                 {
                     "Name": "SRP_BigUtilityRackKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9297,7 +9297,7 @@
                 {
                     "Name": "SRP_UtilityRackKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9306,7 +9306,7 @@
                 {
                     "Name": "SRP_WoodReserveKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9315,7 +9315,7 @@
                 {
                     "Name": "SRP_WoodpileKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9324,7 +9324,7 @@
                 {
                     "Name": "SRP_LockerGrayKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9333,7 +9333,7 @@
                 {
                     "Name": "SRP_LockerBlueKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9342,7 +9342,7 @@
                 {
                     "Name": "SRP_WeaponCrateKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9351,7 +9351,7 @@
                 {
                     "Name": "SRP_LogpileKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9360,7 +9360,7 @@
                 {
                     "Name": "SRP_WardrobeKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9369,7 +9369,7 @@
                 {
                     "Name": "SRP_GarbageContainerKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9378,7 +9378,7 @@
                 {
                     "Name": "SRP_SmallCupboardKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9387,7 +9387,7 @@
                 {
                     "Name": "SRP_MetalGarbageBinKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9396,7 +9396,7 @@
                 {
                     "Name": "SRP_PlasticGarbageBinKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9405,7 +9405,7 @@
                 {
                     "Name": "SRP_ToolTrolleyKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9414,7 +9414,7 @@
                 {
                     "Name": "SRP_MaterialStorageCrateKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9423,7 +9423,7 @@
                 {
                     "Name": "dog_shed_small_kit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9432,7 +9432,7 @@
                 {
                     "Name": "dog_shed_big_kit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9457,90 +9457,9 @@
                     "Variants": []
                 },
                 {
-                    "Name": "WoodenLog",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionLumber1",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionLumber1_5",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionLumber3",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionFloorKit",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionWoodPillarKit",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionRampKit",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionStairKit",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionWallKit",
-                    "Attachments": [],
-                    "Chance": 1.0,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
                     "Name": "ExpansionCamoBoxKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9549,7 +9468,7 @@
                 {
                     "Name": "ExpansionBarrierGateKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9558,7 +9477,7 @@
                 {
                     "Name": "ExpansionCamoTentKit",
                     "Attachments": [],
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -9568,9 +9487,9 @@
                     "Name": "NailBox",
                     "Attachments": [],
                     "Chance": 1.0,
-                    "QuantityPercent": 5,
-                    "Max": -1,
-                    "Min": 0,
+                    "QuantityPercent": 100,
+                    "Max": 10,
+                    "Min": 5,
                     "Variants": []
                 }
             ],
