@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "FordRaptor_Scorpio_Wheel_Black",
+            "ClassName": "FordRaptor_Scorpio_Wheel",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
