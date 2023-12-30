@@ -3,7 +3,7 @@
     "ID": 1,
     "ObjectiveType": 9,
     "ObjectiveText": "Escort the apprentice to the General",
-    "TimeLimit": 180,
+    "TimeLimit": 7200,
     "Position": [
         11251.1, 305.299, 4278.05
     ],
