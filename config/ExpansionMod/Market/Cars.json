@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "FordRaptor_Scorpio",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 100000,
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
