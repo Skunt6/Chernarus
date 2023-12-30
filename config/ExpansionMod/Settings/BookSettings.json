@@ -191,7 +191,7 @@
             "CategoryName": "Vehical info",
             "Descriptions": [
                 {
-                    "DescriptionText": "Vehical will last 7 days without being touched. If left in base they last 3 weeks"
+                    "DescriptionText": "Vehical will last 7 days without being touched. If left in base, they will last 3 weeks"
                 },
                 {
                     "DescriptionText": "Vehicals left at trader that are in the way will be deleted."
