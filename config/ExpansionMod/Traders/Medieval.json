@@ -10,7 +10,15 @@
         "expansionbanknoteUSD"
     ],
     "Categories": [
-        "Medieval_Arms"
+        "Medieval_Arms",
+        "Medieval_Helms",
+        "Medieval_Body",
+        "Medieval_Belts",
+        "Medieval_Boots",
+        "Medieval_Chest",
+        "Medieval_Face",
+        "Medieval_Gloves",
+        "Medieval_Pants"
     ],
     "Items": {}
 }

@@ -1,13 +1,13 @@
 {
     "m_Version": 12,
-    "DisplayName": "Weapons",
+    "DisplayName": "Chest",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "t_anduril",
+            "ClassName": "t_crusader_cloth",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_crusader_shield",
+            "ClassName": "t_crusader_cloth_kek",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_curvedsword",
+            "ClassName": "t_crusader_cloth_yellow",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_GTS",
+            "ClassName": "t_crusader_cloth_blue",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_longsword01",
+            "ClassName": "t_crusader_cloth_red",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_longsword02",
+            "ClassName": "t_crusader_cloth_orange",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_longsword03",
+            "ClassName": "t_crusader_cloth_green",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_warhammer01",
+            "ClassName": "t_hospitaler_rug_a",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_warhammer02",
+            "ClassName": "t_hospitaler_rug_gold",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -106,73 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "t_warhammer03",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "t_warhammer04",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "t_warhammer05",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "t_battleaxe01",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "t_dagger",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "t_spear",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "t_spear01",
+            "ClassName": "t_breastplate",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
