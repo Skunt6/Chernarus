@@ -1,31 +1,16 @@
 {
     "m_Version": 11,
-    "DisplayName": "Vanilla Weapons",
+    "DisplayName": "Medieval Arms Trader",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Shotgun",
+    "TraderIcon": "Bow",
     "Currencies": [
         "expansionbanknoteUSD"
     ],
     "Categories": [
-        "Assault_Rifles",
-        "Submachine_Guns",
-        "Rifles",
-        "Pistols",
-        "Sniper_Rifles",
-        "Shotguns",
-        "Crossbows",
-        "Melee_Weapons",
-        "Ammo_Boxes",
-        "Vanilla_Ammo",
-        "Vanilla_Mags",
-        "Vanilla_Optics",
-        "Vanilla_Buttstocks",
-        "Vanilla_Handgaurds",
-        "Vanilla_Bayonets",
-        "Knifes"
+        "Medieval_Arms"
     ],
     "Items": {}
 }
