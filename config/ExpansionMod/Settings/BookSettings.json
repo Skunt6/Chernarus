@@ -132,10 +132,10 @@
             "CategoryName": "AI info",
             "Descriptions": [
                 {
-                    "DescriptionText": "AI will always be wearing a orange armband"
+                    "DescriptionText": "Hostile AI will always wear a orange armband"
                 },
                 {
-                    "DescriptionText": "Friendly AI will always be wearing a Green armband"
+                    "DescriptionText": "Friendly AI will always wear a Green armband"
                 },
                 {
                     "DescriptionText": "AI's are .25-.35 min accuracy and .75-.85 max accuracy, and their damage multiplier is 0.5"
