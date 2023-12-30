@@ -16,6 +16,7 @@ Admin.Player.StopBleeding 0
 Admin.Player.BrokenLegs 0
 Admin.Player.ReceiveDamageDealt 0
 Admin.Player.Kick 0
+Admin.Player.Message 0
 Admin.Player.CannotBeTargetedByAI 0
 Admin.Player.RemoveCollision 0
 Admin.Player.Teleport 0
