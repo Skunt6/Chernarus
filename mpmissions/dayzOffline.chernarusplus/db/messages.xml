@@ -47,6 +47,7 @@ Example messages:
     <!--On connect-->
     <message>
         <delay>2</delay>
+        <repeat>90</repeat>
         <onconnect>1</onconnect>
         <text>Welcome To Natures Weavers Press: B For more information</text>
     </message>
@@ -60,31 +61,37 @@ Example messages:
 
     <message>
         <delay>300</delay>
+        <repeat>0</repeat>
         <onconnect>0</onconnect>
         <text>#name Will be restarting in 1 Hour</text>
     </message>
     <message>
         <delay>330</delay>
+        <repeat>0</repeat>
         <onconnect>0</onconnect>
         <text>#name Will be restarting in 30 Mins</text>
     </message>
     <message>
         <delay>350</delay>
+        <repeat>0</repeat>
         <onconnect>0</onconnect>
         <text>#name Will be restarting in 10 Mins</text>
     </message>
     <message>
         <delay>355</delay>
+        <repeat>0</repeat>
         <onconnect>0</onconnect>
         <text>#name Will be restarting in 5 Mins</text>
     </message>
     <message>
         <delay>358</delay>
+        <repeat>0</repeat>
         <onconnect>0</onconnect>
         <text>#name Will be restarting in 2 Mins</text>
     </message>
     <message>
         <delay>359</delay>
+        <repeat>0</repeat>
         <onconnect>0</onconnect>
         <text>#name Will be restarting in 1 Min</text>
     </message>
