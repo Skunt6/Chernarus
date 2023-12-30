@@ -135,7 +135,10 @@
                     "DescriptionText": "AI will always be wearing a orange armband"
                 },
                 {
-                    "DescriptionText": "AI's are .25 min accuracy and .75-.85 max accuracy, and their damage is half of a players."
+                    "DescriptionText": "Friendly AI will always be wearing a Green armband"
+                },
+                {
+                    "DescriptionText": "AI's are .25-.35 min accuracy and .75-.85 max accuracy, and their damage multiplier is 0.5"
                 },
                 {
                     "DescriptionText": "There is AI in almost every town, village, Military and city."
@@ -158,10 +161,29 @@
                     "DescriptionText": "Bases have a 14 day duration unless you raise the flag"
                 },
                 {
-                    "DescriptionText": "Only 2 car tents, 2 small and medium tents, and 2 large tents per player."
+                    "DescriptionText": "Dont go crazy with the kits. Be reasonable!"
                 },
                 {
                     "DescriptionText": "No bases within 500m of traders"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Dayz Dog",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Feed them a steak to gian their trust. They will not take wolf meat."
+                },
+                {
+                    "DescriptionText": "They will enter vehicals with you."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Dinos",
+            "Descriptions": [
+                {
+                    "DescriptionText": "They spawn in bear spawns and chicken spawns."
                 }
             ]
         },
