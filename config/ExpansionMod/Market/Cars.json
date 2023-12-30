@@ -12,7 +12,7 @@
             "MinPriceThreshold": 200000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "carbattery",
