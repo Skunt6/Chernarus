@@ -55,7 +55,7 @@ Example messages:
         <delay>2</delay>
         <repeat>120</repeat>
         <onconnect>1</onconnect>
-        <text>Server Restarts at 12 AM and 12 PM Eastern</text>
+        <text>#name Restarts at 12 AM and 12 PM Eastern</text>
     </message>
     <message>
         <delay>3</delay>
