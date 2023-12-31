@@ -14439,7 +14439,7 @@
         <usage name="Hunting"/>
 </type>
     <type name="SNAFUGM6Lynx">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14447,9 +14447,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="ContaminatedArea"/>
 </type>
     <type name="SNAFUHoneyBadger_30rdMag_Black">
         <nominal>0</nominal>
