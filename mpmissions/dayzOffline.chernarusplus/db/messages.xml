@@ -66,8 +66,7 @@ Example messages:
 
     <message>
         <deadline>360</deadline>
-        <shutdown>1</shutdown>
-        <text>#name will shutdown in #tmin minutes.</text>
+        <text>Natures Weavers will shutdown in #tmin minutes.</text>
     </message>
     
     <!--Server restart end-->
