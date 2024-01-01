@@ -152,9 +152,9 @@
         <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="11223.8" z="12213.8" r="70"/>
         <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="13858.6" z="13460.5" r="50"/>
         
-        <!--Mystic Zombies
+        <!--Mystic Zombies-->
         
-        <zone name="InfectedReligious" smin="0" smax="0" dmin="45" dmax="50" x="13574.8" z="12133.1" r="150"/>-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="45" dmax="50" x="13574.8" z="12133.1" r="150"/>
     </territory>
     <territory color="3082523903">
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="10" x="10860" z="2691" r="100"/>

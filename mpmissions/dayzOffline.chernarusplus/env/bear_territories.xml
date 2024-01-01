@@ -7,13 +7,6 @@
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="321" z="7332" r="100"/>
     </territory>
     <territory color="4294923520">
-
-    <!--Mystic Bears-->
-
-        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="13574.8" z="12133.1" r="200"/>
-
-    <!--Mystic Bears end-->
-    
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3345" z="14118.8" r="150"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3742.5" z="14392.5" r="150"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4087.5" z="14385" r="100"/>
