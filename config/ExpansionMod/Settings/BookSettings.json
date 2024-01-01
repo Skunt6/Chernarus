@@ -44,6 +44,10 @@
                 {
                     "RuleParagraph": "1.8.",
                     "RuleText": "When you die you will leave a tombstone. You have 1 hour to retieve your body, and whats on it."
+                },
+                {
+                    "RuleParagraph": "1.9.",
+                    "RuleText": "x=13574.8 z=12133.1"
                 }
             ]
         }
@@ -148,6 +152,23 @@
                 },
                 {
                     "DescriptionText": "During quests if a AI gets killed by their own kind your kill's wont count."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Ore and Gems",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Furnacekit + Screwdriver = Furnace"
+                },
+                {
+                    "DescriptionText": "4 Nuggets = Ingot"
+                },
+                {
+                    "DescriptionText": "Hold 4 nugget and aim at the furnace."
+                },
+                {
+                    "DescriptionText": "AI drop Ores and Gems."
                 }
             ]
         },
