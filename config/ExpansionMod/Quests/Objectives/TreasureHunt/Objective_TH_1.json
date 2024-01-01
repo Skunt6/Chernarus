@@ -7,11 +7,10 @@
     "ShowDistance": 0,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 1,
-    "MarkerName": "???",
     "MarkerVisibility": 0,
     "Positions": [
         [
-            15145.4, 39.7569, 13696
+            15049.5, 112.066, 14108.1
         ]
     ],
     "Loot": [
