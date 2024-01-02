@@ -1,0 +1,77 @@
+{
+    "ConfigVersion": 20,
+    "ID": 27,
+    "Type": 1,
+    "Title": "The Enigmatic Knights of Chernaurs",
+    "Descriptions": [
+        "Chernaurs is beset by a peculiar phenomenon – actual medieval knights, fully armored and mounted, have materialized mysteriously. These timeless knights challenge all they encounter to duels of honor, never aging, eating, or sleeping. Your mission: Investigate and eliminate ten of these enigmatic knights, armed with only your trusty melee weapons. Engage in close combat and vanquish these knights to uncover the truth behind their presence, restoring normalcy to Chernaurs."
+    ],
+    "ObjectiveText": "Take Their Honor",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        "t_anduril",
+        "t_curvedsword",
+        "t_GTS",
+        "t_longsword01",
+        "t_longsword02",
+        "t_longsword03",
+        "t_warhammer01",
+        "t_warhammer02",
+        "t_warhammer03",
+        "t_warhammer04",
+        "t_warhammer05",
+        "t_battleaxe01",
+        "t_dagger",
+        "t_spear",
+        "t_spear01"
+    ],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 55000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        7
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 3,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        2
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}

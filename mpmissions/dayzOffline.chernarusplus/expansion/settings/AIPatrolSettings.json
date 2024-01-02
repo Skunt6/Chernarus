@@ -586,6 +586,49 @@
             ]
         },
         {
+            "Name": "Zub Castle",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "MedievalLoadout",
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6561.78, 387.872, 5568.86
+                ],
+                [
+                    6515.71, 387.704, 5599.09
+                ],
+                [
+                    6556.02, 390.342, 5620.9
+                ],
+                [
+                    6562.01, 392.706, 5598.28
+                ]
+            ]
+        },
+        {
             "Name": "Depot",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",

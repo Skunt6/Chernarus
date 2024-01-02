@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill all 10 Knights at the marked location",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                1340.24, 289.953, 9313.71
+            ],
+            [
+                1390.75, 303.17, 9270.18
+            ],
+            [
+                1416.74, 308.827, 9259.95
+            ],
+            [
+                1399.06, 303.347, 9305.08
+            ],
+            [
+                1424.43, 301.658, 9294.88
+            ],
+            [
+                1496.77, 298.513, 9192.2
+            ],
+            [
+                1378.27, 286.788, 9206.11
+            ],
+            [
+                1494.61, 312.516, 9177.75
+            ],
+            [
+                1389.46, 334.129, 9258.04
+            ],
+            [
+                1391.85, 304.922, 9313.88
+            ]
+        ],
+        "NPCSpeed": "WALK",
+        "NPCMode": "SPRINT",
+        "NPCFaction": "Mercenaries",
+        "NPCLoadoutFile": "MedievalLoadout",
+        "NPCAccuracyMin": 1.0,
+        "NPCAccuracyMax": 1.0,
+        "ClassNames": [
+            "eAIBase"
+        ],
+        "SpecialWeapon": 1,
+        "AllowedWeapons": [
+            "t_anduril",
+            "t_curvedsword",
+            "t_GTS",
+            "t_longsword01",
+            "t_longsword02",
+            "t_longsword03",
+            "t_warhammer01",
+            "t_warhammer02",
+            "t_warhammer03",
+            "t_warhammer04",
+            "t_warhammer05",
+            "t_battleaxe01",
+            "t_dagger",
+            "t_spear",
+            "t_spear01"
+        ]
+    },
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 880.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1,
+    "InfectedDeletionRadius": 500
+}
