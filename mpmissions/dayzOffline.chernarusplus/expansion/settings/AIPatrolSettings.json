@@ -442,6 +442,150 @@
             ]
         },
         {
+            "Name": "Skalisty Castle",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "MedievalLoadout",
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13474.9, 80.1782, 3324.6
+                ],
+                [
+                    13413.1, 82.6853, 3286.76
+                ],
+                [
+                    13507.8, 74.2014, 3299.66
+                ],
+                [
+                    13442.1, 72.4579, 3344.45
+                ]
+            ]
+        },
+        {
+            "Name": "Chortov Castle",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "MedievalLoadout",
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6887.3, 398.444, 11492.1
+                ],
+                [
+                    6853.36, 402.818, 11447
+                ],
+                [
+                    6889.97, 402.41, 11376.9
+                ],
+                [
+                    6930.04, 402.166, 11393.5
+                ],
+                [
+                    6930.18, 404.182, 11434.6
+                ],
+                [
+                    6888.75, 405.925, 11438.1
+                ]
+            ]
+        },
+        {
+            "Name": "Krona Castle",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "MedievalLoadout",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1340.24, 289.953, 9313.71
+                ],
+                [
+                    1390.75, 303.17, 9270.18
+                ],
+                [
+                    1416.74, 308.827, 9259.95
+                ],
+                [
+                    1399.06, 303.347, 9305.08
+                ],
+                [
+                    1424.43, 301.658, 9294.88
+                ],
+                [
+                    1496.77, 298.513, 9192.2
+                ],
+                [
+                    1378.27, 286.788, 9206.11
+                ]
+            ]
+        },
+        {
             "Name": "Depot",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
