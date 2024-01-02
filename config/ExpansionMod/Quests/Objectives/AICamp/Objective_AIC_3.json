@@ -62,7 +62,12 @@
             "t_battleaxe01",
             "t_dagger",
             "t_spear",
-            "t_spear01"
+            "t_spear01",
+            "Expansion_Crossbow",
+            "Crossbow_Autumn",
+            "Crossbow_Black",
+            "Crossbow_Summer",
+            "Crossbow_Wood"
         ]
     },
     "MinDistRadius": 400.0,

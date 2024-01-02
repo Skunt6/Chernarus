@@ -15,23 +15,7 @@
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [
-        "t_anduril",
-        "t_curvedsword",
-        "t_GTS",
-        "t_longsword01",
-        "t_longsword02",
-        "t_longsword03",
-        "t_warhammer01",
-        "t_warhammer02",
-        "t_warhammer03",
-        "t_warhammer04",
-        "t_warhammer05",
-        "t_battleaxe01",
-        "t_dagger",
-        "t_spear",
-        "t_spear01"
-    ],
+    "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
@@ -69,7 +53,7 @@
     ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 0,
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
