@@ -2,30 +2,20 @@
     "ConfigVersion": 22,
     "ID": 3,
     "ObjectiveType": 8,
-    "ObjectiveText": "Kill all 10 Knights at the marked location",
+    "ObjectiveText": "Kill all 6 Knights at the marked location",
     "TimeLimit": -1,
     "AICamp": {
         "Positions": [
-            [
-                1340.24, 289.953, 9313.71
-            ],
+            
             [
                 1390.75, 303.17, 9270.18
             ],
             [
                 1416.74, 308.827, 9259.95
             ],
-            [
-                1399.06, 303.347, 9305.08
-            ],
+            
             [
                 1424.43, 301.658, 9294.88
-            ],
-            [
-                1496.77, 298.513, 9192.2
-            ],
-            [
-                1378.27, 286.788, 9206.11
             ],
             [
                 1494.61, 312.516, 9177.75

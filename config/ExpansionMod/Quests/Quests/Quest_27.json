@@ -4,7 +4,7 @@
     "Type": 1,
     "Title": "The Enigmatic Knights of Chernaurs",
     "Descriptions": [
-        "Chernaurs is beset by a peculiar phenomenon – actual medieval knights, fully armored and mounted, have materialized mysteriously. These timeless knights challenge all they encounter to duels of honor, never aging, eating, or sleeping. Your mission: Investigate and eliminate ten of these enigmatic knights, armed with only your trusty melee weapons. Engage in close combat and vanquish these knights to uncover the truth behind their presence, restoring normalcy to Chernaurs."
+        "Chernaurs is beset by a peculiar phenomenon – actual medieval knights, fully armored and mounted, have materialized mysteriously. These timeless knights challenge all they encounter to duels of honor, never aging, eating, or sleeping. Your mission: Investigate and eliminate six of these enigmatic knights, armed with only your trusty melee weapons. Engage in close combat and vanquish these knights to uncover the truth behind their presence, restoring normalcy to Chernaurs."
     ],
     "ObjectiveText": "Take Their Honor",
     "FollowUpQuest": -1,
@@ -13,7 +13,7 @@
     "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
