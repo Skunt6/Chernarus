@@ -680,6 +680,15 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="4387.5" z="10914.4" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="6" x="4629.38" z="10443.8" r="50"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="2" dmax="6" x="4740" z="10318.1" r="100"/>
+
+        <!--Reaper compund-->
+
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="10" x="277.01" z="6589.16" r="30"/>
+
+        <!--Serpent compound-->
+
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="10" x="13650.9" z="2960.28" r="30"/>
+
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="6" x="4783.13" z="10573.1" r="50"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="4646.25" z="10998.8" r="80"/>
     </territory>
