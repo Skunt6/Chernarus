@@ -29,7 +29,7 @@
             "Attachments": [],
             "Chance": 1.0,
             "QuantityPercent": 100,
-            "Max": 2,
+            "Max": 1,
             "Min": 0,
             "Variants": []
         }
