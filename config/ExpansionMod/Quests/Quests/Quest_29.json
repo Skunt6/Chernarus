@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 20,
+    "ID": 29,
+    "Type": 1,
+    "Title": "Serpent Scourge",
+    "Descriptions": [
+        "Survivor, we've got a pest problem at Tisy Military Base. Five scouting serpents have set up shop there, and they're causing all sorts of trouble for anyone who dares venture near. Your mission is clear: Eliminate these serpents swiftly and without hesitation. Tisy is a critical location, and we can't afford to let these creatures run amok. They've already taken down a few good people, and we can't let their reign of terror continue. Gather your gear and head to Tisy Military Base immediately. Keep your wits about you; these serpents are cunning. Take them out, secure the area, and report back. This is a crucial task, Survivor. The safety of the region depends on it. Good luck, and may your aim be true."
+    ],
+    "ObjectiveText": "Kill the Serpent Scum ",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 35000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 22,
+            "ID": 4,
+            "ObjectiveType": 7
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 1000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        14
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {}
+}
