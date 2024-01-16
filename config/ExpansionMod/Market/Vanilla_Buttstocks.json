@@ -148,20 +148,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "ghillieatt_tan",
-            "MaxPriceThreshold": 440,
-            "MinPriceThreshold": 220,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ghillieatt_woodland",
-                "ghillieatt_mossy"
-            ]
         }
     ]
 }
