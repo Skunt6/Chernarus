@@ -1,16 +1,20 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 6,
     "ObjectiveType": 6,
     "ObjectiveText": "Collect The travelers stash.",
     "TimeLimit": -1,
+    "Active": 1,
     "ShowDistance": 0,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 1,
+    "MarkerName": "",
     "MarkerVisibility": 1,
     "Positions": [
         [
-            620.777, 447.888, 14626.7
+            620.7769775390625,
+            447.88800048828127,
+            14626.7001953125
         ]
     ],
     "Loot": [

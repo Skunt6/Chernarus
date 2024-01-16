@@ -1,43 +1,95 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 3,
     "ObjectiveType": 7,
     "ObjectiveText": "Kill all 5 units of the Crimsom Reapers at the marked location",
     "TimeLimit": -1,
-    "AIPatrol": {
-        "NPCUnits": 5,
+    "Active": 1,
+    "AISpawn": {
+        "NumberOfAI": 5,
+        "NPCName": "Quest Target",
         "Waypoints": [
             [
-                8975.78, 57.7851, 2605.01
+                8975.7802734375,
+                57.785099029541019,
+                2605.010009765625
             ],
             [
-                8766.17, 8.62548, 2464.68
+                8766.169921875,
+                8.625479698181153,
+                2464.679931640625
             ],
             [
-                9145, 5.97359, 2098.66
+                9145.0,
+                5.973589897155762,
+                2098.659912109375
             ],
             [
-                9559.89, 133.8, 2593.18
+                9559.8896484375,
+                133.8000030517578,
+                2593.179931640625
             ],
             [
-                9187.87, 49.3283, 2327.22
+                9187.8701171875,
+                49.32830047607422,
+                2327.219970703125
             ]
         ],
-        "NPCSpeed": "WALK",
-        "NPCMode": "RUN",
-        "NPCFaction": "Mercenaries",
-        "NPCFormation": "RANDOM",
-        "NPCLoadoutFile": "BanditLoadout",
-        "NPCAccuracyMin": 0.35,
-        "NPCAccuracyMax": 0.80,
+        "Behaviour": 0,
+        "Formation": "RANDOM",
+        "Loadout": "BanditLoadout",
+        "Faction": "Mercenaries",
+        "Speed": 1.0,
+        "ThreatSpeed": 3.0,
+        "MinAccuracy": 0.3499999940395355,
+        "MaxAccuracy": 0.800000011920929,
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "ThreatDistanceLimit": 1000.0,
+        "DamageMultiplier": 1.0,
+        "DamageReceivedMultiplier": 1.0,
         "ClassNames": [
-            "eAIBase"
+            "eAI_SurvivorF_Eva",
+            "eAI_SurvivorF_Frida",
+            "eAI_SurvivorF_Gabi",
+            "eAI_SurvivorF_Helga",
+            "eAI_SurvivorF_Irena",
+            "eAI_SurvivorF_Judy",
+            "eAI_SurvivorF_Keiko",
+            "eAI_SurvivorF_Linda",
+            "eAI_SurvivorF_Maria",
+            "eAI_SurvivorF_Naomi",
+            "eAI_SurvivorF_Baty",
+            "eAI_SurvivorM_Boris",
+            "eAI_SurvivorM_Cyril",
+            "eAI_SurvivorM_Denis",
+            "eAI_SurvivorM_Elias",
+            "eAI_SurvivorM_Francis",
+            "eAI_SurvivorM_Guo",
+            "eAI_SurvivorM_Hassan",
+            "eAI_SurvivorM_Indar",
+            "eAI_SurvivorM_Jose",
+            "eAI_SurvivorM_Kaito",
+            "eAI_SurvivorM_Lewis",
+            "eAI_SurvivorM_Manua",
+            "eAI_SurvivorM_Mirek",
+            "eAI_SurvivorM_Niki",
+            "eAI_SurvivorM_Oliver",
+            "eAI_SurvivorM_Peter",
+            "eAI_SurvivorM_Quinn",
+            "eAI_SurvivorM_Rolf",
+            "eAI_SurvivorM_Seth",
+            "eAI_SurvivorM_Taiki"
         ],
-        "SpecialWeapon": 0,
-        "AllowedWeapons": []
+        "SniperProneDistanceThreshold": 300.0,
+        "RespawnTime": 1.0,
+        "DespawnTime": 1.0,
+        "MinDistanceRadius": 50.0,
+        "MaxDistanceRadius": 880.0,
+        "DespawnRadius": 880.0
     },
-    "MinDistRadius": 50.0,
-    "MaxDistRadius": 880.0,
-    "DespawnRadius": 880.0,
-    "CanLootAI": 1
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": []
 }

@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 5,
     "ObjectiveType": 4,
     "ObjectiveText": "Acquire The traverlers armour.",
     "TimeLimit": -1,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 1,
@@ -56,5 +57,5 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 0 
+    "NeedAnyCollection": 0
 }

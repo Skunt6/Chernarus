@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 2,
     "ObjectiveType": 3,
     "ObjectiveText": "Go meet the doctor",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        3676.1, 402.692, 5990.13
+        3676.10009765625,
+        402.6919860839844,
+        5990.1298828125
     ],
     "MaxDistance": 5.0,
     "MarkerName": "Dr. Milena",

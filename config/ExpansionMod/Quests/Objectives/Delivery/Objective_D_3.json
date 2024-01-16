@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 3,
     "ObjectiveType": 5,
     "ObjectiveText": "Deliver the treasure to Sylvan Mystique",
     "TimeLimit": -1,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 4,
@@ -68,6 +69,6 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "MaxDistance": 5.0,
-    "MarkerName": "Sylvan Mystique"
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
 }

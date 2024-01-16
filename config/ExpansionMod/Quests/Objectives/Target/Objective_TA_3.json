@@ -1,21 +1,25 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 3,
     "ObjectiveType": 2,
     "ObjectiveText": "Kill 20 Bandits",
     "TimeLimit": -1,
-    "Position": [],
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
     "MaxDistance": -1.0,
-    "Target": {
-        "Amount": 20,
-        "ClassNames": [
-            "eAIBase"
-        ],
-        "CountSelfKill": 0,
-        "SpecialWeapon": 0,
-        "AllowedWeapons": [],
-        "ExcludedClassNames": [],
-        "CountAIPlayers": 1,
-        "AllowedTargetFactions": []
-    }
+    "MinDistance": -1.0,
+    "Amount": 20,
+    "ClassNames": [
+        "eAIBase"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 1,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
 }

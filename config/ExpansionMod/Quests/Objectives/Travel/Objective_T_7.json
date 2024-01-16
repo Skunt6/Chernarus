@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 7,
     "ObjectiveType": 3,
     "ObjectiveText": "Go to Reapers Compound",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        277.073, 190.34, 6593.66
+        277.072998046875,
+        190.33999633789063,
+        6593.66015625
     ],
     "MaxDistance": 110.0,
     "MarkerName": "Reapers Compound",

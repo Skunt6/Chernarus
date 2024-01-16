@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 3,
     "ObjectiveType": 3,
     "ObjectiveText": "Seek and Destroy Iron Serpents",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        13661.2, 44.6967, 2967.34
+        13661.2001953125,
+        44.69670104980469,
+        2967.340087890625
     ],
     "MaxDistance": 800.0,
     "MarkerName": "Serpents Compound",

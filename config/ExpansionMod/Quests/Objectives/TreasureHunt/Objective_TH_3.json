@@ -1,16 +1,20 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 3,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the treasure on Skalisty island",
     "TimeLimit": -1,
+    "Active": 1,
     "ShowDistance": 0,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 0,
+    "MarkerName": "",
     "MarkerVisibility": 0,
     "Positions": [
         [
-            13508.8, 75.87, 3317.52
+            13508.7998046875,
+            75.87000274658203,
+            3317.52001953125
         ]
     ],
     "Loot": [

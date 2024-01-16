@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 16,
     "Type": 1,
     "Title": "Temporal Echoes: A Seeker's Quest",
@@ -40,17 +40,17 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 9,
             "ObjectiveType": 3
         },
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 3,
             "ObjectiveType": 6
         },
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 10,
             "ObjectiveType": 4
         }
@@ -65,5 +65,7 @@
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

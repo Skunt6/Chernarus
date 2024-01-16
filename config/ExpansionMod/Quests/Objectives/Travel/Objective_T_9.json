@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 9,
     "ObjectiveType": 3,
     "ObjectiveText": "Get to Skalisty Island",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        13587.4, 41.0517, 3113.58
+        13587.400390625,
+        41.051700592041019,
+        3113.580078125
     ],
     "MaxDistance": 400.0,
     "MarkerName": "?",

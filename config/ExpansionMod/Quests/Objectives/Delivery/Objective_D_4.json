@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 4,
     "ObjectiveType": 5,
     "ObjectiveText": "Deliver the Metals to Rico",
     "TimeLimit": -1,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 100,
@@ -20,6 +21,6 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "MaxDistance": 5.0,
-    "MarkerName": "Bring to Rico"
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
 }

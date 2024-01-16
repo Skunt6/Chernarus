@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 3,
     "ObjectiveText": "Get to the reserchers camp!",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        3699.718994, 402.012390, 5989.668457
+        3699.718994140625,
+        402.01239013671877,
+        5989.66845703125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "The camp",

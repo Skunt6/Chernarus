@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 9,
     "Type": 1,
     "Title": "Whispers of the Celestial Cache",
@@ -28,7 +28,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 1,
             "ObjectiveType": 6
         }
@@ -43,5 +43,7 @@
     "DeleteQuestItems": 0,
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

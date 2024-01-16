@@ -1,9 +1,11 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 6,
     "ID": 4,
     "ClassName": "ExpansionQuestNPCAIGabi",
     "Position": [
-        10714.9, 350.505, 5673.25
+        10714.900390625,
+        350.5050048828125,
+        5673.25
     ],
     "Orientation": [
         73.0,
@@ -14,7 +16,9 @@
     "DefaultNPCText": "Hello?",
     "Waypoints": [
         [
-            28.0068, 0, -0
+            28.006799697875978,
+            0.0,
+            0.0
         ]
     ],
     "NPCEmoteID": 46,
@@ -25,5 +29,6 @@
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 2
+    "NPCType": 2,
+    "Active": 1
 }
