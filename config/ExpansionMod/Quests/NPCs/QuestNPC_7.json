@@ -1,12 +1,16 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 6,
     "ID": 7,
     "ClassName": "ExpansionQuestNPCAIManua",
     "Position": [
-        3711.38, 402.012, 6009.55
+        3711.3798828125,
+        402.0119934082031,
+        6009.5498046875
     ],
     "Orientation": [
-        131.112, 0, -0
+        131.11199951171876,
+        0.0,
+        0.0
     ],
     "NPCName": "Arvandus Metalsmith",
     "DefaultNPCText": "Greetings?",
@@ -19,5 +23,6 @@
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 2
+    "NPCType": 2,
+    "Active": 1
 }

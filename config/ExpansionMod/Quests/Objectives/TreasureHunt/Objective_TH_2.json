@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 2,
     "ObjectiveType": 6,
     "ObjectiveText": "Look behind one of the sheds with a shovel",
     "TimeLimit": -1,
+    "Active": 1,
     "ShowDistance": 0,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 1,
@@ -11,7 +12,9 @@
     "MarkerVisibility": 0,
     "Positions": [
         [
-            11982.6, 187.472, 14792.3
+            11982.599609375,
+            187.4720001220703,
+            14792.2998046875
         ]
     ],
     "Loot": [

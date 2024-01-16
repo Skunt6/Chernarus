@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 5,
     "ObjectiveText": "Deliver the resources to Dr. Elena",
     "TimeLimit": -1,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 1,
@@ -20,6 +21,6 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "MaxDistance": 5.0,
-    "MarkerName": "Talk to Dr. Elena"
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
 }

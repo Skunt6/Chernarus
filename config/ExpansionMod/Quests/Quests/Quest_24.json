@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 24,
     "Type": 1,
     "Title": "Line em up",
@@ -32,15 +32,17 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        3, 8
+        3,
+        8
     ],
     "QuestTurnInIDs": [
-        3, 8
+        3,
+        8
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 6,
             "ObjectiveType": 2
         }
@@ -57,5 +59,7 @@
     "DeleteQuestItems": 0,
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

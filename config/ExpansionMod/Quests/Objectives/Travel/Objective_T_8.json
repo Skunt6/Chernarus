@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 8,
     "ObjectiveType": 3,
     "ObjectiveText": "Go meet the General",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        11250.8, 305.299, 4276.73
+        11250.7998046875,
+        305.29901123046877,
+        4276.72998046875
     ],
     "MaxDistance": 5.0,
     "MarkerName": "General",

@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 10,
     "ObjectiveType": 3,
     "ObjectiveText": "Go to the Airfield",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        11857.1, 140.605, 12451.2
+        11857.099609375,
+        140.60499572753907,
+        12451.2001953125
     ],
     "MaxDistance": 50.0,
     "MarkerName": "?",

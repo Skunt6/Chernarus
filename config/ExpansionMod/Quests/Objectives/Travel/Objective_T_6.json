@@ -1,11 +1,14 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 6,
     "ObjectiveType": 3,
     "ObjectiveText": "Go to Dr. Elena",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
-        10714.9, 350.505, 5673.25
+        10714.900390625,
+        350.5050048828125,
+        5673.25
     ],
     "MaxDistance": 50.0,
     "MarkerName": "Dr. Elena",

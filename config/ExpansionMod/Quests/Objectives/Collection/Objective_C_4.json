@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 4,
     "ObjectiveType": 4,
     "ObjectiveText": "Acquire 5 Pox Grenades",
     "TimeLimit": -1,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 5,

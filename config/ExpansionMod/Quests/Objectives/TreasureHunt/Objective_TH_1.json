@@ -1,16 +1,20 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the treasure in the hills near Berezhki",
     "TimeLimit": -1,
+    "Active": 1,
     "ShowDistance": 0,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 1,
+    "MarkerName": "",
     "MarkerVisibility": 0,
     "Positions": [
         [
-            15049.5, 112.066, 14108.1
+            15049.5,
+            112.06600189208985,
+            14108.099609375
         ]
     ],
     "Loot": [

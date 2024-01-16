@@ -1,25 +1,29 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 7,
     "ObjectiveType": 2,
     "ObjectiveText": "Kill 25 Dino's",
     "TimeLimit": -1,
-    "Position": [],
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
     "MaxDistance": -1.0,
-    "Target": {
-        "Amount": 25,
-        "ClassNames": [
-            "dbo_idrex",
-            "dbo_trex",
-            "dbo_tricero",
-            "dbo_raptor",
-            "dbo_raptorB"
-        ],
-        "CountSelfKill": 0,
-        "SpecialWeapon": 0,
-        "AllowedWeapons": [],
-        "ExcludedClassNames": [],
-        "CountAIPlayers": 0,
-        "AllowedTargetFactions": []
-    }
+    "MinDistance": -1.0,
+    "Amount": 25,
+    "ClassNames": [
+        "dbo_idrex",
+        "dbo_trex",
+        "dbo_tricero",
+        "dbo_raptor",
+        "dbo_raptorB"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
 }

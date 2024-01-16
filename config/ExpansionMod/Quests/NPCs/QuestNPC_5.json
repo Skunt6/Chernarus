@@ -1,12 +1,16 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 6,
     "ID": 5,
     "ClassName": "ExpansionQuestNPCAIHassan",
     "Position": [
-        11251.1, 305.299, 4278.05
+        11251.099609375,
+        305.29901123046877,
+        4278.0498046875
     ],
     "Orientation": [
-        -156.575, -0, -0
+        -156.5749969482422,
+        0.0,
+        0.0
     ],
     "NPCName": "General Tulius",
     "DefaultNPCText": "What do your want?!",
@@ -19,5 +23,6 @@
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 2
+    "NPCType": 2,
+    "Active": 1
 }

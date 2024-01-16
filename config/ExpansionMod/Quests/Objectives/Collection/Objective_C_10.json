@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 10,
     "ObjectiveType": 4,
     "ObjectiveText": "Acquire Gems.",
     "TimeLimit": -1,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 4,
@@ -68,5 +69,5 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 1 
+    "NeedAnyCollection": 1
 }

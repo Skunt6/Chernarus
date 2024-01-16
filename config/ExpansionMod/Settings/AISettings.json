@@ -1,10 +1,11 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "AccuracyMin": 0.25,
     "AccuracyMax": 0.75,
     "ThreatDistanceLimit": 500.0,
     "NoiseInvestigationDistanceLimit": 500.0,
     "DamageMultiplier": 0.5,
+    "DamageReceivedMultiplier": 1.0,
     "Admins": [],
     "MaximumDynamicPatrols": -1,
     "Vaulting": 1,

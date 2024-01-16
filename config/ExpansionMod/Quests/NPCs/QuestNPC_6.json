@@ -1,12 +1,16 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 6,
     "ID": 6,
     "ClassName": "ExpansionQuestNPCAICyril",
     "Position": [
-        13589.1, 54.9152, 12136.5
+        13589.099609375,
+        54.915199279785159,
+        12136.5
     ],
     "Orientation": [
-        0.592395, 0, -0
+        0.592395007610321,
+        0.0,
+        0.0
     ],
     "NPCName": "Sylvan Mystique",
     "DefaultNPCText": "Greetings, I'm Sylvan Mystique.",
@@ -19,5 +23,6 @@
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 2
+    "NPCType": 2,
+    "Active": 1
 }

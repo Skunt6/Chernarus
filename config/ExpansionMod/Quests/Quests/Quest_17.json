@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 17,
     "Type": 1,
     "Title": "Operation Iron Vengeance",
@@ -40,7 +40,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 2,
             "ObjectiveType": 7
         }
@@ -57,5 +57,7 @@
     "DeleteQuestItems": 0,
     "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

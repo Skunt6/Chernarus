@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 11,
     "Type": 1,
     "Title": "Radio Resurgence",
@@ -45,17 +45,17 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 4,
             "ObjectiveType": 3
         },
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 2,
             "ObjectiveType": 6
         },
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 2,
             "ObjectiveType": 4
         }
@@ -72,5 +72,7 @@
     "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

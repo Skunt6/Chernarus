@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 5,
     "ObjectiveType": 6,
     "ObjectiveText": "Collect",
     "TimeLimit": -1,
+    "Active": 1,
     "ShowDistance": 1,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 0,
@@ -11,7 +12,9 @@
     "MarkerVisibility": 1,
     "Positions": [
         [
-            299.325, 186.991, 6598.89
+            299.32501220703127,
+            186.99099731445313,
+            6598.89013671875
         ]
     ],
     "Loot": [
