@@ -7,6 +7,28 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
+            "ClassName": "Mag_M14_20Rnd",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Mag_M14_10Rnd",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_ij70_8rnd",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
