@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "Vanilla Assault Rifles",
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -17,20 +17,6 @@
             "SpawnAttachments": [
                 "fal_oebttstck",
                 "mag_fal_20rnd"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "M14",
-            "MaxPriceThreshold": 150000,
-            "MinPriceThreshold": 150000,
-            "SellPricePercent": 100.0,
-            "MaxStockThreshold": 0,
-            "MinStockThreshold": 0,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ACOGOptic",
-                "Mag_M14_20Rnd"
             ],
             "Variants": []
         },
@@ -80,12 +66,12 @@
             "Variants": []
         },
         {
-            "ClassName": "M4A1",
-            "MaxPriceThreshold": 150000,
-            "MinPriceThreshold": 150000,
-            "SellPricePercent": 100.0,
-            "MaxStockThreshold": 0,
-            "MinStockThreshold": 0,
+            "ClassName": "m4a1",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "m4_carryhandleoptic",
@@ -93,10 +79,7 @@
                 "m4_oebttstck",
                 "m4_plastichndgrd"
             ],
-            "Variants": [
-                "M4A1_Black",
-                "M4A1_Green"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "m16a2",
