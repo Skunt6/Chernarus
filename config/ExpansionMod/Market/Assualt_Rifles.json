@@ -22,8 +22,8 @@
         },
         {
             "ClassName": "akm",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
@@ -100,10 +100,10 @@
         },
         {
             "ClassName": "m16a2",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -113,10 +113,10 @@
         },
         {
             "ClassName": "famas",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -126,8 +126,21 @@
         },
         {
             "ClassName": "aug",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_aug_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "augshort",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
@@ -138,15 +151,28 @@
             "Variants": []
         },
         {
-            "ClassName": "augshort",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "ClassName": "expansion_m16",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "mag_aug_30rnd"
+                "mag_stanag_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_g36",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_expansion_g36_30rnd"
             ],
             "Variants": []
         }
