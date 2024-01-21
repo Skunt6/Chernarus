@@ -4,6 +4,8 @@
       "*/areaflags.map": true,
       "*/config.vdf": true,
       "*/.txt": false,
+      "*/.bat": true,
+      "*/.cfg": true,
       "*/.pbo": true,
       "*/.MDMP": true,
       "*/.ADM": true,
