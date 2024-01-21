@@ -11,8 +11,8 @@
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -22,8 +22,8 @@
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_ruger1022_15rnd"
@@ -35,30 +35,30 @@
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "mosin9130",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "cz527",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_cz527_5rnd"
@@ -67,11 +67,11 @@
         },
         {
             "ClassName": "cz550",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_cz550_4rnd"
@@ -80,11 +80,11 @@
         },
         {
             "ClassName": "winchester70",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
@@ -94,8 +94,8 @@
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_ssg82_5rnd"
@@ -104,11 +104,11 @@
         },
         {
             "ClassName": "sks",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "sks_bayonet"
@@ -117,22 +117,22 @@
         },
         {
             "ClassName": "expansion_kar98",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "expansion_m14",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_expansion_m14_10rnd"
@@ -141,11 +141,11 @@
         },
         {
             "ClassName": "expansion_m1a",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_expansion_m14_10rnd"

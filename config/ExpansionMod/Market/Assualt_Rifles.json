@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "Vanilla Rifles",
+    "DisplayName": "Assualt Rifles",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -142,7 +142,7 @@
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [

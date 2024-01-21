@@ -56,10 +56,10 @@
         {
             "ClassName": "expansion_benellim4",
             "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
