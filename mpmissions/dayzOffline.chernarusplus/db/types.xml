@@ -3146,7 +3146,7 @@
         <usage name="Village"/>
     </type>
 	<type name="dog_vest_sheriff">
-        <nominal>6</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -3158,7 +3158,7 @@
         <usage name="Police"/>
     </type>
 	<type name="dog_vest_black">
-        <nominal>6</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -3170,7 +3170,7 @@
         <usage name="Police"/>
     </type>
 	<type name="dog_vest_black_k9">
-        <nominal>6</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -3182,7 +3182,7 @@
         <usage name="Police"/>
     </type>
 	<type name="dog_vest_blackgreen">
-        <nominal>6</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -3194,7 +3194,7 @@
         <usage name="Police"/>
     </type>
 	<type name="dog_vest_blackmedic">
-        <nominal>6</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -3206,7 +3206,7 @@
         <usage name="Police"/>
     </type>
 	<type name="dog_vest_blackgreenz">
-        <nominal>6</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>3</min>
