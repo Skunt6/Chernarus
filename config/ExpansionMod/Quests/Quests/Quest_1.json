@@ -19,15 +19,6 @@
     "Rewards": [
         {
             "ClassName": "TunaCan",
-            "Amount": 2,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "WaterBottle",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,

@@ -11198,7 +11198,7 @@
         },
         {
             "ClassName": "NailBox",
-            "Chance": 0.1,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11211,7 +11211,7 @@
         },
         {
             "ClassName": "TetracyclineAntibiotics",
-            "Chance": 0.1,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 12.0
