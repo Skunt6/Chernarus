@@ -8923,7 +8923,7 @@
         },
         {
             "ClassName": "SRP_BigUtilityRack",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8936,7 +8936,7 @@
         },
         {
             "ClassName": "SRP_SmallUtilityRack",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8949,7 +8949,7 @@
         },
         {
             "ClassName": "SRP_SkKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8962,7 +8962,7 @@
         },
         {
             "ClassName": "SRP_UtilityRackKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8975,7 +8975,7 @@
         },
         {
             "ClassName": "SRP_WoodReserveKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8988,7 +8988,7 @@
         },
         {
             "ClassName": "SRP_WoodpileKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9001,7 +9001,7 @@
         },
         {
             "ClassName": "SRP_LockerGrayKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9014,7 +9014,7 @@
         },
         {
             "ClassName": "SRP_LockerBlueKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9027,7 +9027,7 @@
         },
         {
             "ClassName": "SRP_WeaponCrateKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9040,7 +9040,7 @@
         },
         {
             "ClassName": "SRP_LogpileKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9053,7 +9053,7 @@
         },
         {
             "ClassName": "SRP_WardrobeKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9066,7 +9066,7 @@
         },
         {
             "ClassName": "SRP_GarbageContainerKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9079,7 +9079,7 @@
         },
         {
             "ClassName": "SRP_SmallCupboardKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9092,7 +9092,7 @@
         },
         {
             "ClassName": "SRP_MetalGarbageBinKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9105,7 +9105,7 @@
         },
         {
             "ClassName": "SRP_PlasticGarbageBinKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9118,7 +9118,7 @@
         },
         {
             "ClassName": "SRP_ToolTrolleyKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9131,7 +9131,7 @@
         },
         {
             "ClassName": "SRP_MaterialStorageCrateKit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9144,7 +9144,7 @@
         },
         {
             "ClassName": "ItemStarRuby",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9157,7 +9157,7 @@
         },
         {
             "ClassName": "ItemRodochrosite",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9170,7 +9170,7 @@
         },
         {
             "ClassName": "ItemPinkTourmaline",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9183,7 +9183,7 @@
         },
         {
             "ClassName": "ItemAlexandrit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9196,7 +9196,7 @@
         },
         {
             "ClassName": "ItemIndicolite",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9209,7 +9209,7 @@
         },
         {
             "ClassName": "ItemAquamarine",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9222,7 +9222,7 @@
         },
         {
             "ClassName": "ItemEmerald",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9235,7 +9235,7 @@
         },
         {
             "ClassName": "ItemYellowBeryl",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9248,7 +9248,7 @@
         },
         {
             "ClassName": "ItemCitrine",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9261,7 +9261,7 @@
         },
         {
             "ClassName": "ItemRuby",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9274,7 +9274,7 @@
         },
         {
             "ClassName": "ItemKunzite",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9287,7 +9287,7 @@
         },
         {
             "ClassName": "ItemAlienIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9300,7 +9300,7 @@
         },
         {
             "ClassName": "ItemCharCoalIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9313,7 +9313,7 @@
         },
         {
             "ClassName": "ItemSulfurIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9326,7 +9326,7 @@
         },
         {
             "ClassName": "ItemCopperIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9339,7 +9339,7 @@
         },
         {
             "ClassName": "ItemDiamondIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9352,7 +9352,7 @@
         },
         {
             "ClassName": "ItemGoldIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9365,7 +9365,7 @@
         },
         {
             "ClassName": "ItemIronIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9378,7 +9378,7 @@
         },
         {
             "ClassName": "ItemSilverIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9391,7 +9391,7 @@
         },
         {
             "ClassName": "ItemTinIngot",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9404,7 +9404,7 @@
         },
         {
             "ClassName": "ItemAlienNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9417,7 +9417,7 @@
         },
         {
             "ClassName": "ItemCharCoalNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9430,7 +9430,7 @@
         },
         {
             "ClassName": "ItemSulfurNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9443,7 +9443,7 @@
         },
         {
             "ClassName": "ItemCopperNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9456,7 +9456,7 @@
         },
         {
             "ClassName": "ItemDiamondNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9469,7 +9469,7 @@
         },
         {
             "ClassName": "ItemGoldNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9482,7 +9482,7 @@
         },
         {
             "ClassName": "ItemIronNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9495,7 +9495,7 @@
         },
         {
             "ClassName": "ItemSilverNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9508,7 +9508,7 @@
         },
         {
             "ClassName": "ItemTinNugget",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9898,7 +9898,7 @@
         },
         {
             "ClassName": "ExpansionMilkBottle",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9911,7 +9911,7 @@
         },
         {
             "ClassName": "ExpansionBread1",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9924,7 +9924,7 @@
         },
         {
             "ClassName": "ExpansionBread2",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9937,7 +9937,7 @@
         },
         {
             "ClassName": "ExpansionBread3",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9950,7 +9950,7 @@
         },
         {
             "ClassName": "ExpansionCheese1",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9963,7 +9963,7 @@
         },
         {
             "ClassName": "ExpansionCheese2",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9976,7 +9976,7 @@
         },
         {
             "ClassName": "ExpansionCheese3",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9989,7 +9989,7 @@
         },
         {
             "ClassName": "ExpansionCheese4",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10002,7 +10002,7 @@
         },
         {
             "ClassName": "AgaricusMushroom",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10015,7 +10015,7 @@
         },
         {
             "ClassName": "Apple",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10028,7 +10028,7 @@
         },
         {
             "ClassName": "AuriculariaMushroom",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10041,7 +10041,7 @@
         },
         {
             "ClassName": "BakedBeansCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10054,7 +10054,7 @@
         },
         {
             "ClassName": "BakedBeansCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10067,7 +10067,7 @@
         },
         {
             "ClassName": "BearSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10080,7 +10080,7 @@
         },
         {
             "ClassName": "Bitterlings",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10093,7 +10093,7 @@
         },
         {
             "ClassName": "BoarSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10106,7 +10106,7 @@
         },
         {
             "ClassName": "BoletusMushroom",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10119,7 +10119,7 @@
         },
         {
             "ClassName": "BoxCerealCrunchin",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10132,7 +10132,7 @@
         },
         {
             "ClassName": "BrisketSpread",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10145,7 +10145,7 @@
         },
         {
             "ClassName": "BrisketSpread_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10158,7 +10158,7 @@
         },
         {
             "ClassName": "Candycane_Green",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10171,7 +10171,7 @@
         },
         {
             "ClassName": "Candycane_Red",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10184,7 +10184,7 @@
         },
         {
             "ClassName": "Candycane_RedGreen",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10197,7 +10197,7 @@
         },
         {
             "ClassName": "Candycane_Yellow",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10210,7 +10210,7 @@
         },
         {
             "ClassName": "Canteen",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10223,7 +10223,7 @@
         },
         {
             "ClassName": "Carp",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10236,7 +10236,7 @@
         },
         {
             "ClassName": "CarpFilletMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10249,7 +10249,7 @@
         },
         {
             "ClassName": "CatFoodCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10262,7 +10262,7 @@
         },
         {
             "ClassName": "CatFoodCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10275,7 +10275,7 @@
         },
         {
             "ClassName": "ChickenBreastMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10288,7 +10288,7 @@
         },
         {
             "ClassName": "Chips",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10301,7 +10301,7 @@
         },
         {
             "ClassName": "CowSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10314,7 +10314,7 @@
         },
         {
             "ClassName": "Crackers",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10327,7 +10327,7 @@
         },
         {
             "ClassName": "DeadChicken_Brown",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10340,7 +10340,7 @@
         },
         {
             "ClassName": "DeadChicken_Spotted",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10353,7 +10353,7 @@
         },
         {
             "ClassName": "DeadChicken_White",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10366,7 +10366,7 @@
         },
         {
             "ClassName": "DeadRabbit",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10379,7 +10379,7 @@
         },
         {
             "ClassName": "DeadRooster",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10392,7 +10392,7 @@
         },
         {
             "ClassName": "DeerSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10405,7 +10405,7 @@
         },
         {
             "ClassName": "DogFoodCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10418,7 +10418,7 @@
         },
         {
             "ClassName": "DogFoodCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10431,7 +10431,7 @@
         },
         {
             "ClassName": "GoatSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10444,7 +10444,7 @@
         },
         {
             "ClassName": "GreenBellPepper",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10457,7 +10457,7 @@
         },
         {
             "ClassName": "Honey",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10470,7 +10470,7 @@
         },
         {
             "ClassName": "HumanSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10483,7 +10483,7 @@
         },
         {
             "ClassName": "LactariusMushroom",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10496,7 +10496,7 @@
         },
         {
             "ClassName": "Lard",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10509,7 +10509,7 @@
         },
         {
             "ClassName": "Lunchmeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10522,7 +10522,7 @@
         },
         {
             "ClassName": "Lunchmeat_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10535,7 +10535,7 @@
         },
         {
             "ClassName": "Mackerel",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10548,7 +10548,7 @@
         },
         {
             "ClassName": "MackerelFilletMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10561,7 +10561,7 @@
         },
         {
             "ClassName": "MacrolepiotaMushroom",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10574,7 +10574,7 @@
         },
         {
             "ClassName": "Marmalade",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10587,7 +10587,7 @@
         },
         {
             "ClassName": "Pajka",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10600,7 +10600,7 @@
         },
         {
             "ClassName": "Pajka_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10613,7 +10613,7 @@
         },
         {
             "ClassName": "Pate",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10626,7 +10626,7 @@
         },
         {
             "ClassName": "Pate_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10639,7 +10639,7 @@
         },
         {
             "ClassName": "PeachesCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10652,7 +10652,7 @@
         },
         {
             "ClassName": "PeachesCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10665,7 +10665,7 @@
         },
         {
             "ClassName": "Pear",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10678,7 +10678,7 @@
         },
         {
             "ClassName": "PepperSeedsPack",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10691,7 +10691,7 @@
         },
         {
             "ClassName": "PigSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10704,7 +10704,7 @@
         },
         {
             "ClassName": "PleurotusMushroom",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10717,7 +10717,7 @@
         },
         {
             "ClassName": "Plum",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10730,7 +10730,7 @@
         },
         {
             "ClassName": "PorkCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10743,7 +10743,7 @@
         },
         {
             "ClassName": "PorkCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10756,7 +10756,7 @@
         },
         {
             "ClassName": "Potato",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10769,7 +10769,7 @@
         },
         {
             "ClassName": "PotatoSeed",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10782,7 +10782,7 @@
         },
         {
             "ClassName": "PowderedMilk",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10795,7 +10795,7 @@
         },
         {
             "ClassName": "Pumpkin",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10808,7 +10808,7 @@
         },
         {
             "ClassName": "PumpkinSeedsPack",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10821,7 +10821,7 @@
         },
         {
             "ClassName": "RabbitLegMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10834,7 +10834,7 @@
         },
         {
             "ClassName": "Rice",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10847,7 +10847,7 @@
         },
         {
             "ClassName": "SaltySticks",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10860,7 +10860,7 @@
         },
         {
             "ClassName": "Sardines",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10873,7 +10873,7 @@
         },
         {
             "ClassName": "SardinesCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10886,7 +10886,7 @@
         },
         {
             "ClassName": "SardinesCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10899,7 +10899,7 @@
         },
         {
             "ClassName": "SheepSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10912,7 +10912,7 @@
         },
         {
             "ClassName": "SlicedPumpkin",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10925,7 +10925,7 @@
         },
         {
             "ClassName": "SodaCan_Cola",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10938,7 +10938,7 @@
         },
         {
             "ClassName": "SodaCan_Fronta",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10951,7 +10951,7 @@
         },
         {
             "ClassName": "SodaCan_Kvass",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10964,7 +10964,7 @@
         },
         {
             "ClassName": "SodaCan_Pipsi",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10977,7 +10977,7 @@
         },
         {
             "ClassName": "SodaCan_Spite",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10990,7 +10990,7 @@
         },
         {
             "ClassName": "SpaghettiCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11003,7 +11003,7 @@
         },
         {
             "ClassName": "SpaghettiCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11016,7 +11016,7 @@
         },
         {
             "ClassName": "TacticalBaconCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11029,7 +11029,7 @@
         },
         {
             "ClassName": "TacticalBaconCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11042,7 +11042,7 @@
         },
         {
             "ClassName": "Tomato",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11055,7 +11055,7 @@
         },
         {
             "ClassName": "TomatoSeedsPack",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11068,7 +11068,7 @@
         },
         {
             "ClassName": "TunaCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11081,7 +11081,7 @@
         },
         {
             "ClassName": "TunaCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11094,7 +11094,7 @@
         },
         {
             "ClassName": "UnknownFoodCan",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11107,7 +11107,7 @@
         },
         {
             "ClassName": "UnknownFoodCan_Opened",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11120,7 +11120,7 @@
         },
         {
             "ClassName": "WolfSteakMeat",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11133,7 +11133,7 @@
         },
         {
             "ClassName": "Zagorky",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11146,7 +11146,7 @@
         },
         {
             "ClassName": "ZagorkyChocolate",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11159,7 +11159,7 @@
         },
         {
             "ClassName": "ZagorkyPeanuts",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11172,7 +11172,7 @@
         },
         {
             "ClassName": "Zucchini",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11185,7 +11185,7 @@
         },
         {
             "ClassName": "ZucchiniSeedsPack",
-            "Chance": 0.02,
+            "Chance": 0.002,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0

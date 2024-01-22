@@ -5785,7 +5785,7 @@
             },
             {
                 "ClassName": "SRP_BigUtilityRack",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5798,7 +5798,7 @@
             },
             {
                 "ClassName": "SRP_SmallUtilityRack",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5811,7 +5811,7 @@
             },
             {
                 "ClassName": "SRP_SkKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5824,7 +5824,7 @@
             },
             {
                 "ClassName": "SRP_UtilityRackKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5837,7 +5837,7 @@
             },
             {
                 "ClassName": "SRP_WoodReserveKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5850,7 +5850,7 @@
             },
             {
                 "ClassName": "SRP_WoodpileKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5863,7 +5863,7 @@
             },
             {
                 "ClassName": "SRP_LockerGrayKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5876,7 +5876,7 @@
             },
             {
                 "ClassName": "SRP_LockerBlueKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5889,7 +5889,7 @@
             },
             {
                 "ClassName": "SRP_WeaponCrateKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5902,7 +5902,7 @@
             },
             {
                 "ClassName": "SRP_LogpileKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5915,7 +5915,7 @@
             },
             {
                 "ClassName": "SRP_WardrobeKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5928,7 +5928,7 @@
             },
             {
                 "ClassName": "SRP_GarbageContainerKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5941,7 +5941,7 @@
             },
             {
                 "ClassName": "SRP_SmallCupboardKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5954,7 +5954,7 @@
             },
             {
                 "ClassName": "SRP_MetalGarbageBinKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5967,7 +5967,7 @@
             },
             {
                 "ClassName": "SRP_PlasticGarbageBinKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5980,7 +5980,7 @@
             },
             {
                 "ClassName": "SRP_ToolTrolleyKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -5993,7 +5993,7 @@
             },
             {
                 "ClassName": "SRP_MaterialStorageCrateKit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6006,7 +6006,7 @@
             },
             {
                 "ClassName": "ItemStarRuby",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6019,7 +6019,7 @@
             },
             {
                 "ClassName": "ItemRodochrosite",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6032,7 +6032,7 @@
             },
             {
                 "ClassName": "ItemPinkTourmaline",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6045,7 +6045,7 @@
             },
             {
                 "ClassName": "ItemAlexandrit",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6058,7 +6058,7 @@
             },
             {
                 "ClassName": "ItemIndicolite",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6071,7 +6071,7 @@
             },
             {
                 "ClassName": "ItemAquamarine",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6084,7 +6084,7 @@
             },
             {
                 "ClassName": "ItemEmerald",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6097,7 +6097,7 @@
             },
             {
                 "ClassName": "ItemYellowBeryl",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6110,7 +6110,7 @@
             },
             {
                 "ClassName": "ItemCitrine",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6123,7 +6123,7 @@
             },
             {
                 "ClassName": "ItemRuby",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6136,7 +6136,7 @@
             },
             {
                 "ClassName": "ItemKunzite",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6149,7 +6149,7 @@
             },
             {
                 "ClassName": "ItemAlienIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6162,7 +6162,7 @@
             },
             {
                 "ClassName": "ItemCharCoalIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6175,7 +6175,7 @@
             },
             {
                 "ClassName": "ItemSulfurIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6188,7 +6188,7 @@
             },
             {
                 "ClassName": "ItemCopperIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6201,7 +6201,7 @@
             },
             {
                 "ClassName": "ItemDiamondIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6214,7 +6214,7 @@
             },
             {
                 "ClassName": "ItemGoldIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6227,7 +6227,7 @@
             },
             {
                 "ClassName": "ItemIronIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6240,7 +6240,7 @@
             },
             {
                 "ClassName": "ItemSilverIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6253,7 +6253,7 @@
             },
             {
                 "ClassName": "ItemTinIngot",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6266,7 +6266,7 @@
             },
             {
                 "ClassName": "ItemAlienNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6279,7 +6279,7 @@
             },
             {
                 "ClassName": "ItemCharCoalNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6292,7 +6292,7 @@
             },
             {
                 "ClassName": "ItemSulfurNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6305,7 +6305,7 @@
             },
             {
                 "ClassName": "ItemCopperNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6318,7 +6318,7 @@
             },
             {
                 "ClassName": "ItemDiamondNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6331,7 +6331,7 @@
             },
             {
                 "ClassName": "ItemGoldNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6344,7 +6344,7 @@
             },
             {
                 "ClassName": "ItemIronNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6357,7 +6357,7 @@
             },
             {
                 "ClassName": "ItemSilverNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -6370,7 +6370,7 @@
             },
             {
                 "ClassName": "ItemTinNugget",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -8060,7 +8060,7 @@
             },
             {
                 "ClassName": "NailBox",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 0.0,
                     "Max": 0.0
@@ -8073,7 +8073,7 @@
             },
             {
                 "ClassName": "TetracyclineAntibiotics",
-                "Chance": 0.01,
+                "Chance": 0.001,
                 "Quantity": {
                     "Min": 1.0,
                     "Max": 12.0
