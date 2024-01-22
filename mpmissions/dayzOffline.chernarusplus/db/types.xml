@@ -2496,7 +2496,7 @@
         <value name="Tier2"/>
     </type>
 
-<!-- V2.1 - 13 Oct 2020 -->
+    <!-- V2.1 - 13 Oct 2020 -->
  	<type name="CP_Plant_CannabisFuture">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -2866,7 +2866,7 @@
         <value name="Tier2"/>
     </type>
 
-<!-- V2.5 - 23 Nov 2020 -->
+    <!-- V2.5 - 23 Nov 2020 -->
     <type name="CP_Relief_Balm">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
