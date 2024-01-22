@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 75000,
+            "Amount": 50000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
