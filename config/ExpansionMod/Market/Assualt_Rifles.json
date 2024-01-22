@@ -24,7 +24,7 @@
             "ClassName": "akm",
             "MaxPriceThreshold": 30000,
             "MinPriceThreshold": 30000,
-            "SellPricePercent": 100,
+            "SellPricePercent": 25,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
