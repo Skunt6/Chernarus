@@ -9,7 +9,7 @@
     "AISpawns": [
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     277.3529968261719,
@@ -72,7 +72,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     291.468994140625,
@@ -135,7 +135,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     291.79901123046877,
@@ -198,7 +198,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     296.40399169921877,
@@ -261,7 +261,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     300.2130126953125,
@@ -324,7 +324,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     288.39300537109377,
@@ -387,7 +387,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     283.6419982910156,
@@ -450,7 +450,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     268.6549987792969,
@@ -513,7 +513,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     280.50299072265627,
@@ -576,7 +576,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Reaper",
             "Waypoints": [
                 [
                     260.0899963378906,

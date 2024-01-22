@@ -9,7 +9,7 @@
     "AISpawns": [
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Mysterious Medieval Knight",
             "Waypoints": [
                 [
                     1390.75,
@@ -72,7 +72,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Mysterious Medieval Knight",
             "Waypoints": [
                 [
                     1416.739990234375,
@@ -135,7 +135,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Mysterious Medieval Knight",
             "Waypoints": [
                 [
                     1424.4300537109376,
@@ -198,7 +198,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Mysterious Medieval Knight",
             "Waypoints": [
                 [
                     1494.6099853515626,
@@ -261,7 +261,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Mysterious Medieval Knight",
             "Waypoints": [
                 [
                     1389.4599609375,
@@ -324,7 +324,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Mysterious Medieval Knight",
             "Waypoints": [
                 [
                     1391.8499755859376,

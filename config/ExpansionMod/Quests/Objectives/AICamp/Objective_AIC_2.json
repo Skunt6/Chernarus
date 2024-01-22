@@ -9,7 +9,7 @@
     "AISpawns": [
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13687.2998046875,
@@ -72,7 +72,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13662.400390625,
@@ -135,7 +135,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13640.400390625,
@@ -198,7 +198,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13650.599609375,
@@ -261,7 +261,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13633.0,
@@ -324,7 +324,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13629.400390625,
@@ -387,7 +387,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13656.900390625,
@@ -450,7 +450,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13625.7998046875,
@@ -513,7 +513,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13616.2998046875,
@@ -576,7 +576,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Quest Target",
+            "NPCName": "Serpent",
             "Waypoints": [
                 [
                     13615.0,
