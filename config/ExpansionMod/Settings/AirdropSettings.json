@@ -9746,10 +9746,14 @@
                 "dbo_trex",
                 "dbo_tricero",
                 "dbo_raptor",
-                "dbo_raptorB"
+                "dbo_raptorB",
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder",
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder",
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder",
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder"
             ],
-            "InfectedCount": 5,
-            "ItemCount": 40,
+            "InfectedCount": 9,
+            "ItemCount": 20,
             "SpawnInfectedForPlayerCalledDrops": 0 
         }
     ]
