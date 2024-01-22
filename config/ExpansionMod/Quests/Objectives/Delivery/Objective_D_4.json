@@ -7,16 +7,16 @@
     "Active": 1,
     "Collections": [
         {
-            "Amount": 100,
+            "Amount": 1,
             "ClassName": "ExpansionGoldBar",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
         },
         {
-            "Amount": 100,
+            "Amount": 1,
             "ClassName": "ExpansionSilverBar",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "QuantityPercent": 100,
+            "MinQuantityPercent": 100
         }
     ],
     "ShowDistance": 1,
