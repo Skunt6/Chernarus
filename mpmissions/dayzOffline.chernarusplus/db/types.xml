@@ -20560,7 +20560,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionParkingMeterKit">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -20571,7 +20571,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionCircuitBoard_MK1">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -20582,7 +20582,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionCircuitBoard_MK2">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -20593,7 +20593,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionCircuitBoard_MK3">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
