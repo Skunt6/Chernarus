@@ -19,7 +19,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 1.0,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -43,7 +43,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 1.0,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -67,7 +67,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 1.0,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -95,13 +95,33 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 1.0,
                             "Max": 1.0,
                             "Zone": ""
                         }
                     ],
                     "InventoryAttachments": [],
-                    "InventoryCargo": [],
+                    "InventoryCargo": [
+                        {
+                            "ClassName": "MMG_sheath_dark_woodland",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
                 }
@@ -119,7 +139,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 1.0,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -135,7 +155,7 @@
             "SlotName": "Gloves",
             "Items": [
                 {
-                    "ClassName": "mmg_tactical_gloves_green",
+                    "ClassName": "mmg_tactical_gloves_dark_woodland",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -143,7 +163,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 1.0,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -159,7 +179,7 @@
             "SlotName": "Hips",
             "Items": [
                 {
-                    "ClassName": "MilitaryBelt",
+                    "ClassName": "MMG_falcon_b1_belt_dark_woodland",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -167,7 +187,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 1.0,
                             "Max": 1.0,
                             "Zone": ""
                         }
