@@ -568,8 +568,8 @@
 				<item name="PressVest_Blue" chance="0.25" />
 				<item name="PressVest_LightBlue" chance="0.25" />
 		</attachments>
-		<attachments chance= "0.01" name="milguns">
-			<item name="M4A1" chance="0.1" />
+		<attachments chance= "1.0" name="milguns">
+			<item name="M4A1" chance="0.5" />
 				<attachments chance= "0.1" name="M4_OEBttstck">
 				<attachments chance= "0.1" name="M4_PlasticHndgrd">
 				<attachments chance= "0.1" name="BUISOptic">
@@ -579,7 +579,7 @@
 				<attachments chance= "0.07" name="Mag_CMAG_20Rnd">
 				<attachments chance= "0.03" name="Mag_CMAG_30Rnd">
 			</item name>	
-			<item name="M14" chance="0.01" />
+			<item name="M14" chance="0.5" />
 				<attachments chance= "0.1" name="Mag_M14_10Rnd">
 				<attachments chance= "0.08" name="Mag_M14_20Rnd">
 				<attachments chance= "0.1" name="M4_T3NRDSOptic">
