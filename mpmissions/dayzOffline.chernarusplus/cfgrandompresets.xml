@@ -45,6 +45,49 @@
 				<item name="CP_JointBlackFrost" chance="0.01" />
 				<item name="CP_EmptyBag" chance="0.01" />
 		</cargo>
+		<cargo chance="0.01" name="gems">
+				<item name="AlienOre" chance="0.008" />
+				<item name="GoldOre" chance="0.008" />
+				<item name="SilverOre" chance="0.008" />
+				<item name="DiamondOre" chance="0.008" />
+				<item name="CopperOre" chance="0.008" />
+				<item name="TinOre" chance="0.008" />
+				<item name="IronOre" chance="0.008" />
+				<item name="CharCoalOre" chance="0.008" />
+				<item name="SulfurOre" chance="0.008" />
+				<item name="Box_Kit_Furnace" chance="0.008" />
+				<item name="Furnace" chance="0.008" />
+				<item name="CopperStill" chance="0.008" />
+				<item name="ItemStarRuby" chance="0.008" />
+				<item name="ItemRodochrosite" chance="0.008" />
+				<item name="ItemPinkTourmaline" chance="0.008" />
+				<item name="ItemAlexandrit" chance="0.008" />
+				<item name="ItemIndicolite" chance="0.008" />
+				<item name="ItemAquamarine" chance="0.008" />
+				<item name="ItemEmerald" chance="0.008" />
+				<item name="ItemYellowBeryl" chance="0.008" />
+				<item name="ItemCitrine" chance="0.008" />
+				<item name="ItemRuby" chance="0.008" />
+				<item name="ItemKunzite" chance="0.008" />
+				<item name="ItemAlienIngot" chance="0.008" />
+				<item name="ItemCharCoalIngot" chance="0.008" />
+				<item name="ItemSulfurIngot" chance="0.008" />
+				<item name="ItemCopperIngot" chance="0.008" />
+				<item name="ItemDiamondIngot" chance="0.008" />
+				<item name="ItemGoldIngot" chance="0.008" />
+				<item name="ItemIronIngot" chance="0.008" />
+				<item name="ItemSilverIngot" chance="0.008" />
+				<item name="ItemTinIngot" chance="0.008" />
+				<item name="ItemAlienNugget" chance="0.008" />
+				<item name="ItemCharCoalNugget" chance="0.008" />
+				<item name="ItemSulfurNugget" chance="0.008" />
+				<item name="ItemCopperNugget" chance="0.008" />
+				<item name="ItemDiamondNugget" chance="0.008" />
+				<item name="ItemGoldNugget" chance="0.008" />
+				<item name="ItemIronNugget" chance="0.008" />
+				<item name="ItemSilverNugget" chance="0.008" />
+				<item name="ItemTinNugget" chance="0.008" />
+		</cargo>
 		<cargo chance="0.16" name="foodVillage">
 				<item name="SodaCan_Cola" chance="0.02" />
 				<item name="SodaCan_Pipsi" chance="0.02" />
@@ -525,12 +568,32 @@
 				<item name="PressVest_Blue" chance="0.25" />
 				<item name="PressVest_LightBlue" chance="0.25" />
 		</attachments>
-		
+		<attachments chance= "0.01" name="milguns">
+			<item name="M4A1" chance="0.1" />
+				<attachments chance= "0.1" name="M4_OEBttstck">
+				<attachments chance= "0.1" name="M4_PlasticHndgrd">
+				<attachments chance= "0.1" name="BUISOptic">
+				<attachments chance= "0.1" name="M4_CarryHandleOptic">
+				<attachments chance= "0.01" name="Mag_CMAG_40Rnd">
+				<attachments chance= "0.1" name="Mag_CMAG_10Rnd">
+				<attachments chance= "0.07" name="Mag_CMAG_20Rnd">
+				<attachments chance= "0.03" name="Mag_CMAG_30Rnd">
+			</item name>	
+			<item name="M14" chance="0.01" />
+				<attachments chance= "0.1" name="Mag_M14_10Rnd">
+				<attachments chance= "0.08" name="Mag_M14_20Rnd">
+				<attachments chance= "0.1" name="M4_T3NRDSOptic">
+				<attachments chance= "0.1" name="ReflexOptic">
+				<attachments chance= "0.05" name="ACOGOptic">
+				<attachments chance= "0.01" name="ACOGOptic_6x">
+			</item name>
+		</attachments>
 		<!--Headtorches-->
 		<attachments chance= "0.03" name="headtorches">
 			<item name="Headtorch_Grey" chance="0.5" />
 			<item name="Headtorch_Black" chance="0.5" />
 		</attachments>
+		
 		
 		<!--T1 GEAR-->
 		<cargo chance="0.15" name="drinks_T1">
