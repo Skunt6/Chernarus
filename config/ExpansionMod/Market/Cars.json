@@ -90,7 +90,7 @@
             "MinPriceThreshold": 120000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 5,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "hatchback_02_wheel",
@@ -118,7 +118,7 @@
             "MinPriceThreshold": 150000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 5,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "sedan_02_wheel",

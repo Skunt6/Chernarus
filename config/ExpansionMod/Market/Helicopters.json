@@ -12,7 +12,7 @@
             "MinPriceThreshold": 1000000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionhelicopterbattery",
@@ -26,7 +26,7 @@
             "MinPriceThreshold": 1500000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionhelicopterbattery",
@@ -40,7 +40,7 @@
             "MinPriceThreshold": 2000000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionhelicopterbattery",
@@ -60,7 +60,7 @@
             "MinPriceThreshold": 2500000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionhelicopterbattery",
@@ -80,7 +80,7 @@
             "MinPriceThreshold": 4000000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 10,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionhelicopterbattery",
