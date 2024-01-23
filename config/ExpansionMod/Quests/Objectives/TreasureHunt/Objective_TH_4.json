@@ -2,7 +2,7 @@
     "ConfigVersion": 26,
     "ID": 4,
     "ObjectiveType": 6,
-    "ObjectiveText": "Collect ",
+    "ObjectiveText": "Collect",
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 1,

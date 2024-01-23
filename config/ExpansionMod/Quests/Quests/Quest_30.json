@@ -1,0 +1,63 @@
+{
+    "ConfigVersion": 21,
+    "ID": 30,
+    "Type": 1,
+    "Title": "Convoy Ambush",
+    "Descriptions": [
+        "Survivor, your last mission's intel led us to a valuable discovery—a serpent convoy moving crucial supplies. Your task is to ambush and eliminate this convoy swiftly. Among them is Captain Roland, a deadly marksman, and his loyal lieutenant, Lieutenant Ericson. Both are formidable threats, so approach with caution and eliminate them. Your previous actions set the stage for this operation. Disrupt the serpents' logistics and seize this opportunity. Time is short. Execute this mission with precision, and we'll strike a significant blow to the serpents."
+    ],
+    "ObjectiveText": "Intercept the convoy",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "convoy",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 25000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 4,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 2000,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        18
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

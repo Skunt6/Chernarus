@@ -2,7 +2,7 @@
     "ConfigVersion": 26,
     "ID": 1,
     "ObjectiveType": 8,
-    "ObjectiveText": "Kill all 10 Reapers at the marked location",
+    "ObjectiveText": "Kill all 10 Reapers",
     "TimeLimit": -1,
     "Active": 1,
     "InfectedDeletionRadius": 500.0,
