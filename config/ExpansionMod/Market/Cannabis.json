@@ -65,9 +65,9 @@
         },
 		{
             "ClassName": "CP_CannabisSeedsPackSkunk",
-            "MaxPriceThreshold": 0,
-            "MinPriceThreshold": 0,
-            "SellPricePercent":  -1,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent":  100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
