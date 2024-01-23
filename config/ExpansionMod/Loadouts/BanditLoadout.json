@@ -3002,7 +3002,34 @@
                             "Max": 0.0
                         },
                         "Health": [],
-                        "InventoryAttachments": [],
+                        "InventoryAttachments": [
+                            {
+                                "ClassName": "PlateCarrierHolster",
+                                "Chance": 0.5,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            },
+                            {
+                                "ClassName": "PlateCarrierPouches",
+                                "Chance": 0.1,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            }
+                        ],
                         "InventoryCargo": [],
                         "ConstructionPartsBuilt": [],
                         "Sets": []
@@ -3015,7 +3042,34 @@
                             "Max": 0.0
                         },
                         "Health": [],
-                        "InventoryAttachments": [],
+                        "InventoryAttachments": [
+                            {
+                                "ClassName": "PlateCarrierHolster_Black",
+                                "Chance": 0.5,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            },
+                            {
+                                "ClassName": "PlateCarrierPouches_Black",
+                                "Chance": 0.1,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            }
+                        ],
                         "InventoryCargo": [],
                         "ConstructionPartsBuilt": [],
                         "Sets": []
@@ -3028,7 +3082,34 @@
                             "Max": 0.0
                         },
                         "Health": [],
-                        "InventoryAttachments": [],
+                        "InventoryAttachments": [
+                            {
+                                "ClassName": "PlateCarrierHolster_Camo",
+                                "Chance": 0.5,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            },
+                            {
+                                "ClassName": "PlateCarrierPouches_Camo",
+                                "Chance": 0.1,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            }
+                        ],
                         "InventoryCargo": [],
                         "ConstructionPartsBuilt": [],
                         "Sets": []
@@ -3041,7 +3122,34 @@
                             "Max": 0.0
                         },
                         "Health": [],
-                        "InventoryAttachments": [],
+                        "InventoryAttachments": [
+                            {
+                                "ClassName": "PlateCarrierHolster_Green",
+                                "Chance": 0.5,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            },
+                            {
+                                "ClassName": "PlateCarrierPouches_Green",
+                                "Chance": 0.1,
+                                "Quantity": {
+                                    "Min": 0.0,
+                                    "Max": 0.0
+                                },
+                                "Health": [],
+                                "InventoryAttachments": [],
+                                "InventoryCargo": [],
+                                "ConstructionPartsBuilt": [],
+                                "Sets": []
+                            }
+                        ],
                         "InventoryCargo": [],
                         "ConstructionPartsBuilt": [],
                         "Sets": []
