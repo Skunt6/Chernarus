@@ -5310,7 +5310,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -5498,7 +5498,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -5699,7 +5699,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -5887,7 +5887,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -6075,7 +6075,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -6263,7 +6263,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -6451,7 +6451,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -6639,7 +6639,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -6827,7 +6827,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -7015,7 +7015,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
@@ -7203,7 +7203,7 @@
                                 },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
