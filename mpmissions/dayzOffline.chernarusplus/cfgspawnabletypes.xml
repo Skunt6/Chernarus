@@ -9679,7 +9679,6 @@
 	</type>
 	<type name="SmershBag">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ChildBag_Green">
@@ -9709,7 +9708,6 @@
 	</type>
 	<type name="TortillaBag">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ArmyPouch_Beige">
@@ -9718,12 +9716,10 @@
 	</type>
 	<type name="ArmyPouch_Black">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ArmyPouch_Camo">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ArmyPouch_Green">
@@ -9791,7 +9787,6 @@
 	</type>
 	<type name="DuffelBagSmall_Camo">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="DuffelBagSmall_Medical">
@@ -9805,12 +9800,10 @@
 			<item name="AntiChemInjector" />
 		</cargo>
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="DuffelBagSmall_Green">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="FirstAidKit">
@@ -10313,47 +10306,38 @@
 	</type>
 	<type name="M65Jacket_Black">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="M65Jacket_Khaki">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="M65Jacket_Tan">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="M65Jacket_Olive">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="TTsKOJacket_Camo">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="GorkaEJacket_Summer">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="GorkaEJacket_Flat">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="GorkaEJacket_Autumn">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="GorkaEJacket_PautRev">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="RidersJacket_Black">
@@ -10563,12 +10547,10 @@
 	</type>
 	<type name="USMCJacket_Desert">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="USMCJacket_Woodland">
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="Blouse_Blue">
@@ -10666,7 +10648,6 @@
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 		<attachments preset="headtorches" />
 		<attachments preset="hatsArmy" />
@@ -10677,7 +10658,6 @@
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 		<attachments preset="headtorches" />
 		<attachments preset="hatsArmy" />
@@ -10688,7 +10668,6 @@
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 		<attachments preset="headtorches" />
 		<attachments preset="hatsArmy" />
@@ -10699,7 +10678,6 @@
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 		<attachments preset="headtorches" />
 		<attachments preset="hatsArmy" />
@@ -10710,7 +10688,6 @@
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
 		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />
 		<cargo preset="ammoArmy" />
 		<attachments preset="headtorches" />
 		<attachments preset="hatsArmy" />
@@ -10720,16 +10697,14 @@
 	<type name="ZmbM_usSoldier_Officer_Desert">
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
-		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />		
+		<cargo preset="foodArmy" />		
 		<attachments preset="headtorches" />
 		<attachments preset="OfficerHatArmy" />
 	</type>
 	<type name="ZmbM_usSoldier_Heavy_Woodland">
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
-		<cargo preset="foodArmy" />
-		<attachments preset="milguns" />		
+		<cargo preset="foodArmy" />		
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
