@@ -113,7 +113,21 @@
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
-                                    "InventoryCargo": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "CombatKnife",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
                                 },
@@ -126,7 +140,47 @@
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
-                                    "InventoryCargo": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "SNAFUAX50_Mag",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "SNAFUAX50_Mag",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "SNAFUAX50_Mag",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
                                 }
