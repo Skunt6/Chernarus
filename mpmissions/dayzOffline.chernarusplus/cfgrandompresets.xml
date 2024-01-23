@@ -566,6 +566,67 @@
 			<item name="UKAssVest_Khaki" chance="0.2" />
 			<item name="UKAssVest_Olive" chance="0.2" />
 			<item name="SmershVest" chance="0.05" />
+			<item name="MMG_JPC_Vest_alpine" chance="0.005" />
+			<item name="MMG_tt_Vest_alpine" chance="0.005" />
+			<item name="MMG_chestrig_alpine" chance="0.005" />
+			<item name="MMG_MK_III_Armor_alpine" chance="0.005" />
+			<item name="MMG_MK_V_Armor_alpine" chance="0.005" />
+			<item name="MMG_JPC_Vest_atacs" chance="0.005" />
+			<item name="MMG_tt_Vest_atacs" chance="0.005" />
+			<item name="MMG_chestrig_atacs" chance="0.005" />
+			<item name="MMG_MK_III_Armor_atacs" chance="0.005" />
+			<item name="MMG_MK_V_Armor_atacs" chance="0.005" />
+			<item name="MMG_JPC_Vest_black" chance="0.005" />
+			<item name="MMG_tt_Vest_black" chance="0.005" />
+			<item name="MMG_chestrig_black" chance="0.005" />
+			<item name="MMG_MK_III_Armor_black" chance="0.005" />
+			<item name="MMG_MK_V_Armor_black" chance="0.005" />
+			<item name="MMG_JPC_Vest_dark_woodland" chance="0.005" />
+			<item name="MMG_tt_Vest_dark_woodland" chance="0.005" />
+			<item name="MMG_chestrig_dark_woodland" chance="0.005" />
+			<item name="MMG_MK_III_Armor_dark_woodland" chance="0.005" />
+			<item name="MMG_MK_V_Armor_dark_woodland" chance="0.005" />
+			<item name="MMG_JPC_Vest_erdl" chance="0.005" />
+			<item name="MMG_tt_Vest_erdl" chance="0.005" />
+			<item name="MMG_chestrig_erdl" chance="0.005" />
+			<item name="MMG_MK_III_Armor_erdl" chance="0.005" />
+			<item name="MMG_MK_V_Armor_erdl" chance="0.005" />
+			<item name="MMG_JPC_Vest_multicam" chance="0.005" />
+			<item name="MMG_tt_Vest_multicam" chance="0.005" />
+			<item name="MMG_chestrig_multicam" chance="0.005" />
+			<item name="MMG_MK_III_Armor_multicam" chance="0.005" />
+			<item name="MMG_MK_V_Armor_multicam" chance="0.005" />
+			<item name="MMG_JPC_Vest_multicam_tropic" chance="0.005" />
+			<item name="MMG_tt_Vest_multicam_tropic" chance="0.005" />
+			<item name="MMG_chestrig_multicam_tropic" chance="0.005" />
+			<item name="MMG_MK_III_Armor_multicam_tropic" chance="0.005" />
+			<item name="MMG_MK_V_Armor_multicam_tropic" chance="0.005" />
+			<item name="MMG_JPC_Vest_multicamblack" chance="0.005" />
+			<item name="MMG_tt_Vest_multicamblack" chance="0.005" />
+			<item name="MMG_chestrig_multicamblack" chance="0.005" />
+			<item name="MMG_MK_III_Armor_multicamblack" chance="0.005" />
+			<item name="MMG_MK_V_Armor_multicamblack" chance="0.005" />
+			<item name="MMG_tt_Vest_police" chance="0.005" />
+			<item name="MMG_JPC_Vest_tan" chance="0.005" />
+			<item name="MMG_tt_Vest_tan" chance="0.005" />
+			<item name="MMG_chestrig_tan" chance="0.005" />
+			<item name="MMG_MK_III_Armor_tan" chance="0.005" />
+			<item name="MMG_MK_V_Armor_tan" chance="0.005" />
+			<item name="MMG_JPC_Vest_ucp" chance="0.005" />
+			<item name="MMG_tt_Vest_ucp" chance="0.005" />
+			<item name="MMG_chestrig_ucp" chance="0.005" />
+			<item name="MMG_MK_III_Armor_ucp" chance="0.005" />
+			<item name="MMG_MK_V_Armor_ucp" chance="0.005" />
+			<item name="MMG_JPC_Vest_olive" chance="0.005" />
+			<item name="MMG_MK_III_Armor_green" chance="0.005" />
+			<item name="MMG_chestrig_green" chance="0.005" />
+			<item name="MMG_tt_Vest_green" chance="0.005" />
+			<item name="MMG_MK_V_Armor_green" chance="0.005" />
+			<item name="MMG_JPC_Vest_black" chance="0.005" />
+			<item name="MMG_tt_Vest_black" chance="0.005" />
+			<item name="MMG_chestrig_black" chance="0.005" />
+			<item name="MMG_MK_III_Armor_black" chance="0.005" />
+			<item name="MMG_MK_V_Armor_black" chance="0.005" />
 		</attachments>
 		<attachments chance="0.08" name="bagsArmy">
 			<item name="DuffelBagSmall_Camo" chance="0.15" />
