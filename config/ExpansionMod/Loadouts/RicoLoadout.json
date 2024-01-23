@@ -100,7 +100,9 @@
                             "Zone": ""
                         }
                     ],
-                    "InventoryAttachments": [
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [
                         {
                             "ClassName": "MMG_sheath_dark_woodland",
                             "Chance": 1.0,
@@ -121,8 +123,6 @@
                             "Sets": []
                         }
                     ],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
                     "Sets": []
                 }
             ]
