@@ -11,7 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "GorkaEJacket_Autumn",
+                    "ClassName": "MMG_operatorshirt_dark_woodland",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -35,7 +35,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "GorkaPants_Autumn",
+                    "ClassName": "MMG_combatpants_dark_woodland",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -81,33 +81,13 @@
         },
         {
             "SlotName": "Back",
-            "Items": [
-                {
-                    "ClassName": "TortillaBag",
-                    "Chance": 0.6000000238418579,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
+            "Items": []
         },
         {
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "MMG_tt_Vest_dark_woodland",
+                    "ClassName": "MMG_JPC_Vest_dark_woodland",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -131,7 +111,7 @@
             "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "Ssh68Helmet",
+                    "ClassName": "mmg_boonie_dark_woodland",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -155,7 +135,7 @@
             "SlotName": "Gloves",
             "Items": [
                 {
-                    "ClassName": "OMNOGloves_Brown",
+                    "ClassName": "mmg_tactical_gloves_green",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -201,27 +181,7 @@
         },
         {
             "SlotName": "MASK",
-            "Items": [
-                {
-                    "ClassName": "MMG_facemask_joker",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
+            "Items": []
         }
     ],
     "InventoryCargo": [],
