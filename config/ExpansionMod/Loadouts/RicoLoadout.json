@@ -112,8 +112,7 @@
                                         "Max": 0.0
                                     },
                                     "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [
+                                    "InventoryAttachments": [
                                         {
                                             "SlotName": "",
                                             "Items": [
@@ -131,8 +130,9 @@
                                                     "Sets": []
                                                 }
                                             ]
-                                        }        
+                                        }
                                     ],
+                                    "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
                                 },
@@ -144,8 +144,7 @@
                                         "Max": 0.0
                                     },
                                     "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [
+                                    "InventoryAttachments": [
                                         {
                                             "SlotName": "",
                                             "Items": [
@@ -189,8 +188,9 @@
                                                     "Sets": []
                                                 }
                                             ]
-                                        }        
+                                        }
                                     ],
+                                    "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
                                 }
