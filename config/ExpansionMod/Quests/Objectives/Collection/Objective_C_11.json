@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 26,
+    "ID": 11,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find Transmitter",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "PersonalRadio",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

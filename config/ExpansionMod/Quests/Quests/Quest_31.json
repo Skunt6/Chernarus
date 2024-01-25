@@ -1,0 +1,47 @@
+{
+    "ConfigVersion": 21,
+    "ID": 31,
+    "Type": 1,
+    "Title": "Find a Handheld Transmitter",
+    "Descriptions": [
+        "Amidst the desolate expanse of Chernarus, its once-thriving cities now nothing but silent witnesses to the world's unraveling, a faint radio transmission suddenly pierces through the static. My heart quickens as a voice crackles through the receiver, revealing the presence of a group of researchers in a hidden facility. Their urgent plea for assistance reverberates through the airwaves, and the hope of finding other friendly survivors flickers in my mind like a distant beacon amidst the darkness of this post-apocalyptic world."
+    ],
+    "ObjectiveText": "",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 11,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
