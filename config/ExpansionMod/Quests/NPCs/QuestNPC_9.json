@@ -1,31 +1,15 @@
 {
     "ConfigVersion": 6,
-    "ID": 1,
-    "ClassName": "ExpansionQuestNPCAIDenis",
+    "ID": 9,
+    "ClassName": "ExpansionQuestNPCAIPeter",
     "Position": [],
     "Orientation": [],
-    "NPCName": "Rico",
-    "DefaultNPCText": "Hmm?",
+    "NPCName": "Mick Dodge",
+    "DefaultNPCText": "Pick up some trash.",
     "Waypoints": [
         [
             3691.6, 402.098, 5996.85
-        ],
-        [
-            3722.21, 401.609, 6007.6
-        ],
-        [
-            3701.82, 402.012, 5981.1
-        ],
-        [
-            3709.11, 402.012, 5965.54
-        ],
-        [
-            3675.86, 402.691, 5991.91
-        ],
-        [
-            3701.51, 402.012, 6006.14
         ]
-        
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
@@ -36,5 +20,5 @@
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
     "NPCType": 2,
-    "Active": 1
+    "Active": 0
 }
