@@ -97,8 +97,8 @@
     "UseDeathScreen": 1,
     "UseDeathScreenStatistics": 1,
     "UseExpansionMainMenuLogo": 0,
-    "UseExpansionMainMenuIcons": 1,
-    "UseExpansionMainMenuIntroScene": 1,
+    "UseExpansionMainMenuIcons": 0,
+    "UseExpansionMainMenuIntroScene": 0,
     "UseNewsFeedInGameMenu": 1,
     "HUDColors": {
         "StaminaBarColor": "FFFFFFFF",
