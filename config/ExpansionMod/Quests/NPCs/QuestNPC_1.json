@@ -2,8 +2,16 @@
     "ConfigVersion": 6,
     "ID": 1,
     "ClassName": "ExpansionQuestNPCAIDenis",
-    "Position": [],
-    "Orientation": [],
+    "Position": [
+        [
+            3691.6, 402.098, 5996.85
+        ]
+    ],
+    "Orientation": [
+        [
+            146.85, 0, -0
+        ]
+    ],
     "NPCName": "Rico",
     "DefaultNPCText": "Hmm?",
     "Waypoints": [
