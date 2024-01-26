@@ -552,7 +552,7 @@
 			<item name="MMG_armored_helmet_green" chance="0.001" />
 			<item name="MMG_armored_helmet_visor_green" chance="0.001" />
 		</attachments>
-		<attachments chance="0.10" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
+		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
 			<item name="TacticalGoggles" chance="0.10" />
 			<item name="AviatorGlasses" chance="0.25" />
 			<item name="mmg_tac_goggles_red_black" chance="0.05" />

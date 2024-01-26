@@ -7,7 +7,7 @@
         "The setting sun casts long shadows over the desolate expanse of Chernarus, its once-thriving cities now silent witnesses to the world's unraveling. Amidst the haunting echoes of the apocalypse, a faint radio transmission pierces the static, unveiling the presence of a group of researchers in a hidden facility, urgently in need of assistance."
     ],
     "ObjectiveText": "Find the camp",
-    "FollowUpQuest": 31,
+    "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
