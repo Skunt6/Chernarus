@@ -3,14 +3,14 @@
     "ID": 1,
     "ClassName": "ExpansionQuestNPCAIDenis",
     "Position": [
-        [
-            3691.6, 402.098, 5996.85
-        ]
+
+        3691.6, 402.098, 5996.85
+        
     ],
     "Orientation": [
-        [
-            146.85, 0, -0
-        ]
+
+        146.85, 0, -0
+
     ],
     "NPCName": "Rico",
     "DefaultNPCText": "Hmm?",
@@ -44,6 +44,5 @@
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
     "NPCType": 2,
-    "IsAI": 1,
     "Active": 1
 }
