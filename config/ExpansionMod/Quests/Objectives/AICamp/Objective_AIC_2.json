@@ -9,7 +9,7 @@
     "AISpawns": [
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13687.2998046875,
@@ -29,7 +29,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -72,7 +72,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Lieutenant",
             "Waypoints": [
                 [
                     13662.400390625,
@@ -82,7 +82,7 @@
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "LieutenantLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -92,7 +92,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.5,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -135,7 +135,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13640.400390625,
@@ -155,7 +155,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -198,7 +198,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13650.599609375,
@@ -218,7 +218,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -261,7 +261,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13633.0,
@@ -281,7 +281,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -324,7 +324,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13629.400390625,
@@ -344,7 +344,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -450,7 +450,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13625.7998046875,
@@ -470,7 +470,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -513,7 +513,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13616.2998046875,
@@ -533,7 +533,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -576,7 +576,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     13615.0,
@@ -596,7 +596,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",

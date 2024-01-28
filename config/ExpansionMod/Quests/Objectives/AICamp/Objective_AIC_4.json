@@ -40,7 +40,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     5951.16, 258.461, 11124.6
@@ -48,7 +48,7 @@
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "SerpentsLoadout",
+            "Loadout": "PrivateLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -101,7 +101,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     5935.53, 258.708, 11116.4
@@ -109,7 +109,7 @@
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "SerpentsLoadout",
+            "Loadout": "PrivateLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -193,7 +193,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Private",
             "Waypoints": [
                 [
                     5918.42, 258.889, 11133.9
@@ -201,7 +201,7 @@
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "SerpentsLoadout",
+            "Loadout": "PrivateLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
