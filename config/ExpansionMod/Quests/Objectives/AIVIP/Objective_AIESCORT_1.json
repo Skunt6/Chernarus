@@ -16,5 +16,5 @@
     "CanLootAI": 0,
     "NPCLoadoutFile": "ApprenticeLoadout",
     "NPCClassName": "Apprentice",
-    "NPCName": "Survivor"
+    "NPCName": "Apprentice"
 }

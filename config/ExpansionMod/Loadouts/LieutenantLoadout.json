@@ -11,7 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "BDUJacket",
+                    "ClassName": "MMG_operatorshirt_tan",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -35,7 +35,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "BDUPants",
+                    "ClassName": "mmg_tactical_pants_tan",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -59,7 +59,7 @@
             "SlotName": "Feet",
             "Items": [
                 {
-                    "ClassName": "JungleBoots_Green",
+                    "ClassName": "MMG_boots_tan",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -87,7 +87,7 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "MMG_MK_III_Armor_green",
+                    "ClassName": "MMG_JPC_Vest_tan",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -105,126 +105,79 @@
                             "SlotName": "",
                             "Items": [
                                 {
-                                    "ClassName": "MMG_single_magpouch_green",
-                                    "Chance": 0.1,
+                                    "ClassName": "MMG_Mag_Pouch_tan",
+                                    "Chance": 0.2,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
                                     },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [
-                                        
-                                    ],
+                                    "Health": [],
+                                    "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
-                                }
-                            ]
-                        },
-                        {
-                            "SlotName": "",
-                            "Items": [
+                                },
                                 {
-                                    "ClassName": "MMG_double_magpouch_green",
-                                    "Chance": 0.1,
+                                    "ClassName": "MMG_Med_Pouch_tan",
+                                    "Chance": 0.2,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
                                     },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [
-                                        
-                                    ],
+                                    "Health": [],
+                                    "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
-                                }
-                            ]
-                        },
-                        {
-                            "SlotName": "",
-                            "Items": [
+                                },
                                 {
-                                    "ClassName": "MMG_Med_Pouch_olive",
-                                    "Chance": 0.1,
+                                    "ClassName": "MMG_ammo_pouch_tan",
+                                    "Chance": 0.2,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
                                     },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [
-                                        
-                                    ],
+                                    "Health": [],
+                                    "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
-                                }
-                            ]
-                        },
-                        {
-                            "SlotName": "",
-                            "Items": [
+                                },
                                 {
-                                    "ClassName": "MMG_tactical_pouch_green",
-                                    "Chance": 0.1,
+                                    "ClassName": "MMG_bottle_tan",
+                                    "Chance": 0.2,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
                                     },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [
-                                        
-                                    ],
+                                    "Health": [],
+                                    "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
-                                }
-                            ]
-                        },
-                        {
-                            "SlotName": "",
-                            "Items": [
+                                },
+                                {
+                                    "ClassName": "MMG_sheath_tan",
+                                    "Chance": 0.2,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
                                 {
                                     "ClassName": "MMG_nbc_pouch",
-                                    "Chance": 0.01,
+                                    "Chance": 0.05,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
                                     },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [
-                                        
-                                    ],
+                                    "Health": [],
+                                    "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
@@ -242,7 +195,7 @@
             "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "OfficerHat",
+                    "ClassName": "MMG_tactical_helmet_tan",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -255,7 +208,65 @@
                             "Zone": ""
                         }
                     ],
-                    "InventoryAttachments": [],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "MMG_headphones_tan",
+                                    "Chance": 0.2,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "mmg_gp_nvg_tan",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "UniversalLight",
+                                    "Chance": 0.15,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
@@ -266,7 +277,7 @@
             "SlotName": "Gloves",
             "Items": [
                 {
-                    "ClassName": "mmg_tactical_gloves_green",
+                    "ClassName": "mmg_tactical_gloves_tan",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -290,8 +301,264 @@
             "SlotName": "Hips",
             "Items": [
                 {
-                    "ClassName": "MilitaryBelt",
+                    "ClassName": "MMG_falcon_b1_belt_tan",
                     "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "MMG_Med_Pouch_tan",
+                                    "Chance": 0.2,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_tactical_pouch_tan",
+                                    "Chance": 0.2,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_Holster_tan",
+                                    "Chance": 0.2,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_carbine_red",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_carbine_blue",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_carbine_green",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_carbine_black",
+                                    "Chance": 0.5,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_carbine_grey",
+                                    "Chance": 0.5,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_carbine_orange",
+                                    "Chance": 0.5,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_Epinephrine",
+                                    "Chance": 0.1,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_Morphine",
+                                    "Chance": 0.1,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_sheath_tan",
+                                    "Chance": 0.2,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "MMG_nbc_pouch",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "MASK",
+            "Items": [
+                {
+                    "ClassName": "MMG_facemask_black",
+                    "Chance": 0.10,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "MMG_facemask_skull",
+                    "Chance": 0.10,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "MMG_facemask_joker",
+                    "Chance": 0.10,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "MMG_balaclava_black",
+                    "Chance": 0.10,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Eyes",
+            "Items": [
+                {
+                    "ClassName": "mmg_tac_goggles_blue_tan",
+                    "Chance": 0.15,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -307,19 +574,48 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
-                }
-            ]
-        },
-        {
-            "SlotName": "MASK",
-            "Items": []
-        },
-        {
-            "SlotName": "Eyes",
-            "Items": [
+                },
                 {
-                    "ClassName": "AviatorGlasses",
-                    "Chance": 1.0,
+                    "ClassName": "mmg_tac_goggles_red_black",
+                    "Chance": 0.15,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "mmg_tac_goggles_red_tan",
+                    "Chance": 0.15,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "mmg_tac_goggles_red_green",
+                    "Chance": 0.15,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0

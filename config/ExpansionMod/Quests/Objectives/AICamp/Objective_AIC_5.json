@@ -1,0 +1,750 @@
+{
+    "ConfigVersion": 26,
+    "ID": 5,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Crash the meeting",
+    "TimeLimit": -1,
+    "Active": 1,
+    "InfectedDeletionRadius": 500.0,
+    "AISpawns": [
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Major Evans",
+            "Waypoints": [
+                [
+                    4630.36, 353.542, 10430.7
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "MajorLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.25,
+            "ClassNames": [
+                "eAI_SurvivorM_Guo"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Captian Hans",
+            "Waypoints": [
+                [
+                    4626.81, 362.699, 10428.2 
+                ],
+                [
+                    4624.48, 362.699, 10434.2 
+                ],
+                [
+                    4629.47, 362.699, 10437.7 
+                ],
+                [
+                    4632.5, 362.699, 10432.3
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "CaptianLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.5,
+            "ClassNames": [
+                "eAI_SurvivorM_Cyril"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Major Howards",
+            "Waypoints": [
+                [
+                    4631.18, 353.542, 10429.3
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "MajorLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.25,
+            "ClassNames": [
+                "eAI_SurvivorF_Baty"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Colonel Richards",
+            "Waypoints": [
+                [
+                    4626.14, 353.542, 10425.8
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "ColonelLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.15,
+            "ClassNames": [
+                "eAI_SurvivorM_Francis"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Colonel Briggs",
+            "Waypoints": [
+                [
+                    4628.04, 353.542, 10427.1
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "ColonelLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.15,
+            "ClassNames": [
+                "eAI_SurvivorM_Jose"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Lieutenant Crawford",
+            "Waypoints": [
+                [
+                    4636.53, 358.942, 10430.5
+                ],
+                [
+                    4626.21, 358.942, 10424.6
+                ],
+                [
+                    4620.45, 358.942, 10435.2
+                ],
+                [
+                    4630.75, 358.942, 10441.2
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "LieutenantLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_SurvivorF_Gabi"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Lieutenant Collins",
+            "Waypoints": [
+                [
+                    4624.79, 353.542, 10432.8
+                ],
+                [
+                    4631.35, 348.881, 10439.1
+                ],
+                [
+                    4631.82, 348.881, 10429.1
+                ],
+                [
+                    4625.01, 348.881, 10428.7
+                ],
+                [
+                    4626.88, 344.206, 10428.5
+                ],
+                [
+                    4632.74, 339.442, 10432.6
+                ],
+                [
+                    4628.98, 339.642, 10443.2
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "LieutenantLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_SurvivorM_Boris"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Staff Sergeant Wills",
+            "Waypoints": [
+                [
+                    4600.9, 339.012, 10459.6
+                ],
+                [
+                    4674.43, 339.012, 10331.1
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "SergeantLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.8,
+            "ClassNames": [
+                "eAI_SurvivorM_Denis"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    4689.52, 339.014, 10365.8
+                ],
+                [
+                    4661.2, 339, 10420.9
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    4639.22, 338.979, 10404.8
+                ],
+                [
+                    4669.37, 338.991, 10444
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    4653.78, 339.012, 10463.4
+                ],
+                [
+                    4633.29, 339.012, 10458
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    4630.02, 339.012, 10479
+                ],
+                [
+                    4611.54, 339, 10456.9
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    4606.83, 339, 10376.3
+                ],
+                [
+                    4629.7, 339.054, 10335.6
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    4597.51, 339.2, 10298.7
+                ],
+                [
+                    4547.65, 339.03, 10381
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    4649.14, 338.955, 10393.5
+                ],
+                [
+                    4647.78, 338.965, 10361.2
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 1.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        }
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": []
+}
