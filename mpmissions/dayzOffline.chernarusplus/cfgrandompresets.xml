@@ -150,7 +150,7 @@
 				<item name="StoneKnife" chance="0.1" />
 				<item name="HuntingKnife" chance="0.08" />
 				<item name="PurificationTablets" chance="0.05" />
-				<item name="CharcoalTablets" chance="0.05" />
+				<item name="CharcoalTablets" chance="0.01" />
 		</cargo>
 		<cargo chance="0.2" name="toolsVillage">
 				<item name="DuctTape" chance="0.07" />
@@ -205,7 +205,7 @@
 				<item name="CanOpener" chance="0.05" />
 				<item name="BandageDressing" chance="0.05" />
 				<item name="PurificationTablets" chance="0.10" />
-				<item name="CharcoalTablets" chance="0.10" />
+				<item name="CharcoalTablets" chance="0.01" />
 				<item name="PainkillerTablets" chance="0.10" />
 				<item name="VitaminBottle" chance="0.10" />
 		</cargo>
