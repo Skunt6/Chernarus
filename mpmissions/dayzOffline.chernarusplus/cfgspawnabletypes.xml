@@ -9890,27 +9890,51 @@
 		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="Bear_Beige">
-		<cargo chance="0.00">
-			<item name="Paper" chance="0.50" />
-			<item name="Rag" chance="0.50" />
+		<cargo chance="1.00">
+			<item name="AmmoBox_380_35Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_762x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_762x54_20Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_556x45_20Rnd" chance="0.75" />
+			<item name="AmmoBox_545x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_45ACP_25Rnd" chance="0.75" />
 		</cargo>
 	</type>
 	<type name="Bear_Dark">
-		<cargo chance="0.00">
-			<item name="Paper" chance="0.50" />
-			<item name="Rag" chance="0.50" />
+		<cargo chance="1.00">
+			<item name="AmmoBox_380_35Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_762x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_762x54_20Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_556x45_20Rnd" chance="0.75" />
+			<item name="AmmoBox_545x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_45ACP_25Rnd" chance="0.75" />
 		</cargo>
 	</type>
 	<type name="Bear_Pink">
-		<cargo chance="0.00">
-			<item name="Paper" chance="0.50" />
-			<item name="Rag" chance="0.50" />
+		<cargo chance="1.00">
+			<item name="AmmoBox_380_35Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_762x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_762x54_20Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_556x45_20Rnd" chance="0.75" />
+			<item name="AmmoBox_545x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_45ACP_25Rnd" chance="0.75" />
 		</cargo>
 	</type>
 	<type name="Bear_White">
-		<cargo chance="0.00">
-			<item name="Paper" chance="0.50" />
-			<item name="Rag" chance="0.50" />
+		<cargo chance="1.00">
+			<item name="AmmoBox_380_35Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_762x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_762x54_20Rnd" chance="0.75" />
+			<item name="AmmoBox_9x19_25Rnd" chance="0.75" />
+			<item name="AmmoBox_556x45_20Rnd" chance="0.75" />
+			<item name="AmmoBox_545x39_20Rnd" chance="0.75" />
+			<item name="AmmoBox_45ACP_25Rnd" chance="0.75" />
 		</cargo>
 	</type>
 	<type name="ShortJeans_Black">
