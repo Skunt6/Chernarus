@@ -45,7 +45,7 @@
 				<item name="CP_JointBlackFrost" chance="0.01" />
 				<item name="CP_EmptyBag" chance="0.01" />
 		</cargo>
-		<cargo chance="0.01" name="gems">
+		<cargo chance="0.05" name="gems">
 				<item name="AlienOre" chance="0.008" />
 				<item name="GoldOre" chance="0.008" />
 				<item name="SilverOre" chance="0.008" />

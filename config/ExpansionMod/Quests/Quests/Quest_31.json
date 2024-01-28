@@ -7,7 +7,7 @@
         "Amidst the desolate expanse of Chernarus, its once-thriving cities now nothing but silent witnesses to the world's unraveling, a faint radio transmission suddenly pierces through the static. My heart quickens as a voice crackles through the receiver, revealing the presence of a group of researchers in a hidden facility. Their urgent plea for assistance reverberates through the airwaves, and the hope of finding other friendly survivors flickers in my mind like a distant beacon amidst the darkness of this post-apocalyptic world."
     ],
     "ObjectiveText": "",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
