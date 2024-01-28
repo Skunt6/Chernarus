@@ -179,7 +179,7 @@
 				<item name="BloodTestKit" chance="0.05" />
 				<item name="StartKitIV" chance="0.05" />
 				<item name="PurificationTablets" chance="0.1" />
-				<item name="CharcoalTablets" chance="0.1" />
+				<item name="CharcoalTablets" chance="0.01" />
 				<item name="PainkillerTablets" chance="0.1" />
 				<item name="VitaminBottle" chance="0.05" />
 				<item name="TetracyclineAntibiotics" chance="0.1" />
