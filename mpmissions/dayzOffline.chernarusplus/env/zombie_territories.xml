@@ -155,6 +155,11 @@
         <!--Mystic Zombies-->
         
         <zone name="InfectedReligious" smin="0" smax="0" dmin="45" dmax="50" x="13574.8" z="12133.1" r="150"/>
+
+        <!--Lopatino Zombies-->
+
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="75" dmax="75" x="2740.81" z="9963.20" r="200"/>
+
     </territory>
     <territory color="3082523903">
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="10" x="10860" z="2691" r="100"/>

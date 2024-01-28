@@ -11557,7 +11557,7 @@
 	<!-- Police -->
 	<type name="ZmbF_PoliceWomanNormal">
 		<cargo preset="gems" />
-		<cargo preset="herbals" />
+		<cargo preset="herbalsPolice" />
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
@@ -11567,7 +11567,7 @@
 	</type>
 	<type name="ZmbM_PolicemanFat">
 		<cargo preset="gems" />
-		<cargo preset="herbals" />
+		<cargo preset="herbalsPolice" />
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
@@ -11577,7 +11577,7 @@
 	</type>
 	<type name="ZmbM_PolicemanSpecForce">
 		<cargo preset="gems" />
-		<cargo preset="herbals" />
+		<cargo preset="herbalsPolice" />
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
@@ -11588,7 +11588,7 @@
 	</type>
 	<type name="ZmbM_PolicemanSpecForce_Heavy">
 		<cargo preset="gems" />
-		<cargo preset="herbals" />
+		<cargo preset="herbalsPolice" />
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
@@ -11610,7 +11610,7 @@
 	</type>
 	<!-- Religious -->
 	<type name="ZmbM_priestPopSkinny">
-		<cargo preset="gems" />
+		<cargo preset="gemsHigher" />
 		<cargo preset="herbals" />
 		<cargo preset="foodHermit" />
 	</type>
