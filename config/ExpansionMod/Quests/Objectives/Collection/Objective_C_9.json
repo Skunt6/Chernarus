@@ -53,6 +53,72 @@
             "ClassName": "ItemTinIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemRodochrosite",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemAlienIngot",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemPinkTourmaline",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemAlexandrit",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemIndicolite",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemAquamarine",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemEmerald",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemYellowBeryl",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemRuby",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemCitrine",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemKunzite",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
         }
     ],
     "ShowDistance": 1,
