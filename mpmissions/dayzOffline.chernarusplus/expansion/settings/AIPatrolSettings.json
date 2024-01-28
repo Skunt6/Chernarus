@@ -5232,7 +5232,7 @@
         },
         {
             "Name": "Lopatino",
-            "Faction": "Mercenaries",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationLooseness": 5.0,
             "LoadoutFile": "JugLoadout",
@@ -10497,7 +10497,7 @@
         },
         {
             "Name": "Lopatino",
-            "Faction": "Mercenaries",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationLooseness": 5.0,
             "LoadoutFile": "BanditLoadout",
