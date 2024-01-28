@@ -328,7 +328,7 @@
 				<item name="ReflexOptic" chance="0.20" />
 		</attachments>
 		<!--NBC Cargo-->
-		<cargo chance="0.2" name="ContaminatedCargo">
+		<cargo chance="0.1" name="ContaminatedCargo">
 				<item name="GasMask_Filter" chance="1.00" />
 		</cargo>
 		<!--FARM ATTACHMENTS-->
