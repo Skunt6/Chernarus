@@ -1,5 +1,124 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
+<!--Jug Armour Start-->
+  <type name="SYGUJugVest">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="SYGUJugBootsSnow">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="SYGUJugBoots">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="JugHelm">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="SYGUJugVestSnow">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="SYGUJugPantsSnow">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="SYGUJugBootsSnow">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="JugHelmSnow">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+  <type name="JugVisor">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+<!--Jug Armoue End-->
 <!--Ford Raptor start-->
     <type name="FordRaptor_Scorpio">
 		<nominal>0</nominal>
@@ -3860,7 +3979,7 @@
 	</type>
 <!-- GEMS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemStarRuby">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3871,7 +3990,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemRodochrosite">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3882,7 +4001,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemPinkTourmaline">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3893,7 +4012,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemAlexandrit">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3904,7 +4023,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIndicolite">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3915,7 +4034,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemAquamarine">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3926,7 +4045,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemEmerald">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3937,7 +4056,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemYellowBeryl">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3948,7 +4067,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCitrine">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3959,7 +4078,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemRuby">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3970,7 +4089,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemKunzite">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3982,7 +4101,7 @@
 	</type>
 <!-- INGOTS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemAlienIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -3993,7 +4112,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCharCoalIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4004,7 +4123,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSulfurIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4015,7 +4134,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCopperIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4026,7 +4145,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemDiamondIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4037,7 +4156,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemGoldIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4048,7 +4167,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIronIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4059,7 +4178,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSilverIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4070,7 +4189,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemTinIngot">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4082,7 +4201,7 @@
 	</type>
 <!-- ORE NUGGETS (dont change values here, unless you want them to spawn like normal loot) -->
 	<type name="ItemAlienNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4093,7 +4212,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCharCoalNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4104,7 +4223,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSulfurNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4115,7 +4234,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemCopperNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4126,7 +4245,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemDiamondNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4137,7 +4256,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemGoldNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4148,7 +4267,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemIronNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4159,7 +4278,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemSilverNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -4170,7 +4289,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="ItemTinNugget">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -9742,12 +9861,13 @@
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Military"/>
         <usage name="ContaminatedArea"/>
     </type>
     <type name="AA12_Gun">
@@ -10557,7 +10677,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_408_Suppressor_T">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -10661,7 +10781,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_Agram_Suppressor_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -12013,7 +12133,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_LNormalized_Suppressor_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -12026,7 +12146,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_LNormalized_Suppressor_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -12039,7 +12159,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_LStandardized_Suppressor_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -12052,7 +12172,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_LStandardized_Suppressor_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -12923,7 +13043,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_MPX_Suppressor_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -13065,7 +13185,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="SNAFU_Normalized_Suppressor_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -13792,7 +13912,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="SNAFU_Standardized_Suppressor_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14255,6 +14375,7 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Military"/>
         <usage name="ContaminatedArea"/>
     </type>
     <type name="SNAFUAX50_Mag">
@@ -14400,7 +14521,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="SNAFUGevar_Suppressor_Tan">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -15590,7 +15711,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_B">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -15602,7 +15723,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_M">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -15614,7 +15735,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_S">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -15626,7 +15747,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_U">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -15638,7 +15759,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_W">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
