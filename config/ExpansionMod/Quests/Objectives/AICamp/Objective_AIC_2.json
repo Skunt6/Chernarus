@@ -387,7 +387,7 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Serpent",
+            "NPCName": "Captian",
             "Waypoints": [
                 [
                     13656.900390625,
@@ -397,7 +397,7 @@
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "SerpentsLoadout",
+            "Loadout": "CaptianLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
