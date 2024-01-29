@@ -721,6 +721,9 @@
 			<item name="AssaultBag_Ttsko" chance="0.10" />
 			<item name="AssaultBag_Black" chance="0.10" />
 			<item name="TortillaBag" chance="0.10" />
+			<item name="AliceBag_Black" chance="0.001" />
+			<item name="AliceBag_Camo" chance="0.001" />
+			<item name="AliceBag_Green" chance="0.001" />
 		</attachments>
 		<attachments chance="1.00" name="HeavyArmorArmy">
 			<item name="PlateCarrierVest" chance="1.00" />

@@ -21667,7 +21667,7 @@
         <usage name="School"/>
     </type>
     <type name="AliceBag_Black">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -21679,7 +21679,7 @@
         <usage name="Military"/>
     </type>
     <type name="AliceBag_Camo">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -21691,7 +21691,7 @@
         <usage name="Military"/>
     </type>
     <type name="AliceBag_Green">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
