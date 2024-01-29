@@ -161,8 +161,8 @@
         },
         {
             "ClassName": "mountainbag_red",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
@@ -178,9 +178,9 @@
             "ClassName": "alicebag_green",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 1,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
