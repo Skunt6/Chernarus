@@ -1,16 +1,16 @@
 {
     "m_Version": 7,
-    "m_TraderID": 1,
+    "m_TraderID": 2,
     "m_ClassName": "ExpansionP2PTraderAIIrena",
     "m_Position": [
-        3682.18, 406.762, 5984.16
+        10735.7, 349.793, 5660.38
     ],
     "m_Orientation": [
-        -28.4611, -0, 0
+        16.4081, 0, -0
     ],
     "m_LoadoutFile": "P2PLoadout",
     "m_VehicleSpawnPosition": [
-        3747.18, 403.401, 6026.37
+        10772.8, 341.487, 5653.42
     ],
     "m_WatercraftSpawnPosition": [
         0.0,
@@ -18,7 +18,7 @@
         0.0
     ],
     "m_AircraftSpawnPosition": [
-        3747.01, 403.401, 6026.25
+        10691.5, 349.588, 5686.11
     ],
     "m_DisplayName": "Player to Player Trader",
     "m_DisplayIcon": "Deliver",
