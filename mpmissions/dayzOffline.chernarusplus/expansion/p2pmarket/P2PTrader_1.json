@@ -3,20 +3,14 @@
     "m_TraderID": 1,
     "m_ClassName": "ExpansionP2PTraderAIIrena",
     "m_Position": [
-        3694.1201171875,
-        402.0119934082031,
-        5976.08984375
+        3682.18, 406.762, 5984.16
     ],
     "m_Orientation": [
-        78.48269653320313,
-        0.0,
-        0.0
+        -28.4611, -0, 0
     ],
     "m_LoadoutFile": "YellowKingLoadout",
     "m_VehicleSpawnPosition": [
-        3728.43994140625,
-        401.6659851074219,
-        6011.509765625
+        3747.18, 403.401, 6026.37
     ],
     "m_WatercraftSpawnPosition": [
         0.0,
@@ -34,9 +28,9 @@
     "m_Waypoints": [],
     "m_EmoteID": 46,
     "m_EmoteIsStatic": 0,
-    "m_IsGlobalTrader": 0,
+    "m_IsGlobalTrader": 1,
     "m_Currencies": [
-        "expansionbanknotehryvnia"
+        "expansionbanknoteUSD"
     ],
     "m_DisplayCurrencyValue": 1,
     "m_DisplayCurrencyName": ""
