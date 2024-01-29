@@ -1721,7 +1721,7 @@
         },
         {
             "ClassName": "Candycane_Green",
-            "Chance": 0.02,
+            "Chance": 0.001,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -1734,7 +1734,7 @@
         },
         {
             "ClassName": "Candycane_Red",
-            "Chance": 0.02,
+            "Chance": 0.001,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -1747,7 +1747,7 @@
         },
         {
             "ClassName": "Candycane_RedGreen",
-            "Chance": 0.02,
+            "Chance": 0.001,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -1760,7 +1760,7 @@
         },
         {
             "ClassName": "Candycane_Yellow",
-            "Chance": 0.02,
+            "Chance": 0.001,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
