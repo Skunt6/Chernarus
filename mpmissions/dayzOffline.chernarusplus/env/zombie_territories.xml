@@ -694,6 +694,10 @@
 
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="10" x="13650.9" z="2960.28" r="30"/>
 
+        <!--Depot-->
+
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="15" x="2341.73" z="11794.3" r="100"/>
+
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="6" x="4783.13" z="10573.1" r="50"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="4646.25" z="10998.8" r="80"/>
     </territory>
