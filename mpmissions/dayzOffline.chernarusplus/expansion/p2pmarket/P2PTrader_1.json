@@ -8,7 +8,7 @@
     "m_Orientation": [
         -28.4611, -0, 0
     ],
-    "m_LoadoutFile": "YellowKingLoadout",
+    "m_LoadoutFile": "P2PLoadout",
     "m_VehicleSpawnPosition": [
         3747.18, 403.401, 6026.37
     ],
@@ -22,7 +22,7 @@
         0.0,
         0.0
     ],
-    "m_DisplayName": "Unknown",
+    "m_DisplayName": "Player to Player Trader",
     "m_DisplayIcon": "Deliver",
     "m_Faction": "InvincibleObservers",
     "m_Waypoints": [],
