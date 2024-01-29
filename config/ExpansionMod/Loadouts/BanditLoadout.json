@@ -1607,6 +1607,19 @@
             "SlotName": "Feet",
             "Items": [
                 {
+                    "ClassName": "FeetCover_Improvised",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
                     "ClassName": "CombatBoots_Beige",
                     "Chance": 1.0,
                     "Quantity": {
@@ -5187,19 +5200,6 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "FeetCover_Improvised",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
                     "ClassName": "GP5GasMask",
                     "Chance": 1.0,
                     "Quantity": {
@@ -5207,7 +5207,51 @@
                         "Max": 0.0
                     },
                     "Health": [],
-                    "InventoryAttachments": [],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "GasMask_Filter",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [
+                                        {
+                                            "Min": 0.1,
+                                            "Max": 1.0,
+                                            "Zone": ""
+                                        }
+                                    ],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "GasMask_Filter_Improvised",
+                                    "Chance": 0.05,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [
+                                        {
+                                            "Min": 0.1,
+                                            "Max": 1.0,
+                                            "Zone": ""
+                                        }
+                                    ],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }    
+                    ],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
@@ -5219,33 +5263,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "GasMask_Filter",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "GasMask_Filter_Improvised",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.1,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
