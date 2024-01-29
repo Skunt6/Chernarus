@@ -23,7 +23,7 @@
             "Attachments": [],
             "Chance": 1.0,
             "QuantityPercent": 100,
-            "Max": 1,
+            "Max": 10,
             "Min": 0,
             "Variants": []
         },
@@ -32,7 +32,7 @@
             "Attachments": [],
             "Chance": 1.0,
             "QuantityPercent": 100,
-            "Max": 1,
+            "Max": 10,
             "Min": 0,
             "Variants": []
         }
