@@ -21,13 +21,13 @@
     "DefaultItemRarity": 2,
     "EntityReputation": {
         "Animal_GallusGallusDomesticus": 1,
-        "eAIBase": 100,
+        "eAIBase": 50,
         "AnimalBase": 10,
         "ZmbM_SoldierNormal_Base": 20,
         "Animal_UrsusArctos": 50,
         "ZmbM_NBC_Grey": 20,
         "ZombieBase": 10,
-        "PlayerBase": 100,
+        "PlayerBase": 0,
         "Animal_UrsusMaritimus": 50,
         "ZmbM_NBC_Yellow": 50
     },

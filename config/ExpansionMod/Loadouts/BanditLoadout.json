@@ -2263,7 +2263,7 @@
             "Items": [
                 {
                     "ClassName": "AliceBag_Black",
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -2276,7 +2276,7 @@
                 },
                 {
                     "ClassName": "AliceBag_Camo",
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -2289,7 +2289,7 @@
                 },
                 {
                     "ClassName": "AliceBag_Green",
-                    "Chance": 1.0,
+                    "Chance": 0.5,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
