@@ -2,7 +2,7 @@
     "ConfigVersion": 21,
     "ID": 24,
     "Type": 1,
-    "Title": "Line em up",
+    "Title": "Daily: Line em up",
     "Descriptions": [
         "Attention, survivors! I'm Arvandus Metalsmith, and I need your help. Dinosaurs threaten our camp's safety, and I'm offering a bounty. Hunt down and eliminate 5 of these mighty creatures. Step up, protect our home, and claim your well-deserved rewards."
     ],
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 20000,
+            "Amount": 10000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

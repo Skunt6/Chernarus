@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 21,
-    "ID": 7,
+    "ID": 33,
     "Type": 1,
-    "Title": "Weekly: Send a message",
+    "Title": "Weekly: Zombie Hunter",
     "Descriptions": [
-        "In the bleak aftermath of the apocalypse, a relentless bandit presence threatens the survival of the camp. Driven by the need to assert dominance and secure the camp's safety, a weekly directive is issued by the camp leaders. The mission is clear: send a message to the bandit factions by eliminating 100 of their ranks within the week."
+        "In the bleak post-apocalyptic landscape, an ominous menace looms large as the survivor camp faces an unending tide of ravenous undead. Dr. Milena, deeply aware of the camp's vulnerability, calls for an extraordinary endeavor: exterminate 1,000 zombies to halt the ceaseless onslaught and bolster the camp's defenses against the relentless undead horde."
     ],
-    "ObjectiveText": "Kill 100 Bandits",
+    "ObjectiveText": "Kill 1000 Infected",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 25000,
+            "Amount": 50000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -43,7 +43,7 @@
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 4,
+            "ID": 8,
             "ObjectiveType": 2
         }
     ],

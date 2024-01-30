@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 26,
+    "ID": 9,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 500 Bandits",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 500,
+    "ClassNames": [
+        "eAIBase"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 1,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

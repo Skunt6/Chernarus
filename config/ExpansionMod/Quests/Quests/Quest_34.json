@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 21,
-    "ID": 7,
+    "ID": 34,
     "Type": 1,
-    "Title": "Weekly: Send a message",
+    "Title": "Weekly: The Punisher",
     "Descriptions": [
-        "In the bleak aftermath of the apocalypse, a relentless bandit presence threatens the survival of the camp. Driven by the need to assert dominance and secure the camp's safety, a weekly directive is issued by the camp leaders. The mission is clear: send a message to the bandit factions by eliminating 100 of their ranks within the week."
+        "Listen up, Survivor! Captain Rico here. We've got a situation on our hands with those pesky bandits causing trouble around our camp. I need you to step up and take charge. Your mission is to eliminate 500 of those bandits. We'll fortify our camp's defenses and show them we mean business. So gear up, stay vigilant, and get the job done."
     ],
-    "ObjectiveText": "Kill 100 Bandits",
+    "ObjectiveText": "Kill 500 Bandits",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 25000,
+            "Amount": 50000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -43,7 +43,7 @@
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 4,
+            "ID": 9,
             "ObjectiveType": 2
         }
     ],

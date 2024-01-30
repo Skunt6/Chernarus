@@ -1,0 +1,29 @@
+{
+    "ConfigVersion": 26,
+    "ID": 10,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 100 Dino's",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 100,
+    "ClassNames": [
+        "dbo_idrex",
+        "dbo_trex",
+        "dbo_tricero",
+        "dbo_raptor",
+        "dbo_raptorB"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
