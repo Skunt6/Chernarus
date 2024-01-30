@@ -20463,10 +20463,10 @@
         <category name="tools"/>
     </type>
 	<type name="ExpansionCamoBoxKit">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20477,10 +20477,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="ExpansionBarrierGateKit">
-        <nominal>10</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20494,7 +20494,7 @@
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20505,10 +20505,10 @@
         <usage name="Hunting"/>
     </type>
 	<type name="ExpansionSafeLarge">
-        <nominal>10</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20519,10 +20519,10 @@
         <usage name="Military"/>
     </type>
 	<type name="ExpansionSafeMini">
-        <nominal>10</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20533,10 +20533,10 @@
         <usage name="Military"/>
     </type>
 	<type name="ExpansionSafeMedium">
-        <nominal>10</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20547,10 +20547,10 @@
         <usage name="Military"/>
     </type>
 	<type name="ExpansionGunrack">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20560,10 +20560,10 @@
         <usage name="Military"/>
     </type>
 	<type name="ExpansionHelipadKit">
-        <nominal>10</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20572,10 +20572,10 @@
         <usage name="Military"/>
     </type>
     <type name="ExpansionBarbedWireKit">
-        <nominal>10</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20584,10 +20584,10 @@
         <usage name="Military"/>
     </type>
     <type name="ExpansionHescoKit">
-        <nominal>10</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20596,10 +20596,10 @@
         <usage name="Military"/>
     </type>
 	<type name="ExpansionCodeLock">
-        <nominal>45</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
