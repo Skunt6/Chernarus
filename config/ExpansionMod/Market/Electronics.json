@@ -94,10 +94,10 @@
         {
             "ClassName": "nvgoggles",
             "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 4000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 1,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "battery9v"
