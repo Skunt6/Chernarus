@@ -11,7 +11,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "MMG_combatshirt_black",
+                    "ClassName": "SYGUJug_Shirt",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -35,7 +35,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "MMG_combatpants_black",
+                    "ClassName": "SYGUJugPants",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,

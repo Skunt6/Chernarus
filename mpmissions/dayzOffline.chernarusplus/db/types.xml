@@ -241,8 +241,39 @@
     <quantmax>-1</quantmax>
     <cost>50</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+  </type>
+    <type name="SYGUJug_Shirt">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="ContaminatedArea"/>
+  </type>
+    <type name="SYGUJug_ShirtSnow">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="ContaminatedArea"/>
+  </type>
+    <type name="SYGUJugPants">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <usage name="ContaminatedArea"/>
   </type>
   <type name="SYGUJugBootsSnow">
@@ -254,8 +285,6 @@
     <quantmax>-1</quantmax>
     <cost>50</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
   <type name="SYGUJugBoots">
@@ -267,8 +296,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
   <type name="JugHelm">
@@ -280,8 +307,6 @@
     <quantmax>-1</quantmax>
     <cost>50</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
   <type name="SYGUJugVestSnow">
@@ -293,8 +318,6 @@
     <quantmax>-1</quantmax>
     <cost>50</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
   <type name="SYGUJugPantsSnow">
@@ -306,8 +329,6 @@
     <quantmax>-1</quantmax>
     <cost>50</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
   <type name="SYGUJugBootsSnow">
@@ -319,8 +340,6 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
   <type name="JugHelmSnow">
@@ -332,8 +351,6 @@
     <quantmax>-1</quantmax>
     <cost>50</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
   <type name="JugVisor">
@@ -345,8 +362,6 @@
     <quantmax>-1</quantmax>
     <cost>50</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons"/>
-    <usage name="Military"/>
     <usage name="ContaminatedArea"/>
   </type>
 <!--Jug Armoue End-->
@@ -10089,7 +10104,7 @@
 <!--MMG Military Gear End-->
 <!--Snafu Weapons Start-->
     <type name="GCGN_M82_Barret">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
         <min>0</min>
@@ -13404,7 +13419,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_Normalized_Suppressor_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14131,7 +14146,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_Standardized_Suppressor_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14403,7 +14418,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFUAlligator">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14597,7 +14612,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFUAX50_GUN">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14740,7 +14755,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFUGevar_Suppressor_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14791,7 +14806,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFUGM6Lynx">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -15894,7 +15909,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="GCGN_BenelliM4">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -15906,7 +15921,7 @@
         <usage name="Military"/>
     </type>
     <type name="GCGN_M1Garand_FH">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -15918,7 +15933,7 @@
         <usage name="Military"/>
     </type>
     <type name="GCGN_M1Garand_Muzzle">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -15930,7 +15945,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_30mm_Mount_Base">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16002,7 +16017,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_AKEOTech_EXPS">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16014,7 +16029,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_AWM_GUN">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16026,7 +16041,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_EOTech_EXPS">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16038,7 +16053,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Kabar">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16050,7 +16065,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Kabar_BK">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16062,7 +16077,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_PL14HQP">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16074,7 +16089,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_PL14HQP_Mag">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16086,7 +16101,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16098,7 +16113,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Blue">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16110,7 +16125,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Brown">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16122,7 +16137,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16134,7 +16149,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Purple">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16146,7 +16161,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16158,7 +16173,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Tur">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16170,7 +16185,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Yellow">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16182,7 +16197,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFUAR15_SPR_Black_GUN">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16194,7 +16209,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFUAR15_SPR_Tan_GUN">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16206,7 +16221,7 @@
         <usage name="Military"/>
     </type>
     <type name="SNAFUVSSK_5rdMag">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16218,7 +16233,7 @@
         <usage name="Military"/>
     </type>
     <type name="SR3_Vikhr_Gun">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
@@ -16230,7 +16245,7 @@
         <usage name="Military"/>
     </type>
     <type name="SR3_Vikhr_Mag">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
         <min>10</min>
