@@ -2,6 +2,8 @@
 *config.vdf
 *.ADM
 *.RPT
+*.txt
+*.html
 *.exe
 *.MDMP
 *.dll
