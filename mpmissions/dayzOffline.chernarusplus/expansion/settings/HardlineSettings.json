@@ -37,6 +37,7 @@
         "dbo_raptorB": 50
     },
     "ItemRarity": {
+        "BearTrap": 4,
         "BloodBagEmpty": 4,
         "Grenade_ChemGas": 6,
         "DisinfectantSpray": 4,
