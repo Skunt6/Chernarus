@@ -86,8 +86,8 @@
         },
         {
             "ClassName": "hatchback_02",
-            "MaxPriceThreshold": 120000,
-            "MinPriceThreshold": 120000,
+            "MaxPriceThreshold": 220000,
+            "MinPriceThreshold": 220000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 5,
@@ -114,8 +114,8 @@
         },
         {
             "ClassName": "sedan_02",
-            "MaxPriceThreshold": 150000,
-            "MinPriceThreshold": 150000,
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 5,
@@ -142,8 +142,8 @@
         },
         {
             "ClassName": "civiliansedan",
-            "MaxPriceThreshold": 150000,
-            "MinPriceThreshold": 150000,
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 4,
@@ -245,8 +245,8 @@
         },
         {
             "ClassName": "expansionuaz",
-            "MaxPriceThreshold": 150000,
-            "MinPriceThreshold": 150000,
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 3,
             "MinStockThreshold": 3,
