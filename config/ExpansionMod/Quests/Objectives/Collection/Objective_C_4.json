@@ -2,12 +2,12 @@
     "ConfigVersion": 26,
     "ID": 4,
     "ObjectiveType": 4,
-    "ObjectiveText": "Acquire either 5 Pox grenade's Or 5 Pox vial's.",
+    "ObjectiveText": "Acquire either 10 Pox grenade's Or 5 Pox vial's.",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 5,
+            "Amount": 10,
             "ClassName": "Grenade_ChemGas",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
@@ -21,5 +21,5 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 0
+    "NeedAnyCollection": 1
 }
