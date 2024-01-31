@@ -4,7 +4,7 @@
     "MaxListingTime": 691200,
     "MaxListings": 20,
     "ListingOwnerDiscountPercent": 100,
-    "ListingPricePercent": 0,
+    "ListingPricePercent": 1,
     "ExcludedClassNames": [
         "SurvivorBase",
         "ExpansionMoneyBase"
