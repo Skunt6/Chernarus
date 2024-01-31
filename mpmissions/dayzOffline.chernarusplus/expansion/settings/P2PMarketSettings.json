@@ -428,9 +428,7 @@
                 "ButtstockBase",
                 "OpticBase",
                 "Magazine_Base",
-                "LauncherCore",
-                "RifleCore",
-                "PistolCore"
+                "WeaponCore"
             ],
             "Excluded": [
                 "Ammunition_Base"
