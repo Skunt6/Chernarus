@@ -12736,17 +12736,16 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_CMAG30300_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_CMAG30300_Tan">
         <nominal>0</nominal>
@@ -12762,17 +12761,16 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_CMAG30556_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_CMAG30556_Tan">
         <nominal>0</nominal>
@@ -14440,56 +14438,52 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_PDW_45ACP_Mag">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_PDW_45ACP">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_PDW_9mm_Mag">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_PDW_9mm">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_PEQ1_Laser">
         <nominal>0</nominal>
@@ -14505,17 +14499,16 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_PistolGripColtA2">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="Snafu_pkp_250RND_Mag">
         <nominal>0</nominal>
@@ -14557,17 +14550,16 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_PKPBIPOD">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_PMAG556_Black">
         <nominal>0</nominal>
@@ -14622,17 +14614,16 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_PRSGen3_Stock">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="SNAFU_RPK16_Black_Mag">
         <nominal>0</nominal>
@@ -14804,17 +14795,16 @@
         <usage name="Hunting"/>
     </type>
     <type name="Snafu_ScarH_25RND_Mag_BK">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <value name="Unique"/>
     </type>
     <type name="Snafu_ScarH_25RND_Mag_DKMC">
         <nominal>0</nominal>
