@@ -2,7 +2,7 @@
     "ConfigVersion": 21,
     "ID": 29,
     "Type": 1,
-    "Title": "Generals Gambit: Serpent Scourge",
+    "Title": "General's Gambit: Serpent Scourge",
     "Descriptions": [
         "Survivor, we've got a pest problem at Tisy Military Base. Five scouting serpents have set up shop there, and they're causing all sorts of trouble for anyone who dares venture near. Your mission is clear: Eliminate these serpents swiftly and without hesitation. Tisy is a critical location, and we can't afford to let these creatures run amok. They've already taken down a few good people, and we can't let their reign of terror continue. Gather your gear and head to Tisy Military Base immediately. Keep your wits about you; these serpents are cunning. Take them out, secure the area, and report back. This is a crucial task, Survivor. The safety of the region depends on it. Good luck, and may your aim be true."
     ],
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 25000,
+            "Amount": 10000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

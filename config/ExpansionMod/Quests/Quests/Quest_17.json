@@ -2,7 +2,7 @@
     "ConfigVersion": 21,
     "ID": 17,
     "Type": 1,
-    "Title": "Generals Gambit: Operation Iron Vengeance",
+    "Title": "General's Gambit: Operation Iron Vengeance",
     "Descriptions": [
         "Listen up, soldier. We've got a pressing matter at Krasno Airfield an Iron Serpents patrol causing more trouble than a hive of infected. These guys are geared to the teeth, so I'm not sending you in blind. Your mission is to eliminate that patrol, but I want you to tread carefully; these Iron Serpents don't mess around. Approach stealthily, engage strategically, and make sure you come back in one piece. Consider this a baptism by fire, and when it's done, I want those Iron Serpents to think twice before crossing our path again. Gear up, stay sharp, and get it done. Dismissed."
     ],
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 25000,
+            "Amount": 8000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
