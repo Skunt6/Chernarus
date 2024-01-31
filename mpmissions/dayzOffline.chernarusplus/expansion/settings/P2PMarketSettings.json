@@ -427,7 +427,12 @@
                 "Weapon",
                 "ButtstockBase",
                 "OpticBase",
-                "Magazine_Base"
+                "Magazine_Base",
+                "LauncherCore",
+                "RifleCore",
+                "PistolCore",
+                "DefaultWeapon",
+                "access"
             ],
             "Excluded": [
                 "Ammunition_Base"
