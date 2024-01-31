@@ -1014,6 +1014,7 @@
                 "ZmbF_MilkMaidOld_Grey"
             ],
             "InfectedCount": 20,
+            "ItemCount": 20,
             "SpawnInfectedForPlayerCalledDrops": 0 
         },
         {
@@ -4966,12 +4967,12 @@
                 }
             ],
             "Infected": [
-                "eAI_SurvivorM_Mirek|faction:Mercenaries,loadout:SerpentsLoadout,canbelooted:true,name:Serpent",
-                "eAI_SurvivorM_Cyril|faction:Mercenaries,loadout:SerpentsLoadout,canbelooted:true,name:Serpent",
-                "eAI_SurvivorM_Peter|faction:Mercenaries,loadout:SerpentsLoadout,canbelooted:true,name:Serpent"
+                "eAI_SurvivorM_Mirek|faction:Mercenaries,loadout:PrivateLoadout,canbelooted:true,name:Private",
+                "eAI_SurvivorM_Cyril|faction:Mercenaries,loadout:PrivateLoadout,canbelooted:true,name:Private",
+                "eAI_SurvivorM_Peter|faction:Mercenaries,loadout:PrivateLoadout,canbelooted:true,name:Private"
             ],
             "InfectedCount": 3,
-            "ItemCount": 10,
+            "ItemCount": 1,
             "SpawnInfectedForPlayerCalledDrops": 0 
         },
         {
@@ -9266,12 +9267,12 @@
                 }
             ],
             "Infected": [
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:true,name:Serpent",
-                "eAI_SurvivorF_Eva|faction:Shamans,loadout:SerpentsLoadout,canbelooted:true,name:Serpent",
-                "eAI_SurvivorF_Gabi|faction:Shamans,loadout:SerpentsLoadout,canbelooted:true,name:Serpent"
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:PrivateLoadout,canbelooted:true,name:Private",
+                "eAI_SurvivorF_Eva|faction:Shamans,loadout:PrivateLoadout,canbelooted:true,name:Private",
+                "eAI_SurvivorF_Gabi|faction:Shamans,loadout:PrivateLoadout,canbelooted:true,name:Private"
             ],
             "InfectedCount": 3,
-            "ItemCount": 20,
+            "ItemCount": 1,
             "SpawnInfectedForPlayerCalledDrops": 0 
         },
         {
@@ -9515,7 +9516,7 @@
                 "ZmbM_CitizenBFat_Green"
             ],
             "InfectedCount": 15,
-            "ItemCount": 15,
+            "ItemCount": 1,
             "SpawnInfectedForPlayerCalledDrops": 0 
         },
         {
@@ -9747,13 +9748,10 @@
                 "dbo_tricero",
                 "dbo_raptor",
                 "dbo_raptorB",
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder",
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder",
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder",
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:SerpentsLoadout,canbelooted:false,name:Dino Herder"
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe"
             ],
             "InfectedCount": 9,
-            "ItemCount": 20,
+            "ItemCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0 
         }
     ]
