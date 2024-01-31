@@ -5213,7 +5213,7 @@
                             "Items": [
                                 {
                                     "ClassName": "GasMask_Filter",
-                                    "Chance": 0.01,
+                                    "Chance": 0.001,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
