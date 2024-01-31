@@ -430,9 +430,7 @@
                 "Magazine_Base",
                 "LauncherCore",
                 "RifleCore",
-                "PistolCore",
-                "DefaultWeapon",
-                "access"
+                "PistolCore"
             ],
             "Excluded": [
                 "Ammunition_Base"
