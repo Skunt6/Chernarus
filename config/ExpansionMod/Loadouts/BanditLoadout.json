@@ -2705,7 +2705,7 @@
                 },
                 {
                     "ClassName": "MountainBag_Blue",
-                    "Chance": 0.5,
+                    "Chance": 0.002,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -2718,7 +2718,7 @@
                 },
                 {
                     "ClassName": "MountainBag_Green",
-                    "Chance": 0.5,
+                    "Chance": 0.002,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -2731,7 +2731,7 @@
                 },
                 {
                     "ClassName": "MountainBag_Orange",
-                    "Chance": 0.5,
+                    "Chance": 0.002,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -2744,7 +2744,7 @@
                 },
                 {
                     "ClassName": "MountainBag_Red",
-                    "Chance": 0.5,
+                    "Chance": 0.002,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
