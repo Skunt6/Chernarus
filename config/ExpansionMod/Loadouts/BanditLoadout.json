@@ -5213,26 +5213,7 @@
                             "Items": [
                                 {
                                     "ClassName": "GasMask_Filter",
-                                    "Chance": 0.05,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [
-                                        {
-                                            "Min": 0.1,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "GasMask_Filter_Improvised",
-                                    "Chance": 0.05,
+                                    "Chance": 0.01,
                                     "Quantity": {
                                         "Min": 0.0,
                                         "Max": 0.0
