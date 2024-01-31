@@ -23,7 +23,9 @@
     "m_DisplayName": "Player to Player Trader",
     "m_DisplayIcon": "Deliver",
     "m_Faction": "InvincibleObservers",
-    "m_Waypoints": [],
+    "m_Waypoints": [
+        10735.5, 349.793, 5660.43
+    ],
     "m_EmoteID": 46,
     "m_EmoteIsStatic": 0,
     "m_IsGlobalTrader": 1,
