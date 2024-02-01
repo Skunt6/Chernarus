@@ -9492,7 +9492,7 @@
                     "Name": "NailBox",
                     "Attachments": [],
                     "Chance": 1.0,
-                    "QuantityPercent": 100,
+                    "QuantityPercent": -1,
                     "Max": 10,
                     "Min": 5,
                     "Variants": []
