@@ -47,7 +47,7 @@
                 },
                 {
                     "RuleParagraph": "1.8.",
-                    "RuleText": "When you die you will leave a tombstone. You have 1 hour to retieve your body, and whats on it."
+                    "RuleText": "When you die you have 1 hour to retieve your body, and whats on it before it despawns."
                 }
             ]
         }
@@ -121,20 +121,17 @@
             "URL": "https://discord.gg/353HNf5eBx",
             "IconName": "Discord",
             "IconColor": -9270822
-        },
-        {
-            "Name": "GitHub",
-            "URL": "https://github.com/Skunt6/DayZServer.git",
-            "IconName": "GitHub",
-            "IconColor": -16777216
         }
     ],
     "Descriptions": [
         {
-            "CategoryName": "Admin support",
+            "CategoryName": "Server support",
             "Descriptions": [
                 {
                     "DescriptionText": "Click the Discord link in the book, or hit esc and you will see it in the menu. Please submit a ticket, and we will help as soon as we can."
+                },
+                {
+                    "DescriptionText": "Click the GitHub link for a more detailed look at the loot economy, and server workings."
                 }
             ]
         },
