@@ -234,7 +234,7 @@
 <!--Jug Armour Start-->
   <type name="SYGUJugVest">
     <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -248,7 +248,7 @@
   </type>
     <type name="SYGUJug_Shirt">
     <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -262,7 +262,7 @@
   </type>
     <type name="SYGUJug_ShirtSnow">
     <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -276,7 +276,22 @@
   </type>
     <type name="SYGUJugPants">
     <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+    </type>
+    <type name="SYGUJugPantsSnow">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -290,7 +305,7 @@
   </type>
   <type name="SYGUJugBootsSnow">
     <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -304,7 +319,7 @@
   </type>
   <type name="SYGUJugBoots">
     <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -318,7 +333,7 @@
   </type>
   <type name="JugHelm">
     <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -332,7 +347,7 @@
   </type>
   <type name="SYGUJugVestSnow">
     <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -346,7 +361,7 @@
   </type>
   <type name="SYGUJugPantsSnow">
     <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -360,7 +375,7 @@
   </type>
   <type name="SYGUJugBootsSnow">
     <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -374,7 +389,7 @@
   </type>
   <type name="JugHelmSnow">
     <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -388,7 +403,7 @@
   </type>
   <type name="JugVisor">
     <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
+    <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
