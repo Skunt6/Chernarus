@@ -2,13 +2,17 @@
     "ConfigVersion": 6,
     "ID": 9,
     "ClassName": "ExpansionQuestNPCAIPeter",
-    "Position": [],
-    "Orientation": [],
+    "Position": [
+        14158.3, 195.418, 15287.8
+    ],
+    "Orientation": [
+        87.9155, 0, -0
+    ],
     "NPCName": "Eddy Locke",
     "DefaultNPCText": "You here for something specific, or just wanderin' through? If you've got no business with me, best be on your way.",
     "Waypoints": [
         [
-            3691.6, 402.098, 5996.85
+            14158.3, 195.418, 15287.8
         ]
     ],
     "NPCEmoteID": 46,
@@ -20,5 +24,5 @@
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
     "NPCType": 2,
-    "Active": 0
+    "Active": 1
 }
