@@ -3,8 +3,8 @@
     "Enabled": 1,
     "MaxListingTime": 691200,
     "MaxListings": 20,
-    "ListingOwnerDiscountPercent": 100,
-    "ListingPricePercent": 1,
+    "ListingOwnerDiscountPercent": 95,
+    "ListingPricePercent": 5,
     "ExcludedClassNames": [
         "SurvivorBase",
         "ExpansionMoneyBase"

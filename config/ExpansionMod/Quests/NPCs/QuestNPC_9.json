@@ -4,8 +4,8 @@
     "ClassName": "ExpansionQuestNPCAIPeter",
     "Position": [],
     "Orientation": [],
-    "NPCName": "Mick Dodge",
-    "DefaultNPCText": "Pick up some trash.",
+    "NPCName": "Eddy Locke",
+    "DefaultNPCText": "You here for something specific, or just wanderin' through? If you've got no business with me, best be on your way.",
     "Waypoints": [
         [
             3691.6, 402.098, 5996.85
@@ -13,7 +13,7 @@
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "RicoLoadout",
+    "NPCLoadoutFile": "EddyLoadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
