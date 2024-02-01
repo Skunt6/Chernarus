@@ -121,6 +121,12 @@
             "URL": "https://discord.gg/353HNf5eBx",
             "IconName": "Discord",
             "IconColor": -9270822
+        },
+        {
+            "Name": "GitHub",
+            "URL": "https://github.com/Skunt6/DayZServer.git",
+            "IconName": "GitHub",
+            "IconColor": -16777216
         }
     ],
     "Descriptions": [
