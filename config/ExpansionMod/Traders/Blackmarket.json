@@ -1,7 +1,7 @@
 {
     "m_Version": 12,
     "DisplayName": "Black Market Trader",
-    "MinRequiredReputation": 0,
+    "MinRequiredReputation": 5000,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
