@@ -233,7 +233,7 @@
 <!--Dzr nots end-->
 <!--Jug Armour Start-->
   <type name="SYGUJugVest">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -247,7 +247,7 @@
     <value name="Tier4"/>
   </type>
     <type name="SYGUJug_Shirt">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -275,7 +275,7 @@
     <value name="Tier4"/>
   </type>
     <type name="SYGUJugPants">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -303,7 +303,7 @@
     <value name="Tier4"/>
   </type>
   <type name="SYGUJugBoots">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -317,7 +317,7 @@
     <value name="Tier4"/>
   </type>
   <type name="JugHelm">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -387,7 +387,7 @@
     <value name="Tier4"/>
   </type>
   <type name="JugVisor">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>340</restock>
     <min>0</min>
