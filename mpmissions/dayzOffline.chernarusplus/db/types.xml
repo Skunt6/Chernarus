@@ -261,7 +261,7 @@
     <value name="Tier4"/>
   </type>
     <type name="SYGUJug_ShirtSnow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -288,9 +288,8 @@
     <usage name="ContaminatedArea"/>
     <value name="Tier4"/>
   </type>
-    </type>
     <type name="SYGUJugPantsSnow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -304,7 +303,7 @@
     <value name="Tier4"/>
   </type>
   <type name="SYGUJugBootsSnow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -346,7 +345,7 @@
     <value name="Tier4"/>
   </type>
   <type name="SYGUJugVestSnow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -360,7 +359,7 @@
     <value name="Tier4"/>
   </type>
   <type name="SYGUJugPantsSnow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -374,7 +373,7 @@
     <value name="Tier4"/>
   </type>
   <type name="SYGUJugBootsSnow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>
@@ -388,7 +387,7 @@
     <value name="Tier4"/>
   </type>
   <type name="JugHelmSnow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>340</restock>
     <min>0</min>

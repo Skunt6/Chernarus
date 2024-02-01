@@ -2,7 +2,7 @@
     "ConfigVersion": 21,
     "ID": 23,
     "Type": 1,
-    "Title": "The Forge of Destiny: Metals of Merit",
+    "Title": "Arvandus: Metals of Merit",
     "Descriptions": [
         "I'm Arvandus Metalsmith, and I need your help gathering valuable ingots—charcoal, sulfur, copper, diamonds, gold, iron, silver, tin—scattered across this unforgiving landscape. These metals are vital for crafting essential items in our fight against the undead and hostile survivors. Hunt down these ingots, and you'll be handsomely rewarded. But there's more to this mission. We've stumbled upon rumors of 'Alien Ore' and mysterious gems of unknown origin. These treasures are of immense interest. If you come across Alien Ore ingots or these mysterious gems during your quest, grab them, and I'll offer an even greater reward. Let's unlock the secrets of these extraordinary finds. Begin your mission now!"
     ],
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 50000,
+            "Amount": 25000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

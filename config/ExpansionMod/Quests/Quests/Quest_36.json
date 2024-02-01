@@ -1,13 +1,13 @@
 {
     "ConfigVersion": 21,
-    "ID": 16,
+    "ID": 36,
     "Type": 1,
-    "Title": "Mystic: A Seeker's Quest",
+    "Title": "Main: A Friend",
     "Descriptions": [
-        "Seeker of Mysteries, within the haunted verses of 'A Traveler in Time,' a dark legend entices you to Skalisty Island's heart. It whispers of a hidden cache, holding cursed relics from forgotten eras. Your quest leads to these tainted artifacts, each echoing malevolence from ages past. The ominous pages guide you to a trove defying time, hidden on Skalisty. Retrieve these cursed treasures, for they hold keys to our darkest enigmas. Beware, as shadows may conspire to claim your soul."
+        "Survivor, your help in the past has been invaluable, and now I need your assistance once more. It's been a while since I last heard from my husband, Eddy Locke. Our previous conversation centered around his plan to establish a safe zone and bury those circuts near Sokol. However, I'm unsure if he has completed this project or faced any challenges along the way. Eddy is currently stationed somewhere north of Belaya Polyana. Please visit him, remind him of our discussion, and check on his well-being. I'm eagerly awaiting news of his progress, and his safety is of utmost importance. I trust you to ensure he's okay and gather any updates he may have regarding the safe zone. Also take this book, its his favorite, and he will know exactly who sent you."
     ],
-    "ObjectiveText": "Look for the time travlers cache.",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Find Eddy Locke",
+    "FollowUpQuest": 37,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -15,11 +15,16 @@
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [],
+    "QuestItems": [
+        {
+            "ClassName": "BookTheArtOfWar",
+            "Amount": 1
+        }
+    ],
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 10000,
+            "Amount": 5000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -32,33 +37,25 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        6
+        4
     ],
     "QuestTurnInIDs": [
-        6
+        9
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 26,
-            "ID": 9,
+            "ID": 11,
             "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 26,
-            "ID": 3,
-            "ObjectiveType": 6
-        },
-        {
-            "ConfigVersion": 26,
-            "ID": 10,
-            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 500,
+    "ReputationReward": 50,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        15
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,

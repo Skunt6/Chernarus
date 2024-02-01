@@ -1,821 +1,185 @@
-<!--Medieval Arms start-->
-    <type name="t_breastplate">
+<!--Jug Armour Start-->
+  <type name="SYGUJugVest">
     <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+    <type name="SYGUJug_Shirt">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+    <type name="SYGUJug_ShirtSnow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+    <type name="SYGUJugPants">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+    </type>
+    <type name="SYGUJugPantsSnow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="SYGUJugBootsSnow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="SYGUJugBoots">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes"/>
     <usage name="Military"/>
-    <usage name="Hunting"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
   </type>
-  <type name="t_hospitaler_pants_a">
+  <type name="JugHelm">
     <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="SYGUJugVestSnow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="SYGUJugPantsSnow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="SYGUJugBootsSnow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes"/>
     <usage name="Military"/>
-    <usage name="Hunting"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
   </type>
-  <type name="t_hospitaler_pants_gold">
+  <type name="JugHelmSnow">
     <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes"/>
     <usage name="Military"/>
-    <usage name="Hunting"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
   </type>
-  <type name="t_hospitaler_rug_a">
+  <type name="JugVisor">
     <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
+    <lifetime>7200</lifetime>
+    <restock>340</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <cost>50</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes"/>
     <usage name="Military"/>
-    <usage name="Hunting"/>
+    <usage name="ContaminatedArea"/>
+    <value name="Tier4"/>
   </type>
-  <type name="t_hospitaler_rug_gold">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_helmet1_gold">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_helmet1">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_helmet2_gold">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_helmet2">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_chainmail">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_chainmale_gold">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_boots_gold">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_hospitaler_boots">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_pants">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_pants_black">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_body">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_body_black">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_gloves">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_gloves_black">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_hood">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_hood_black">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_cloth">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_cloth_kek">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_cloth_yellow">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_cloth_blue">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_cloth_red">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_cloth_orange">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_cloth_green">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_boots">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_boots_black">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_armor">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_armor_black">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_helmet">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_helmet_black">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_belt">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_weaponbelt">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_crusader_shield">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_helmet_steel">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_elvenarmor_body">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_elvenarmor_gloves">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_elvenarmor_pants">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_elvenarmor_boots">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_bulkarmor_helmet">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_bulkarmor_cape">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_bulkarmor_body">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_bulkarmor_pants">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_bulkarmor_gloves">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_bulkarmor_boots">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_anduril">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_curvedsword">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_GTS">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_longsword01">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_longsword02">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_longsword03">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_warhammer01">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_warhammer02">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_warhammer03">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_warhammer04">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_warhammer05">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_battleaxe01">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_dagger">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_spear">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-  <type name="t_spear01">
-    <nominal>0</nominal>
-    <lifetime>4000</lifetime>
-    <restock>0</restock>
-    <min>8</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="clothes"/>
-    <usage name="Military"/>
-    <usage name="Hunting"/>
-  </type>
-<!--Medieval Arms end-->
+<!--Jug Armoue End-->

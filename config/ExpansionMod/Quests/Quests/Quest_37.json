@@ -1,0 +1,51 @@
+{
+    "ConfigVersion": 21,
+    "ID": 37,
+    "Type": 1,
+    "Title": "Eddy Locke: A Friend",
+    "Descriptions": [
+        "Hey there, Survivor! So, back in the day, I had this habit of stashing loot all over the place. You know, hiding goodies in the weirdest spots, thinking I'd remember where I put 'em. Well, it's been a while since then, and my memory ain't what it used to be. But here's the deal – I've got some caches of loot scattered around Chernarus, and I could use your help finding 'em. I can give you the general areas, but the exact locations might be a bit fuzzy. Think you're up for the challenge? And hey, here's the best part – you get to keep whatever you find! Trust me, the stuff I've hidden is worth the hunt!"
+    ],
+    "ObjectiveText": "Gimme the loot!",
+    "FollowUpQuest": 37,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        9
+    ],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 7,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 50,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        15
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

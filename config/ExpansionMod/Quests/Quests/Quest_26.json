@@ -2,7 +2,7 @@
     "ConfigVersion": 21,
     "ID": 26,
     "Type": 1,
-    "Title": "The Forge of Destiny: Precious Convoy",
+    "Title": "Arvandus: Precious Convoy",
     "Descriptions": [
         "Survivor, I need you to ensure the safe delivery of a valuable shipment—gold and silver—to our camp's general. Escort my apprentice on this journey. Dangers lurk, but I trust your skills. The general will protect these resources for our camp's benefit. Your efforts will be rewarded. Embark on the 'Precious Convoy,' and may success be with you."
     ],
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 10000,
+            "Amount": 5000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

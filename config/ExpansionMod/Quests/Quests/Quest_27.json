@@ -2,7 +2,7 @@
     "ConfigVersion": 21,
     "ID": 27,
     "Type": 1,
-    "Title": "The Forge of Destiny: The Enigmatic Knights of Chernaurs",
+    "Title": "Arvandus: The Enigmatic Knights of Chernaurs",
     "Descriptions": [
         "Chernaurs is beset by a peculiar phenomenon – actual medieval knights, fully armored and mounted, have materialized mysteriously. These timeless knights challenge all they encounter to duels of honor, never aging, eating, or sleeping. Your mission: Investigate and eliminate ten of these enigmatic knights using your trusty melee weapons or, for a more effective approach, crossbows. Their armor is remarkably resilient, making crossbows the preferred choice for dealing with them. Engage in close combat and vanquish these knights to uncover the truth behind their presence, restoring normalcy to Chernaurs."
     ],
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 10000,
+            "Amount": 8000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
