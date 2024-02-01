@@ -14,6 +14,10 @@
             "CategoryName": "General",
             "Rules": [
                 {
+                    "RuleParagraph": "1.0.",
+                    "RuleText": "Server resets at 12 and 6, AM and PM."
+                },
+                {
                     "RuleParagraph": "1.1.",
                     "RuleText": "Do not troll."
                 },
@@ -116,6 +120,12 @@
             "Name": "Discord",
             "URL": "https://discord.gg/353HNf5eBx",
             "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "Github",
+            "URL": "https://github.com/Skunt6/DayZServer.git",
+            "IconName": "Github",
             "IconColor": -9270822
         }
     ],
