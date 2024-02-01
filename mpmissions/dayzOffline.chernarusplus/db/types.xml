@@ -21595,7 +21595,7 @@
         <value name="Unique"/>
     </type>
     <type name="ExpansionBanknoteEuro">
-        <nominal>100</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>5</min>
@@ -21638,7 +21638,7 @@
         <value name="Unique"/>
     </type>
     <type name="ExpansionBanknoteHryvnia">
-        <nominal>100</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>5</min>
