@@ -44,10 +44,6 @@
                 {
                     "RuleParagraph": "1.8.",
                     "RuleText": "When you die you will leave a tombstone. You have 1 hour to retieve your body, and whats on it."
-                },
-                {
-                    "RuleParagraph": "1.9.",
-                    "RuleText": "x=13574.8 z=12133.1"
                 }
             ]
         }
@@ -151,6 +147,21 @@
                     "DescriptionText": "Coastal AI is melee and pistol, but inland you will find more geared AI."
                 },
                 {
+                    "DescriptionText": "AI officers have a double chance to spawn Snafu."
+                },
+                {
+                    "DescriptionText": "Van Pelt has double chance to spawn Snafu."
+                },
+                {
+                    "DescriptionText": "NBC AI have triple chance to spawn good loot, but have 25% chance of spawning."
+                },
+                {
+                    "DescriptionText": "Zombies have a chance to spawn Herbals and ore items, police have a double chance of spawning Herbals, Priest have double chance for stones, and NBC zombies have 3x chance to spawn herbals and gems."
+                },
+                {
+                    "DescriptionText": "Jug AI has 1% chance of spawning at AI spawns, and can't be looted."
+                },
+                {
                     "DescriptionText": "During quests if a AI gets killed by their own kind your kill's wont count."
                 }
             ]
@@ -168,7 +179,7 @@
                     "DescriptionText": "Hold 4 nugget and aim at the furnace."
                 },
                 {
-                    "DescriptionText": "AI drop Ores and Gems."
+                    "DescriptionText": "Only spawn on AI including zombies."
                 }
             ]
         },
@@ -205,6 +216,9 @@
             "Descriptions": [
                 {
                     "DescriptionText": "They spawn in bear spawns and chicken spawns."
+                },
+                {
+                    "DescriptionText": "Van Pelt spawns near them beware he's crazy."
                 }
             ]
         },
@@ -358,6 +372,29 @@
             "CategoryName": "Weapon Modifications",
             "Results": [
                 "sawedoffizh18shotgun"
+            ]
+        },
+        {
+            "CategoryName": "Ore And Ingots",
+            "Results": [
+                "ItemAlienIngot",
+                "ItemCharCoalIngot",
+                "ItemSulfurIngot",
+                "ItemCopperIngot",
+                "ItemDiamondIngot",
+                "ItemGoldIngot",
+                "ItemIronIngot",
+                "ItemSilverIngot",
+                "ItemTinIngot",
+                "ItemAlienNugget",
+                "ItemCharCoalNugget",
+                "ItemSulfurNugget",
+                "ItemCopperNugget",
+                "ItemDiamondNugget",
+                "ItemGoldNugget",
+                "ItemIronNugget",
+                "ItemSilverNugget",
+                "ItemTinNugget"
             ]
         },
         {

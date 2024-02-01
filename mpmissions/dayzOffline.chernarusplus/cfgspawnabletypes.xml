@@ -10652,16 +10652,16 @@
 	<!--START OF ZOMBIES  -->
 	<!--NBC-->
 	<type name="ZmbM_NBC_Grey">
-		<cargo preset="gems" />
-		<cargo preset="herbals" />
+		<cargo preset="gemsNBC" />
+		<cargo preset="herbalsNBC" />
 		<cargo preset="ContaminatedCargo" />
 		<cargo chance="0.03">
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
 	<type name="ZmbM_NBC_Yellow">
-		<cargo preset="gems" />
-		<cargo preset="herbals" />
+		<cargo preset="gemsNBC" />
+		<cargo preset="herbalsNBC" />
 		<cargo preset="ContaminatedCargo" />
 		<cargo chance="0.01">
 			<item name="AntiChemInjector" chance="1.0" />
