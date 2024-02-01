@@ -123,10 +123,10 @@
             "IconColor": -9270822
         },
         {
-            "Name": "Github",
+            "Name": "GitHub",
             "URL": "https://github.com/Skunt6/DayZServer.git",
-            "IconName": "Github",
-            "IconColor": -9270822
+            "IconName": "GitHub",
+            "IconColor": -16777216
         }
     ],
     "Descriptions": [
