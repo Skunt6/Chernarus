@@ -162,7 +162,7 @@
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 150.0,
-            "Chance": 0.5,
+            "Chance": 0.25,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
