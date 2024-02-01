@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "t_crusader_belt",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "t_crusader_weaponbelt",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

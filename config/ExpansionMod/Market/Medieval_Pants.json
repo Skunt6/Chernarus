@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "t_bulkarmor_pants",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "t_elvenarmor_pants",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "t_crusader_pants",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "t_crusader_pants_black",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "t_hospitaler_pants_a",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "t_hospitaler_pants_gold",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

@@ -4,9 +4,9 @@
     "Type": 1,
     "Title": "Mystic's Mysteries: A Seeker's Quest",
     "Descriptions": [
-        "Seeker of mysteries, within the pages of 'A Traveler in Time,' a legend whispers of a time traveler's cache on the island of Skalisty, adorned with artifacts from untold eras. Unearth these relics, each echoing the essence of a bygone era. Your quest promises encounters with enigmatic artifacts, sparking whispers of history untold. As the pages guide you to the trove that transcends ages, hidden on Skalisty, bring your discoveries back, for these treasures may unlock the mysteries of our time."
+        "Seeker of Mysteries, within the haunted verses of 'A Traveler in Time,' a dark legend entices you to Skalisty Island's heart. It whispers of a hidden cache, holding cursed relics from forgotten eras. Your quest leads to these tainted artifacts, each echoing malevolence from ages past. The ominous pages guide you to a trove defying time, hidden on Skalisty. Retrieve these cursed treasures, for they hold keys to our darkest enigmas. Beware, as shadows may conspire to claim your soul."
     ],
-    "ObjectiveText": "look for the time travlers cache ",
+    "ObjectiveText": "Look for the time travlers cache.",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,

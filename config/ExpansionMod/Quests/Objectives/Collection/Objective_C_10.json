@@ -2,67 +2,13 @@
     "ConfigVersion": 26,
     "ID": 10,
     "ObjectiveType": 4,
-    "ObjectiveText": "Acquire Gems.",
+    "ObjectiveText": "Acquire the sword.",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 4,
-            "ClassName": "ItemAlienIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemRodochrosite",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemPinkTourmaline",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemAlexandrit",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemIndicolite",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemAquamarine",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemEmerald",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemYellowBeryl",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemRuby",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemCitrine",
+            "Amount": 1,
+            "ClassName": "t_longsword03",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         }

@@ -119,6 +119,12 @@
             "ClassName": "ItemKunzite",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 4,
+            "ClassName": "ItemStarRuby",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
         }
     ],
     "ShowDistance": 1,
