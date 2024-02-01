@@ -37,6 +37,7 @@
         "dbo_raptorB": 50
     },
     "ItemRarity": {
+        "Whetstone": 3,
         "StartKitIV": 4,
         "BearTrap": 4,
         "BloodBagEmpty": 4,
@@ -2619,7 +2620,7 @@
         "Candycane_Red": 2,
         "Candycane_RedGreen": 2,
         "Candycane_Yellow": 2,
-        "Canteen": 2,
+        "Canteen": 3,
         "Carp": 2,
         "CarpFilletMeat": 2,
         "CatFoodCan": 2,
