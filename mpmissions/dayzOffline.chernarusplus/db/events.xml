@@ -1338,7 +1338,7 @@
         </children>
     </event>
     <event name="TrajectoryConiferous">
-        <nominal>140</nominal>
+        <nominal>70</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -1352,11 +1352,12 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="BoletusMushroom"/>
-            <child lootmax="0" lootmin="0" max="0" min="0" type="MacrolepiotaMushroom"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="MacrolepiotaMushroom"/>            
+		    <child lootmax="0" lootmin="0" max="0" min="0" type="PsilocybeMushroom"/>
         </children>
     </event>
     <event name="TrajectoryDeciduous">
-        <nominal>140</nominal>
+        <nominal>70</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -1370,10 +1371,11 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="PsilocybeMushroom"/>
         </children>
     </event>
     <event name="TrajectoryHumus">
-        <nominal>140</nominal>
+        <nominal>70</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -1387,6 +1389,8 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="AgaricusMushroom"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="PsilocybeMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="PleurotusMushroom"/>
         </children>
     </event>

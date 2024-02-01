@@ -1,11 +1,22 @@
 {
     "m_Version": 12,
-    "DisplayName": "Cannabis",
+    "DisplayName": "Herbals",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 100.0,
     "Items": [
+        {
+            "ClassName": "PsilocybeMushroom",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "CP_CigarettePack_CannabisSkunk",
             "MaxPriceThreshold": 1200,

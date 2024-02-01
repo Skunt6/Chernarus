@@ -1,0 +1,11 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Blackmarket Trading Zone",
+    "Position": [
+        4043.54, 372.717, 11710.2
+    ],
+    "Radius": 10.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}

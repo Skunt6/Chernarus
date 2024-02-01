@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "Herbal Trader",
+    "DisplayName": "Black Market Trader",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -12,6 +12,7 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
+        "Cocaine",
         "Cannabis",
         "Gardening",
         "Tobacco"
