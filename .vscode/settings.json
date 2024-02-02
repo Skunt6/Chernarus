@@ -22,6 +22,8 @@
       "@DrugsPLUS/": true,
       "@Gas-Pump-Refueling/": true,
       "@TF-FuelPump/": true,
+      "@Inventory Move Sounds/": true,
+      "@ViewInventoryAnimation/": true,
       "@dzr_notes": true,
       "@VPPAdminTools/": true,
       "@CannabisPlus/": true,
