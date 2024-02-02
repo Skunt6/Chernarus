@@ -28,14 +28,7 @@
                 14173.7, 195.418, 15286.2
             ],
             "Radius": 150.0
-        }
-    ],
-    "PolygonZones": [
-        {
-            "Positions": []
-        }
-    ],
-    "CylinderZones": [
+        },
         {
             "Center": [
                 4043.54, 372.717, 11710.2
@@ -43,6 +36,12 @@
             "Radius": 10.0
         }
     ],
+    "PolygonZones": [
+        {
+            "Positions": []
+        }
+    ],
+    "CylinderZones": [],
     "ActorsPerTick": 5,
     "DisableVehicleDamageInSafeZone": 1,
     "EnableForceSZCleanup": 0,
