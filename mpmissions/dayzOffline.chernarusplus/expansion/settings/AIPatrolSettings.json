@@ -202,7 +202,7 @@
     ],
     "Patrols": [
         {
-            "Name": "VanPelt",              
+            "Name": "VanPelt",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 5.0,
@@ -220,7 +220,7 @@
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
-            "DamageReceivedMultiplier": 0.10,
+            "DamageReceivedMultiplier": 0.1,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
@@ -233,115 +233,189 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    190.069, 110.942, 3511.97
+                    190.069,
+                    110.942,
+                    3511.97
                 ],
                 [
-                    6914.73, 359.857, 10257
+                    6914.73,
+                    359.857,
+                    10257
                 ],
                 [
-                    6378.08, 287.947, 11576.9
+                    6378.08,
+                    287.947,
+                    11576.9
                 ],
                 [
-                    6370.83, 178.938, 12410.9
+                    6370.83,
+                    178.938,
+                    12410.9
                 ],
                 [
-                    281.957, 112.958, 4010.43
+                    281.957,
+                    112.958,
+                    4010.43
                 ],
                 [
-                    32.7272, 121.205, 4548.36
+                    32.7272,
+                    121.205,
+                    4548.36
                 ],
                 [
-                    585.841, 138.478, 5237.11
+                    585.841,
+                    138.478,
+                    5237.11
                 ],
                 [
-                    771.862, 232.502, 6362.31
+                    771.862,
+                    232.502,
+                    6362.31
                 ],
                 [
-                    1228.51, 212.232, 7600.38
+                    1228.51,
+                    212.232,
+                    7600.38
                 ],
                 [
-                    270.445, 300.128, 8056.21
+                    270.445,
+                    300.128,
+                    8056.21
                 ],
                 [
-                    1309.31, 248.335, 9199.38
+                    1309.31,
+                    248.335,
+                    9199.38
                 ],
                 [
-                    346.57, 358.387, 9700.49
+                    346.57,
+                    358.387,
+                    9700.49
                 ],
                 [
-                    1301.25, 341.807, 10102.7
+                    1301.25,
+                    341.807,
+                    10102.7
                 ],
                 [
-                    311.169, 434.508, 10483
+                    311.169,
+                    434.508,
+                    10483
                 ],
                 [
-                    1042.62, 350.458, 11316.6
+                    1042.62,
+                    350.458,
+                    11316.6
                 ],
                 [
-                    214.182, 394.972, 12459.3
+                    214.182,
+                    394.972,
+                    12459.3
                 ],
                 [
-                    1519.48, 351.147, 13096.2
+                    1519.48,
+                    351.147,
+                    13096.2
                 ],
                 [
-                    428.364, 490.977, 13787.2
+                    428.364,
+                    490.977,
+                    13787.2
                 ],
                 [
-                    1162.39, 466.244, 14219.4
+                    1162.39,
+                    466.244,
+                    14219.4
                 ],
                 [
-                    241.7, 466.536, 14589.1
+                    241.7,
+                    466.536,
+                    14589.1
                 ],
                 [
-                    1220.96, 433.972, 14847.5
+                    1220.96,
+                    433.972,
+                    14847.5
                 ],
                 [
-                    2011.63, 417.76, 14453.7
+                    2011.63,
+                    417.76,
+                    14453.7
                 ],
                 [
-                    2248.92, 381.953, 13689.2
+                    2248.92,
+                    381.953,
+                    13689.2
                 ],
                 [
-                    2774.58, 428.727, 14763.8
+                    2774.58,
+                    428.727,
+                    14763.8
                 ],
                 [
-                    3338.85, 239.153, 14054.3
+                    3338.85,
+                    239.153,
+                    14054.3
                 ],
                 [
-                    3781.4, 253.677, 14419.8
+                    3781.4,
+                    253.677,
+                    14419.8
                 ],
                 [
-                    5198.21, 248.396, 14138.8
+                    5198.21,
+                    248.396,
+                    14138.8
                 ],
                 [
-                    5247.27, 375.129, 14665.5
+                    5247.27,
+                    375.129,
+                    14665.5
                 ],
                 [
-                    6178.85, 312.042, 14050.2
+                    6178.85,
+                    312.042,
+                    14050.2
                 ],
                 [
-                    6565.26, 395.577, 14621.8
+                    6565.26,
+                    395.577,
+                    14621.8
                 ],
                 [
-                    7115.24, 437.696, 15070.4
+                    7115.24,
+                    437.696,
+                    15070.4
                 ],
                 [
-                    7569.71, 325.508, 14549.5
+                    7569.71,
+                    325.508,
+                    14549.5
                 ],
                 [
-                    6858.66, 275.063, 13745
+                    6858.66,
+                    275.063,
+                    13745
                 ],
                 [
-                    7908.33, 259.609, 14247.4
+                    7908.33,
+                    259.609,
+                    14247.4
                 ],
                 [
-                    8042.24, 198.118, 13640.8
+                    8042.24,
+                    198.118,
+                    13640.8
                 ],
                 [
-                    8516.78, 345.816, 14802.8
+                    8516.78,
+                    345.816,
+                    14802.8
                 ],
                 [
-                    9037.84, 354.864, 15170.3
+                    9037.84,
+                    354.864,
+                    15170.3
                 ]
             ]
         },
@@ -359,8 +433,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -377,12 +451,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1500.1500244140626,
+                    1500.1500244140625,
                     469.4714660644531,
                     14321.0
                 ],
                 [
-                    1610.9100341796876,
+                    1610.9100341796875,
                     448.1226806640625,
                     13824.5
                 ],
@@ -392,12 +466,12 @@
                     13578.2998046875
                 ],
                 [
-                    1618.1800537109376,
+                    1618.1800537109375,
                     437.1510009765625,
                     13581.599609375
                 ],
                 [
-                    1524.8499755859376,
+                    1524.8499755859375,
                     440.4280090332031,
                     13646.900390625
                 ],
@@ -407,7 +481,7 @@
                     13702.7998046875
                 ],
                 [
-                    1643.5999755859376,
+                    1643.5999755859375,
                     451.4410095214844,
                     14001.2998046875
                 ],
@@ -417,23 +491,23 @@
                     14120.5
                 ],
                 [
-                    1669.3599853515626,
+                    1669.3599853515625,
                     451.7300109863281,
                     14274.7998046875
                 ],
                 [
-                    1668.8499755859376,
+                    1668.8499755859375,
                     451.7449951171875,
                     14367.7998046875
                 ],
                 [
                     1591.5,
-                    454.17498779296877,
+                    454.17498779296875,
                     14378.7998046875
                 ],
                 [
                     1495.719970703125,
-                    460.55999755859377,
+                    460.55999755859375,
                     14445.7001953125
                 ],
                 [
@@ -442,12 +516,12 @@
                     14456.5
                 ],
                 [
-                    1320.5699462890626,
+                    1320.5699462890625,
                     454.8160095214844,
                     14487.7998046875
                 ],
                 [
-                    1749.8399658203126,
+                    1749.8399658203125,
                     451.7200012207031,
                     14152.7001953125
                 ]
@@ -467,8 +541,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -485,12 +559,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1500.1500244140626,
+                    1500.1500244140625,
                     469.4714660644531,
                     14321.0
                 ],
                 [
-                    1610.9100341796876,
+                    1610.9100341796875,
                     448.1226806640625,
                     13824.5
                 ],
@@ -500,12 +574,12 @@
                     13578.2998046875
                 ],
                 [
-                    1618.1800537109376,
+                    1618.1800537109375,
                     437.1510009765625,
                     13581.599609375
                 ],
                 [
-                    1524.8499755859376,
+                    1524.8499755859375,
                     440.4280090332031,
                     13646.900390625
                 ],
@@ -515,7 +589,7 @@
                     13702.7998046875
                 ],
                 [
-                    1643.5999755859376,
+                    1643.5999755859375,
                     451.4410095214844,
                     14001.2998046875
                 ],
@@ -525,23 +599,23 @@
                     14120.5
                 ],
                 [
-                    1669.3599853515626,
+                    1669.3599853515625,
                     451.7300109863281,
                     14274.7998046875
                 ],
                 [
-                    1668.8499755859376,
+                    1668.8499755859375,
                     451.7449951171875,
                     14367.7998046875
                 ],
                 [
                     1591.5,
-                    454.17498779296877,
+                    454.17498779296875,
                     14378.7998046875
                 ],
                 [
                     1495.719970703125,
-                    460.55999755859377,
+                    460.55999755859375,
                     14445.7001953125
                 ],
                 [
@@ -550,12 +624,12 @@
                     14456.5
                 ],
                 [
-                    1320.5699462890626,
+                    1320.5699462890625,
                     454.8160095214844,
                     14487.7998046875
                 ],
                 [
-                    1749.8399658203126,
+                    1749.8399658203125,
                     451.7200012207031,
                     14152.7001953125
                 ]
@@ -575,8 +649,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -594,11 +668,11 @@
             "Waypoints": [
                 [
                     336.89599609375,
-                    290.02777099609377,
+                    290.02777099609375,
                     9282.0302734375
                 ],
                 [
-                    248.46600341796876,
+                    248.46600341796875,
                     308.7977600097656,
                     9493.9296875
                 ]
@@ -618,8 +692,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -671,8 +745,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -715,7 +789,7 @@
                 ],
                 [
                     6888.75,
-                    405.92498779296877,
+                    405.92498779296875,
                     11438.099609375
                 ]
             ]
@@ -734,8 +808,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -768,17 +842,17 @@
                 ],
                 [
                     1399.06005859375,
-                    303.34698486328127,
+                    303.34698486328125,
                     9305.080078125
                 ],
                 [
-                    1424.4300537109376,
+                    1424.4300537109375,
                     301.6579895019531,
                     9294.8798828125
                 ],
                 [
                     1496.77001953125,
-                    298.51300048828127,
+                    298.51300048828125,
                     9192.2001953125
                 ],
                 [
@@ -802,8 +876,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -821,7 +895,7 @@
             "Waypoints": [
                 [
                     6561.77978515625,
-                    387.87200927734377,
+                    387.87200927734375,
                     5568.85986328125
                 ],
                 [
@@ -836,7 +910,7 @@
                 ],
                 [
                     6562.009765625,
-                    392.70599365234377,
+                    392.70599365234375,
                     5598.27978515625
                 ]
             ]
@@ -855,8 +929,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -874,12 +948,12 @@
             "Waypoints": [
                 [
                     2357.22998046875,
-                    249.97300720214845,
+                    249.97300720214844,
                     11799.7001953125
                 ],
                 [
                     2329.3701171875,
-                    249.97500610351563,
+                    249.97500610351562,
                     11784.0
                 ],
                 [
@@ -894,7 +968,7 @@
                 ],
                 [
                     2368.659912109375,
-                    249.82899475097657,
+                    249.82899475097656,
                     11784.2001953125
                 ]
             ]
@@ -913,8 +987,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -937,7 +1011,7 @@
                 ],
                 [
                     4318.259765625,
-                    341.00726318359377,
+                    341.00726318359375,
                     10583.599609375
                 ],
                 [
@@ -957,7 +1031,7 @@
                 ],
                 [
                     4100.18017578125,
-                    370.27801513671877,
+                    370.27801513671875,
                     11628.5
                 ],
                 [
@@ -997,7 +1071,7 @@
                 ],
                 [
                     4565.10986328125,
-                    338.99700927734377,
+                    338.99700927734375,
                     10702.900390625
                 ],
                 [
@@ -1046,8 +1120,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1070,7 +1144,7 @@
                 ],
                 [
                     4318.259765625,
-                    341.00726318359377,
+                    341.00726318359375,
                     10583.599609375
                 ],
                 [
@@ -1090,7 +1164,7 @@
                 ],
                 [
                     4100.18017578125,
-                    370.27801513671877,
+                    370.27801513671875,
                     11628.5
                 ],
                 [
@@ -1130,7 +1204,7 @@
                 ],
                 [
                     4565.10986328125,
-                    338.99700927734377,
+                    338.99700927734375,
                     10702.900390625
                 ],
                 [
@@ -1179,8 +1253,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1203,7 +1277,7 @@
                 ],
                 [
                     4318.259765625,
-                    341.00726318359377,
+                    341.00726318359375,
                     10583.599609375
                 ],
                 [
@@ -1223,7 +1297,7 @@
                 ],
                 [
                     4100.18017578125,
-                    370.27801513671877,
+                    370.27801513671875,
                     11628.5
                 ],
                 [
@@ -1263,7 +1337,7 @@
                 ],
                 [
                     4565.10986328125,
-                    338.99700927734377,
+                    338.99700927734375,
                     10702.900390625
                 ],
                 [
@@ -1312,8 +1386,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.28,
-            "AccuracyMax": 0.78,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1346,7 +1420,7 @@
                 ],
                 [
                     7804.60009765625,
-                    356.02801513671877,
+                    356.02801513671875,
                     14792.2998046875
                 ],
                 [
@@ -1376,7 +1450,7 @@
                 ],
                 [
                     8060.2099609375,
-                    339.80999755859377,
+                    339.80999755859375,
                     14632.400390625
                 ]
             ]
@@ -1395,8 +1469,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1443,8 +1517,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1462,12 +1536,12 @@
             "Waypoints": [
                 [
                     2344.835693359375,
-                    187.84132385253907,
+                    187.84132385253906,
                     5134.69873046875
                 ],
                 [
                     2484.474365234375,
-                    190.99827575683595,
+                    190.99827575683594,
                     5177.68359375
                 ],
                 [
@@ -1477,12 +1551,12 @@
                 ],
                 [
                     2697.25,
-                    198.39300537109376,
+                    198.39300537109375,
                     5146.18017578125
                 ],
                 [
                     2557.110107421875,
-                    194.35499572753907,
+                    194.35499572753906,
                     5030.5400390625
                 ],
                 [
@@ -1507,7 +1581,7 @@
                 ],
                 [
                     2815.35009765625,
-                    211.04600524902345,
+                    211.04600524902344,
                     5454.6201171875
                 ]
             ]
@@ -1526,8 +1600,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1569,8 +1643,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1617,8 +1691,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1665,8 +1739,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1689,7 +1763,7 @@
                 ],
                 [
                     10926.900390625,
-                    219.77281188964845,
+                    219.77281188964844,
                     13398.599609375
                 ]
             ]
@@ -1708,8 +1782,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1727,12 +1801,12 @@
             "Waypoints": [
                 [
                     9567.39453125,
-                    243.34552001953126,
+                    243.34552001953125,
                     11819.3046875
                 ],
                 [
                     9562.689453125,
-                    242.42137145996095,
+                    242.42137145996094,
                     11786.3232421875
                 ]
             ]
@@ -1751,8 +1825,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1770,12 +1844,12 @@
             "Waypoints": [
                 [
                     10443.56640625,
-                    178.62098693847657,
+                    178.62098693847656,
                     9154.017578125
                 ],
                 [
                     10484.671875,
-                    184.30979919433595,
+                    184.30979919433594,
                     9120.9130859375
                 ]
             ]
@@ -1794,8 +1868,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1837,8 +1911,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1861,7 +1935,7 @@
                 ],
                 [
                     10388.69921875,
-                    284.20159912109377,
+                    284.20159912109375,
                     5958.6689453125
                 ]
             ]
@@ -1880,8 +1954,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1899,7 +1973,7 @@
             "Waypoints": [
                 [
                     10235.46484375,
-                    61.428688049316409,
+                    61.428688049316406,
                     4044.24658203125
                 ],
                 [
@@ -1923,8 +1997,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1942,13 +2016,13 @@
             "Waypoints": [
                 [
                     785.9310302734375,
-                    6.0956878662109379,
+                    6.0956878662109375,
                     1902.260009765625
                 ],
                 [
                     723.811279296875,
                     6.792983055114746,
-                    1871.3287353515626
+                    1871.3287353515625
                 ]
             ]
         },
@@ -1966,8 +2040,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -1985,12 +2059,12 @@
             "Waypoints": [
                 [
                     2654.030029296875,
-                    363.17510986328127,
+                    363.17510986328125,
                     6740.18994140625
                 ],
                 [
                     2722.030029296875,
-                    363.90093994140627,
+                    363.90093994140625,
                     6786.93994140625
                 ]
             ]
@@ -2009,8 +2083,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2028,11 +2102,11 @@
             "Waypoints": [
                 [
                     1142.422607421875,
-                    186.13829040527345,
+                    186.13829040527344,
                     7276.0966796875
                 ],
                 [
-                    1178.4200439453126,
+                    1178.4200439453125,
                     185.254638671875,
                     7191.22021484375
                 ]
@@ -2052,8 +2126,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2095,8 +2169,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2119,7 +2193,7 @@
                 ],
                 [
                     4943.2958984375,
-                    171.19203186035157,
+                    171.19203186035156,
                     12998.6845703125
                 ],
                 [
@@ -2143,8 +2217,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2186,8 +2260,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2229,8 +2303,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2277,8 +2351,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2316,7 +2390,7 @@
                 ],
                 [
                     7277.78125,
-                    27.163116455078126,
+                    27.163116455078125,
                     3029.509521484375
                 ]
             ]
@@ -2335,8 +2409,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2383,8 +2457,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2402,12 +2476,12 @@
             "Waypoints": [
                 [
                     9179.4599609375,
-                    243.90032958984376,
+                    243.90032958984375,
                     4041.719970703125
                 ],
                 [
                     9105.150390625,
-                    221.08155822753907,
+                    221.08155822753906,
                     3706.64990234375
                 ]
             ]
@@ -2426,8 +2500,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2455,7 +2529,7 @@
                 ],
                 [
                     10302.2998046875,
-                    12.969306945800782,
+                    12.969306945800781,
                     2295.159912109375
                 ],
                 [
@@ -2489,8 +2563,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2508,7 +2582,7 @@
             "Waypoints": [
                 [
                     11910.7001953125,
-                    6.1951727867126469,
+                    6.1951727867126465,
                     3469.320068359375
                 ],
                 [
@@ -2537,8 +2611,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2556,7 +2630,7 @@
             "Waypoints": [
                 [
                     12535.900390625,
-                    187.06768798828126,
+                    187.06768798828125,
                     4392.14990234375
                 ],
                 [
@@ -2580,8 +2654,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2619,12 +2693,12 @@
                 ],
                 [
                     12925.400390625,
-                    27.721820831298829,
+                    27.721820831298828,
                     6715.10986328125
                 ],
                 [
                     12765.400390625,
-                    13.613373756408692,
+                    13.613373756408691,
                     6186.14990234375
                 ]
             ]
@@ -2643,8 +2717,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2662,7 +2736,7 @@
             "Waypoints": [
                 [
                     12271.7001953125,
-                    34.234188079833987,
+                    34.234188079833984,
                     6254.31982421875
                 ],
                 [
@@ -2691,8 +2765,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2715,7 +2789,7 @@
                 ],
                 [
                     12062.0,
-                    190.99266052246095,
+                    190.99266052246094,
                     7236.419921875
                 ]
             ]
@@ -2734,8 +2808,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2753,7 +2827,7 @@
             "Waypoints": [
                 [
                     12969.31640625,
-                    24.801523208618165,
+                    24.801523208618164,
                     7966.0380859375
                 ],
                 [
@@ -2777,8 +2851,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2796,7 +2870,7 @@
             "Waypoints": [
                 [
                     12184.923828125,
-                    26.584924697875978,
+                    26.584924697875977,
                     9441.07421875
                 ],
                 [
@@ -2840,8 +2914,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2864,7 +2938,7 @@
                 ],
                 [
                     12307.2001953125,
-                    104.73506927490235,
+                    104.73506927490234,
                     10903.099609375
                 ]
             ]
@@ -2883,8 +2957,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2902,7 +2976,7 @@
             "Waypoints": [
                 [
                     13390.900390625,
-                    93.70943450927735,
+                    93.70943450927734,
                     12803.400390625
                 ],
                 [
@@ -2926,8 +3000,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2955,7 +3029,7 @@
                 ],
                 [
                     13854.01171875,
-                    21.032976150512697,
+                    21.032976150512695,
                     13170.1748046875
                 ]
             ]
@@ -2974,8 +3048,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -2998,7 +3072,7 @@
                 ],
                 [
                     13534.2001953125,
-                    16.200279235839845,
+                    16.200279235839844,
                     14017.900390625
                 ],
                 [
@@ -3022,8 +3096,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3070,8 +3144,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3113,8 +3187,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3132,7 +3206,7 @@
             "Waypoints": [
                 [
                     13996.2001953125,
-                    140.32923889160157,
+                    140.32923889160156,
                     15102.2998046875
                 ],
                 [
@@ -3156,8 +3230,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3175,7 +3249,7 @@
             "Waypoints": [
                 [
                     15241.7001953125,
-                    25.710914611816408,
+                    25.710914611816406,
                     13913.900390625
                 ],
                 [
@@ -3199,8 +3273,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3217,12 +3291,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1650.0899658203126,
-                    6.9272541999816898,
+                    1650.0899658203125,
+                    6.9272541999816895,
                     2236.7099609375
                 ],
                 [
-                    1975.3746337890626,
+                    1975.3746337890625,
                     6.698596954345703,
                     2244.010986328125
                 ]
@@ -3242,8 +3316,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3271,7 +3345,7 @@
                 ],
                 [
                     3696.820068359375,
-                    6.8902387619018559,
+                    6.8902387619018555,
                     2502.010009765625
                 ]
             ]
@@ -3290,8 +3364,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3309,7 +3383,7 @@
             "Waypoints": [
                 [
                     3103.419921875,
-                    219.09942626953126,
+                    219.09942626953125,
                     4077.56005859375
                 ],
                 [
@@ -3333,8 +3407,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3357,7 +3431,7 @@
                 ],
                 [
                     4423.2998046875,
-                    231.23016357421876,
+                    231.23016357421875,
                     4574.830078125
                 ]
             ]
@@ -3376,8 +3450,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3395,12 +3469,12 @@
             "Waypoints": [
                 [
                     3424.469970703125,
-                    244.15179443359376,
+                    244.15179443359375,
                     4884.18994140625
                 ],
                 [
                     3299.800048828125,
-                    237.22743225097657,
+                    237.22743225097656,
                     4964.25
                 ]
             ]
@@ -3419,8 +3493,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3462,8 +3536,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3481,7 +3555,7 @@
             "Waypoints": [
                 [
                     5836.751953125,
-                    139.83143615722657,
+                    139.83143615722656,
                     4570.05810546875
                 ],
                 [
@@ -3510,8 +3584,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3553,8 +3627,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3596,8 +3670,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3639,8 +3713,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3663,7 +3737,7 @@
                 ],
                 [
                     7438.10205078125,
-                    216.80076599121095,
+                    216.80076599121094,
                     5166.5712890625
                 ]
             ]
@@ -3682,8 +3756,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3725,8 +3799,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3744,7 +3818,7 @@
             "Waypoints": [
                 [
                     8488.7802734375,
-                    358.27166748046877,
+                    358.27166748046875,
                     6678.72021484375
                 ],
                 [
@@ -3768,8 +3842,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3792,7 +3866,7 @@
                 ],
                 [
                     9714.439453125,
-                    211.59954833984376,
+                    211.59954833984375,
                     6515.75244140625
                 ]
             ]
@@ -3811,8 +3885,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3830,7 +3904,7 @@
             "Waypoints": [
                 [
                     11207.173828125,
-                    255.60052490234376,
+                    255.60052490234375,
                     5416.82958984375
                 ],
                 [
@@ -3854,8 +3928,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3873,17 +3947,17 @@
             "Waypoints": [
                 [
                     9880.41015625,
-                    254.31846618652345,
+                    254.31846618652344,
                     5468.90966796875
                 ],
                 [
                     10112.0,
-                    245.00482177734376,
+                    245.00482177734375,
                     5496.56005859375
                 ],
                 [
                     10166.0703125,
-                    243.89271545410157,
+                    243.89271545410156,
                     5523.75341796875
                 ],
                 [
@@ -3907,8 +3981,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3931,7 +4005,7 @@
                 ],
                 [
                     10714.0,
-                    221.33145141601563,
+                    221.33145141601562,
                     8169.2900390625
                 ]
             ]
@@ -3950,8 +4024,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -3979,7 +4053,7 @@
                 ],
                 [
                     9464.0234375,
-                    303.98162841796877,
+                    303.98162841796875,
                     8818.853515625
                 ]
             ]
@@ -3998,8 +4072,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4041,8 +4115,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4060,12 +4134,12 @@
             "Waypoints": [
                 [
                     10066.41796875,
-                    150.71607971191407,
+                    150.71607971191406,
                     10356.47265625
                 ],
                 [
                     9910.259765625,
-                    163.37049865722657,
+                    163.37049865722656,
                     10426.7001953125
                 ]
             ]
@@ -4084,8 +4158,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4113,7 +4187,7 @@
                 ],
                 [
                     8587.48046875,
-                    190.08583068847657,
+                    190.08583068847656,
                     11973.2998046875
                 ]
             ]
@@ -4132,8 +4206,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4161,7 +4235,7 @@
                 ],
                 [
                     10740.2998046875,
-                    255.28916931152345,
+                    255.28916931152344,
                     12413.5
                 ]
             ]
@@ -4180,8 +4254,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4199,7 +4273,7 @@
             "Waypoints": [
                 [
                     7707.60009765625,
-                    180.80911254882813,
+                    180.80911254882812,
                     13243.900390625
                 ],
                 [
@@ -4223,8 +4297,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4271,8 +4345,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4314,8 +4388,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4343,7 +4417,7 @@
                 ],
                 [
                     11481.599609375,
-                    46.515071868896487,
+                    46.515071868896484,
                     14472.2001953125
                 ],
                 [
@@ -4358,12 +4432,12 @@
                 ],
                 [
                     11844.2998046875,
-                    27.399999618530275,
+                    27.399999618530273,
                     14277.7001953125
                 ],
                 [
                     12473.7001953125,
-                    21.860000610351564,
+                    21.860000610351562,
                     14210.2001953125
                 ]
             ]
@@ -4382,8 +4456,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4425,8 +4499,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4448,8 +4522,8 @@
                     3661.0
                 ],
                 [
-                    1663.3800048828126,
-                    144.04905700683595,
+                    1663.3800048828125,
+                    144.04905700683594,
                     3926.659912109375
                 ]
             ]
@@ -4468,8 +4542,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4521,8 +4595,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4545,12 +4619,12 @@
                 ],
                 [
                     614.7789916992188,
-                    140.37648010253907,
+                    140.37648010253906,
                     5275.68017578125
                 ],
                 [
-                    585.4971313476563,
-                    150.58876037597657,
+                    585.4971313476562,
+                    150.58876037597656,
                     5384.88134765625
                 ]
             ]
@@ -4569,8 +4643,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4612,8 +4686,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4630,12 +4704,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1979.1199951171876,
+                    1979.1199951171875,
                     236.51229858398438,
                     7192.39013671875
                 ],
                 [
-                    1951.3831787109376,
+                    1951.3831787109375,
                     258.8892517089844,
                     7402.13330078125
                 ]
@@ -4655,8 +4729,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4679,7 +4753,7 @@
                 ],
                 [
                     3066.679931640625,
-                    304.54498291015627,
+                    304.54498291015625,
                     7942.77978515625
                 ],
                 [
@@ -4703,8 +4777,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4721,7 +4795,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1205.1800537109376,
+                    1205.1800537109375,
                     279.4197082519531,
                     8704.9599609375
                 ],
@@ -4751,8 +4825,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4804,8 +4878,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4823,12 +4897,12 @@
             "Waypoints": [
                 [
                     5439.52001953125,
-                    331.07305908203127,
+                    331.07305908203125,
                     8490.33984375
                 ],
                 [
                     5241.9599609375,
-                    340.86297607421877,
+                    340.86297607421875,
                     8628.4501953125
                 ]
             ]
@@ -4847,8 +4921,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4866,7 +4940,7 @@
             "Waypoints": [
                 [
                     5977.490234375,
-                    302.19500732421877,
+                    302.19500732421875,
                     7891.919921875
                 ],
                 [
@@ -4876,7 +4950,7 @@
                 ],
                 [
                     6146.8798828125,
-                    301.03900146484377,
+                    301.03900146484375,
                     7714.1298828125
                 ]
             ]
@@ -4895,8 +4969,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4914,12 +4988,12 @@
             "Waypoints": [
                 [
                     6945.72998046875,
-                    295.81610107421877,
+                    295.81610107421875,
                     7825.68994140625
                 ],
                 [
                     7165.97021484375,
-                    293.90814208984377,
+                    293.90814208984375,
                     7688.31982421875
                 ]
             ]
@@ -4938,8 +5012,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -4962,7 +5036,7 @@
                 ],
                 [
                     1039.52001953125,
-                    338.87237548828127,
+                    338.87237548828125,
                     9954.5703125
                 ]
             ]
@@ -4981,8 +5055,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5024,8 +5098,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5043,7 +5117,7 @@
             "Waypoints": [
                 [
                     5420.919921875,
-                    163.80532836914063,
+                    163.80532836914062,
                     12692.099609375
                 ],
                 [
@@ -5067,8 +5141,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5091,7 +5165,7 @@
                 ],
                 [
                     6463.2900390625,
-                    148.70326232910157,
+                    148.70326232910156,
                     12710.400390625
                 ]
             ]
@@ -5110,8 +5184,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5168,8 +5242,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5192,7 +5266,7 @@
                 ],
                 [
                     5672.14990234375,
-                    223.69253540039063,
+                    223.69253540039062,
                     13565.0
                 ]
             ]
@@ -5211,8 +5285,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5235,7 +5309,7 @@
                 ],
                 [
                     6712.35986328125,
-                    379.30633544921877,
+                    379.30633544921875,
                     14552.900390625
                 ]
             ]
@@ -5254,8 +5328,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5297,8 +5371,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5316,7 +5390,7 @@
             "Waypoints": [
                 [
                     4847.68017578125,
-                    475.28179931640627,
+                    475.28179931640625,
                     15068.0
                 ],
                 [
@@ -5326,7 +5400,7 @@
                 ],
                 [
                     5199.740234375,
-                    480.62713623046877,
+                    480.62713623046875,
                     15057.400390625
                 ]
             ]
@@ -5345,8 +5419,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5388,8 +5462,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5412,7 +5486,7 @@
                 ],
                 [
                     2704.64990234375,
-                    273.98541259765627,
+                    273.98541259765625,
                     9896.7197265625
                 ],
                 [
@@ -5436,8 +5510,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5484,8 +5558,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5502,12 +5576,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1139.9100341796876,
+                    1139.9100341796875,
                     304.6114501953125,
                     12066.2998046875
                 ],
                 [
-                    1638.8399658203126,
+                    1638.8399658203125,
                     270.4959716796875,
                     12040.7001953125
                 ]
@@ -5527,8 +5601,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5546,12 +5620,12 @@
             "Waypoints": [
                 [
                     2608.050048828125,
-                    223.93899536132813,
+                    223.93899536132812,
                     12345.900390625
                 ],
                 [
                     3092.719970703125,
-                    206.94813537597657,
+                    206.94813537597656,
                     12595.2998046875
                 ]
             ]
@@ -5570,8 +5644,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.5,
@@ -5589,12 +5663,12 @@
             "Waypoints": [
                 [
                     3364.1298828125,
-                    197.43992614746095,
+                    197.43992614746094,
                     12846.2998046875
                 ],
                 [
                     3437.550048828125,
-                    192.72999572753907,
+                    192.72999572753906,
                     13018.7998046875
                 ],
                 [
@@ -5604,12 +5678,11 @@
                 ],
                 [
                     3738.919921875,
-                    188.23443603515626,
+                    188.23443603515625,
                     13104.599609375
                 ]
             ]
         },
-  
         {
             "Name": "Tisy",
             "Faction": "Mercenaries",
@@ -5624,8 +5697,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -5642,12 +5715,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1500.1500244140626,
+                    1500.1500244140625,
                     469.4714660644531,
                     14321.0
                 ],
                 [
-                    1610.9100341796876,
+                    1610.9100341796875,
                     448.1226806640625,
                     13824.5
                 ],
@@ -5657,12 +5730,12 @@
                     13578.2998046875
                 ],
                 [
-                    1618.1800537109376,
+                    1618.1800537109375,
                     437.1510009765625,
                     13581.599609375
                 ],
                 [
-                    1524.8499755859376,
+                    1524.8499755859375,
                     440.4280090332031,
                     13646.900390625
                 ],
@@ -5672,7 +5745,7 @@
                     13702.7998046875
                 ],
                 [
-                    1643.5999755859376,
+                    1643.5999755859375,
                     451.4410095214844,
                     14001.2998046875
                 ],
@@ -5682,23 +5755,23 @@
                     14120.5
                 ],
                 [
-                    1669.3599853515626,
+                    1669.3599853515625,
                     451.7300109863281,
                     14274.7998046875
                 ],
                 [
-                    1668.8499755859376,
+                    1668.8499755859375,
                     451.7449951171875,
                     14367.7998046875
                 ],
                 [
                     1591.5,
-                    454.17498779296877,
+                    454.17498779296875,
                     14378.7998046875
                 ],
                 [
                     1495.719970703125,
-                    460.55999755859377,
+                    460.55999755859375,
                     14445.7001953125
                 ],
                 [
@@ -5707,12 +5780,12 @@
                     14456.5
                 ],
                 [
-                    1320.5699462890626,
+                    1320.5699462890625,
                     454.8160095214844,
                     14487.7998046875
                 ],
                 [
-                    1749.8399658203126,
+                    1749.8399658203125,
                     451.7200012207031,
                     14152.7001953125
                 ]
@@ -5732,8 +5805,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -5750,12 +5823,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1500.1500244140626,
+                    1500.1500244140625,
                     469.4714660644531,
                     14321.0
                 ],
                 [
-                    1610.9100341796876,
+                    1610.9100341796875,
                     448.1226806640625,
                     13824.5
                 ],
@@ -5765,12 +5838,12 @@
                     13578.2998046875
                 ],
                 [
-                    1618.1800537109376,
+                    1618.1800537109375,
                     437.1510009765625,
                     13581.599609375
                 ],
                 [
-                    1524.8499755859376,
+                    1524.8499755859375,
                     440.4280090332031,
                     13646.900390625
                 ],
@@ -5780,7 +5853,7 @@
                     13702.7998046875
                 ],
                 [
-                    1643.5999755859376,
+                    1643.5999755859375,
                     451.4410095214844,
                     14001.2998046875
                 ],
@@ -5790,23 +5863,23 @@
                     14120.5
                 ],
                 [
-                    1669.3599853515626,
+                    1669.3599853515625,
                     451.7300109863281,
                     14274.7998046875
                 ],
                 [
-                    1668.8499755859376,
+                    1668.8499755859375,
                     451.7449951171875,
                     14367.7998046875
                 ],
                 [
                     1591.5,
-                    454.17498779296877,
+                    454.17498779296875,
                     14378.7998046875
                 ],
                 [
                     1495.719970703125,
-                    460.55999755859377,
+                    460.55999755859375,
                     14445.7001953125
                 ],
                 [
@@ -5815,12 +5888,12 @@
                     14456.5
                 ],
                 [
-                    1320.5699462890626,
+                    1320.5699462890625,
                     454.8160095214844,
                     14487.7998046875
                 ],
                 [
-                    1749.8399658203126,
+                    1749.8399658203125,
                     451.7200012207031,
                     14152.7001953125
                 ]
@@ -5840,8 +5913,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -5859,11 +5932,11 @@
             "Waypoints": [
                 [
                     336.89599609375,
-                    290.02777099609377,
+                    290.02777099609375,
                     9282.0302734375
                 ],
                 [
-                    248.46600341796876,
+                    248.46600341796875,
                     308.7977600097656,
                     9493.9296875
                 ]
@@ -5883,8 +5956,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -5936,8 +6009,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -5980,7 +6053,7 @@
                 ],
                 [
                     6888.75,
-                    405.92498779296877,
+                    405.92498779296875,
                     11438.099609375
                 ]
             ]
@@ -5999,8 +6072,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6033,17 +6106,17 @@
                 ],
                 [
                     1399.06005859375,
-                    303.34698486328127,
+                    303.34698486328125,
                     9305.080078125
                 ],
                 [
-                    1424.4300537109376,
+                    1424.4300537109375,
                     301.6579895019531,
                     9294.8798828125
                 ],
                 [
                     1496.77001953125,
-                    298.51300048828127,
+                    298.51300048828125,
                     9192.2001953125
                 ],
                 [
@@ -6067,8 +6140,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6086,7 +6159,7 @@
             "Waypoints": [
                 [
                     6561.77978515625,
-                    387.87200927734377,
+                    387.87200927734375,
                     5568.85986328125
                 ],
                 [
@@ -6101,7 +6174,7 @@
                 ],
                 [
                     6562.009765625,
-                    392.70599365234377,
+                    392.70599365234375,
                     5598.27978515625
                 ]
             ]
@@ -6120,8 +6193,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6139,12 +6212,12 @@
             "Waypoints": [
                 [
                     2357.22998046875,
-                    249.97300720214845,
+                    249.97300720214844,
                     11799.7001953125
                 ],
                 [
                     2329.3701171875,
-                    249.97500610351563,
+                    249.97500610351562,
                     11784.0
                 ],
                 [
@@ -6159,7 +6232,7 @@
                 ],
                 [
                     2368.659912109375,
-                    249.82899475097657,
+                    249.82899475097656,
                     11784.2001953125
                 ]
             ]
@@ -6178,8 +6251,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6202,7 +6275,7 @@
                 ],
                 [
                     4318.259765625,
-                    341.00726318359377,
+                    341.00726318359375,
                     10583.599609375
                 ],
                 [
@@ -6222,7 +6295,7 @@
                 ],
                 [
                     4100.18017578125,
-                    370.27801513671877,
+                    370.27801513671875,
                     11628.5
                 ],
                 [
@@ -6262,7 +6335,7 @@
                 ],
                 [
                     4565.10986328125,
-                    338.99700927734377,
+                    338.99700927734375,
                     10702.900390625
                 ],
                 [
@@ -6311,8 +6384,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6335,7 +6408,7 @@
                 ],
                 [
                     4318.259765625,
-                    341.00726318359377,
+                    341.00726318359375,
                     10583.599609375
                 ],
                 [
@@ -6355,7 +6428,7 @@
                 ],
                 [
                     4100.18017578125,
-                    370.27801513671877,
+                    370.27801513671875,
                     11628.5
                 ],
                 [
@@ -6395,7 +6468,7 @@
                 ],
                 [
                     4565.10986328125,
-                    338.99700927734377,
+                    338.99700927734375,
                     10702.900390625
                 ],
                 [
@@ -6444,8 +6517,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6468,7 +6541,7 @@
                 ],
                 [
                     4318.259765625,
-                    341.00726318359377,
+                    341.00726318359375,
                     10583.599609375
                 ],
                 [
@@ -6488,7 +6561,7 @@
                 ],
                 [
                     4100.18017578125,
-                    370.27801513671877,
+                    370.27801513671875,
                     11628.5
                 ],
                 [
@@ -6528,7 +6601,7 @@
                 ],
                 [
                     4565.10986328125,
-                    338.99700927734377,
+                    338.99700927734375,
                     10702.900390625
                 ],
                 [
@@ -6577,8 +6650,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.28,
-            "AccuracyMax": 0.78,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6611,7 +6684,7 @@
                 ],
                 [
                     7804.60009765625,
-                    356.02801513671877,
+                    356.02801513671875,
                     14792.2998046875
                 ],
                 [
@@ -6641,7 +6714,7 @@
                 ],
                 [
                     8060.2099609375,
-                    339.80999755859377,
+                    339.80999755859375,
                     14632.400390625
                 ]
             ]
@@ -6660,8 +6733,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6708,8 +6781,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6727,12 +6800,12 @@
             "Waypoints": [
                 [
                     2344.835693359375,
-                    187.84132385253907,
+                    187.84132385253906,
                     5134.69873046875
                 ],
                 [
                     2484.474365234375,
-                    190.99827575683595,
+                    190.99827575683594,
                     5177.68359375
                 ],
                 [
@@ -6742,12 +6815,12 @@
                 ],
                 [
                     2697.25,
-                    198.39300537109376,
+                    198.39300537109375,
                     5146.18017578125
                 ],
                 [
                     2557.110107421875,
-                    194.35499572753907,
+                    194.35499572753906,
                     5030.5400390625
                 ],
                 [
@@ -6772,7 +6845,7 @@
                 ],
                 [
                     2815.35009765625,
-                    211.04600524902345,
+                    211.04600524902344,
                     5454.6201171875
                 ]
             ]
@@ -6791,8 +6864,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6834,8 +6907,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6882,8 +6955,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6930,8 +7003,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6954,7 +7027,7 @@
                 ],
                 [
                     10926.900390625,
-                    219.77281188964845,
+                    219.77281188964844,
                     13398.599609375
                 ]
             ]
@@ -6973,8 +7046,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -6992,12 +7065,12 @@
             "Waypoints": [
                 [
                     9567.39453125,
-                    243.34552001953126,
+                    243.34552001953125,
                     11819.3046875
                 ],
                 [
                     9562.689453125,
-                    242.42137145996095,
+                    242.42137145996094,
                     11786.3232421875
                 ]
             ]
@@ -7016,8 +7089,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7035,12 +7108,12 @@
             "Waypoints": [
                 [
                     10443.56640625,
-                    178.62098693847657,
+                    178.62098693847656,
                     9154.017578125
                 ],
                 [
                     10484.671875,
-                    184.30979919433595,
+                    184.30979919433594,
                     9120.9130859375
                 ]
             ]
@@ -7059,8 +7132,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7102,8 +7175,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7126,7 +7199,7 @@
                 ],
                 [
                     10388.69921875,
-                    284.20159912109377,
+                    284.20159912109375,
                     5958.6689453125
                 ]
             ]
@@ -7145,8 +7218,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7164,7 +7237,7 @@
             "Waypoints": [
                 [
                     10235.46484375,
-                    61.428688049316409,
+                    61.428688049316406,
                     4044.24658203125
                 ],
                 [
@@ -7188,8 +7261,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7207,13 +7280,13 @@
             "Waypoints": [
                 [
                     785.9310302734375,
-                    6.0956878662109379,
+                    6.0956878662109375,
                     1902.260009765625
                 ],
                 [
                     723.811279296875,
                     6.792983055114746,
-                    1871.3287353515626
+                    1871.3287353515625
                 ]
             ]
         },
@@ -7231,8 +7304,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7250,12 +7323,12 @@
             "Waypoints": [
                 [
                     2654.030029296875,
-                    363.17510986328127,
+                    363.17510986328125,
                     6740.18994140625
                 ],
                 [
                     2722.030029296875,
-                    363.90093994140627,
+                    363.90093994140625,
                     6786.93994140625
                 ]
             ]
@@ -7274,8 +7347,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7293,11 +7366,11 @@
             "Waypoints": [
                 [
                     1142.422607421875,
-                    186.13829040527345,
+                    186.13829040527344,
                     7276.0966796875
                 ],
                 [
-                    1178.4200439453126,
+                    1178.4200439453125,
                     185.254638671875,
                     7191.22021484375
                 ]
@@ -7317,8 +7390,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7360,8 +7433,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7384,7 +7457,7 @@
                 ],
                 [
                     4943.2958984375,
-                    171.19203186035157,
+                    171.19203186035156,
                     12998.6845703125
                 ],
                 [
@@ -7408,8 +7481,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7451,8 +7524,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7494,8 +7567,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7542,8 +7615,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7581,7 +7654,7 @@
                 ],
                 [
                     7277.78125,
-                    27.163116455078126,
+                    27.163116455078125,
                     3029.509521484375
                 ]
             ]
@@ -7600,8 +7673,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7648,8 +7721,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7667,12 +7740,12 @@
             "Waypoints": [
                 [
                     9179.4599609375,
-                    243.90032958984376,
+                    243.90032958984375,
                     4041.719970703125
                 ],
                 [
                     9105.150390625,
-                    221.08155822753907,
+                    221.08155822753906,
                     3706.64990234375
                 ]
             ]
@@ -7691,8 +7764,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7720,7 +7793,7 @@
                 ],
                 [
                     10302.2998046875,
-                    12.969306945800782,
+                    12.969306945800781,
                     2295.159912109375
                 ],
                 [
@@ -7754,8 +7827,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7773,7 +7846,7 @@
             "Waypoints": [
                 [
                     11910.7001953125,
-                    6.1951727867126469,
+                    6.1951727867126465,
                     3469.320068359375
                 ],
                 [
@@ -7802,8 +7875,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7821,7 +7894,7 @@
             "Waypoints": [
                 [
                     12535.900390625,
-                    187.06768798828126,
+                    187.06768798828125,
                     4392.14990234375
                 ],
                 [
@@ -7845,8 +7918,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7884,12 +7957,12 @@
                 ],
                 [
                     12925.400390625,
-                    27.721820831298829,
+                    27.721820831298828,
                     6715.10986328125
                 ],
                 [
                     12765.400390625,
-                    13.613373756408692,
+                    13.613373756408691,
                     6186.14990234375
                 ]
             ]
@@ -7908,8 +7981,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7927,7 +8000,7 @@
             "Waypoints": [
                 [
                     12271.7001953125,
-                    34.234188079833987,
+                    34.234188079833984,
                     6254.31982421875
                 ],
                 [
@@ -7956,8 +8029,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -7980,7 +8053,7 @@
                 ],
                 [
                     12062.0,
-                    190.99266052246095,
+                    190.99266052246094,
                     7236.419921875
                 ]
             ]
@@ -7999,8 +8072,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8018,7 +8091,7 @@
             "Waypoints": [
                 [
                     12969.31640625,
-                    24.801523208618165,
+                    24.801523208618164,
                     7966.0380859375
                 ],
                 [
@@ -8042,8 +8115,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8061,7 +8134,7 @@
             "Waypoints": [
                 [
                     12184.923828125,
-                    26.584924697875978,
+                    26.584924697875977,
                     9441.07421875
                 ],
                 [
@@ -8105,8 +8178,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8129,7 +8202,7 @@
                 ],
                 [
                     12307.2001953125,
-                    104.73506927490235,
+                    104.73506927490234,
                     10903.099609375
                 ]
             ]
@@ -8148,8 +8221,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8167,7 +8240,7 @@
             "Waypoints": [
                 [
                     13390.900390625,
-                    93.70943450927735,
+                    93.70943450927734,
                     12803.400390625
                 ],
                 [
@@ -8191,8 +8264,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8220,7 +8293,7 @@
                 ],
                 [
                     13854.01171875,
-                    21.032976150512697,
+                    21.032976150512695,
                     13170.1748046875
                 ]
             ]
@@ -8239,8 +8312,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8263,7 +8336,7 @@
                 ],
                 [
                     13534.2001953125,
-                    16.200279235839845,
+                    16.200279235839844,
                     14017.900390625
                 ],
                 [
@@ -8287,8 +8360,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8335,8 +8408,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8378,8 +8451,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8397,7 +8470,7 @@
             "Waypoints": [
                 [
                     13996.2001953125,
-                    140.32923889160157,
+                    140.32923889160156,
                     15102.2998046875
                 ],
                 [
@@ -8421,8 +8494,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8440,7 +8513,7 @@
             "Waypoints": [
                 [
                     15241.7001953125,
-                    25.710914611816408,
+                    25.710914611816406,
                     13913.900390625
                 ],
                 [
@@ -8464,8 +8537,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8482,12 +8555,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1650.0899658203126,
-                    6.9272541999816898,
+                    1650.0899658203125,
+                    6.9272541999816895,
                     2236.7099609375
                 ],
                 [
-                    1975.3746337890626,
+                    1975.3746337890625,
                     6.698596954345703,
                     2244.010986328125
                 ]
@@ -8507,8 +8580,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.27,
+            "AccuracyMax": 0.77,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8536,7 +8609,7 @@
                 ],
                 [
                     3696.820068359375,
-                    6.8902387619018559,
+                    6.8902387619018555,
                     2502.010009765625
                 ]
             ]
@@ -8555,8 +8628,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8574,7 +8647,7 @@
             "Waypoints": [
                 [
                     3103.419921875,
-                    219.09942626953126,
+                    219.09942626953125,
                     4077.56005859375
                 ],
                 [
@@ -8598,8 +8671,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8622,7 +8695,7 @@
                 ],
                 [
                     4423.2998046875,
-                    231.23016357421876,
+                    231.23016357421875,
                     4574.830078125
                 ]
             ]
@@ -8641,8 +8714,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8660,12 +8733,12 @@
             "Waypoints": [
                 [
                     3424.469970703125,
-                    244.15179443359376,
+                    244.15179443359375,
                     4884.18994140625
                 ],
                 [
                     3299.800048828125,
-                    237.22743225097657,
+                    237.22743225097656,
                     4964.25
                 ]
             ]
@@ -8684,8 +8757,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8727,8 +8800,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8746,7 +8819,7 @@
             "Waypoints": [
                 [
                     5836.751953125,
-                    139.83143615722657,
+                    139.83143615722656,
                     4570.05810546875
                 ],
                 [
@@ -8775,8 +8848,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8818,8 +8891,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8861,8 +8934,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8904,8 +8977,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8928,7 +9001,7 @@
                 ],
                 [
                     7438.10205078125,
-                    216.80076599121095,
+                    216.80076599121094,
                     5166.5712890625
                 ]
             ]
@@ -8947,8 +9020,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -8990,8 +9063,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9009,7 +9082,7 @@
             "Waypoints": [
                 [
                     8488.7802734375,
-                    358.27166748046877,
+                    358.27166748046875,
                     6678.72021484375
                 ],
                 [
@@ -9033,8 +9106,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9057,7 +9130,7 @@
                 ],
                 [
                     9714.439453125,
-                    211.59954833984376,
+                    211.59954833984375,
                     6515.75244140625
                 ]
             ]
@@ -9076,8 +9149,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9095,7 +9168,7 @@
             "Waypoints": [
                 [
                     11207.173828125,
-                    255.60052490234376,
+                    255.60052490234375,
                     5416.82958984375
                 ],
                 [
@@ -9119,8 +9192,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9138,17 +9211,17 @@
             "Waypoints": [
                 [
                     9880.41015625,
-                    254.31846618652345,
+                    254.31846618652344,
                     5468.90966796875
                 ],
                 [
                     10112.0,
-                    245.00482177734376,
+                    245.00482177734375,
                     5496.56005859375
                 ],
                 [
                     10166.0703125,
-                    243.89271545410157,
+                    243.89271545410156,
                     5523.75341796875
                 ],
                 [
@@ -9172,8 +9245,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9196,7 +9269,7 @@
                 ],
                 [
                     10714.0,
-                    221.33145141601563,
+                    221.33145141601562,
                     8169.2900390625
                 ]
             ]
@@ -9215,8 +9288,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9244,7 +9317,7 @@
                 ],
                 [
                     9464.0234375,
-                    303.98162841796877,
+                    303.98162841796875,
                     8818.853515625
                 ]
             ]
@@ -9263,8 +9336,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9306,8 +9379,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9325,12 +9398,12 @@
             "Waypoints": [
                 [
                     10066.41796875,
-                    150.71607971191407,
+                    150.71607971191406,
                     10356.47265625
                 ],
                 [
                     9910.259765625,
-                    163.37049865722657,
+                    163.37049865722656,
                     10426.7001953125
                 ]
             ]
@@ -9349,8 +9422,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9378,7 +9451,7 @@
                 ],
                 [
                     8587.48046875,
-                    190.08583068847657,
+                    190.08583068847656,
                     11973.2998046875
                 ]
             ]
@@ -9397,8 +9470,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9426,7 +9499,7 @@
                 ],
                 [
                     10740.2998046875,
-                    255.28916931152345,
+                    255.28916931152344,
                     12413.5
                 ]
             ]
@@ -9445,8 +9518,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9464,7 +9537,7 @@
             "Waypoints": [
                 [
                     7707.60009765625,
-                    180.80911254882813,
+                    180.80911254882812,
                     13243.900390625
                 ],
                 [
@@ -9488,8 +9561,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9536,8 +9609,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9579,8 +9652,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9608,7 +9681,7 @@
                 ],
                 [
                     11481.599609375,
-                    46.515071868896487,
+                    46.515071868896484,
                     14472.2001953125
                 ],
                 [
@@ -9623,12 +9696,12 @@
                 ],
                 [
                     11844.2998046875,
-                    27.399999618530275,
+                    27.399999618530273,
                     14277.7001953125
                 ],
                 [
                     12473.7001953125,
-                    21.860000610351564,
+                    21.860000610351562,
                     14210.2001953125
                 ]
             ]
@@ -9647,8 +9720,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3033,
+            "AccuracyMax": 0.8033,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9690,8 +9763,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9713,8 +9786,8 @@
                     3661.0
                 ],
                 [
-                    1663.3800048828126,
-                    144.04905700683595,
+                    1663.3800048828125,
+                    144.04905700683594,
                     3926.659912109375
                 ]
             ]
@@ -9733,8 +9806,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9786,8 +9859,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9810,12 +9883,12 @@
                 ],
                 [
                     614.7789916992188,
-                    140.37648010253907,
+                    140.37648010253906,
                     5275.68017578125
                 ],
                 [
-                    585.4971313476563,
-                    150.58876037597657,
+                    585.4971313476562,
+                    150.58876037597656,
                     5384.88134765625
                 ]
             ]
@@ -9834,8 +9907,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9877,8 +9950,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9895,12 +9968,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1979.1199951171876,
+                    1979.1199951171875,
                     236.51229858398438,
                     7192.39013671875
                 ],
                 [
-                    1951.3831787109376,
+                    1951.3831787109375,
                     258.8892517089844,
                     7402.13330078125
                 ]
@@ -9920,8 +9993,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9944,7 +10017,7 @@
                 ],
                 [
                     3066.679931640625,
-                    304.54498291015627,
+                    304.54498291015625,
                     7942.77978515625
                 ],
                 [
@@ -9968,8 +10041,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -9986,7 +10059,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1205.1800537109376,
+                    1205.1800537109375,
                     279.4197082519531,
                     8704.9599609375
                 ],
@@ -10016,8 +10089,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10069,8 +10142,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10088,12 +10161,12 @@
             "Waypoints": [
                 [
                     5439.52001953125,
-                    331.07305908203127,
+                    331.07305908203125,
                     8490.33984375
                 ],
                 [
                     5241.9599609375,
-                    340.86297607421877,
+                    340.86297607421875,
                     8628.4501953125
                 ]
             ]
@@ -10112,8 +10185,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10131,7 +10204,7 @@
             "Waypoints": [
                 [
                     5977.490234375,
-                    302.19500732421877,
+                    302.19500732421875,
                     7891.919921875
                 ],
                 [
@@ -10141,7 +10214,7 @@
                 ],
                 [
                     6146.8798828125,
-                    301.03900146484377,
+                    301.03900146484375,
                     7714.1298828125
                 ]
             ]
@@ -10160,8 +10233,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10179,12 +10252,12 @@
             "Waypoints": [
                 [
                     6945.72998046875,
-                    295.81610107421877,
+                    295.81610107421875,
                     7825.68994140625
                 ],
                 [
                     7165.97021484375,
-                    293.90814208984377,
+                    293.90814208984375,
                     7688.31982421875
                 ]
             ]
@@ -10203,8 +10276,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10227,7 +10300,7 @@
                 ],
                 [
                     1039.52001953125,
-                    338.87237548828127,
+                    338.87237548828125,
                     9954.5703125
                 ]
             ]
@@ -10246,8 +10319,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10289,8 +10362,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10308,7 +10381,7 @@
             "Waypoints": [
                 [
                     5420.919921875,
-                    163.80532836914063,
+                    163.80532836914062,
                     12692.099609375
                 ],
                 [
@@ -10332,8 +10405,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10356,7 +10429,7 @@
                 ],
                 [
                     6463.2900390625,
-                    148.70326232910157,
+                    148.70326232910156,
                     12710.400390625
                 ]
             ]
@@ -10375,8 +10448,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10433,8 +10506,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10457,7 +10530,7 @@
                 ],
                 [
                     5672.14990234375,
-                    223.69253540039063,
+                    223.69253540039062,
                     13565.0
                 ]
             ]
@@ -10476,8 +10549,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10500,7 +10573,7 @@
                 ],
                 [
                     6712.35986328125,
-                    379.30633544921877,
+                    379.30633544921875,
                     14552.900390625
                 ]
             ]
@@ -10519,8 +10592,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10562,8 +10635,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.3367,
+            "AccuracyMax": 0.8367,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10581,7 +10654,7 @@
             "Waypoints": [
                 [
                     4847.68017578125,
-                    475.28179931640627,
+                    475.28179931640625,
                     15068.0
                 ],
                 [
@@ -10591,7 +10664,7 @@
                 ],
                 [
                     5199.740234375,
-                    480.62713623046877,
+                    480.62713623046875,
                     15057.400390625
                 ]
             ]
@@ -10610,8 +10683,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10653,8 +10726,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10677,7 +10750,7 @@
                 ],
                 [
                     2704.64990234375,
-                    273.98541259765627,
+                    273.98541259765625,
                     9896.7197265625
                 ],
                 [
@@ -10701,8 +10774,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10749,8 +10822,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10767,12 +10840,12 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1139.9100341796876,
+                    1139.9100341796875,
                     304.6114501953125,
                     12066.2998046875
                 ],
                 [
-                    1638.8399658203126,
+                    1638.8399658203125,
                     270.4959716796875,
                     12040.7001953125
                 ]
@@ -10792,8 +10865,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10811,12 +10884,12 @@
             "Waypoints": [
                 [
                     2608.050048828125,
-                    223.93899536132813,
+                    223.93899536132812,
                     12345.900390625
                 ],
                 [
                     3092.719970703125,
-                    206.94813537597657,
+                    206.94813537597656,
                     12595.2998046875
                 ]
             ]
@@ -10835,8 +10908,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -10854,12 +10927,12 @@
             "Waypoints": [
                 [
                     3364.1298828125,
-                    197.43992614746095,
+                    197.43992614746094,
                     12846.2998046875
                 ],
                 [
                     3437.550048828125,
-                    192.72999572753907,
+                    192.72999572753906,
                     13018.7998046875
                 ],
                 [
@@ -10869,7 +10942,7 @@
                 ],
                 [
                     3738.919921875,
-                    188.23443603515626,
+                    188.23443603515625,
                     13104.599609375
                 ]
             ]
