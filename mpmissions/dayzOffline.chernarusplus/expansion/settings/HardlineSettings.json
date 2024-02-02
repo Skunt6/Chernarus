@@ -1796,7 +1796,7 @@
         "CP_Relief_Balm": 4,
         "CP_Pouch": 5,
         "CP_PlasticWrapper": 5,
-        "CP_PlasticRoll": 2,
+        "CP_PlasticRoll": 4,
         "t_breastplate": 4,
         "t_hospitaler_pants_a": 4,
         "t_hospitaler_pants_gold": 4,
@@ -2897,8 +2897,8 @@
         "RemoteDetonatorTrigger": 5,
         "DP_Plant_Coca": 6,
         "DP_CocaLeaves": 6,
-        "DP_CocaSeeds": 6,
-        "DP_CocaSeedsPack": 6,
+        "DP_CocaSeeds": 8,
+        "DP_CocaSeedsPack": 8,
         "DP_CocaBag": 6,
         "DP_CocaBrick": 7
     }
