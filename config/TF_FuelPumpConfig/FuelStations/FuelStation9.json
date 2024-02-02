@@ -1,8 +1,10 @@
 {
-    "Name": "Topolniki",
+    "Name": "Vysota",
     "Index": 9,
     "Position": [
-        11258.2, 290.212, 4301.63
+        6875.0,
+        0.0,
+        3095.0
     ],
-    "CurrentFuelAmount": 100.0
+    "CurrentFuelAmount": 5000.0
 }

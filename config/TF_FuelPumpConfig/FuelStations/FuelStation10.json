@@ -1,8 +1,10 @@
 {
-    "Name": "Topolniki",
+    "Name": "Pogorevka",
     "Index": 10,
     "Position": [
-        14198.2, 195.339, 15269.4
+        4727.0,
+        0.0,
+        6390.0
     ],
-    "CurrentFuelAmount": 100.0
+    "CurrentFuelAmount": 5000.0
 }

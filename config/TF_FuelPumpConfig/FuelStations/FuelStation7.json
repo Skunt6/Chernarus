@@ -1,8 +1,10 @@
 {
-    "Name": "Topolniki",
+    "Name": "Grishino",
     "Index": 7,
     "Position": [
-        3718.63, 402.012, 5998.21
+        5858.0,
+        0.0,
+        10117.0
     ],
-    "CurrentFuelAmount": 100.0
+    "CurrentFuelAmount": 5000.0
 }
