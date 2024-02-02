@@ -1,10 +1,8 @@
 {
     "Name": "Topolniki",
-    "Index": 6,
+    "Index": 8,
     "Position": [
-        3031.0,
-        0.0,
-        12657.0
+        10741.5, 349.855, 5671.73
     ],
     "CurrentFuelAmount": 100.0
 }
