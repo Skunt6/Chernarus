@@ -1,6 +1,6 @@
 {
     "MaxAmount": 10000.0,
-    "InitAmount": 5000.0,
+    "InitAmount": 100.0,
     "EnergyConsumptionCoef": 2.0,
     "AdminRefuelAmount": 2000.0
 }
