@@ -18,6 +18,17 @@
             "Variants": []
         },
         {
+            "ClassName": "BloodBagEmpty",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "disinfectantalcohol",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,

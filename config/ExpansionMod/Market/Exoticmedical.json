@@ -18,17 +18,6 @@
             "Variants": []
         },
         {
-            "ClassName": "BloodBagEmpty",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
-            "SellPricePercent": 75,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "GasMask_Filter",
             "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 100000,
