@@ -37,6 +37,7 @@
         "dbo_raptorB": 50
     },
     "ItemRarity": {
+        "PsilocybeMushroom": 5,
         "Whetstone": 3,
         "StartKitIV": 4,
         "BearTrap": 4,
