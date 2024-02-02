@@ -2894,6 +2894,12 @@
         "RGD5Grenade": 5,
         "RemoteDetonator": 5,
         "RemoteDetonatorReceiver": 5,
-        "RemoteDetonatorTrigger": 5
+        "RemoteDetonatorTrigger": 5,
+        "DP_Plant_Coca": 6,
+        "DP_CocaLeaves": 6,
+        "DP_CocaSeeds": 6,
+        "DP_CocaSeedsPack": 6,
+        "DP_CocaBag": 6,
+        "DP_CocaBrick": 7
     }
 }
