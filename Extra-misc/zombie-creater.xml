@@ -1,0 +1,15 @@
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+        <zone name="InfectedNBC" smin="8" smax="10" dmin="2" dmax="5" x="8334.47" z="10507.5" r="200"/>
+<8334.47, 323.448, 10507.5>
