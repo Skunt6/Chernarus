@@ -6895,6 +6895,10 @@
 	<group name="Land_Underground_Tunnel_Single_Left" pos="8614.387695 135.445908 13494.327148" rpy="-0.000000 -0.000000 26.999935" a="63.0001"/>
 	<group name="Land_Underground_Stairs_Collapsed" pos="8616.564453 145.472931 13547.692383" rpy="0.000000 0.000000 -62.999973" a="153"/>
 	<group name="Land_Underground_Storage_Prison" pos="8605.124023 135.460007 13543.001953" rpy="0.000000 0.000000 -62.999973" a="153"/>
+    <group name="Land_Underground_Panel_Lever" pos="8653.339844 182.268814 13631.142578" rpy="-0.000000 0.000000 -66.463043" a="156.463"/>
+	<group name="Land_Underground_Panel_Lever" pos="8650.782227 182.164093 13631.248047" rpy="-0.000000 0.000000 24.493902" a="65.5061"/>
+	<group name="Land_Wreck_Mining_Excavator" pos="8652.549805 130.043976 13454.000000" rpy="-4.771710 -10.249317 -71.999893" a="162"/>
+	<group name="Land_Wreck_Mining_HaulTruck" pos="8612.222656 122.267960 13448.840820" rpy="-4.745391 8.614182 0.000000" a="90"/>
 
 
 
