@@ -9748,7 +9748,7 @@
                 "dbo_tricero",
                 "dbo_raptor",
                 "dbo_raptorB",
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe"
+                "eAI_Base|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe"
             ],
             "InfectedCount": 9,
             "ItemCount": 10,
