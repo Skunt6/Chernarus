@@ -43,6 +43,7 @@
 		<usage name="DayzOresandGems_CharCoal" />
 		<usage name="DayzOresandGems_Sulfur" />
 		<usage name="DayzOresandGems_Iron" />
+        <usage name="Underground"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
