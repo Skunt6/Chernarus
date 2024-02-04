@@ -6845,6 +6845,59 @@
     <group name="Land_Wreck_hb02_aban1_black" pos="8694.386719 105.469841 12801.717773" rpy="-0.000000 0.000000 -25.089241" a="115.089241" />
     <group name="Land_Wreck_hb02_aban2_black" pos="8699.054688 105.413498 12807.586914" rpy="-0.000000 0.000000 8.806538" a="81.193459" />
     <group name="Land_Mil_Guardhouse1" pos="8690.512695 107.111435 12851.250977" rpy="-0.000000 0.000000 65.745277" a="24.254715" />
+
+    <!--Bunker-->
+
+    <group name="Land_Mil_Barracks_Round" pos="8666.015625 181.101135 13635.151367" rpy="0.000000 0.000000 114.617577" a="-24.6176"/>
+	<group name="Land_Underground_Panel" pos="8686.610352 166.940002 13663.799805" rpy="0.000000 0.000000 -154.403992" a="-115.596"/>
+	<group name="Land_Underground_Panel_Lever" pos="8685.421875 166.920303 13662.824219" rpy="-0.000000 0.000000 -155.022430" a="-114.978"/>
+	<group name="Land_Underground_Entrance" pos="8681.214844 165.460007 13658.391602" rpy="0.000000 0.000000 -154.861313" a="-115.139"/>
+	<group name="Land_Underground_Floor_Comms" pos="8630.168945 145.512527 13553.707031" rpy="-0.000000 0.000000 -62.925114" a="152.925"/>
+	<group name="Land_Underground_Corridor_Connector_Inv" pos="8675.334961 165.416504 13645.649414" rpy="0.000000 0.000000 -65.125061" a="155.125"/>
+	<group name="Land_Underground_Corridor_Main_Both" pos="8667.589844 165.412155 13629.192383" rpy="-0.000000 -0.000000 24.851368" a="65.1486"/>
+	<group name="Land_Underground_Stairs_Block_Corridor" pos="8651.963867 165.081833 13626.361328" rpy="0.000000 0.000000 -65.005371" a="155.005"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="8672.364258 165.492996 13616.799805" rpy="0.000000 0.000000 114.186996" a="-24.187"/>
+	<group name="Land_Underground_Stairs_Block_Corridor_NoDoor" pos="8651.963867 160.078003 13626.355469" rpy="0.000000 0.000000 -64.899994" a="154.9"/>
+	<group name="Land_Underground_Storage_Ammo" pos="8682.591797 165.405136 13621.955078" rpy="-0.000000 0.000000 114.994522" a="-24.9945"/>
+	<group name="Land_Underground_Storage_Barracks" pos="8652.686523 165.378983 13637.617188" rpy="0.000000 0.000000 -65.697273" a="155.697"/>
+	<group name="Land_Underground_Corridor_Connector_Inv" pos="8659.679688 165.412003 13612.500000" rpy="0.000000 0.000000 114.994003" a="-24.994"/>
+	<group name="Land_Underground_Tunnel_Single" pos="8654.363281 165.406998 13601.043945" rpy="0.000000 0.000000 24.875597" a="65.1244"/>
+	<group name="Land_Underground_Stairs_Start" pos="8651.962891 155.573868 13626.358398" rpy="0.000000 0.000000 -64.862137" a="154.862"/>
+	<group name="Land_Underground_Corridor_Main_Right" pos="8659.181641 155.416931 13612.670898" rpy="-0.000000 0.000000 -154.407120" a="-115.593"/>
+	<group name="Land_Underground_Storage_Hospital" pos="8643.898438 155.414703 13620.187500" rpy="0.000000 0.000000 -62.999973" a="153"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="8671.921875 155.499496 13616.754883" rpy="-0.000000 0.000000 115.710732" a="-25.7107"/>
+	<group name="Land_Underground_Corridor_Connector_Inv" pos="8667.293945 155.419373 13629.298828" rpy="0.000000 0.000000 -64.432373" a="154.432"/>
+	<group name="Land_Underground_Tunnel_Single_Right" pos="8670.582031 155.420288 13636.207031" rpy="-0.000000 -0.000000 25.997234" a="64.0028"/>
+	<group name="Land_Underground_Tunnel_Single" pos="8684.012695 155.422546 13637.534180" rpy="0.000000 0.000000 -67.845917" a="157.846"/>
+	<group name="Land_Underground_Corridor_Main_Right" pos="8649.378906 155.418869 13592.127930" rpy="-0.000000 0.000000 -154.575638" a="-115.424"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="8662.151367 155.497757 13596.187500" rpy="-0.000000 0.000000 116.283707" a="-26.2837"/>
+	<group name="Land_Underground_Storage_POX2" pos="8634.181641 155.416656 13599.266602" rpy="0.000000 0.000000 -64.575645" a="154.576"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="8644.673828 155.501816 13604.576172" rpy="0.000000 0.000000 -65.578316" a="155.578"/>
+	<group name="Land_Underground_Corridor_Main_Right" pos="8639.708008 155.422119 13571.894531" rpy="-0.000000 -0.000000 25.854055" a="64.1459"/>
+	<group name="Land_Underground_Storage_POX2" pos="8655.148438 155.421036 13564.539063" rpy="0.000000 0.000000 115.657761" a="-25.6578"/>
+	<group name="Land_Underground_Corridor_Connector_Inv" pos="8631.511719 155.422058 13555.309570" rpy="-0.000000 0.000000 115.853973" a="-25.854"/>
+	<group name="Land_Underground_Tunnel_Single" pos="8625.987305 155.424103 13543.976563" rpy="-0.000000 -0.000000 26.283758" a="63.7162"/>
+	<group name="Land_Underground_Stairs_Block_Corridor" pos="8624.133789 155.076080 13569.217773" rpy="0.000000 0.000000 -64.575615" a="154.576"/>
+	<group name="Land_Underground_Stairs_Block_Corridor_NoDoor" pos="8624.137695 150.058014 13569.208984" rpy="0.000000 0.000000 -64.432404" a="154.432"/>
+	<group name="Land_Underground_Stairs_Start" pos="8624.137695 145.550903 13569.208008" rpy="0.000000 0.000000 -64.408165" a="154.408"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="8644.407227 155.499359 13559.343750" rpy="-0.000000 0.000000 115.424248" a="-25.4242"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="8624.132813 160.098083 13569.215820" rpy="0.000000 0.000000 -64.575645" a="154.576"/>
+	<group name="Land_Underground_Stairs_Block_Terminator" pos="8635.998047 145.069458 13537.655273" rpy="-0.000000 0.000000 116.999947" a="-26.9999"/>
+	<group name="Land_Underground_Stairs_Exit" pos="8652.600586 180.023117 13627.700195" rpy="0.000000 0.000000 -64.810120" a="154.81"/>
+	<group name="Land_Underground_Stairs_Block" pos="8651.966797 170.126907 13626.365234" rpy="-0.000000 -0.000000 -65.000374" a="155"/>
+	<group name="Land_Underground_Stairs_Start" pos="8635.986328 135.558594 13537.658203" rpy="-0.000000 0.000000 116.999947" a="-26.9999"/>
+	<group name="Land_Underground_Stairs_Block" pos="8635.985352 140.083801 13537.657227" rpy="-0.000000 0.000000 116.999947" a="-26.9999"/>
+	<group name="Land_Underground_Corridor_Main_Right" pos="8620.270508 135.461884 13535.374023" rpy="-0.000000 0.000000 -152.999893" a="-117"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="8616.049805 135.539932 13547.930664" rpy="0.000000 0.000000 -62.999973" a="153"/>
+	<group name="Land_Underground_Corridor_Connector_Inv" pos="8628.793945 135.464096 13551.801758" rpy="0.000000 0.000000 -63.000031" a="153"/>
+	<group name="Land_Underground_Corridor_Connector" pos="8611.958984 135.463745 13519.294922" rpy="-0.000000 0.000000 116.999947" a="-26.9999"/>
+	<group name="Land_Underground_Tunnel_Single_Left" pos="8608.478516 135.467361 13512.488281" rpy="-0.000000 0.000000 -152.999802" a="-117"/>
+	<group name="Land_Underground_Tunnel_Single_Left" pos="8614.387695 135.445908 13494.327148" rpy="-0.000000 -0.000000 26.999935" a="63.0001"/>
+	<group name="Land_Underground_Stairs_Collapsed" pos="8616.564453 145.472931 13547.692383" rpy="0.000000 0.000000 -62.999973" a="153"/>
+	<group name="Land_Underground_Storage_Prison" pos="8605.124023 135.460007 13543.001953" rpy="0.000000 0.000000 -62.999973" a="153"/>
+
+
+
     <group name="Land_Misc_DeerStand1" pos="8659.514648 239.850113 14297.824219" rpy="0.011037 0.025707 -66.764122" a="156.764114" />
     <group name="Land_Boat_Small2" pos="8701.310547 1.978028 2173.874268" rpy="-0.000000 1.562580 14.664825" a="75.335175" />
     <group name="Land_Misc_FeedShack" pos="8701.796875 356.757416 8780.103516" rpy="-0.000000 0.000000 -51.434509" a="141.434509" />

@@ -1,0 +1,345 @@
+{
+    "ConfigVersion": 26,
+    "ID": 6,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill Viktor Strakov and his crew.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "InfectedDeletionRadius": 500.0,
+    "AISpawns": [
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Viktor Strakov",
+            "Waypoints": [
+                [
+                    13687.2998046875,
+                    46.79560089111328,
+                    2987.679931640625
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "ViktorLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.4099999940395355,
+            "MaxAccuracy": 0.9000000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 2.0,
+            "DamageReceivedMultiplier": 0.5,
+            "ClassNames": [
+                "eAI_SurvivorM_Oliver"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Lieutenant",
+            "Waypoints": [
+                [
+                    13662.400390625,
+                    44.8120002746582,
+                    2970.47998046875
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "LieutenantLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.5,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    13640.400390625,
+                    46.014400482177737,
+                    2954.280029296875
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    13650.599609375,
+                    50.19169998168945,
+                    2955.969970703125
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    13633.0,
+                    50.33330154418945,
+                    2944.340087890625
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    13629.400390625,
+                    55.14830017089844,
+                    2944.090087890625
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Captian",
+            "Waypoints": [
+                [
+                    13656.900390625,
+                    58.74089813232422,
+                    2963.3701171875
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "CaptianLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.5,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    13625.7998046875,
+                    65.7229995727539,
+                    2934.52001953125
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    13616.2998046875,
+                    65.7229995727539,
+                    2947.93994140625
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Private",
+            "Waypoints": [
+                [
+                    13615.0,
+                    93.88179779052735,
+                    2933.669921875
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "PrivateLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_Base"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        }
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": []
+}

@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 21,
+    "ID": 38,
+    "Type": 1,
+    "Title": "Eddy Locke: Viktor Strakov",
+    "Descriptions": [
+        "Survivor, I've got a problem on my hands, and I reckon you're the one to solve it. There's this real nasty piece of work out there, goes by the name of Viktor Strakov. He used to be a part of my spec ops team before this whole mess started, but once everything went to hell, he took a dark turn. Word is, he's been doing some vile stuff since then, like raiding survivor camps, trading innocent lives for supplies, and worse. Now, I've got a score to settle with this guy, and I've got word that he's holed up at his bunker in the quarry. I need you to track him down and put an end to his reign of terror. Just be warned, Strakov's got a reputation for being one slippery customer. Keep your wits about you, and let's make sure he don't trouble anyone else in these parts."
+    ],
+    "ObjectiveText": "Viktor Strakov",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 2,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        9
+    ],
+    "QuestTurnInIDs": [
+        9
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 26,
+            "ID": 6,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 50,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        36
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}
