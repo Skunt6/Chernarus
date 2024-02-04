@@ -15,7 +15,12 @@
     "Autocomplete": 0,
     "IsGroupQuest": 1,
     "ObjectSetFileName": "",
-    "QuestItems": [],
+    "QuestItems": [
+        {
+            "ClassName": "PunchedCard",
+            "Amount": 1
+        }
+    ],
     "Rewards": [
         {
             "ClassName": "AK101",
