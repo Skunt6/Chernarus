@@ -141,3 +141,7 @@ Weather.Preset.Create 0
 Weather.Preset.Update 0
 Weather.Preset.Remove 0
 Weather.View 0
+FlipTransport 0
+FlipTransport.Settings 0
+FlipTransport.Settings.View 0
+FlipTransport.Settings.Save 0
