@@ -9876,13 +9876,13 @@
 	
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.05">
+		<cargo chance="0.001">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
 	<type name="GP5GasMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.05">
+		<cargo chance="0.001">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>

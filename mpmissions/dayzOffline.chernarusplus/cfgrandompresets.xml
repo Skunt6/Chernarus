@@ -494,7 +494,7 @@
 				<item name="ReflexOptic" chance="0.20" />
 		</attachments>
 		<!--NBC Cargo-->
-		<cargo chance="0.1" name="ContaminatedCargo">
+		<cargo chance="0.003" name="ContaminatedCargo">
 				<item name="GasMask_Filter" chance="1.00" />
 		</cargo>
 		<!--FARM ATTACHMENTS-->
@@ -1017,7 +1017,7 @@
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Fillers_Small">
 			<item name="XmasLights" chance="0.11" />
-			<item name="GasMask_filter" chance="0.11" />
+			<item name="GasMask_filter" chance="0.001" />
 			<item name="Battery9V" chance="0.11" />
 			<item name="Hook" chance="0.11" />
 			<item name="Derringer_Black" chance="0.11" />
