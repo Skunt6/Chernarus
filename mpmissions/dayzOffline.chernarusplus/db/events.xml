@@ -165,14 +165,14 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-			<child lootmax="0" lootmin="0" max="50" min="10" type="Alien_Ore"/>
-			<child lootmax="0" lootmin="0" max="30" min="10" type="Tin_Ore"/>
-			<child lootmax="0" lootmin="0" max="8" min="5" type="CharCoal_Ore"/>
-            <child lootmax="0" lootmin="0" max="8" min="5" type="Sulfur_Ore"/>
-			<child lootmax="0" lootmin="0" max="3" min="1" type="Gold_Ore"/>
-			<child lootmax="0" lootmin="0" max="5" min="1" type="Silver_Ore"/>
-			<child lootmax="0" lootmin="0" max="50" min="10" type="Iron_Ore"/>
-			<child lootmax="0" lootmin="0" max="30" min="10" type="Copper_Ore"/>
+			<child lootmax="0" lootmin="0" max="50" min="10" type="AlienOre"/>
+			<child lootmax="0" lootmin="0" max="30" min="10" type="TinOre"/>
+			<child lootmax="0" lootmin="0" max="8" min="5" type="CharCoalOre"/>
+            <child lootmax="0" lootmin="0" max="8" min="5" type="SulfurOre"/>
+			<child lootmax="0" lootmin="0" max="3" min="1" type="GoldOre"/>
+			<child lootmax="0" lootmin="0" max="5" min="1" type="SilverOre"/>
+			<child lootmax="0" lootmin="0" max="50" min="10" type="IronOre"/>
+			<child lootmax="0" lootmin="0" max="30" min="10" type="CopperOre"/>
         </children>
 	</event>
      <!-- Vanilla Tweaks -->
