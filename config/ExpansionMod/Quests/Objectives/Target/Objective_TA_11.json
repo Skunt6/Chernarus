@@ -1,0 +1,42 @@
+{
+    "ConfigVersion": 26,
+    "ID": 11,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 100 Infected",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 100,
+    "ClassNames": [
+        "ZmbF_DH_WhiteLady",
+        "ZmbF_DH_WhiteLady",
+        "ZmbF_DH_WhiteLady",
+        "ZmbF_DH_WhiteLady",
+        "ZmbM_DH_Invisible_Ghillie",
+        "ZmbM_DH_Invisible_Ghillie",
+        "ZmbM_DH_Invisible_Ghillie",
+        "ZmbM_DH_Invisible_Ghillie",
+        "ZmbM_DH_Invisible_Ghillie",
+        "ZmbM_DH_NightWalker",
+        "ZmbM_DH_NightWalker",
+        "ZmbM_DH_NightWalker",
+        "ZmbM_DH_Invisible_RedEye",
+        "ZmbM_DH_Invisible_RedEye",
+        "ZmbM_DH_AlmostTransparent_Red",
+        "ZmbM_DH_AlmostTransparent_Red",
+        "ZmbM_DH_AlmostTransparent_Red",
+        "ZmbM_Mummy"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

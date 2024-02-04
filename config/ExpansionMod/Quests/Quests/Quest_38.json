@@ -9,7 +9,7 @@
     "ObjectiveText": "Viktor Strakov",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
