@@ -181,7 +181,7 @@
                     "DescriptionText": "Jug AI has 1% chance of spawning at AI spawns, and can't be looted."
                 },
                 {
-                    "DescriptionText": "During quests if a AI gets killed by their own kind your kill's wont count."
+                    "DescriptionText": "During quests if a AI gets killed by their own kind the kill wont count."
                 }
             ]
         },
@@ -196,9 +196,6 @@
                 },
                 {
                     "DescriptionText": "Hold 4 nugget and aim at the furnace."
-                },
-                {
-                    "DescriptionText": "Only spawn on AI including zombies."
                 }
             ]
         },
@@ -209,7 +206,7 @@
                     "DescriptionText": "No building base's 700m from military bases."
                 },
                 {
-                    "DescriptionText": "Bases have a 14 day duration unless you raise the flag"
+                    "DescriptionText": "Bases have a 7 day duration unless you raise the flag"
                 },
                 {
                     "DescriptionText": "Dont go crazy with the kits. Be reasonable!"
@@ -245,13 +242,13 @@
             "CategoryName": "Vehical info",
             "Descriptions": [
                 {
-                    "DescriptionText": "Vehical will last 7 days without being touched. If left in base, they will last 3 weeks"
+                    "DescriptionText": "Vehical will last 7 days without being touched. If left in base, they will last 14 days."
                 },
                 {
                     "DescriptionText": "Vehicals left at trader that are in the way will be deleted."
                 },
                 {
-                    "DescriptionText": "Two Vehicals per player"
+                    "DescriptionText": "Two Vehicals per player."
                 }
             ]
         }

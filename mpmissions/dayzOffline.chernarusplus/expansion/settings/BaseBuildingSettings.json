@@ -21,15 +21,7 @@
         "SeaChest",
         "GardenPlot"
     ],
-    "DeployableInsideAEnemyTerritory": [
-        "ExpansionSatchel",
-        "LandMineTrap",
-        "BearTrap",
-        "FishNetTrap",
-        "RabbitSnareTrap",
-        "SmallFishTrap",
-        "TripwireTrap"
-    ],
+    "DeployableInsideAEnemyTerritory": [],
     "CanCraftVanillaBasebuilding": 1,
     "CanCraftExpansionBasebuilding": 1,
     "DestroyFlagOnDismantle": 0,
@@ -47,26 +39,7 @@
     "GetTerritoryFlagKitAfterBuild": 0,
     "BuildZoneRequiredCustomMessage": "",
     "Zones": [
-        {
-            "Name": "Krasnostav Trader Camp",
-            "Center": [
-                11882.0,
-                143.0,
-                12466.0
-            ],
-            "Radius": 700.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
-        },
+
         {
             "Name": "Green Mountain Trader Camp",
             "Center": [
