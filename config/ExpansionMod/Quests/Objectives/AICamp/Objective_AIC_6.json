@@ -12,9 +12,7 @@
             "NPCName": "Viktor Strakov",
             "Waypoints": [
                 [
-                    13687.2998046875,
-                    46.79560089111328,
-                    2987.679931640625
+                    8648.51, 180.035, 13620.5
                 ]
             ],
             "Behaviour": 0,
@@ -29,7 +27,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 2.0,
-            "DamageReceivedMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.25,
             "ClassNames": [
                 "eAI_SurvivorM_Oliver"
             ],
@@ -42,29 +40,27 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Lieutenant",
+            "NPCName": "Nikolai Petrov",
             "Waypoints": [
                 [
-                    13662.400390625,
-                    44.8120002746582,
-                    2970.47998046875
+                    8669.79, 180.41, 13634.7
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "LieutenantLoadout",
+            "Loadout": "NikolaiLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
-            "MinAccuracy": 0.3499999940395355,
-            "MaxAccuracy": 0.8500000238418579,
+            "MinAccuracy": 0.4099999940395355,
+            "MaxAccuracy": 0.9000000238418579,
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.5,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorM_Quinn"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -75,17 +71,15 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Private",
+            "NPCName": "Svetlana Ivanova",
             "Waypoints": [
                 [
-                    13640.400390625,
-                    46.014400482177737,
-                    2954.280029296875
+                    8646.82, 165.392, 13642.8
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "BloodHoundLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -97,7 +91,7 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorF_Gabi"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -108,17 +102,15 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Private",
+            "NPCName": "Mikhail Kuznetsov",
             "Waypoints": [
                 [
-                    13650.599609375,
-                    50.19169998168945,
-                    2955.969970703125
+                    8692.2, 165.418, 13620.8
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "BloodHoundLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -130,7 +122,7 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorM_Peter"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -141,17 +133,15 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Private",
+            "NPCName": "Elena Volkova",
             "Waypoints": [
                 [
-                    13633.0,
-                    50.33330154418945,
-                    2944.340087890625
+                    8653.7, 165.416, 13599.9
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "BloodHoundLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -163,7 +153,7 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorF_Eva"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -174,17 +164,15 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Private",
+            "NPCName": "Ivan Sokolov",
             "Waypoints": [
                 [
-                    13629.400390625,
-                    55.14830017089844,
-                    2944.090087890625
+                    8682.46, 155.432, 13638.4
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "BloodHoundLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -196,7 +184,7 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorM_Guo"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -207,12 +195,10 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Captian",
+            "NPCName": "Anton Smirnov",
             "Waypoints": [
                 [
-                    13656.900390625,
-                    58.74089813232422,
-                    2963.3701171875
+                    8649.08, 155.427, 13620.6
                 ]
             ],
             "Behaviour": 0,
@@ -229,7 +215,7 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.5,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorM_Jose"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -240,17 +226,15 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Private",
+            "NPCName": "Yulia Malinov",
             "Waypoints": [
                 [
-                    13625.7998046875,
-                    65.7229995727539,
-                    2934.52001953125
+                    8632.44, 155.429, 13600.1
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "BloodHoundLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -262,7 +246,7 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorF_Baty"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -273,17 +257,15 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Private",
+            "NPCName": "Sergei Romanov",
             "Waypoints": [
                 [
-                    13616.2998046875,
-                    65.7229995727539,
-                    2947.93994140625
+                    8658.73, 155.434, 13558.8
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "BloodHoundLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -295,7 +277,7 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorM_Niki"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
@@ -306,17 +288,15 @@
         },
         {
             "NumberOfAI": 1,
-            "NPCName": "Private",
+            "NPCName": "Grigori Voronov",
             "Waypoints": [
                 [
-                    13615.0,
-                    93.88179779052735,
-                    2933.669921875
+                    8609.29, 135.473, 13544.9
                 ]
             ],
             "Behaviour": 0,
             "Formation": "RANDOM",
-            "Loadout": "PrivateLoadout",
+            "Loadout": "BloodHoundLoadout",
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
@@ -328,7 +308,100 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.75,
             "ClassNames": [
-                "eAI_Base"
+                "eAI_SurvivorM_Indar"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Marlena Kovac",
+            "Waypoints": [
+                [
+                    8610.47, 135.476, 13503.3
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "BloodHoundLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_SurvivorF_Maria"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Irina Kuznetsov",
+            "Waypoints": [
+                [
+                    8610.31, 135.473, 13533.8
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "BloodHoundLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_SurvivorF_Naomi"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 400.0,
+            "MaxDistanceRadius": 880.0,
+            "DespawnRadius": 880.0
+        },
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Joe Shruggs",
+            "Waypoints": [
+                [
+                    8678.04, 165.425, 13660.9
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "BloodHoundLoadout",
+            "Faction": "Mercenaries",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.3499999940395355,
+            "MaxAccuracy": 0.8500000238418579,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 1000.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.75,
+            "ClassNames": [
+                "eAI_SurvivorM_Mirek"
             ],
             "SniperProneDistanceThreshold": 300.0,
             "RespawnTime": 1.0,
