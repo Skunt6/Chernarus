@@ -5,7 +5,7 @@
 			"Position": [ 8650.38, 155.433, 13595.3],
 			"Orientation": [ 0, 0, 0 ],
 			"Size": [ 50, 25, 80 ],
-			"EyeAccommodation": 1,
+			"EyeAccommodation": 0,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
 		}
