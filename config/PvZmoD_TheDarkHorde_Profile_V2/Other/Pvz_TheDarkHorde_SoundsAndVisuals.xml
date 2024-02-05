@@ -9,7 +9,7 @@
     </type>
 	
 	<type name="Other_Visual_Effects"> 
-        <Activate_Clouds_Above_The_Horde_When_The_Master_Is_Disturbed	Value="0"/>		<!-- [Interger 0 or 1] -->
+        <Activate_Clouds_Above_The_Horde_When_The_Master_Is_Disturbed	Value="1"/>		<!-- [Interger 0 or 1] -->
 		<Distance_To_Display_Little_Cloud_When_Zombies_Spawn 			Value="300"/>	<!-- [Interger 0 to infinity] (meters) -->
     </type>
 	

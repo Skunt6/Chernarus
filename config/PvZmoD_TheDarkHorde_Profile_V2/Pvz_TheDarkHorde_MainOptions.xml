@@ -32,7 +32,7 @@
 	
 	<type name="Horde_Speed">
         <Horde_Speed_When_Calm			Day="10.0" 	Night="10.0"/> 	<!-- [Integer 0 to infinite] -->
-        <Horde_Speed_When_Not_Calm		Day="40.0" 	Night="40.0"/>	<!-- [Integer 0 to infinite] -->
+        <Horde_Speed_When_Not_Calm		Day="20.0" 	Night="30.0"/>	<!-- [Integer 0 to infinite] -->
         <Horde_Speed_Ratio_When_No_Player_Around	Value="5.0"/> 	<!-- [Decimal 0 to infinite] Multiplier applied to the "Calm" speed -->
 	</type>	
 	
