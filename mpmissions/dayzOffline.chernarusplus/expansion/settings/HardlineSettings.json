@@ -37,6 +37,16 @@
         "dbo_raptorB": 50
     },
     "ItemRarity": {
+        "smallprotectorcase": 3,
+        "ammobox": 3,
+        "barrelholes_blue": 5,
+        "barrel_blue": 5,
+        "seachest": 5,
+        "woodencrate": 4,
+        "expansiontoolbox": 5,
+        "expansionsafemini": 5,
+        "expansionsafemedium": 5,
+        "expansionsafelarge": 5,
         "SparkPlug": 6,
         "CarRadiator": 6,
         "PsilocybeMushroom": 5,
