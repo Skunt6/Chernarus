@@ -230,6 +230,39 @@
             "Variants": []
         },
         {
+            "ClassName": "TruckBattery",
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CarBattery",
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionHelicopterBattery",
+            "MaxPriceThreshold": 52000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "expansionigniterplug",
             "MaxPriceThreshold": 12000,
             "MinPriceThreshold": 6000,
