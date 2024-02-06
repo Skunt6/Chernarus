@@ -2,12 +2,103 @@
     "Triggers":
 	[
 		{ 	
-			"Position": [ 8650.38, 155.433, 13595.3],
+			"Position": [ 8684.6, 165.425, 13664.6],
 			"Orientation": [ 0, 0, 0 ],
-			"Size": [ 65, 50, 90 ],
-			"EyeAccommodation": 0,
+			"Size": [ 15, 5.6, 10.8 ],
+			"EyeAccommodation": 1,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8683.14, 165.425, 13662.8 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 15, 5.6, 10.8 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":
+			[
+				{			
+					"Position": [ 8681.21, 165.425, 13663.5 ],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 8678.94, 165.425, 13664.5 ],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 8678.02, 165.427, 13662.7 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 8677.06, 165.43, 13660.7 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 8676.27, 165.43, 13659.1 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 8675.67, 165.427, 13657.7 ],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 8675.63, 165.427, 13655.7 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 8678.45, 165.511, 13653.9 ],
+					"EyeAccommodation": 0.0,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 8677.1, 165.46, 13649 ],
+					"EyeAccommodation": 0.0,
+					"UseRaycast": 1,
+					"Radius": -1
+				}
+			]
+		},
+		{ 	
+			"Position": [ 8665.97, 165.439, 13625.8 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 60, 60, 60 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 8647.72, 155.433, 13588.8 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 130, 100, 60 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 8611.91, 135.612, 13521.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 60, 60, 60 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 8653.86, 180.619, 13625.7 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 40, 40, 40 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
 		}
 	]
 }
