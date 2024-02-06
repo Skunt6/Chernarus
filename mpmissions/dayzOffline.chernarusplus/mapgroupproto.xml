@@ -2208,7 +2208,7 @@
 						<category name="explosives" />
 				</container>
 		</group>
-		<group name="Land_City_Store" lootmax1"0">
+		<group name="Land_City_Store" lootmax="0">
 				<usage name="Town" />
 				<usage name="School" />
 				<usage name="Office" />
