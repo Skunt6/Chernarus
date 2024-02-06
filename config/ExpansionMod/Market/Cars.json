@@ -275,8 +275,8 @@
         },
         {
             "ClassName": "expansionbus",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 100000,
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 3,
             "MinStockThreshold": 3,
@@ -296,8 +296,8 @@
         },
         {
             "ClassName": "expansionvodnik",
-            "MaxPriceThreshold": 500000,
-            "MinPriceThreshold": 500000,
+            "MaxPriceThreshold": 3000000,
+            "MinPriceThreshold": 3000000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 4,
