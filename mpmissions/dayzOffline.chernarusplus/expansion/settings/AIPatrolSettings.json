@@ -636,6 +636,183 @@
             ]
         },
         {
+            "Name": "Bunkerlvl3",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "BloodHoundLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8612.34, 135.455, 13502.8
+                ],
+                [
+                    8599.06, 135.473, 13546.1
+                ],
+                [
+                    8629.48, 135.479, 13548
+                ]
+            ]
+        },
+        {
+            "Name": "Bunkerlvl2",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "BloodHoundLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8626.96, 155.433, 13544.9
+                ],
+                [
+                    8625.37, 155.429, 13602.3
+                ],
+                [
+                    8664.42, 155.434, 13561.7
+                ],
+                [
+                    8682.24, 155.432, 13638.7
+                ]
+            ]
+        },
+        {
+            "Name": "Bunkerviktor",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "BloodHoundLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8676.48, 180.042, 13629.4
+                ],
+                [
+                    8669.77, 180.048, 13642.8
+                ],
+                [
+                    8668.1, 180.409, 13636.2
+                ],
+                [
+                    8642.51, 180.031, 13621.4
+                ]
+            ]
+        },
+        {
+            "Name": "Bunkerlvl1",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "BloodHoundLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.37,
+            "AccuracyMax": 0.87,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8654.49, 165.416, 13600.8
+                ],
+                [
+                    8690.71, 165.418, 13618.2
+                ],
+                [
+                    8644.17, 165.392, 13642.4
+                ],
+                [
+                    8679.67, 165.425, 13655.6
+                ]
+            ]
+        },
+        {
             "Name": "Tri Kresta",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
