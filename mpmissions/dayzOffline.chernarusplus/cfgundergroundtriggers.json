@@ -99,6 +99,13 @@
 			"Size": [ 40, 40, 40 ],
 			"EyeAccommodation": 0,
 			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 8635.93, 145.583, 13556 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
 		}
 	]
 }
