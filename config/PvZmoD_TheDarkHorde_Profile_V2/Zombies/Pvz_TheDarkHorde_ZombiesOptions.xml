@@ -3,7 +3,7 @@
 <types>
 	<!-- =========== ZOMBIES MAIN OPTIONS =========== -->	
 	<type name="Zombies_Health">	<!-- !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->		
-		<Health_Points_Ratio_For_Zombies_From_The_Horde		Day="2.0" Night="2.5"/> <!-- [Decimal 0.01 to 10.0 (Max final HP:1000)] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+		<Health_Points_Ratio_For_Zombies_From_The_Horde		Day="2.0" Night="3.0"/> <!-- [Decimal 0.01 to 10.0 (Max final HP:1000)] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
 		<Health_Points_Ratio_For_Zombies_Outside_The_Horde	Value="1.0"/>			<!-- [Decimal 0.01 to 10.0 (Max final HP:1000)] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
 		
 		<Resistance_To_The_Cars_For_Zombies_From_The_Horde		Value="20.0"/>		<!-- [Decimal 0.0 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
@@ -16,7 +16,7 @@
 	
 	<!-- =========== MASTER MAIN OPTIONS =========== -->	
 	<type name="Master_Health">		<!-- !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
-		<Health_Points_Ratio_For_The_Master		Day="100.0" 	Night="100.0"/> 	<!-- [Decimal 0.01 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+		<Health_Points_Ratio_For_The_Master		Day="150.0" 	Night="150.0"/> 	<!-- [Decimal 0.01 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
 		<Resistance_To_The_Cars_For_The_Master	Value="1000.0"/>			<!-- [Decimal 0.0  to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
 	</type>
 	<type name="Master_Behaviours">	
