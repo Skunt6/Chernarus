@@ -5904,6 +5904,25 @@
     ],
     "InventoryCargo": [
         {
+            "ClassName": "PunchedCard",
+            "Chance": 0.008,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.33,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
             "ClassName": "TruckBattery",
             "Chance": 0.01,
             "Quantity": {
