@@ -16,7 +16,7 @@
 	
 	<!-- =========== MASTER MAIN OPTIONS =========== -->	
 	<type name="Master_Health">		<!-- !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
-		<Health_Points_Ratio_For_The_Master		Day="150.0" 	Night="150.0"/> 	<!-- [Decimal 0.01 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+		<Health_Points_Ratio_For_The_Master		Day="110.0" 	Night="110.0"/> 	<!-- [Decimal 0.01 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
 		<Resistance_To_The_Cars_For_The_Master	Value="1000.0"/>			<!-- [Decimal 0.0  to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
 	</type>
 	<type name="Master_Behaviours">	
