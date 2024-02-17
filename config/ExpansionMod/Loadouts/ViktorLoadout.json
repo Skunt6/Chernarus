@@ -334,6 +334,25 @@
             "Sets": []
         },
         {
+            "ClassName": "PunchedCard",
+            "Chance": 0.5,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.33,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
             "ClassName": "SYGUJugVest",
             "Chance": 0.0004,
             "Quantity": {

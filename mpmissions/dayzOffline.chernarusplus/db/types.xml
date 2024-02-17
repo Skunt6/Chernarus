@@ -11474,7 +11474,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="GCGN_M4A1">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -11483,8 +11483,7 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="Underground" />
     </type>
     <type name="GCGN_M700_Mag">
         <nominal>0</nominal>
@@ -11799,17 +11798,16 @@
         <usage name="Hunting"/>
     </type>
     <type name="SCAR_Gun">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="Underground" />
     </type>
     <type name="SG550_Gun">
         <nominal>0</nominal>
@@ -37798,6 +37796,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="ContaminatedArea"/>
+        <value name="Unique"/>
     </type>
     <type name="PurificationTablets">
         <nominal>50</nominal>

@@ -1,16 +1,16 @@
 {
     "m_Version": 6,
     "Enabled": 1,
-    "AllowStoringDEVehicles": 0,
-    "GarageMode": 0,
-    "GarageStoreMode": 0,
+    "AllowStoringDEVehicles": 1,
+    "GarageMode": 1,
+    "GarageStoreMode": 1,
     "GarageRetrieveMode": 0,
     "MaxStorableVehicles": 2,
     "VehicleSearchRadius": 20.0,
     "MaxDistanceFromStoredPosition": 150.0,
-    "CanStoreWithCargo": 0,
+    "CanStoreWithCargo": 1,
     "UseVirtualStorageForCargo": 0,
-    "NeedKeyToStore": 1,
+    "NeedKeyToStore": 0,
     "EntityWhitelist": [
         "ExpansionParkingMeter"
     ],
