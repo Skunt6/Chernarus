@@ -3,7 +3,7 @@
 <types>
 	<type name="Compas">        
         <Minimum_Distance_To_Show_The_Message	Value="1000"/> 	<!-- [Interger 0 to infinite] (meters) -->
-        <Show_Horde_Direction					Value="2"/>		<!-- [Interger 0 to 3] -->
+        <Show_Horde_Direction					Value="0"/>		<!-- [Interger 0 to 3] -->
         <Show_Horde_Distance					Value="0"/>		<!-- [Interger 0 or 1] -->
     </type>
 	
