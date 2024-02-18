@@ -12,6 +12,8 @@ Expansion.Groups 0
 Expansion.Groups.View 0
 Expansion.Groups.EditGroup 0
 Expansion.Groups.DeleteGroup 0
+Expansion.Creature 0
+Expansion.Creature.Lobotomize 0
 Admin 0
 Admin.Chat 0
 Admin.Player 0

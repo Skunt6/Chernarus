@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 4,
     "ObjectiveType": 6,
     "ObjectiveText": "Collect",
@@ -17,11 +17,13 @@
             2930.590087890625
         ]
     ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "paper",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 1,
             "Min": 0,
@@ -29,14 +31,12 @@
         },
         {
             "Name": "BookTheCosmicComputer",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 2,
-    "MaxDistance": 10.0
+    ]
 }

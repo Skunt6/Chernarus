@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 1,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the treasure in the hills near Berezhki",
@@ -17,17 +17,17 @@
             14108.099609375
         ]
     ],
+    "LootItemsAmount": 20,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "expansionbanknoteUSD",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 50000,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 20,
-    "MaxDistance": 10.0
+    ]
 }

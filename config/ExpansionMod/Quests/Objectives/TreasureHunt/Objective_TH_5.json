@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 5,
     "ObjectiveType": 6,
     "ObjectiveText": "Collect",
@@ -17,11 +17,13 @@
             6598.89013671875
         ]
     ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "ExpansionGoldBar",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 10,
             "Min": 0,
@@ -29,14 +31,12 @@
         },
         {
             "Name": "ExpansionSilverBar",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 10,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 1,
-    "MaxDistance": 10.0
+    ]
 }

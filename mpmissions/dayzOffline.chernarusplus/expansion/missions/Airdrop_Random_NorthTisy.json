@@ -1,4 +1,5 @@
 {
+    "m_Version": 1,
     "Enabled": 1,
     "Weight": 534.0,
     "MissionMaxTime": 1200,
@@ -12,13 +13,13 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 2123.05,
-        "z": 14900.78,
+        "x": 2123.050048828125,
+        "z": 14900.7802734375,
         "Name": "Glubokoyeozero",
         "Radius": 100.0
     },
-    "Loot": [],
     "Infected": [],
     "ItemCount": -1,
-    "InfectedCount": -1
+    "InfectedCount": -1,
+    "Loot": []
 }

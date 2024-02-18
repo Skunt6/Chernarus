@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 6,
     "ObjectiveType": 8,
     "ObjectiveText": "Kill Viktor Strakov and his crew.",
@@ -12,7 +12,9 @@
             "NPCName": "Viktor Strakov",
             "Waypoints": [
                 [
-                    8648.51, 180.035, 13620.5
+                    8648.509765625,
+                    180.03500366210938,
+                    13620.5
                 ]
             ],
             "Behaviour": 0,
@@ -21,8 +23,8 @@
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
-            "MinAccuracy": 0.4099999940395355,
-            "MaxAccuracy": 0.9000000238418579,
+            "MinAccuracy": 0.4099999964237213,
+            "MaxAccuracy": 0.9000000357627869,
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
@@ -43,7 +45,9 @@
             "NPCName": "Nikolai Petrov",
             "Waypoints": [
                 [
-                    8669.79, 180.41, 13634.7
+                    8669.7900390625,
+                    180.41000366210938,
+                    13634.7001953125
                 ]
             ],
             "Behaviour": 0,
@@ -52,8 +56,8 @@
             "Faction": "Mercenaries",
             "Speed": 0.0,
             "ThreatSpeed": 3.0,
-            "MinAccuracy": 0.4099999940395355,
-            "MaxAccuracy": 0.9000000238418579,
+            "MinAccuracy": 0.4099999964237213,
+            "MaxAccuracy": 0.9000000357627869,
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
@@ -74,7 +78,9 @@
             "NPCName": "Svetlana Ivanova",
             "Waypoints": [
                 [
-                    8646.82, 165.392, 13642.8
+                    8646.8203125,
+                    165.39199829101563,
+                    13642.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -105,7 +111,9 @@
             "NPCName": "Mikhail Kuznetsov",
             "Waypoints": [
                 [
-                    8692.2, 165.418, 13620.8
+                    8692.2001953125,
+                    165.41799926757813,
+                    13620.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -136,7 +144,9 @@
             "NPCName": "Elena Volkova",
             "Waypoints": [
                 [
-                    8653.7, 165.416, 13599.9
+                    8653.7001953125,
+                    165.41600036621095,
+                    13599.900390625
                 ]
             ],
             "Behaviour": 0,
@@ -167,7 +177,9 @@
             "NPCName": "Ivan Sokolov",
             "Waypoints": [
                 [
-                    8682.46, 155.432, 13638.4
+                    8682.4599609375,
+                    155.4320068359375,
+                    13638.400390625
                 ]
             ],
             "Behaviour": 0,
@@ -198,7 +210,9 @@
             "NPCName": "Anton Smirnov",
             "Waypoints": [
                 [
-                    8649.08, 155.427, 13620.6
+                    8649.080078125,
+                    155.427001953125,
+                    13620.599609375
                 ]
             ],
             "Behaviour": 0,
@@ -229,7 +243,9 @@
             "NPCName": "Yulia Malinov",
             "Waypoints": [
                 [
-                    8632.44, 155.429, 13600.1
+                    8632.4404296875,
+                    155.4290008544922,
+                    13600.099609375
                 ]
             ],
             "Behaviour": 0,
@@ -260,7 +276,9 @@
             "NPCName": "Sergei Romanov",
             "Waypoints": [
                 [
-                    8658.73, 155.434, 13558.8
+                    8658.73046875,
+                    155.4340057373047,
+                    13558.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -291,7 +309,9 @@
             "NPCName": "Grigori Voronov",
             "Waypoints": [
                 [
-                    8609.29, 135.473, 13544.9
+                    8609.2900390625,
+                    135.47300720214845,
+                    13544.900390625
                 ]
             ],
             "Behaviour": 0,
@@ -322,7 +342,9 @@
             "NPCName": "Marlena Kovac",
             "Waypoints": [
                 [
-                    8610.47, 135.476, 13503.3
+                    8610.4697265625,
+                    135.4759979248047,
+                    13503.2998046875
                 ]
             ],
             "Behaviour": 0,
@@ -353,7 +375,9 @@
             "NPCName": "Irina Kuznetsov",
             "Waypoints": [
                 [
-                    8610.31, 135.473, 13533.8
+                    8610.3095703125,
+                    135.47300720214845,
+                    13533.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -384,7 +408,9 @@
             "NPCName": "Joe Shruggs",
             "Waypoints": [
                 [
-                    8678.04, 165.425, 13660.9
+                    8678.0400390625,
+                    165.4250030517578,
+                    13660.900390625
                 ]
             ],
             "Behaviour": 0,

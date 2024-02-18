@@ -1,4 +1,5 @@
 {
+    "m_Version": 1,
     "Enabled": 1,
     "Weight": 356.0,
     "MissionMaxTime": 1200,
@@ -12,13 +13,13 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 1504.80,
-        "z": 12180.72,
+        "x": 1504.800048828125,
+        "z": 12180.7197265625,
         "Name": "Sinystok",
         "Radius": 100.0
     },
-    "Loot": [],
     "Infected": [],
     "ItemCount": -1,
-    "InfectedCount": -1
+    "InfectedCount": -1,
+    "Loot": []
 }

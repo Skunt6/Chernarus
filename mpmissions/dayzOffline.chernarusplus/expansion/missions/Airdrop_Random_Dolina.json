@@ -1,4 +1,5 @@
 {
+    "m_Version": 1,
     "Enabled": 1,
     "Weight": 294.0,
     "MissionMaxTime": 1200,
@@ -12,13 +13,13 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 11274.30,
-        "z": 6668.63,
+        "x": 11274.2998046875,
+        "z": 6668.6298828125,
         "Name": "Dolina",
         "Radius": 100.0
     },
-    "Loot": [],
     "Infected": [],
     "ItemCount": -1,
-    "InfectedCount": -1
+    "InfectedCount": -1,
+    "Loot": []
 }

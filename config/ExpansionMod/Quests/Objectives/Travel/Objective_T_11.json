@@ -1,12 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 11,
     "ObjectiveType": 3,
     "ObjectiveText": "Go check around Belaya",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        14153.2, 133.975, 14954.1
+        14153.2001953125,
+        133.97500610351563,
+        14954.099609375
     ],
     "MaxDistance": 50.0,
     "MarkerName": "?",

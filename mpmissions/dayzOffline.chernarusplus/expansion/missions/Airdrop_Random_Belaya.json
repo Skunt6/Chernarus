@@ -1,4 +1,5 @@
 {
+    "m_Version": 1,
     "Enabled": 1,
     "Weight": 356.0,
     "MissionMaxTime": 1200,
@@ -12,13 +13,13 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 14457.90,
-        "z": 14913.71,
+        "x": 14457.900390625,
+        "z": 14913.7099609375,
         "Name": "Belaya Polyana",
         "Radius": 100.0
     },
-    "Loot": [],
     "Infected": [],
     "ItemCount": -1,
-    "InfectedCount": -1
+    "InfectedCount": -1,
+    "Loot": []
 }
