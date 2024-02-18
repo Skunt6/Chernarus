@@ -10668,6 +10668,18 @@
 		</cargo>
 	</type>
 	<!--ARMY-->
+	<type name="ZmbM_usSoldier_Officer_Convoy">
+		<attachments preset="headtorches" />
+		<attachments chance="1.00">
+			<item name="MedicalScrubsHat_Green" chance="1.0" />
+		</attachments>
+		<cargo preset="gems" />
+		<cargo preset="herbals" />
+		<cargo preset="foodArmy" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.4" />
+		</cargo>
+	</type>
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="gems" />
 		<cargo preset="herbals" />
