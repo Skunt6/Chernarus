@@ -1,4 +1,5 @@
 {
+    "m_Version": 1,
     "Enabled": 1,
     "Weight": 356.0,
     "MissionMaxTime": 1200,
@@ -12,13 +13,13 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 9624.67,
-        "z": 8917.16,
+        "x": 9624.669921875,
+        "z": 8917.16015625,
         "Name": "Gorka",
         "Radius": 100.0
     },
-    "Loot": [],
     "Infected": [],
     "ItemCount": -1,
-    "InfectedCount": -1
+    "InfectedCount": -1,
+    "Loot": []
 }

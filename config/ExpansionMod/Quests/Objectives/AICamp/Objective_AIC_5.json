@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 5,
     "ObjectiveType": 8,
     "ObjectiveText": "Crash the meeting",
@@ -12,7 +12,9 @@
             "NPCName": "Major Evans",
             "Waypoints": [
                 [
-                    4630.36, 353.542, 10430.7
+                    4630.35986328125,
+                    353.5419921875,
+                    10430.7001953125
                 ]
             ],
             "Behaviour": 0,
@@ -43,7 +45,9 @@
             "NPCName": "Captian Hans",
             "Waypoints": [
                 [
-                    4626.81, 362.699, 10428.2 
+                    4626.81005859375,
+                    362.6990051269531,
+                    10428.2001953125
                 ]
             ],
             "Behaviour": 0,
@@ -74,7 +78,9 @@
             "NPCName": "Major Howards",
             "Waypoints": [
                 [
-                    4631.18, 353.542, 10429.3
+                    4631.18017578125,
+                    353.5419921875,
+                    10429.2998046875
                 ]
             ],
             "Behaviour": 0,
@@ -105,7 +111,9 @@
             "NPCName": "Colonel Richards",
             "Waypoints": [
                 [
-                    4626.14, 353.542, 10425.8
+                    4626.14013671875,
+                    353.5419921875,
+                    10425.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -120,7 +128,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.15,
+            "DamageReceivedMultiplier": 0.15000000596046449,
             "ClassNames": [
                 "eAI_SurvivorM_Francis"
             ],
@@ -136,7 +144,9 @@
             "NPCName": "Colonel Briggs",
             "Waypoints": [
                 [
-                    4628.04, 353.542, 10427.1
+                    4628.0400390625,
+                    353.5419921875,
+                    10427.099609375
                 ]
             ],
             "Behaviour": 0,
@@ -151,7 +161,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.15,
+            "DamageReceivedMultiplier": 0.15000000596046449,
             "ClassNames": [
                 "eAI_SurvivorM_Jose"
             ],
@@ -167,7 +177,9 @@
             "NPCName": "Lieutenant Crawford",
             "Waypoints": [
                 [
-                    4636.53, 358.942, 10430.5
+                    4636.52978515625,
+                    358.9419860839844,
+                    10430.5
                 ]
             ],
             "Behaviour": 0,
@@ -198,7 +210,9 @@
             "NPCName": "Lieutenant Collins",
             "Waypoints": [
                 [
-                    4624.79, 353.542, 10432.8
+                    4624.7900390625,
+                    353.5419921875,
+                    10432.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -229,7 +243,9 @@
             "NPCName": "Staff Sergeant Wills",
             "Waypoints": [
                 [
-                    4600.9, 339.012, 10459.6
+                    4600.89990234375,
+                    339.0119934082031,
+                    10459.599609375
                 ]
             ],
             "Behaviour": 0,
@@ -244,7 +260,7 @@
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "ClassNames": [
                 "eAI_SurvivorM_Denis"
             ],
@@ -260,7 +276,9 @@
             "NPCName": "Private",
             "Waypoints": [
                 [
-                    4689.52, 339.014, 10365.8
+                    4689.52001953125,
+                    339.0140075683594,
+                    10365.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -321,7 +339,9 @@
             "NPCName": "Private",
             "Waypoints": [
                 [
-                    4639.22, 338.979, 10404.8
+                    4639.22021484375,
+                    338.97900390625,
+                    10404.7998046875
                 ]
             ],
             "Behaviour": 0,
@@ -382,7 +402,9 @@
             "NPCName": "Private",
             "Waypoints": [
                 [
-                    4653.78, 339.012, 10463.4
+                    4653.77978515625,
+                    339.0119934082031,
+                    10463.400390625
                 ]
             ],
             "Behaviour": 0,
@@ -443,7 +465,9 @@
             "NPCName": "Private",
             "Waypoints": [
                 [
-                    4630.02, 339.012, 10479
+                    4630.02001953125,
+                    339.0119934082031,
+                    10479.0
                 ]
             ],
             "Behaviour": 0,
@@ -504,7 +528,9 @@
             "NPCName": "Private",
             "Waypoints": [
                 [
-                    4606.83, 339, 10376.3
+                    4606.830078125,
+                    339.0,
+                    10376.2998046875
                 ]
             ],
             "Behaviour": 0,
@@ -565,7 +591,9 @@
             "NPCName": "Private",
             "Waypoints": [
                 [
-                    4597.51, 339.2, 10298.7
+                    4597.509765625,
+                    339.20001220703127,
+                    10298.7001953125
                 ]
             ],
             "Behaviour": 0,
@@ -626,7 +654,9 @@
             "NPCName": "Private",
             "Waypoints": [
                 [
-                    4649.14, 338.955, 10393.5
+                    4649.14013671875,
+                    338.9549865722656,
+                    10393.5
                 ]
             ],
             "Behaviour": 0,

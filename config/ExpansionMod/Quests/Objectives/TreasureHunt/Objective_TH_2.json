@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 2,
     "ObjectiveType": 6,
     "ObjectiveText": "Look behind one of the sheds with a shovel",
@@ -17,11 +17,13 @@
             14792.2998046875
         ]
     ],
+    "LootItemsAmount": 3,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "ExpansionCircuitBoard_MK1",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 1,
             "Min": 0,
@@ -29,8 +31,8 @@
         },
         {
             "Name": "ExpansionCircuitBoard_MK2",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 1,
             "Min": 0,
@@ -38,14 +40,12 @@
         },
         {
             "Name": "ExpansionCircuitBoard_MK3",
-            "Attachments": [],
             "Chance": 1.0,
+            "Attachments": [],
             "QuantityPercent": 100,
             "Max": 1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 3,
-    "MaxDistance": 10.0
+    ]
 }

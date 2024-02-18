@@ -1,10 +1,10 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 6,
     "ObjectiveType": 4,
     "ObjectiveText": "Acquire the stones.",
     "TimeLimit": -1,
-    "Active": 0,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 2,

@@ -12,6 +12,8 @@ Expansion.Groups 2
 Expansion.Groups.View 2
 Expansion.Groups.EditGroup 2
 Expansion.Groups.DeleteGroup 2
+Expansion.Creature 2
+Expansion.Creature.Lobotomize 2
 Admin 2
 Admin.Chat 2
 Admin.Player 2
