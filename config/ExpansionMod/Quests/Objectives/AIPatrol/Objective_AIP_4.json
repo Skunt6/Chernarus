@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 4,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 5 units of the Iron Serpents at the marked location",
+    "ObjectiveText": "Kill the Serpent patrol.",
     "TimeLimit": -1,
     "Active": 1,
     "AISpawn": {
