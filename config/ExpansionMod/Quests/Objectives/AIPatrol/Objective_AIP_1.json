@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 1,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 4 units of the Crimsom Reapers at the marked location",
+    "ObjectiveText": "Kill the Reaper patrol.",
     "TimeLimit": -1,
     "Active": 1,
     "AISpawn": {
