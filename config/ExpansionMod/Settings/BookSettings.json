@@ -61,11 +61,6 @@
                     "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
                     "SettingText": "",
                     "SettingValue": ""
-                },
-                {
-                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
-                    "SettingText": "",
-                    "SettingValue": ""
                 }
             ]
         },
@@ -235,6 +230,14 @@
                 },
                 {
                     "DescriptionText": "Van Pelt spawns near them beware he's crazy."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Building Plus",
+            "Descriptions": [
+                {
+                    "DescriptionText": "You can craft a workbench with planks and blueprint."
                 }
             ]
         },

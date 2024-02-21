@@ -7,6 +7,17 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
+            "ClassName": "Mag_Vikhr_30Rnd",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Mag_M14_20Rnd",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 500,
@@ -663,7 +674,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "GCGN_MP7_40Rnd",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 400,
