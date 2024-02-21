@@ -450,7 +450,7 @@
             "Variants": []
         },
         {
-            "ClassName": "ballistichelmet_un",
+            "ClassName": "BallisticHelmet_Woodland",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
@@ -460,7 +460,10 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ballistichelmet_black",
-                "ballistichelmet_green"
+                "ballistichelmet_green",
+                "BallisticHelmet_BDU",
+                "BallisticHelmet_Desert",
+                "ballistichelmet_un"
             ]
         },
         {

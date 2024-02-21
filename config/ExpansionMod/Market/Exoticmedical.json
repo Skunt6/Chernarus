@@ -21,7 +21,7 @@
             "ClassName": "GasMask_Filter",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
-            "SellPricePercent": 100,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,

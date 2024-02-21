@@ -25,7 +25,7 @@
             "MaxPriceThreshold": 30000,
             "MinPriceThreshold": 30000,
             "SellPricePercent": 25,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -40,7 +40,7 @@
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -51,11 +51,25 @@
             "Variants": []
         },
         {
+            "ClassName": "Vikhr",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "PSO1Optic",
+                "Mag_VAL_20Rnd"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "ak74",
             "MaxPriceThreshold": 3200,
             "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
