@@ -134,7 +134,7 @@
 	</event>
 	<!-- ....To here -->
 	<!--item ore start-->
-	<event name="ItemOreSpawn ">
+	<event name="ItemOreSpawn">
 		<pos x="8575.27" z="13311.2" a="116.396" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />
 		<pos x="10182.458985" z="1987.5271" a="29.172445" />
