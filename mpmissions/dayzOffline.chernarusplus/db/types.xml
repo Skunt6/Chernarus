@@ -24179,8 +24179,8 @@
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>5</min>
-        <quantmin>10</quantmin>
-        <quantmax>100</quantmax>
+        <quantmin>1</quantmin>
+        <quantmax>2</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -39613,7 +39613,7 @@
         <category name="food"/>
     </type>
     <type name="Pen_Black">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -39629,7 +39629,7 @@
         <usage name="School"/>
     </type>
     <type name="Pen_Blue">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -39645,7 +39645,7 @@
         <usage name="School"/>
     </type>
     <type name="Pen_Green">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -39661,7 +39661,7 @@
         <usage name="School"/>
     </type>
     <type name="Pen_Red">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
