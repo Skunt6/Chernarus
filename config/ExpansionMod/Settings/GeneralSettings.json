@@ -116,5 +116,5 @@
         "ReputationHighColor": "DC0000FF"
     },
     "EnableEarPlugs": 1,
-    "InGameMenuLogoPath": "set:expansion_iconset image:logo_expansion_white"
+    "InGameMenuLogoPath": ""
 }
