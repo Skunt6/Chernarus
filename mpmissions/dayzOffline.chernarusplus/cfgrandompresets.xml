@@ -6,6 +6,12 @@
 				<item name="Apple" chance="0.07" />
 		</cargo>
 		<cargo chance="0.1" name="herbals">
+		<item name="DP_CocaLeaves" chance="0.01" />
+				<item name="DP_CocaLeaves" chance="0.01" />
+				<item name="DP_CocaSeedsPack" chance="0.01" />
+				<item name="DP_CocaBag" chance="0.01" />
+				<item name="DP_CocaBrick" chance="0.01" />
+				<item name="PsilocybeMushroom" chance="0.01" /
 				<item name="CP_CannabisSeedsPackSkunk" chance="0.01" />
 				<item name="CP_CannabisBagSkunk" chance="0.01" />
 				<item name="CP_CigarettePack_CannabisSkunk" chance="0.01" />
@@ -46,6 +52,12 @@
 				<item name="CP_EmptyBag" chance="0.01" />
 		</cargo>
 		<cargo chance="0.15" name="herbalsPolice">
+				<item name="DP_CocaLeaves" chance="0.01" />
+				<item name="DP_CocaLeaves" chance="0.01" />
+				<item name="DP_CocaSeedsPack" chance="0.01" />
+				<item name="DP_CocaBag" chance="0.01" />
+				<item name="DP_CocaBrick" chance="0.01" />
+				<item name="PsilocybeMushroom" chance="0.01" /
 				<item name="CP_CannabisSeedsPackSkunk" chance="0.01" />
 				<item name="CP_CannabisBagSkunk" chance="0.01" />
 				<item name="CP_CigarettePack_CannabisSkunk" chance="0.01" />
@@ -86,6 +98,12 @@
 				<item name="CP_EmptyBag" chance="0.01" />
 		</cargo>
 		<cargo chance="0.2" name="herbalsNBC">
+				<item name="DP_CocaLeaves" chance="0.01" />
+				<item name="DP_CocaLeaves" chance="0.01" />
+				<item name="DP_CocaSeedsPack" chance="0.01" />
+				<item name="DP_CocaBag" chance="0.01" />
+				<item name="DP_CocaBrick" chance="0.01" />
+				<item name="PsilocybeMushroom" chance="0.01" />
 				<item name="CP_CannabisSeedsPackSkunk" chance="0.01" />
 				<item name="CP_CannabisBagSkunk" chance="0.01" />
 				<item name="CP_CigarettePack_CannabisSkunk" chance="0.01" />
