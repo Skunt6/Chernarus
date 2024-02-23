@@ -5,7 +5,7 @@
 				<item name="SardinesCan" chance="0.11" />
 				<item name="Apple" chance="0.07" />
 		</cargo>
-		<cargo chance="0.05" name="herbals">
+		<cargo chance="0.1" name="herbals">
 				<item name="CP_CannabisSeedsPackSkunk" chance="0.01" />
 				<item name="CP_CannabisBagSkunk" chance="0.01" />
 				<item name="CP_CigarettePack_CannabisSkunk" chance="0.01" />
@@ -45,7 +45,7 @@
 				<item name="CP_JointBlackFrost" chance="0.01" />
 				<item name="CP_EmptyBag" chance="0.01" />
 		</cargo>
-		<cargo chance="0.1" name="herbalsPolice">
+		<cargo chance="0.15" name="herbalsPolice">
 				<item name="CP_CannabisSeedsPackSkunk" chance="0.01" />
 				<item name="CP_CannabisBagSkunk" chance="0.01" />
 				<item name="CP_CigarettePack_CannabisSkunk" chance="0.01" />
@@ -85,7 +85,7 @@
 				<item name="CP_JointBlackFrost" chance="0.01" />
 				<item name="CP_EmptyBag" chance="0.01" />
 		</cargo>
-		<cargo chance="0.15" name="herbalsNBC">
+		<cargo chance="0.2" name="herbalsNBC">
 				<item name="CP_CannabisSeedsPackSkunk" chance="0.01" />
 				<item name="CP_CannabisBagSkunk" chance="0.01" />
 				<item name="CP_CigarettePack_CannabisSkunk" chance="0.01" />
