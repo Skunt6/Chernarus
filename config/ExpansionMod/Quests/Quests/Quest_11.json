@@ -4,9 +4,9 @@
     "Type": 1,
     "Title": "Main: Radio Resurgence",
     "Descriptions": [
-        "Survivor, we're at a critical juncture. Our radio tower, our connection to the outside world, is failing, plunging us into a perilous silence. I've learned that three essential circuit boards, hidden behind one of the sheds at Sokol Tower by my colleague, Dr. Elena, are the key to its restoration. Your task is to navigate the dangers of Sokol Tower, confront the zombie-infested surroundings, and retrieve these circuit boards. Time is of the essence; other survivors rely on the tower's functionality for critical information. Bring those circuit boards back, secure our connection, and your success in this mission will be a beacon of hope in this bleak world."
+        "Survivor, we're facing a critical moment. Our lifeline to the outside world, the Radio Zenit tower, is on the brink of failure, leaving us in a dangerous silence. I've learned that three vital circuit boards, crucial for the tower's functionality, were hidden by my friend, an engineer named Adam, behind one of the sheds near Radio Zenit. This was part of his job before the apocalypse changed everything. Your mission is to navigate the perils of Radio Zenit tower, confront the zombie-infested surroundings, and retrieve these circuit boards. Time is running out; other survivors depend on the tower for crucial information. Retrieve those circuit boards swiftly, restore our connection, and your success in this mission will shine as a beacon of hope in this dark world."
     ],
-    "ObjectiveText": "Find the circut boards",
+    "ObjectiveText": "Find the Gold and Silver bars",
     "FollowUpQuest": 12,
     "Repeatable": 0,
     "IsDailyQuest": 0,

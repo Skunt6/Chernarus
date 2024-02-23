@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 4,
     "ObjectiveType": 3,
-    "ObjectiveText": "Find Sokol Tower",
+    "ObjectiveText": "Go to Radio Zenit",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -11,7 +11,7 @@
         14772.7998046875
     ],
     "MaxDistance": 20.0,
-    "MarkerName": "Sokol Tower",
+    "MarkerName": "Radio Zenit",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0
