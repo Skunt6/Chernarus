@@ -16,7 +16,7 @@
         ]
     ],
     "LootItemsAmount": 3,
-    "MaxDistance": 10.0,
+    "MaxDistance": 100.0,
     "Loot": [
         {
             "Name": "ExpansionCircuitBoard_MK1",

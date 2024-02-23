@@ -6,7 +6,7 @@
     "Descriptions": [
         "Survivor, we're facing a critical moment. Our lifeline to the outside world, the Radio Zenit tower, is on the brink of failure, leaving us in a dangerous silence. I've learned that three vital circuit boards, crucial for the tower's functionality, were hidden by my friend, an engineer named Adam, behind one of the sheds near Radio Zenit. This was part of his job before the apocalypse changed everything. Your mission is to navigate the perils of Radio Zenit tower, confront the zombie-infested surroundings, and retrieve these circuit boards. Time is running out; other survivors depend on the tower for crucial information. Retrieve those circuit boards swiftly, restore our connection, and your success in this mission will shine as a beacon of hope in this dark world."
     ],
-    "ObjectiveText": "Find the Gold and Silver bars",
+    "ObjectiveText": "Find the Ciruits",
     "FollowUpQuest": 12,
     "Repeatable": 0,
     "IsDailyQuest": 0,
