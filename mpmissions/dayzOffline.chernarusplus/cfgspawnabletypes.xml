@@ -9886,6 +9886,38 @@
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
+	<type name="PlateCarrierPouches">
+		<damage min="0.0" max="0.35" />
+		<cargo chance="0.5">
+			<item name="Mag_AKM_30Rnd" />
+			<item name="Mag_CMAG_30Rnd" />
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+	</type>
+	<type name="PlateCarrierPouches_Black">
+		<damage min="0.0" max="0.35" />
+		<cargo chance="0.5">
+			<item name="Mag_AKM_30Rnd" />
+			<item name="Mag_CMAG_30Rnd" />
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+	</type>
+	<type name="PlateCarrierPouches_Green">
+		<damage min="0.0" max="0.35" />
+		<cargo chance="0.5">
+			<item name="Mag_AKM_30Rnd" />
+			<item name="Mag_CMAG_30Rnd" />
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+	</type>
+	<type name="PlateCarrierPouches_Camo">
+		<damage min="0.0" max="0.35" />
+		<cargo chance="0.5">
+			<item name="Mag_AKM_30Rnd" />
+			<item name="Mag_CMAG_30Rnd" />
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+	</type>
 	<type name="GasMask">
 		<damage min="0.0" max="0.35" />
 	</type>
