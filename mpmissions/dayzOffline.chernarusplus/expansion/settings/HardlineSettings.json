@@ -8,7 +8,7 @@
     "LegendaryItemRequirement": 3000,
     "MythicItemRequirement": 5000,
     "ExoticItemRequirement": 5000,
-    "ShowHardlineHUD": 1,
+    "ShowHardlineHUD": 0,
     "UseReputation": 1,
     "UseFactionReputation": 0,
     "EnableFactionPersistence": 0,
