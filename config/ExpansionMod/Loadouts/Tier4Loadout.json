@@ -157,38 +157,6 @@
                                     "Sets": []
                                 },
                                 {
-                                    "ClassName": "NylonKnifeSheath",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [
-                                        {
-                                            "SlotName": "",
-                                            "Items": [
-                                                {
-                                                    "ClassName": "CombatKnife",
-                                                    "Chance": 1.0,
-                                                    "Quantity": {
-                                                        "Min": 0.0,
-                                                        "Max": 0.0
-                                                    },
-                                                    "Health": [],
-                                                    "InventoryAttachments": [],
-                                                    "InventoryCargo": [],
-                                                    "ConstructionPartsBuilt": [],
-                                                    "Sets": []
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
                                     "ClassName": "PlateCarrierPouches_Camo",
                                     "Chance": 1.0,
                                     "Quantity": {
