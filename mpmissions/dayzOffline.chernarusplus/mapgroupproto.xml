@@ -437,7 +437,7 @@
 						<proxy type="Expansion_M16" pos="2.447632 0.012756 -0.02749" rpy="90.000000 0.000000 0.000000" dechance="0.25" />
 						<proxy type="M4A1" pos="-1.808472 0.012756 -0.1717" rpy="90.000000 110.000000 0.000000" dechance="0.25" />
 				</dispatch>
-				<dispatch dechance="0.500000">
+				<dispatch dechance="1.000000">
 						<proxy type="MMG_carrier_backpack_black" pos="-2.901246 0.012756 3.09815" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
 						<proxy type="MMG_supplybag_black" pos="-2.796021 0.012756 -3.1388" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
 						<proxy type="MMG_assault_pack_black" pos="2.291627 0.012756 -3.21477" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
@@ -471,15 +471,15 @@
 						<point pos="-2.552856 0.139709 -1.866150" flags="16" />
 				</container>
 				<dispatch dechance="1.000000">
-						<proxy type="Mich2001Helmet" pos="-17.787476 0.658417 -2.219725" rpy="0.000000 -260.000000 0.000000" dechance="0.500000" />
-						<proxy type="Mich2001Helmet" pos="-18.421021 0.658417 -2.406675" rpy="0.000000 -290.000000 0.000000" dechance="0.500000" />
+						<proxy type="SCAR_Gun" pos="-17.787476 0.658417 -2.219725" rpy="0.000000 -260.000000 0.000000" dechance="0.500000" />
+						<proxy type="GCGN_M4A1" pos="-18.421021 0.658417 -2.406675" rpy="0.000000 -290.000000 0.000000" dechance="0.500000" />
 				</dispatch>
 				<dispatch dechance="1.000000">
 						<proxy type="Aug" pos="-12.238892 0.623566 3.656677" rpy="90.000000 -539.999939 0.000000" dechance="1.000000" />
 				</dispatch>
-				<dispatch dechance="0.050000">
+				<dispatch dechance="1.0000">
 						<proxy type="Grenade_ChemGas" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
-						<proxy type="Grenade_ChemGas" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="SN_Springfield" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
 						<proxy type="Grenade_ChemGas" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
 						<proxy type="Grenade_ChemGas" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
 				</dispatch>
