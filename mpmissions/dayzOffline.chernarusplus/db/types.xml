@@ -14126,7 +14126,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="GCGN_M4A1">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -14450,7 +14450,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SCAR_Gun">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>0</min>
