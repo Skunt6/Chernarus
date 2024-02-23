@@ -122,6 +122,10 @@
         <DayTime_Zombie		Name="ZmbM_PatrolNormal_Summer"/>
 		
         <DayTime_Zombie		Name="ZmbM_DoctorFat"/>
+
+        <DayTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
+        <DayTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
+        <DayTime_Zombie	Name="ZmbM_DH_Invisible_Ghillie"/>
 	</type>     
 </types>
 
