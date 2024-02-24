@@ -14,7 +14,7 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "ObjectSetFileName": "viktor-bunker",
+    "ObjectSetFileName": "viktor-arrival",
     "QuestItems": [
         {
             "ClassName": "PunchedCard",
