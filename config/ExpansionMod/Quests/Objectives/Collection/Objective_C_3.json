@@ -8,7 +8,7 @@
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "paper",
+            "ClassName": "ExpansionQuestItemPackage",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         },

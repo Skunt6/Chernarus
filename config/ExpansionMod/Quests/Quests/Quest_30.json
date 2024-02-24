@@ -7,13 +7,13 @@
         "Survivor, your last mission's intel led us to a valuable discovery—a serpent convoy moving crucial supplies. Your task is to ambush and eliminate this convoy swiftly. Among them is Captain Roland, a deadly marksman, and his loyal lieutenant, Lieutenant Ericson. Both are formidable threats, so approach with caution and eliminate them. Your previous actions set the stage for this operation. Disrupt the serpents' logistics and seize this opportunity. Time is short. Execute this mission with precision, and we'll strike a significant blow to the serpents."
     ],
     "ObjectiveText": "Intercept the convoy",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 32,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
-    "IsGroupQuest": 1,
+    "IsGroupQuest": 0,
     "ObjectSetFileName": "convoy",
     "QuestItems": [],
     "Rewards": [

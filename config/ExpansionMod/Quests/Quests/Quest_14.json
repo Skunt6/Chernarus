@@ -7,7 +7,7 @@
         "Survivor, you've proven yourself, and now there's a higher calling. The General needs a word with you. Head to his location at Rog, a medieval castle, for a meet-up; he's got more high-priority missions that require your touch. Remember, this ain't a leisurely chat; it's a briefing for what comes next. The stakes are high, and we're counting on you to show the General what you're made of. Gear up and head out – the camp is relying on your skills for the missions ahead."
     ],
     "ObjectiveText": "Go meet the general",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 18,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,

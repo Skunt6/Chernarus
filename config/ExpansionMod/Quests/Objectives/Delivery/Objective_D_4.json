@@ -2,25 +2,19 @@
     "ConfigVersion": 27,
     "ID": 4,
     "ObjectiveType": 5,
-    "ObjectiveText": "Deliver the Metals to Rico",
+    "ObjectiveText": "Deliver Intel to Rico",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 10,
-            "ClassName": "ExpansionGoldBar",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": 100
-        },
-        {
-            "Amount": 10,
-            "ClassName": "ExpansionSilverBar",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": 100
+            "Amount": 1,
+            "ClassName": "ExpansionQuestItemPackage",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
         }
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
     "MaxDistance": 10.0,
-    "MarkerName": "Deliver Items"
+    "MarkerName": "Deliver Package"
 }

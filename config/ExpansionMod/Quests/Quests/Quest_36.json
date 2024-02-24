@@ -4,7 +4,7 @@
     "Type": 1,
     "Title": "Main: A Friend",
     "Descriptions": [
-        "Survivor, your help in the past has been invaluable, and now I need your assistance once more. It's been a while since I last heard from my husband, Eddy Locke. Our previous conversation centered around his plan to establish a safe zone and bury those circuts near Sokol. However, I'm unsure if he has completed this project or faced any challenges along the way. Eddy is currently stationed somewhere north of Belaya Polyana. Please visit him, remind him of our discussion, and check on his well-being. I'm eagerly awaiting news of his progress, and his safety is of utmost importance. I trust you to ensure he's okay and gather any updates he may have regarding the safe zone. Also take this book, its his favorite, and he will know exactly who sent you."
+        "Survivor, your assistance has been invaluable before, and I need your help again. It's been a while since I last heard from my husband, Eddy Locke. He's stationed north of Belaya Polyana, working on establishing a safe zone. Please visit him, check on his well-being, and deliver this package with crucial information about gas bombs. It's vital that Eddy receives this package. Thank you for your help."
     ],
     "ObjectiveText": "Find Eddy Locke",
     "FollowUpQuest": 37,
@@ -18,6 +18,10 @@
     "QuestItems": [
         {
             "ClassName": "BookTheArtOfWar",
+            "Amount": 1
+        },
+        {
+            "ClassName": "ExpansionQuestItemPackage",
             "Amount": 1
         }
     ],
