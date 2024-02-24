@@ -2,20 +2,25 @@
     "ConfigVersion": 21,
     "ID": 38,
     "Type": 1,
-    "Title": "Eddy Locke: Viktor Strakov",
+    "Title": "Main: Viktor Strakov",
     "Descriptions": [
-        "Survivor, I've got a problem on my hands, and I reckon you're the one to solve it. There's this real nasty piece of work out there, goes by the name of Viktor Strakov. He used to be a part of my spec ops team before this whole mess started, but once everything went to hell, he took a dark turn. Word is, he's been doing some vile stuff since then, like raiding survivor camps, trading innocent lives for supplies, and worse. Now, I've got a score to settle with this guy, and I've got word that he's holed up at his bunker in the quarry. I need you to track him down and put an end to his reign of terror. Just be warned, Strakov's got a reputation for being one slippery customer. Keep your wits about you, and let's make sure he don't trouble anyone else in these parts. Oh yeah, I almost forgot to mention the place is locked up like Fort Knox and you will need a punched card which can be found in contaminated zones."
+        "Survivor, we've got a situation on our hands, and I need your expertise to handle it. Viktor Strakov, a former member of my spec ops team, has become a significant concern. There's reason to believe he's involved in the recent gas drops we've been seeing. He's holed up in his bunker in the quarry, guarded by a team of his associates. Your mission is to neutralize Strakov and his team, retrieve any valuable intel about the gas from the bunker, and ensure he doesn't pose a threat anymore. Be cautious; Strakov and his crew are highly trained and dangerous. I will provide you with a punched card that will grant you access to the bunker. We're counting on you to get this done and safeguard our community."
     ],
     "ObjectiveText": "Viktor Strakov",
     "FollowUpQuest": -1,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
-    "IsGroupQuest": 1,
-    "ObjectSetFileName": "",
-    "QuestItems": [],
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "viktor-bunker",
+    "QuestItems": [
+        {
+            "ClassName": "PunchedCard",
+            "Amount": 1
+        }
+    ],
     "Rewards": [
         {
             "ClassName": "AK101",
