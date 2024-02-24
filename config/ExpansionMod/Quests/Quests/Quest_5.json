@@ -33,11 +33,13 @@
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
         3,
-        8
+        8,
+        10
     ],
     "QuestTurnInIDs": [
         3,
-        8
+        8,
+        10
     ],
     "IsAchievement": 0,
     "Objectives": [

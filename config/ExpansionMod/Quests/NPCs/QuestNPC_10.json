@@ -1,0 +1,24 @@
+{
+    "ConfigVersion": 6,
+    "ID": 10,
+    "ClassName": "ExpansionQuestBoardLarge",
+    "Position": [
+        14176.4, 195.339, 15279.6
+    ],
+    "Orientation": [
+        97.5622, 0, -0
+    ],
+    "NPCName": "Daily and Weekly target missions",
+    "DefaultNPCText": "There is nothing to do here for you...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}
