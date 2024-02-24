@@ -114,9 +114,9 @@
         },
         {
             "ClassName": "m16a2",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": 100,
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
