@@ -288,9 +288,9 @@
 				</container>
 				<dispatch dechance="1.000000">
 						<proxy type="AmmoBox_9x39AP_20Rnd" pos="-6.007690 0.462393 0.721314" rpy="-90.000000 75.000000 0.000000" dechance="0.125" />
-						<proxy type="AmmoBox_556x45Tracer_20Rnd" pos="-5.702758 0.462393 1.043152" rpy="-90.000000 120.000000 0.000000" dechance="0.125" />
-						<proxy type="AmmoBox_762x54Tracer_20Rnd" pos="-5.691162 0.472393 0.777710" rpy="-90.000000 140.000000 0.000000" dechance="0.125" />
-						<proxy type="AmmoBox_556x45Tracer_20Rnd" pos="-5.360474 0.462393 1.084412" rpy="-90.000000 160.000000 0.000000" dechance="0.125" />
+						<proxy type="AliceBag_Black" pos="-5.702758 0.462393 1.043152" rpy="-90.000000 120.000000 0.000000" dechance="0.125" />
+						<proxy type="AliceBag_Camo" pos="-5.691162 0.472393 0.777710" rpy="-90.000000 140.000000 0.000000" dechance="0.125" />
+						<proxy type="AliceBag_Green" pos="-5.360474 0.462393 1.084412" rpy="-90.000000 160.000000 0.000000" dechance="0.125" />
 						<proxy type="AmmoBox_9x39AP_20Rnd" pos="-4.808838 0.462393 0.866942" rpy="-90.000000 200.000000 0.000000" dechance="0.125" />
 						<proxy type="AmmoBox_762x54Tracer_20Rnd" pos="-5.215454 0.472393 0.595460" rpy="-90.000000 240.000000 0.000000" dechance="0.125" />
 						<proxy type="AmmoBox_9x39AP_20Rnd" pos="-5.484498 0.462393 0.483703" rpy="-90.000000 260.000000 0.000000" dechance="0.125" />
