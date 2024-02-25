@@ -3315,7 +3315,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="FordRaptor_Scorpio_Wheel">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>30</min>
@@ -3323,7 +3323,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="lootdispatch"/>
+		<category name="tool"/>
 		<usage name="Industrial"/>
 		<usage name="Military"/>
 		<value name="Tier2"/>
@@ -3331,7 +3331,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="FordRaptor_Scorpio_Wheel_Black">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>30</min>
@@ -3347,7 +3347,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="FordRaptor_Scorpio_Wheel_White">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>30</min>
@@ -3363,7 +3363,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="FordRaptor_Scorpio_Wheel_Gold">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>30</min>
@@ -3379,7 +3379,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="FordRaptor_Scorpio_Wheel_Blue">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>30</min>
@@ -6900,7 +6900,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="Ore"/>
-		<usage name="DayzOresandGems_Gold"/>
+		<usage name="DayzOresandGems_Diamond"/>
 	</type>
 	<type name="CopperOre">
 		<nominal>20</nominal>
@@ -26332,7 +26332,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_Flare">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
@@ -26348,7 +26348,7 @@
         <usage name="Coast"/>
     </type>
     <type name="Ammo_FlareBlue">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
@@ -26364,7 +26364,7 @@
         <usage name="Coast"/>
     </type>
     <type name="Ammo_FlareGreen">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
@@ -26380,7 +26380,7 @@
         <usage name="Coast"/>
     </type>
     <type name="Ammo_FlareRed">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
