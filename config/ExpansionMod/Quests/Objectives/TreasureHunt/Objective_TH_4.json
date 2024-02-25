@@ -21,7 +21,7 @@
     "MaxDistance": 10.0,
     "Loot": [
         {
-            "Name": "paper",
+            "Name": "ExpansionQuestItemPackage",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": 100,
