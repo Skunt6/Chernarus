@@ -144,15 +144,6 @@
 				<item name="CP_EmptyBag" chance="0.01" />
 		</cargo>
 		<cargo chance="0.05" name="gems">
-				<item name="AlienOre" chance="0.008" />
-				<item name="GoldOre" chance="0.008" />
-				<item name="SilverOre" chance="0.008" />
-				<item name="DiamondOre" chance="0.008" />
-				<item name="CopperOre" chance="0.008" />
-				<item name="TinOre" chance="0.008" />
-				<item name="IronOre" chance="0.008" />
-				<item name="CharCoalOre" chance="0.008" />
-				<item name="SulfurOre" chance="0.008" />
 				<item name="Box_Kit_Furnace" chance="0.008" />
 				<item name="Furnace" chance="0.008" />
 				<item name="CopperStill" chance="0.008" />
@@ -187,15 +178,6 @@
 				<item name="ItemTinNugget" chance="0.008" />
 		</cargo>
 		<cargo chance="0.1" name="gemsPriest">
-				<item name="AlienOre" chance="0.008" />
-				<item name="GoldOre" chance="0.008" />
-				<item name="SilverOre" chance="0.008" />
-				<item name="DiamondOre" chance="0.008" />
-				<item name="CopperOre" chance="0.008" />
-				<item name="TinOre" chance="0.008" />
-				<item name="IronOre" chance="0.008" />
-				<item name="CharCoalOre" chance="0.008" />
-				<item name="SulfurOre" chance="0.008" />
 				<item name="Box_Kit_Furnace" chance="0.008" />
 				<item name="Furnace" chance="0.008" />
 				<item name="CopperStill" chance="0.008" />
@@ -230,15 +212,6 @@
 				<item name="ItemTinNugget" chance="0.008" />
 		</cargo>
 		<cargo chance="0.15" name="gemsNBC">
-				<item name="AlienOre" chance="0.008" />
-				<item name="GoldOre" chance="0.008" />
-				<item name="SilverOre" chance="0.008" />
-				<item name="DiamondOre" chance="0.008" />
-				<item name="CopperOre" chance="0.008" />
-				<item name="TinOre" chance="0.008" />
-				<item name="IronOre" chance="0.008" />
-				<item name="CharCoalOre" chance="0.008" />
-				<item name="SulfurOre" chance="0.008" />
 				<item name="Box_Kit_Furnace" chance="0.008" />
 				<item name="Furnace" chance="0.008" />
 				<item name="CopperStill" chance="0.008" />
