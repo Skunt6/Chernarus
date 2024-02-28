@@ -158,7 +158,7 @@
 
         <!--Lopatino Zombies-->
 
-        <zone name="InfectedReligious" smin="0" smax="0" dmin="75" dmax="75" x="2740.81" z="9963.20" r="200"/>
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="5" dmax="10" x="2740.81" z="9963.20" r="200"/>
 
     </territory>
     <territory color="3082523903">
