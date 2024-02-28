@@ -16,7 +16,34 @@
     "EnableServerMarkers": 1,
     "ShowNameOnServerMarkers": 1,
     "ShowDistanceOnServerMarkers": 1,
-    "ServerMarkers": [],
+    "ServerMarkers": [
+        {
+            "m_UID": "bunker",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Bunker",
+            "m_IconName": "Rock 1",
+            "m_Color": -65536,
+            "m_Position": [
+                8644.2, 155.433, 13583.8
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "blackmarket",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "BlackMarket",
+            "m_IconName": "Herbal Medicine",
+            "m_Color": -12058552,
+            "m_Position": [
+                4051.14, 376.629, 11711.2
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
     "EnableHUDCompass": 1,
     "NeedCompassItemForHUDCompass": 1,
     "NeedGPSItemForHUDCompass": 1,
