@@ -202,6 +202,1808 @@
     ],
     "Patrols": [
         {
+            "Name": "Woods1",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods2",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods3",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods4",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods5",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods6",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods7",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods8",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods9",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods10",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods11",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods12",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods13",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods14",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods15",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods16",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods17",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods18",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Woods19",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field1",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field2",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field3",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field4",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field5",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field6",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field7",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field8",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field9",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field10",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field11",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field12",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field13",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field14",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
+            "Name": "Field15",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "Na",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3766.27001953125,
+                    306.6995544433594,
+                    8736.0
+                ],
+                [
+                    3808.669921875,
+                    310.9922180175781,
+                    8864.169921875
+                ],
+                [
+                    3717.489990234375,
+                    310.989990234375,
+                    8910.0703125
+                ],
+                [
+                    3767.85009765625,
+                    311.4686584472656,
+                    8995.75
+                ]
+            ]
+        },
+        {
             "Name": "VanPelt",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
