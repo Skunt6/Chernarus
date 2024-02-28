@@ -4,7 +4,7 @@
     "AccuracyMax": 0.78,
     "ThreatDistanceLimit": 800.0,
     "NoiseInvestigationDistanceLimit": 50.0,
-    "DamageMultiplier": 0.5,
+    "DamageMultiplier": 0.75,
     "DamageReceivedMultiplier": 1.0,
     "Admins": [],
     "MaximumDynamicPatrols": -1,
