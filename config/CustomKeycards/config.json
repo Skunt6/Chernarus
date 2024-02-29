@@ -68,6 +68,29 @@
             "enableCloseSound": 1,
             "locationName": "West Airfield",
             "secondsNotify": 5.0
+        },
+        {
+            "doorClassName": "evg_barDoor",
+            "doorPosition": [
+                2077.5,
+                93.7924,
+                3286.8
+            ],
+            "doorRotation": [
+                6.99459,
+                -0,
+                -0
+            ],
+            "autoCloseTime": 120.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_Red"
+            ],
+            "damageToKeycard": -1,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "Pavlovo Gas Zone",
+            "secondsNotify": 5.0
         }
     ]
 }
