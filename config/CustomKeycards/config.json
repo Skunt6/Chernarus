@@ -14,7 +14,8 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Tisy05"
+                "evg_keycards_Tisy05",
+                "evg_keycards_ALL"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
@@ -37,7 +38,8 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Green"
+                "evg_keycards_Green",
+                "evg_keycards_ALL"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
@@ -60,7 +62,8 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_NWAF01"
+                "evg_keycards_NWAF01",
+                "evg_keycards_ALL"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
@@ -83,7 +86,8 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Red"
+                "evg_keycards_Red",
+                "evg_keycards_ALL"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
@@ -106,7 +110,8 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Blue"
+                "evg_keycards_Blue",
+                "evg_keycards_ALL"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
