@@ -377,7 +377,7 @@
 						<point pos="-2.657348 1.023865 3.791320" range="0.334351" height="0.835876" flags="16" />
 						<point pos="-3.345702 1.023865 3.762024" range="0.341614" height="0.854034" flags="16" />
 				</container>
-				<dispatch dechance="0.050000">
+				<dispatch dechance="1.00000">
 						<proxy type="Ammo_40mm_ChemGas" pos="-4.303712 0.907471 3.644958" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 				</dispatch>
 		</group>
@@ -431,11 +431,11 @@
 						<point pos="-0.868164 0.012756 -3.136535" range="0.938232" height="2.000000" />
 						<point pos="-5.419433 0.012756 2.763063" range="1.190776" height="2.000000" />
 				</container>
-				<dispatch dechance="1.000000">
-						<proxy type="M14" pos="2.166992 0.012756 3.037353" rpy="90.000000 90.000000 0.000000" dechance="0.25" />
-						<proxy type="Expansion_AWM" pos="6.482910 0.012756 -0.18048" rpy="90.000000 90.000000 0.000000" dechance="0.25" />
-						<proxy type="Expansion_M16" pos="2.447632 0.012756 -0.02749" rpy="90.000000 0.000000 0.000000" dechance="0.25" />
-						<proxy type="M4A1" pos="-1.808472 0.012756 -0.1717" rpy="90.000000 110.000000 0.000000" dechance="0.25" />
+				<dispatch dechance="0.100000">
+						<proxy type="GCGN_M200" pos="2.166992 0.012756 3.037353" rpy="90.000000 90.000000 0.000000" dechance="0.25" />
+						<proxy type="SNAFUAlligator" pos="6.482910 0.012756 -0.18048" rpy="90.000000 90.000000 0.000000" dechance="0.25" />
+						<proxy type="SNAFUAX50_GUN" pos="2.447632 0.012756 -0.02749" rpy="90.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="GCGN_M82_Barret" pos="-1.808472 0.012756 -0.1717" rpy="90.000000 110.000000 0.000000" dechance="0.25" />
 				</dispatch>
 				<dispatch dechance="1.000000">
 						<proxy type="MMG_carrier_backpack_black" pos="-2.901246 0.012756 3.09815" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
@@ -470,18 +470,18 @@
 						<point pos="8.635254 0.947693 2.785095" range="0.306250" height="0.765625" flags="16" />
 						<point pos="-2.552856 0.139709 -1.866150" flags="16" />
 				</container>
-				<dispatch dechance="1.000000">
+				<dispatch dechance="0.500000">
 						<proxy type="SCAR_Gun" pos="-17.787476 0.658417 -2.219725" rpy="0.000000 -260.000000 0.000000" dechance="0.500000" />
 						<proxy type="GCGN_M4A1" pos="-18.421021 0.658417 -2.406675" rpy="0.000000 -290.000000 0.000000" dechance="0.500000" />
 				</dispatch>
-				<dispatch dechance="1.000000">
-						<proxy type="Aug" pos="-12.238892 0.623566 3.656677" rpy="90.000000 -539.999939 0.000000" dechance="1.000000" />
+				<dispatch dechance="0.100000">
+						<proxy type="SNAFUM96" pos="-12.238892 0.623566 3.656677" rpy="90.000000 -539.999939 0.000000" dechance="1.000000" />
 				</dispatch>
-				<dispatch dechance="1.0000">
-						<proxy type="Grenade_ChemGas" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
-						<proxy type="SN_Springfield" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
-						<proxy type="Grenade_ChemGas" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
-						<proxy type="Grenade_ChemGas" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+				<dispatch dechance="0.5000">
+						<proxy type="GCGN_M110_Black" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="MMG_striker_helmet_black" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="MMG_mk5_grenade_pouch_black" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="MMG_tactical_pouch_black" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
 				</dispatch>
 		</group>
 		<group name="Land_Oresspawnpoint_All" lootmax="1">
