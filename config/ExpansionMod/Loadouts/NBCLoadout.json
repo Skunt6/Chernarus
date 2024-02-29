@@ -385,7 +385,7 @@
             "Sets": []
         },
         {
-            "ClassName": "evg_keycards_Tisy01",
+            "ClassName": "evg_keycards_Tisy05",
             "Chance": 0.25,
             "Quantity": {
                 "Min": 0.0,
@@ -404,7 +404,7 @@
             "Sets": []
         },
         {
-            "ClassName": "evg_keycards_Violet",
+            "ClassName": "evg_keycards_NWAF01",
             "Chance": 0.25,
             "Quantity": {
                 "Min": 0.0,
