@@ -14,7 +14,7 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Red"
+                "evg_keycards_Tisy01"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
