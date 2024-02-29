@@ -529,6 +529,49 @@
         <tag name="shelves"/>
     </type>
     <type name="evg_keycards_All">
+        <nominal>1</nominal>
+        <lifetime>1000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <category name="containers"/>
+        <category name="clothes"/>
+        <category name="lootdispatch"/>
+        <category name="food"/>
+        <category name="weapons"/>
+        <category name="books"/>
+        <category name="explosives"/>
+        <tag name="floor"/>
+        <tag name="shelves"/>
+        <tag name="ground"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Historical"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+        <value name="Unique"/>
+    </type>
+    <type name="evg_keycards_Blue">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -570,18 +613,6 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
         <value name="Unique"/>
-    </type>
-    <type name="evg_keycards_Blue">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
     </type>
     <type name="evg_keycards_Green">
         <nominal>2</nominal>
