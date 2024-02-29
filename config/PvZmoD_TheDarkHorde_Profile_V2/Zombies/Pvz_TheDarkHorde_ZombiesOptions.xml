@@ -20,7 +20,7 @@
 		<Resistance_To_The_Cars_For_The_Master	Value="1000.0"/>			<!-- [Decimal 0.0  to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
 	</type>
 	<type name="Master_Behaviours">	
-		<Master_Regeneration_Rate					Day="0.02" 	Night="0.05"/>	<!-- [Decimal 0.01 to infinite] (Health Points per second)-->
+		<Master_Regeneration_Rate					Day="0.01" 	Night="0.015"/>	<!-- [Decimal 0.01 to infinite] (Health Points per second)-->
 		<Master_Is_Bulletproof						Day="0" 	Night="0"/>		<!-- [Integer 0 or 1] -->
 		<Master_Is_Immune_To_Explosions				Day="0" 	Night="0"/>		<!-- [Integer 0 or 1] -->
 		<Master_Is_Teleport_When_Hit_By_MeleeWeapon	Day="0" 	Night="1"/>		<!-- [Integer 0 or 1] -->
