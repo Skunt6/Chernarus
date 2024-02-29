@@ -14,7 +14,7 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Tisy01"
+                "evg_keycards_Tisy05"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
@@ -37,7 +37,7 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Violet"
+                "evg_keycards_Green"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
@@ -60,7 +60,7 @@
             ],
             "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Green"
+                "evg_keycards_NWAF01"
             ],
             "damageToKeycard": -1,
             "enableSwipeSound": 1,
