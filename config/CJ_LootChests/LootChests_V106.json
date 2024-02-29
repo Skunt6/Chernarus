@@ -15,7 +15,7 @@
             "chest": [
                 "CJ_LootChest_Brown_Large"
             ],
-            "lootrandomize": 0.03,
+            "lootrandomize": 0.1,
             "light": 1,
             "loot": [
                 "GCGN_M82_Barret",
@@ -238,7 +238,7 @@
             "chest": [
                 "CJ_LootChest_Olive_Large"
             ],
-            "lootrandomize": 0.07,
+            "lootrandomize": 0.1,
             "light": 1,
             "loot": [
                 "MMG_mk5_grenade_pouch_alpine",
