@@ -799,6 +799,51 @@
                 "DP_CocaBrick|0.3",
                 "DP_CocaSeedsPack|0.3"
             ]
+        },
+        {
+            "name": "Pavlovo gas gem crate",
+            "number": 1,
+            "pos": [
+                "2079.08 92.6674 3282|97.0643 0 -0"
+            ],
+            "keyclass": "",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Grey_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "ItemStarRuby|0.66",
+                "ItemRodochrosite|0.66",
+                "ItemPinkTourmaline|0.66",
+                "ItemAlexandrit|0.66",
+                "ItemIndicolite|0.66",
+                "ItemAquamarine|0.66",
+                "ItemEmerald|0.66",
+                "ItemYellowBeryl|0.66",
+                "ItemCitrine|0.66",
+                "ItemRuby|0.66",
+                "ItemKunzite|0.66",
+                "ItemAlienIngot|0.66",
+                "ItemCharCoalIngot|0.66",
+                "ItemSulfurIngot|0.66",
+                "ItemCopperIngot|0.66",
+                "ItemDiamondIngot|0.66",
+                "ItemGoldIngot|0.66",
+                "ItemIronIngot|0.66",
+                "ItemSilverIngot|0.66",
+                "ItemTinIngot|0.66",
+                "ItemAlienNugget|0.66",
+                "ItemCharCoalNugget|0.66",
+                "ItemSulfurNugget|0.66",
+                "ItemCopperNugget|0.66",
+                "ItemDiamondNugget|0.66",
+                "ItemGoldNugget|0.66",
+                "ItemIronNugget|0.66",
+                "ItemSilverNugget|0.66",
+                "ItemTinNugget|0.66"
+            ]
         }
     ],
     "LCPredefinedWeapons": [
