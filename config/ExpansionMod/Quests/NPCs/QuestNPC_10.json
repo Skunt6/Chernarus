@@ -3,10 +3,12 @@
     "ID": 10,
     "ClassName": "ExpansionQuestBoardLarge",
     "Position": [
-        14176.4, 195.339, 15279.6
+        14176.228516,
+        196.479996,
+        15278.528320
     ],
     "Orientation": [
-        97.5622, 0, -0
+        15.898956, 0, -0
     ],
     "NPCName": "Daily and Weekly target missions",
     "DefaultNPCText": "There is nothing to do here for you...",
