@@ -75,9 +75,35 @@
             "m_Is3D": 0,
             "m_Text": "Vault",
             "m_IconName": "Persona",
-            "m_Color": -23296,
+            "m_Color": -16776961,
             "m_Position": [
                 2338.31, 250.266, 11770.4
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "rify",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Vault",
+            "m_IconName": "Bandit",
+            "m_Color": -16776961,
+            "m_Position": [
+                13799.1, 21.1967, 11135.5
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "pavlovo",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Vault",
+            "m_IconName": "Bandit",
+            "m_Color": -65536,
+            "m_Position": [
+                2077.74, 92.6666, 3281.92
             ],
             "m_Locked": 0,
             "m_Persist": 1
