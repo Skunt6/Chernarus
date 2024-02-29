@@ -844,6 +844,37 @@
                 "ItemSilverNugget|0.66",
                 "ItemTinNugget|0.66"
             ]
+        },
+        {
+            "name": "Rify",
+            "number": 1,
+            "pos": [
+                "13799.6 21.1631 11133.6|157.61 0 0"
+            ],
+            "keyclass": "",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Green_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "SYGUJugYang|0.1",
+                "SYGUJugPants_Yang|0.1",
+                "SYGUJugBoots_Yang|0.1",
+                "JugHelm_Yang|0.1",
+                "SYGUJugVest|0.1",
+                "SYGUJug_Shirt|0.1",
+                "SYGUJug_ShirtSnow|0.1",
+                "SYGUJugPants|0.1",
+                "SYGUJugPants_Snow|0.1",
+                "SYGUJugBoots_Snow|0.1",
+                "SYGUJugBoots|0.1",
+                "JugHelm|0.1",
+                "SYGUJugVestSnow|0.1",
+                "JugHelm_Snow|0.1",
+                "JugVisor|0.1"
+            ]
         }
     ],
     "LCPredefinedWeapons": [

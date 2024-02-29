@@ -3725,6 +3725,58 @@
     </type>
 <!--Dzr nots end-->
 <!--Jug Armour Start-->
+  <type name="SYGUJugYang">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="SYGUJugPants_Yang">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="SYGUJugBoots_Yang">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="JugHelm_Yang">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
   <type name="SYGUJugVest">
     <nominal>0</nominal>
     <lifetime>7200</lifetime>
