@@ -217,6 +217,17 @@
             ]
         },
         {
+            "CategoryName": "KeyCards & Punchedcards",
+            "Descriptions": [
+                {
+                    "DescriptionText": "All cards spawn on NBC zone AI's"
+                },
+                {
+                    "DescriptionText": "Cards also spawn on highlevel AI officers"
+                }
+            ]
+        },
+        {
             "CategoryName": "Dinos",
             "Descriptions": [
                 {
