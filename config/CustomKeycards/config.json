@@ -1,27 +1,26 @@
 {
     "KeycardDoor": [
         {
-            "doorClassName": "evg_simpleDoor1",
+            "doorClassName": "evg_barDoor",
             "doorPosition": [
-                1234.5670166015626,
-                1234.5670166015626,
-                1234.5670166015626
+                1684.34,
+                449.573,
+                14206.3
             ],
             "doorRotation": [
-                1234.5670166015626,
-                0.0,
-                -1234.5670166015626
+                162,
+                0,
+                -0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 120.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Tisy01",
-                "evg_keycards_All"
+                "evg_keycards_Red"
             ],
-            "damageToKeycard": 30.0,
+            "damageToKeycard": -1,
             "enableSwipeSound": 1,
             "enableErrorSound": 1,
             "enableCloseSound": 1,
-            "locationName": "LOCATION NAME",
+            "locationName": "Tisy",
             "secondsNotify": 5.0
         }
     ]
