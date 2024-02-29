@@ -146,25 +146,25 @@
                     "DescriptionText": "Friendly AI will always wear a Green armband"
                 },
                 {
-                    "DescriptionText": "AI's are .25-.35 min accuracy and .75-.85 max accuracy, and their damage multiplier is 0.5"
+                    "DescriptionText": "AI's accuracy, and loadout scale with the tiers."
                 },
                 {
-                    "DescriptionText": "There is AI in almost every town, village, Military and city."
+                    "DescriptionText": "There is AI in almost every town, village, Military, and city. Also wooded areas and fields to."
                 },
                 {
-                    "DescriptionText": "Coastal AI is melee and pistol, but inland you will find more geared AI."
+                    "DescriptionText": "AI officers have a 3x chance to spawn loot."
                 },
                 {
-                    "DescriptionText": "AI officers have a double chance to spawn Snafu."
+                    "DescriptionText": "Van Pelt has 4x chance to spawn loot."
                 },
                 {
-                    "DescriptionText": "Van Pelt has double chance to spawn Snafu."
+                    "DescriptionText": "NBC AI have 10x chance to spawn Snafu loot Colonel's have a 3x chance of spawning Snafu loot."
                 },
                 {
-                    "DescriptionText": "NBC AI have triple chance to spawn good loot, but have 25% chance of spawning. Colonel's have a 3x chance of spawning Snafu loot."
+                    "DescriptionText": "Colonel's have a 6x chance of spawning loot."
                 },
                 {
-                    "DescriptionText": "Zombies have a chance to spawn Herbals and ore items, police have a double chance of spawning Herbals, Priest have double chance for stones, and NBC zombies have 3x chance to spawn herbals and gems."
+                    "DescriptionText": "Zombies have a chance to spawn Herbals and ore items."
                 },
                 {
                     "DescriptionText": "Jug AI has 1% chance of spawning at AI spawns, and can't be looted."
@@ -192,7 +192,7 @@
             "CategoryName": "Base Building info",
             "Descriptions": [
                 {
-                    "DescriptionText": "No building base's 700m from military bases."
+                    "DescriptionText": "Bases at and around military ar permited. Can also build towers if u want."
                 },
                 {
                     "DescriptionText": "Bases have a 7 day duration unless you raise the flag"
