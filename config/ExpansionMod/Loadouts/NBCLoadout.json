@@ -386,7 +386,7 @@
         },
         {
             "ClassName": "evg_keycards_Blue",
-            "Chance": 0.03,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
