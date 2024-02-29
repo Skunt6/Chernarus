@@ -42,6 +42,45 @@
             ],
             "m_Locked": 0,
             "m_Persist": 1
+        },
+        {
+            "m_UID": "Tisy Vault",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Vault",
+            "m_IconName": "Gun",
+            "m_Color": -2968436,
+            "m_Position": [
+                1693.43, 448.372, 14213.4
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Airfield Vault",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Vault",
+            "m_IconName": "Medic Box",
+            "m_Color": -3394697,
+            "m_Position": [
+                5033.17, 339.229, 9844.47
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "depot",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Vault",
+            "m_IconName": "Persona",
+            "m_Color": -23296,
+            "m_Position": [
+                2338.31, 250.266, 11770.4
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
         }
     ],
     "EnableHUDCompass": 1,
