@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 27,
+    "ID": 8,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Aztec Gold Around Krona.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "",
+    "MarkerVisibility": 0,
+    "Positions": [
+        [
+            1409.44,
+            314.562,
+            9275.21
+        ]
+    ],
+    "LootItemsAmount": 40,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "ItemGoldIngot",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

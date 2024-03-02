@@ -2,31 +2,21 @@
     "ConfigVersion": 21,
     "ID": 20,
     "Type": 1,
-    "Title": "Mystic: Mystic's Bounty",
+    "Title": "Mystic: Lost Aztec Gold",
     "Descriptions": [
-        "Brave survivor, your journey through the vast lands of Chernarus calls for a task of great importance. Seek out the scattered stones that lie dormant across this realm, for these elements hold ancient powers essential to our mystic endeavors. Fear not, for your efforts shall not go unrewarded. Upon your successful return, you shall receive a bounty befitting a wanderer of your caliber. Tread carefully, and let fortune guide your path."
+        "In the twilight realm of DayZ, where whispers of the past intertwine with the present, you stand at the threshold of ancient ruins, a harbinger of mystical truths. Within lies a trove of Aztec gold, its gleaming splendor beckoning from the depths. Yet, heed this cautionary tale, valiant traveler: this treasure, concealed within or around Krona, carries a weighty legacy. Approach with reverence, for to seek its riches is to dance with the shadows of an ancient curse, ensnaring the unwary in a web of timeless malevolence."
     ],
-    "ObjectiveText": "Find the Stones",
+    "ObjectiveText": "Find the Ancient gold.",
     "FollowUpQuest": -1,
-    "Repeatable": 1,
+    "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
-    "IsGroupQuest": 1,
+    "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [
-        {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 50000,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        }
-    ],
+    "Rewards": [],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
@@ -41,16 +31,14 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 6,
-            "ObjectiveType": 4
+            "ID": 8,
+            "ObjectiveType": 6
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 100,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        16
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
@@ -59,5 +47,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }
