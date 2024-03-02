@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 3,
     "ObjectiveType": 6,
-    "ObjectiveText": "Find the treasure on Skalisty island",
+    "ObjectiveText": "Find the sword on Skalisty island",
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 0,
@@ -17,105 +17,15 @@
             3317.52001953125
         ]
     ],
-    "LootItemsAmount": 11,
+    "LootItemsAmount": 1,
     "MaxDistance": 10.0,
     "Loot": [
         {
-            "Name": "ItemAlienIngot",
+            "Name": "t_longsword03",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemRodochrosite",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemPinkTourmaline",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemAlexandrit",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemIndicolite",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemAquamarine",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemEmerald",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemYellowBeryl",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemRuby",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemCitrine",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ItemKunzite",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 4,
+            "Max": 1,
             "Min": 0,
             "Variants": []
         }
