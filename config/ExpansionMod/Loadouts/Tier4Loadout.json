@@ -138,7 +138,7 @@
                                             "Items": [
                                                 {
                                                     "ClassName": "SN_Glock19",
-                                                    "Chance": 1.0,
+                                                    "Chance": 0.5,
                                                     "Quantity": {
                                                         "Min": 0.0,
                                                         "Max": 0.0
@@ -184,10 +184,10 @@
                                 },
                                 {
                                     "ClassName": "Grenade_ChemGas",
-                                    "Chance": 0.25,
+                                    "Chance": 0.5,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 1.0
+                                        "Min": 1.0,
+                                        "Max": 2.0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -220,7 +220,7 @@
                                     "InventoryCargo": [
                                         {
                                             "ClassName": "Mag_AKM_Drum75Rnd",
-                                            "Chance": 0.33333,
+                                            "Chance": 0.1,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -233,7 +233,7 @@
                                         },
                                         {
                                             "ClassName": "Mag_STANAG_60Rnd",
-                                            "Chance": 0.33333,
+                                            "Chance": 0.1,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -246,7 +246,7 @@
                                         },
                                         {
                                             "ClassName": "Mag_SVD_10Rnd",
-                                            "Chance": 0.33333,
+                                            "Chance": 0.1,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
