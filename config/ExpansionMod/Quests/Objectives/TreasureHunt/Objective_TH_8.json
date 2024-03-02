@@ -17,7 +17,7 @@
             9275.21
         ]
     ],
-    "LootItemsAmount": 40,
+    "LootItemsAmount": 10,
     "MaxDistance": 50.0,
     "Loot": [
         {
@@ -26,7 +26,7 @@
             "Attachments": [],
             "QuantityPercent": 100,
             "Max": 4,
-            "Min": 4,
+            "Min": 0,
             "Variants": []
         }
     ]
