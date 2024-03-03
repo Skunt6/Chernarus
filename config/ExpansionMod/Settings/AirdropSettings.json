@@ -9525,11 +9525,8 @@
             "Usage": 0,
             "Weight": 5.0,
             "Infected": [
-                "dbo_idrex",
-                "dbo_trex",
-                "dbo_tricero",
-                "dbo_raptor",
-                "dbo_raptorB",
+                "eAI_Base|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe",
+                "eAI_Base|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe",
                 "eAI_Base|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe"
             ],
             "ItemCount": 10,
@@ -9736,15 +9733,6 @@
                 },
                 {
                     "Name": "WolfSteakMeat",
-                    "Chance": 1.0,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "RaptorSteakMeat",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,

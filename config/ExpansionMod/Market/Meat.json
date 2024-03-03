@@ -7,17 +7,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "RaptorSteakMeat",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": 100,
-            "MaxStockThreshold": 0,
-            "MinStockThreshold": 0,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "bearsteakmeat",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
