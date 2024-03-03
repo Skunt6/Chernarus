@@ -2,14 +2,6 @@
     "Triggers":
 	[
 		{ 	
-			"Position": [ 8684.6, 165.425, 13664.6],
-			"Orientation": [ 0, 0, 0 ],
-			"Size": [ 15, 5.6, 10.8 ],
-			"EyeAccommodation": 0,
-			"Breadcrumbs": [],
-			"InterpolationSpeed": 1
-		},
-		{ 	
 			"Position": [ 8683.14, 165.425, 13662.8 ],
 			"Orientation": [ 0, 0, 0 ],
 			"Size": [ 15, 5.6, 10.8 ],
