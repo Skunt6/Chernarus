@@ -17,15 +17,15 @@
             9275.21
         ]
     ],
-    "LootItemsAmount": 40,
-    "MaxDistance": 10.0,
+    "LootItemsAmount": 10,
+    "MaxDistance": 50.0,
     "Loot": [
         {
             "Name": "ItemGoldIngot",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": 100,
-            "Max": 1,
+            "Max": 4,
             "Min": 0,
             "Variants": []
         }

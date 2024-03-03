@@ -111,8 +111,8 @@
                 },
                 {
                     "ClassName": "SN_Glock19",
-                    "MaxPriceThreshold": 5000,
-                    "MinPriceThreshold": 5000,
+                    "MaxPriceThreshold": 500,
+                    "MinPriceThreshold": 500,
                     "SellPricePercent": -1,
                     "MaxStockThreshold": 0,
                     "MinStockThreshold": 0,

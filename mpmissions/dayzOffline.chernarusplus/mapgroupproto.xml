@@ -431,7 +431,7 @@
 						<point pos="-0.868164 0.012756 -3.136535" range="0.938232" height="2.000000" />
 						<point pos="-5.419433 0.012756 2.763063" range="1.190776" height="2.000000" />
 				</container>
-				<dispatch dechance="0.100000">
+				<dispatch dechance="0.01000">
 						<proxy type="GCGN_M200" pos="2.166992 0.012756 3.037353" rpy="90.000000 90.000000 0.000000" dechance="0.25" />
 						<proxy type="SNAFUAlligator" pos="6.482910 0.012756 -0.18048" rpy="90.000000 90.000000 0.000000" dechance="0.25" />
 						<proxy type="SNAFUAX50_GUN" pos="2.447632 0.012756 -0.02749" rpy="90.000000 0.000000 0.000000" dechance="0.25" />
