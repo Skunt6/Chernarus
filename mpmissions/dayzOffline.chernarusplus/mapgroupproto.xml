@@ -50,6 +50,7 @@
 		<group name="Land_Underground_Floor_Comms" lootmax="10">
 				<usage name="Military" />
 				<value name="Tier4" />
+				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
@@ -81,6 +82,7 @@
 		<group name="Land_Underground_Floor_Crew" lootmax="10">
 				<usage name="Military" />
 				<value name="Tier4" />
+				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
@@ -126,6 +128,7 @@
 				<usage name="Military" />
 				<usage name="Police" />
 				<value name="Tier4" />
+				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
@@ -267,6 +270,7 @@
 		<group name="Land_Underground_Storage_Ammo2" lootmax="20">
 				<usage name="Military" />
 				<value name="Tier4" />
+				<usage name="Underground" />
 				<container name="lootWeapons" lootmax="10">
 						<category name="weapons" />
 						<category name="explosives" />
@@ -327,6 +331,7 @@
 				<usage name="Underground" />
 				<usage name="Medic" />
 				<value name="Tier4" />
+				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="clothes" />

@@ -14946,7 +14946,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="GCGN_M4A1">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -15270,10 +15270,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="SCAR_Gun">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15711,7 +15711,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_AK19">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -15720,8 +15720,7 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="Underground"/>
     </type>
     <type name="SNAFU_AK19Muzzel">
         <nominal>0</nominal>
@@ -15945,7 +15944,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_AKTrijicon">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -15954,8 +15953,7 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="Underground"/>
     </type>
     <type name="SNAFU_AKWalther">
         <nominal>0</nominal>
@@ -15984,7 +15982,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="SNAFU_Ammo_127x55mmAP">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -15993,11 +15991,10 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="Underground"/>
     </type>
     <type name="SNAFU_Ammo_145Cal">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
@@ -16006,8 +16003,7 @@
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <usage name="Underground"/>
     </type>
     <type name="SNAFU_Ammo_300ACC">
         <nominal>0</nominal>
