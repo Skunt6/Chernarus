@@ -1748,6 +1748,7 @@
     <event name="AnimalSheep" />
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
+	<event name="AnimalTiger" />
 	<event name="AnimalWildDog" />
     <event name="AnimalWildBoar" />
 </eventposdef>
