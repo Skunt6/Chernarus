@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <prototype>
 		<group name="Land_Underground_Storage_Barracks" lootmax="20">
-				<value name="Tier4" />
-				<usage name="Military" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
@@ -48,8 +46,6 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Floor_Comms" lootmax="10">
-				<usage name="Military" />
-				<value name="Tier4" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
@@ -80,8 +76,6 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Floor_Crew" lootmax="10">
-				<usage name="Military" />
-				<value name="Tier4" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
@@ -125,9 +119,6 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Entrance" lootmax="10">
-				<usage name="Military" />
-				<usage name="Police" />
-				<value name="Tier4" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
@@ -147,10 +138,7 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Storage_Workshop" lootmax="10">
-				<usage name="Military" />
-				<usage name="Industrial" />
 				<usage name="Underground" />
-				<value name="Tier4" />
 				<container name="lootTools" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
@@ -183,8 +171,6 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Storage_POX" lootmax="10">
-				<value name="Tier4" />
-				<usage name="Military" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
@@ -213,8 +199,6 @@
 				</dispatch>
 		</group>
 		<group name="Land_Underground_Storage_Ammo" lootmax="10">
-				<value name="Tier4" />
-				<usage name="Military" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
@@ -268,8 +252,6 @@
 				</dispatch>
 		</group>
 		<group name="Land_Underground_Storage_Ammo2" lootmax="20">
-				<usage name="Military" />
-				<value name="Tier4" />
 				<usage name="Underground" />
 				<container name="lootWeapons" lootmax="10">
 						<category name="weapons" />
@@ -327,10 +309,6 @@
 				</dispatch>
 		</group>
 		<group name="Land_Underground_Storage_Hospital" lootmax="10">
-				<usage name="Military" />
-				<usage name="Underground" />
-				<usage name="Medic" />
-				<value name="Tier4" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
@@ -358,10 +336,7 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Storage_Laboratory" lootmax="10">
-				<usage name="Military" />
 				<usage name="Underground" />
-				<usage name="Medic" />
-				<value name="Tier4" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="clothes" />
@@ -387,7 +362,7 @@
 				</dispatch>
 		</group>
 		<group name="Land_Underground_WaterMaintenance" lootmax="10">
-				<usage name="Industrial" />
+				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
@@ -413,9 +388,7 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Storage_Prison" lootmax="10">
-				<usage name="Military" />
 				<usage name="Underground" />
-				<value name="Tier4" />
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
@@ -451,9 +424,7 @@
 				</dispatch>
 		</group>
 		<group name="Land_Underground_Storage_POX2" lootmax="10">
-				<usage name="Military" />
 				<usage name="Underground" />
-				<value name="Tier4" />
 				<container name="lootWeapons" lootmax="10">
 						<category name="weapons" />
 						<category name="explosives" />
