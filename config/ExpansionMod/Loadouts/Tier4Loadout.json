@@ -184,7 +184,7 @@
                                 },
                                 {
                                     "ClassName": "Ammo_40mm_Chemgas",
-                                    "Chance": 0.5,
+                                    "Chance": 0.08,
                                     "Quantity": {
                                         "Min": 1.0,
                                         "Max": 2.0
