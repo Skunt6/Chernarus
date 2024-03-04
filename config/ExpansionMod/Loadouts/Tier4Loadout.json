@@ -183,7 +183,7 @@
                                     "Sets": []
                                 },
                                 {
-                                    "ClassName": "Grenade_ChemGas",
+                                    "ClassName": "Ammo_40mm_Chemgas",
                                     "Chance": 0.5,
                                     "Quantity": {
                                         "Min": 1.0,
