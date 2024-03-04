@@ -9526,11 +9526,15 @@
             "Weight": 5.0,
             "Infected": [
                 "eAI_Base|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe",
-                "eAI_Base|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe",
-                "eAI_Base|faction:Shamans,loadout:VanPeltLoadout,canbelooted:false,name:VanPelt Wannabe"
+                "Animal_DBO_Tiger_s",
+                "Animal_DBO_Tiger",
+                "Animal_DBO_Tiger_s",
+                "Animal_DBO_Tiger",
+                "Animal_DBO_Tiger_s",
+                "Animal_DBO_Tiger"
             ],
             "ItemCount": 10,
-            "InfectedCount": 9,
+            "InfectedCount": 7,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
                 {

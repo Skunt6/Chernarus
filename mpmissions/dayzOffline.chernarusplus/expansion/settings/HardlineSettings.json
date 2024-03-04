@@ -21,6 +21,8 @@
     "DefaultItemRarity": 2,
     "EntityReputation": {
         "Animal_GallusGallusDomesticus": 1,
+        "Animal_DBO_Tiger_s": 25,
+        "Animal_DBO_Tiger": 25,
         "eAIBase": 15,
         "AnimalBase": 5,
         "ZmbM_SoldierNormal_Base": 3,
