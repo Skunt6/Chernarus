@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <prototype>
-		<group name="Land_Underground_Storage_Barracks" lootmax="20">
+		<group name="Land_Underground_Storage_Barracks" lootmax="2">
+				<value name="Tier4" />
+				<usage name="Military" />
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="1">
 						<category name="containers" />
 						<category name="clothes" />
 						<tag name="floor" />
@@ -26,7 +28,7 @@
 						<point pos="-5.377931 1.215576 4.962768" range="0.478125" height="1.195313" />
 						<point pos="2.948608 1.215515 -5.370728" range="0.512500" height="1.281250" />
 				</container>
-				<container name="lootWeapons" lootmax="10">
+				<container name="lootWeapons" lootmax="1">
 						<category name="weapons" />
 						<point pos="-0.267823 0.408752 3.066895" range="0.134375" height="0.335938" />
 						<point pos="-1.465333 0.412659 3.611694" range="0.168750" height="0.421875" />
@@ -45,9 +47,9 @@
 						<point pos="4.162598 1.215271 5.252929" range="0.409375" height="1.023438" />
 				</container>
 		</group>
-		<group name="Land_Underground_Floor_Comms" lootmax="10">
+		<group name="Land_Underground_Floor_Comms" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="containers" />
 						<category name="clothes" />
 						<tag name="floor" />
@@ -75,9 +77,9 @@
 						<point pos="-2.186769 0.993164 -8.246400" range="0.443750" height="1.109375" flags="16" />
 				</container>
 		</group>
-		<group name="Land_Underground_Floor_Crew" lootmax="10">
+		<group name="Land_Underground_Floor_Crew" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -118,9 +120,9 @@
 						<point pos="4.656862 0.836304 9.314208" range="0.100000" height="0.250000" flags="16" />
 				</container>
 		</group>
-		<group name="Land_Underground_Entrance" lootmax="10">
+		<group name="Land_Underground_Entrance" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="tools" />
@@ -137,9 +139,9 @@
 						<point pos="1.768126 1.585022 -3.608747" range="0.232227" height="0.294983" />
 				</container>
 		</group>
-		<group name="Land_Underground_Storage_Workshop" lootmax="10">
+		<group name="Land_Underground_Storage_Workshop" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootTools" lootmax="10">
+				<container name="lootTools" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -170,9 +172,9 @@
 						<point pos="-7.276184 0.937866 -1.379150" range="0.650000" height="1.625000" />
 				</container>
 		</group>
-		<group name="Land_Underground_Storage_POX" lootmax="10">
+		<group name="Land_Underground_Storage_POX" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -198,9 +200,9 @@
 						<proxy type="Grenade_ChemGas" pos="4.863892 2.198035 1.143250" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
 				</dispatch>
 		</group>
-		<group name="Land_Underground_Storage_Ammo" lootmax="10">
+		<group name="Land_Underground_Storage_Ammo" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -251,9 +253,9 @@
 						<proxy type="Ammo_40mm_Explosive" 	pos="0.781372 0.082756 -0.982544" rpy="90.000000 140.000000 0.000000" dechance="0.166" />
 				</dispatch>
 		</group>
-		<group name="Land_Underground_Storage_Ammo2" lootmax="20">
+		<group name="Land_Underground_Storage_Ammo2" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootWeapons" lootmax="10">
+				<container name="lootWeapons" lootmax="1">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="5.923706 3.464539 -0.840759" range="0.134375" height="0.335938" />
@@ -308,9 +310,9 @@
 						<proxy type="AmmoBox_762x39Tracer_20Rnd" pos="-0.042846 1.220266 -1.40679" rpy="-90.000000 140.000000 0.000000" dechance="0.066" />
 				</dispatch>
 		</group>
-		<group name="Land_Underground_Storage_Hospital" lootmax="10">
+		<group name="Land_Underground_Storage_Hospital" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="clothes" />
 						<point pos="9.824950 0.859985 -3.071290" range="0.100000" height="0.250000" />
@@ -335,9 +337,9 @@
 						<point pos="-9.319457 1.023865 -2.179445" range="0.375000" height="0.937500" />
 				</container>
 		</group>
-		<group name="Land_Underground_Storage_Laboratory" lootmax="10">
+		<group name="Land_Underground_Storage_Laboratory" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="clothes" />
 						<point pos="-1.534424 0.849976 -0.304383" range="0.306250" height="0.765625" flags="16" />
@@ -361,9 +363,9 @@
 						<proxy type="Ammo_40mm_ChemGas" pos="-4.303712 0.907471 3.644958" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Underground_WaterMaintenance" lootmax="10">
+		<group name="Land_Underground_WaterMaintenance" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<tag name="floor" />
@@ -387,9 +389,9 @@
 						<point pos="-4.371338 1.583557 1.261109" range="0.203125" height="0.295013" />
 				</container>
 		</group>
-		<group name="Land_Underground_Storage_Prison" lootmax="10">
+		<group name="Land_Underground_Storage_Prison" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor" lootmax="2">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -423,9 +425,9 @@
 						<proxy type="MMG_mmps_bag_black" pos="-8.244873 0.012756 -0.5780" rpy="0.000000 0.000000 0.000000" dechance="0.2" />
 				</dispatch>
 		</group>
-		<group name="Land_Underground_Storage_POX2" lootmax="10">
+		<group name="Land_Underground_Storage_POX2" lootmax="2">
 				<usage name="Underground" />
-				<container name="lootWeapons" lootmax="10">
+				<container name="lootWeapons" lootmax="2">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="-4.917115 1.119415 -3.873595" range="0.168750" height="0.421875" flags="16" />
