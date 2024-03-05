@@ -233,7 +233,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8611.56, 135.553, 13544.5
+                    8611.56,
+                    135.553,
+                    13544.5
                 ]
             ]
         },
@@ -269,7 +271,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8608.27, 135.473, 13537.1
+                    8608.27,
+                    135.473,
+                    13537.1
                 ]
             ]
         },
@@ -305,7 +309,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8607.17, 135.473, 13546.2
+                    8607.17,
+                    135.473,
+                    13546.2
                 ]
             ]
         },
@@ -341,7 +347,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8603.65, 135.473, 13539.6
+                    8603.65,
+                    135.473,
+                    13539.6
                 ]
             ]
         },
@@ -377,7 +385,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8602.63, 135.574, 13548.8
+                    8602.63,
+                    135.574,
+                    13548.8
                 ]
             ]
         },
@@ -413,7 +423,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8599.06, 135.473, 13541.6
+                    8599.06,
+                    135.473,
+                    13541.6
                 ]
             ]
         },
@@ -1239,7 +1251,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -7409,7 +7421,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -7517,7 +7529,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -7625,7 +7637,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -7905,7 +7917,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -11801,7 +11813,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -12395,7 +12407,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -12438,7 +12450,7 @@
             "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -12486,7 +12498,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -12534,7 +12546,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
@@ -12577,7 +12589,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
-            "LoadoutFile": "Tier3Loadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
