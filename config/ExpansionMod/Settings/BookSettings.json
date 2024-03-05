@@ -158,13 +158,13 @@
                     "DescriptionText": "AI officers have a 3x chance to spawn loot."
                 },
                 {
-                    "DescriptionText": "Van Pelt has 4x chance to spawn loot."
+                    "DescriptionText": "Van Pelt has 4x chance to spawn loot, and keycards."
                 },
                 {
-                    "DescriptionText": "NBC AI have 10x chance to spawn Snafu loot."
+                    "DescriptionText": "NBC AI have 10x chance to spawn Snafu loot, and keycards."
                 },
                 {
-                    "DescriptionText": "Colonel's have a 6x chance of spawning loot."
+                    "DescriptionText": "Colonel's have a 6x chance of spawning loot, and keycards."
                 },
                 {
                     "DescriptionText": "Rage, Tri Krestas Boss has 20x Snafu loot chance."

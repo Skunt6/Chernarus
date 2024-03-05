@@ -219,7 +219,7 @@
     "InventoryCargo": [
         {
             "ClassName": "evg_keycards_Green",
-            "Chance": 0.2,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -238,7 +238,7 @@
         },
         {
             "ClassName": "evg_keycards_Tisy05",
-            "Chance": 0.2,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -257,7 +257,7 @@
         },
         {
             "ClassName": "evg_keycards_NWAF01",
-            "Chance": 0.2,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -276,7 +276,7 @@
         },
         {
             "ClassName": "evg_keycards_Red",
-            "Chance": 0.2,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -295,7 +295,7 @@
         },
         {
             "ClassName": "evg_keycards_ALL",
-            "Chance": 0.1,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
