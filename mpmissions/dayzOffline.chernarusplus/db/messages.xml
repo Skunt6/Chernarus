@@ -59,6 +59,11 @@ Example messages:
     <message>
         <delay>3</delay>
         <onconnect>1</onconnect>
+        <text>Boss AI wears Red armband</text>
+    </message>
+    <message>
+        <delay>3</delay>
+        <onconnect>1</onconnect>
         <text>Friendly AI wears Green armband</text>
     </message>
     
