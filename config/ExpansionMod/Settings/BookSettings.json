@@ -146,16 +146,25 @@
                     "DescriptionText": "There is AI in almost every town, village, Military, and city. Also wooded areas and fields to."
                 },
                 {
+                    "DescriptionText": "Accuracies are: tier1: (0.25, 0.75) tier2: (0.30, 0.80) tier3: (0.35, 0.85) tier4: (0.40, 0.90)"
+                },
+                {
+                    "DescriptionText": "Tier 1 and 2 AI are base loot, Tier 3 is 2x snafu and mmg, Tier 4 is 3x snafu, mmg, and base building stuff."
+                },
+                {
                     "DescriptionText": "AI officers have a 3x chance to spawn loot."
                 },
                 {
                     "DescriptionText": "Van Pelt has 4x chance to spawn loot."
                 },
                 {
-                    "DescriptionText": "NBC AI have 10x chance to spawn Snafu loot Colonel's have a 3x chance of spawning Snafu loot."
+                    "DescriptionText": "NBC AI have 10x chance to spawn Snafu loot."
                 },
                 {
                     "DescriptionText": "Colonel's have a 6x chance of spawning loot."
+                },
+                {
+                    "DescriptionText": "Rage, Tri Krestas Boss has 20x Snafu loot chance."
                 },
                 {
                     "DescriptionText": "Zombies have a chance to spawn Herbals and ore items."
