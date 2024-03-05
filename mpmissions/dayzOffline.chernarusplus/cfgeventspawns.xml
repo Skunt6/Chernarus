@@ -1751,4 +1751,5 @@
 	<event name="AnimalTiger" />
 	<event name="AnimalWildDog" />
     <event name="AnimalWildBoar" />
+	<event name="ItemOreSpawn" />
 </eventposdef>
