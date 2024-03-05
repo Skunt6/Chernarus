@@ -140,6 +140,9 @@
                     "DescriptionText": "Friendly AI will always wear a Green armband"
                 },
                 {
+                    "DescriptionText": "Boss AI will always wear a Red armband"
+                },
+                {
                     "DescriptionText": "AI's accuracy, and loadout scale with the tiers."
                 },
                 {
