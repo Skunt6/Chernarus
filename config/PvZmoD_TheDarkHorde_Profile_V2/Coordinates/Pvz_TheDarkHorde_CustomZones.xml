@@ -3,7 +3,7 @@
 <types>		
 	<!-- Comment or uncomment (ctrl+Q) the lines that correspond to the map you use or not -->
 	
-	<type Zone_To_Use = "Random">	 <!-- Zone Name to use, if not found in the list a random one will be chosen -->
+	<type Zone_To_Use = "Cliffs">	 <!-- Zone Name to use, if not found in the list a random one will be chosen -->
 				<!-- Chernarus -->
         <Zone_Data		Name = "Electro"		Coord_TopLeft_Corner = "9270/2570"		Coord_LowRight_Corner = "10950/1760"/>
         <Zone_Data		Name = "Cherno"			Coord_TopLeft_Corner = "5220/3600"		Coord_LowRight_Corner = "8190/2160"/>
@@ -12,7 +12,7 @@
         <Zone_Data		Name = "Nagornoe"			Coord_TopLeft_Corner = "8860/14498"		Coord_LowRight_Corner = "9493/14822"/>
         <Zone_Data		Name = "Novod"			Coord_TopLeft_Corner = "10410/14870"	Coord_LowRight_Corner = "12590/14060"/>
         <Zone_Data		Name = "Svetlo"			Coord_TopLeft_Corner = "13650/13520"	Coord_LowRight_Corner = "14220/12940"/>
-        <Zone_Data		Name = "Berez"			Coord_TopLeft_Corner = "11650/10430"	Coord_LowRight_Corner = "13230/8840"/>
+        <Zone_Data		Name = "Cliffs"			Coord_TopLeft_Corner = "15152/13679"	Coord_LowRight_Corner = "14655/13641"/>
 		
 				<!-- Livonia -->
         <!-- <Zone_Data		Name = "Topolin"				Coord_TopLeft_Corner = "900/8190"		Coord_LowRight_Corner = "2240/6790"/> -->

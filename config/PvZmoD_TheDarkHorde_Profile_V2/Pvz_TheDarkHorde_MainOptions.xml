@@ -3,7 +3,7 @@
 <types>	
 	<type name="Horde_Main_Options">
         <Number_Of_Zombies		Day="20" 	Night="15"/> 	<!-- [Integer 0 to infinite] -->
-		<Horde_Movement_Type	Day="0" 	Night="6"/>		<!-- [Integer 0 to 6] More details in help file -->
+		<Horde_Movement_Type	Day="1" 	Night="1 "/>		<!-- [Integer 0 to 6] More details in help file -->
 		<!--  Movement Types list : -->
 		<!-- -1: 		Horde Disable  -->
 		<!--  0:		Spawn at random position then random movements -->
@@ -37,7 +37,7 @@
 	</type>	
 	
 	<type name="Horde_Other_Options">
-        <Time_Before_The_Horde_Respawn_After_Been_Defeated		Mini="300"	Maxi="600"/> 	<!-- [Integer 0 to infinite] (seconds) Need restart server to apply this timer modification -->
+        <Time_Before_The_Horde_Respawn_After_Been_Defeated		Mini="6000"	Maxi="6000"/> 	<!-- [Integer 0 to infinite] (seconds) Need restart server to apply this timer modification -->
         <Persistant_Position_When_Server_Restart				Value="1"/>					<!-- [Integer 0 or 1] -->		
 		<Security_Distance_To_Avoid_Horde_Spawning_On_Players	Value="500"/>	<!-- [Integer 0 to infinite] (meters) -->
 		<Activate_Bandit_And_Heroes_mod_Rewards					Value="0"/>		<!-- [Integer 0 or 1] -->
