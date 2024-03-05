@@ -1023,9 +1023,9 @@
             "Usage": 0,
             "Weight": 5.0,
             "Infected": [
-                "eAI_SurvivorM_Mirek|faction:Mercenaries,loadout:Tier4Loadout,canbelooted:true,name:Private",
-                "eAI_SurvivorM_Cyril|faction:Mercenaries,loadout:Tier4Loadout,canbelooted:true,name:Private",
-                "eAI_SurvivorM_Peter|faction:Mercenaries,loadout:Tier4Loadout,canbelooted:true,name:Private"
+                "eAI_SurvivorM_Mirek|faction:Mercenaries,loadout:Tier3Loadout,canbelooted:true,name:Private",
+                "eAI_SurvivorM_Cyril|faction:Mercenaries,loadout:Tier3Loadout,canbelooted:true,name:Private",
+                "eAI_SurvivorM_Peter|faction:Mercenaries,loadout:Tier3Loadout,canbelooted:true,name:Private"
             ],
             "ItemCount": 1,
             "InfectedCount": 3,
@@ -4981,9 +4981,9 @@
             "Usage": 0,
             "Weight": 5.0,
             "Infected": [
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:Tier4Loadout,canbelooted:true,name:Private",
-                "eAI_SurvivorF_Eva|faction:Shamans,loadout:Tier4Loadout,canbelooted:true,name:Private",
-                "eAI_SurvivorF_Gabi|faction:Shamans,loadout:Tier4Loadout,canbelooted:true,name:Private"
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:Tier3Loadout,canbelooted:true,name:Private",
+                "eAI_SurvivorF_Eva|faction:Shamans,loadout:Tier3Loadout,canbelooted:true,name:Private",
+                "eAI_SurvivorF_Gabi|faction:Shamans,loadout:Tier3Loadout,canbelooted:true,name:Private"
             ],
             "ItemCount": 1,
             "InfectedCount": 3,
@@ -9281,7 +9281,7 @@
             "Usage": 0,
             "Weight": 5.0,
             "Infected": [
-                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,canbelooted:true,name:Reaper",
+                "eAI_SurvivorM_Mirek|faction:Shamans,loadout:Tier2Loadout,canbelooted:true,name:Reaper",
                 "ZmbM_HermitSkinny_Beige",
                 "ZmbM_HermitSkinny_Black",
                 "ZmbM_HermitSkinny_Green",

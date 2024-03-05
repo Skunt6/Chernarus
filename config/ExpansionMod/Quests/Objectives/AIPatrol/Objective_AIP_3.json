@@ -37,7 +37,7 @@
         ],
         "Behaviour": 0,
         "Formation": "RANDOM",
-        "Loadout": "BanditLoadout",
+        "Loadout": "Tier2Loadout",
         "Faction": "Mercenaries",
         "Speed": 1.0,
         "ThreatSpeed": 3.0,
