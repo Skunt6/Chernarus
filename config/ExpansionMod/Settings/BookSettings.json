@@ -178,20 +178,6 @@
             ]
         },
         {
-            "CategoryName": "Ore and Gems",
-            "Descriptions": [
-                {
-                    "DescriptionText": "Furnacekit + Screwdriver = Furnace"
-                },
-                {
-                    "DescriptionText": "4 Nuggets = Ingot"
-                },
-                {
-                    "DescriptionText": "Hold 4 nugget and aim at the furnace."
-                }
-            ]
-        },
-        {
             "CategoryName": "Base Building info",
             "Descriptions": [
                 {
@@ -227,17 +213,20 @@
                 },
                 {
                     "DescriptionText": "Cards also spawn on highlevel AI officers"
+                },
+                {
+                    "DescriptionText": "Colored or named cards spawn on day master. All access card spawns on night master with other cards."
                 }
             ]
         },
         {
-            "CategoryName": "Dinos",
+            "CategoryName": "Tigers",
             "Descriptions": [
                 {
-                    "DescriptionText": "They spawn in bear spawns and chicken spawns."
+                    "DescriptionText": "At Bear spawns."
                 },
                 {
-                    "DescriptionText": "Van Pelt spawns near them beware he's crazy."
+                    "DescriptionText": "Van Pelt spawns near them."
                 }
             ]
         },
