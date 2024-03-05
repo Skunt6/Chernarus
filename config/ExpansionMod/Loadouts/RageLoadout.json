@@ -1069,7 +1069,7 @@
             "SlotName": "MASK",
             "Items": [
                 {
-                    "ClassName": "MMG_balaclava_admin",
+                    "ClassName": "MMG_facemask_joker",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
