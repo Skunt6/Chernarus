@@ -611,7 +611,7 @@
 <!--Loot chest end-->
 <!--keycards start-->
     <type name="evg_keycards_NWAF01">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -724,7 +724,7 @@
         <tag name="shelves"/>
     </type>
     <type name="evg_keycards_Tisy05">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -791,7 +791,7 @@
         <tag name="shelves"/>
     </type>
     <type name="evg_keycards_All">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>1000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -834,7 +834,7 @@
         <value name="Unique"/>
     </type>
     <type name="evg_keycards_Blue">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -920,7 +920,7 @@
         <value name="Unique"/>
     </type>
     <type name="evg_keycards_Red">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
