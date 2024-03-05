@@ -7696,7 +7696,7 @@
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.02,
+            "DamageReceivedMultiplier": 0.04,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.200000047683716,
