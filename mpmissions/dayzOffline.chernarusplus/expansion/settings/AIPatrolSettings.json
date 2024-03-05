@@ -7681,7 +7681,9 @@
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "LoadoutFile": "RageLoadout",
-            "Units": [],
+            "Units": [
+                "eAI_SurvivorF_Peter"
+            ],
             "NumberOfAI": 1,
             "Behaviour": "ALTERNATE",
             "Speed": "SPRINT",
