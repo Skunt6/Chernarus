@@ -7676,6 +7676,60 @@
             ]
         },
         {
+            "Name": "Tri Kresta Boss",
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 50.0,
+            "LoadoutFile": "RageLoadout",
+            "Units": [],
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "SPRINT",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 0.01,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": 3600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    254.869, 299.872, 9326.2
+                ],
+                [
+                    240.351, 304.308, 9376.46
+                ],
+                [
+                    291.866, 299.793, 9447.84
+                ],
+                [
+                    372.95, 294.441, 9437.17
+                ],
+                [
+                    419.101, 284.83, 9385.71
+                ],
+                [
+                    381.432, 279.177, 9272.3
+                ],
+                [
+                    285.066, 291.797, 9216.18
+                ]
+            ]
+        },
+        {
             "Name": "Skalisty Castle",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
