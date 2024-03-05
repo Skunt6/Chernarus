@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "rgd5grenade",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "m67grenade",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "flashgrenade",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -125,9 +125,9 @@
         },
         {
             "ClassName": "expansionsupplysignal",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 100000,
-            "SellPricePercent": 50,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
