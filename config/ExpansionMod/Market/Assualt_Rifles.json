@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "fal",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -81,8 +81,8 @@
         },
         {
             "ClassName": "m4a1",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -100,8 +100,8 @@
         },
         {
             "ClassName": "m14",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -166,8 +166,8 @@
         },
         {
             "ClassName": "expansion_m16",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
