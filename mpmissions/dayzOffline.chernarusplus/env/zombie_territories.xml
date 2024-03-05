@@ -247,12 +247,12 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3696" z="8262" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7422" z="9105" r="80"/>
 
-        <!--Castle
+        <!--Castle-->
 
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="6907.5" z="11415" r="90"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7233.75" z="11332.5" r="80"/>
         
-        -->
+        
 
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7848.75" z="11553.8" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="6566.25" z="5595" r="80"/>
