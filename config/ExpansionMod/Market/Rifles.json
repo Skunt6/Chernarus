@@ -67,8 +67,8 @@
         },
         {
             "ClassName": "cz550",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 4000,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
@@ -80,8 +80,8 @@
         },
         {
             "ClassName": "winchester70",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 4000,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,
@@ -104,8 +104,8 @@
         },
         {
             "ClassName": "sks",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 0,

@@ -4224,7 +4224,7 @@
     <usage name="ContaminatedArea"/>
     <value name="Tier4"/>
   </type>
-<!--Jug Armoue End-->
+<!--Jug Armour End-->
 <!--Ford Raptor start-->
     <type name="FordRaptor_Scorpio">
 		<nominal>0</nominal>
