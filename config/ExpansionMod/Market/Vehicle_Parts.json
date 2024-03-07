@@ -26,6 +26,17 @@
             ]
         },
         {
+            "ClassName": "Techs_ATV_Wheel",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "FordRaptor_Scorpio_doors_driver",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
