@@ -387,7 +387,7 @@
         <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
-        <saferadius>200</saferadius>
+        <saferadius>400</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>0</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
@@ -1054,7 +1054,7 @@
         <active>1</active>
         <children>
             <child lootmax="8" lootmin="4" max="4" min="2" type="StaticObj_Misc_SupplyBox1_DE"/>
-            <child lootmax="8" lootmin="4" max="4" min="2" type="StaticObj_Misc_SupplyBox2_DE"/>
+            <child lootmax="5" lootmin="1" max="4" min="2" type="StaticObj_Misc_SupplyBox2_DE"/>
             <child lootmax="8" lootmin="4" max="4" min="2" type="StaticObj_Misc_SupplyBox3_DE"/>
         </children>
     </event>
@@ -1107,7 +1107,7 @@
         <limit>parent</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="4" min="2" type="ContaminatedArea_Dynamic"/>
+            <child lootmax="2" lootmin="0" max="4" min="2" type="ContaminatedArea_Dynamic"/>
         </children>
     </event>
     <event name="StaticFridgeTest">
@@ -1140,8 +1140,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_Mi8_Crashed"/>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
+            <child lootmax="5" lootmin="1" max="3" min="1" type="Wreck_Mi8_Crashed"/>
+            <child lootmax="5" lootmin="1" max="3" min="1" type="Wreck_UH1Y"/>
         </children>
     </event>
     <event name="StaticMilitaryConvoy">

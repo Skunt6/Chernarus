@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <prototype>
 		<group name="Land_Underground_Storage_Barracks" lootmax="2">
-				<value name="Tier4" />
-				<usage name="Military" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="1">
 						<category name="containers" />
@@ -13255,9 +13253,10 @@
 						<point pos="-3.165771 -16.946526 6.819825" range="1.038574" height="1.508690" />
 				</container>
 		</group>
-		<group name="Wreck_UH1Y" lootmax="15">
+		<group name="Wreck_UH1Y" lootmax="5">
+				<usage name="Underground" />
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
+				<container name="lootFloor" lootmax="5">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13335,9 +13334,10 @@
 						<point pos="2.554070 -1.697937 4.891639" range="0.925143" height="1.900002" />
 				</container>
 		</group>
-		<group name="Wreck_Mi8_Crashed" lootmax="15">
+		<group name="Wreck_Mi8_Crashed" lootmax="5">
+				<usage name="Underground" />
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
+				<container name="lootFloor" lootmax="5">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17241,9 +17241,9 @@
 						<point pos="-3.594726 0.734655 0.395999" range="0.684375" height="1.710938" />
 				</container>
 		</group>
-				<group name="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" lootmax="15">
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
+				<group name="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" lootmax="5">
+				<usage name="Underground" />
+				<container name="lootFloor" lootmax="5">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -18685,10 +18685,13 @@
 						<point pos="0.345056 0.561157 0.339634" range="0.369713" height="0.937500" />
 				</container>
 		</group>
-		<group name="StaticObj_Misc_SupplyBox2_DE" lootmax="8">
+		<group name="StaticObj_Misc_SupplyBox2_DE" lootmax="5">
 				<usage name="Military" />
+				<usage name="Underground" />
 				<container name="lootFloor">
 						<category name="weapons" />
+						<category name="clothes" />
+						<category name="containers" />
 						<tag name="floor" />
 						<tag name="ground" />
 						<point pos="0.002854 0.438721 0.542980" range="0.134375" height="0.335938" />
