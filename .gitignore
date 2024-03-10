@@ -64,6 +64,7 @@ config/BattlEye/
 config/EventManagerLog/
 config/Users/
 config/CommunityOnlineTools/Logs/
+config/PermissionsFramework/Players/
 config/ExpansionMod/AI/
 config/ExpansionMod/Groups/
 config/ExpansionMod/Hardline/
@@ -74,3 +75,4 @@ mpmissions/dayzOffline.enoch/
 config/ExpansionMod/Quests/PlayerData/
 config/ExpansionMod/Quests/GroupData/
 config/ExpansionMod/ATM/
+mpmissions/dayzOffline.chernarusplus/expansion/traderzones/
