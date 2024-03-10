@@ -24643,7 +24643,7 @@
 <!-- VEHICLE COVERS END -->
 <!-- Vanilla OBJECTS -->
     <type name="ExpansionDebugGoat">
-        <lifetime>600000</lifetime>
+
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ACOGOptic">
@@ -25163,7 +25163,7 @@
     </type>
     <type name="AmmoBox">
         <nominal>10</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>6</min>
         <quantmin>-1</quantmin>
@@ -27381,7 +27381,7 @@
     </type>
     <type name="BarrelHoles_Blue">
         <nominal>0</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -27392,7 +27392,7 @@
     </type>
     <type name="BarrelHoles_Green">
         <nominal>0</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -27403,7 +27403,7 @@
     </type>
     <type name="BarrelHoles_Red">
         <nominal>0</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -27414,7 +27414,7 @@
     </type>
     <type name="BarrelHoles_Yellow">
         <nominal>0</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -27425,7 +27425,7 @@
     </type>
     <type name="Barrel_Blue">
         <nominal>5</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -27439,7 +27439,7 @@
     </type>
     <type name="Barrel_Green">
         <nominal>5</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -27453,7 +27453,7 @@
     </type>
     <type name="Barrel_Red">
         <nominal>5</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -27467,7 +27467,7 @@
     </type>
     <type name="Barrel_Yellow">
         <nominal>5</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -28945,7 +28945,7 @@
     </type>
     <type name="CarTent">
         <nominal>4</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -31439,7 +31439,7 @@
     </type>
     <type name="Fence">
         <nominal>0</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -35603,7 +35603,7 @@
     </type>
     <type name="LargeTent">
         <nominal>4</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37489,7 +37489,7 @@
     </type>
     <type name="MediumTent">
         <nominal>2</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37502,7 +37502,7 @@
     </type>
     <type name="MediumTent_Green">
         <nominal>2</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37515,7 +37515,7 @@
     </type>
     <type name="MediumTent_Orange">
         <nominal>2</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38993,7 +38993,7 @@
     </type>
     <type name="PartyTent">
         <nominal>2</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39005,7 +39005,7 @@
     </type>
     <type name="PartyTent_Blue">
         <nominal>2</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39017,7 +39017,7 @@
     </type>
     <type name="PartyTent_Brown">
         <nominal>2</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39029,7 +39029,7 @@
     </type>
     <type name="PartyTent_Lunapark">
         <nominal>2</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -40913,7 +40913,7 @@
     </type>
     <type name="SeaChest">
         <nominal>20</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -42012,7 +42012,7 @@
     </type>
     <type name="SmallProtectorCase">
         <nominal>70</nominal>
-        <lifetime>600000</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>50</min>
         <quantmin>-1</quantmin>
@@ -44152,7 +44152,7 @@
     </type>
     <type name="Watchtower">
         <nominal>0</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -44595,7 +44595,7 @@
     </type>
     <type name="WoodenCrate">
         <nominal>0</nominal>
-        <lifetime>600000</lifetime>
+
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
