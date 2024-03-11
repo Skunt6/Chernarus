@@ -124,9 +124,6 @@
             "Descriptions": [
                 {
                     "DescriptionText": "Click the Discord link in the book, or hit esc and you will see it in the menu. Please submit a ticket, and we will help as soon as we can."
-                },
-                {
-                    "DescriptionText": "Click the GitHub link for a more detailed look at the loot economy, and server workings."
                 }
             ]
         },
@@ -184,7 +181,7 @@
             "CategoryName": "Base Building info",
             "Descriptions": [
                 {
-                    "DescriptionText": "500m from military, big no no."
+                    "DescriptionText": "500m from military is allowed."
                 },
                 {
                     "DescriptionText": "Bases have a 7 day duration unless you raise the flag"
@@ -219,6 +216,9 @@
                 },
                 {
                     "DescriptionText": "Colored or named cards spawn on day master. All access card spawns on night master with other cards."
+                },
+                {
+                    "DescriptionText": "Keycards also spawn on Train events."
                 }
             ]
         },
@@ -237,7 +237,7 @@
             "CategoryName": "Base Building Plus",
             "Descriptions": [
                 {
-                    "DescriptionText": "You can craft a workbench with planks and blueprint."
+                    "DescriptionText": "2 large, 2 medium, 2 small tents, and 4 barrels per player."
                 }
             ]
         },
@@ -252,6 +252,9 @@
                 },
                 {
                     "DescriptionText": "Two Vehicals per player."
+                },
+                {
+                    "DescriptionText": "They dont take damage. Be careful flying close to the traders. It gets buggy."
                 }
             ]
         }
@@ -281,7 +284,8 @@
                 "fencekit",
                 "shelterkit",
                 "territoryflagkit",
-                "watchtowerkit"
+                "watchtowerkit",
+                "BBP_Workbench"
             ]
         },
         {

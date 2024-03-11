@@ -107,6 +107,19 @@
             ],
             "m_Locked": 0,
             "m_Persist": 1
+        },
+        {
+            "m_UID": "Masterzmb",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "The Master",
+            "m_IconName": "Skull 1",
+            "m_Color": -65281,
+            "m_Position": [
+                14942.3, 85.5641, 13657.5
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
         }
     ],
     "EnableHUDCompass": 1,
