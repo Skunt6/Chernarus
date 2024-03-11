@@ -2,15 +2,15 @@
     "ConfigVersion": 21,
     "ID": 24,
     "Type": 1,
-    "Title": "Daily: Line em up",
+    "Title": "Weekly: Stab em up",
     "Descriptions": [
-        "Survivors! The ancient titans loom large, a constant shadow over our fragile existence. We issue a bold decree: vanquish not a mere 25, not even 100, but a mind-boggling 5 of these colossal creatures that roam our lands! The drumbeat of danger grows ever louder, and in this trial by fire, your courage becomes our shield. Let this be the week where our resilience knows no bounds! Unite against these primordial giants, fortify our camp's defenses, and claim the rewards that await the brave! Arvandus Metalsmith calls upon you to defy the odds. Will you heed the call and emerge victorious?"
+        "Listen close, 'cause Rico's laying down the law. I'm not here to mince words. I'm here to set the record straight: 100 knife kills. That's right. 100. No guns, no fancy tricks. Just you, your blade, and the grit to get it done. You want rewards? You want respect? Then you gotta prove you're tough as nails. You gotta show me you got what it takes to survive in this dog-eat-dog world. Survivors, this ain't for the faint-hearted. This is for the ones who ain't afraid to get their hands dirty, who ain't afraid to stare death in the eye and laugh. So strap up, sharpen your blades, and get ready to hunt. Because in this world, it's kill or be killed. And only the strong will survive. Rico, out."
     ],
-    "ObjectiveText": "Kill 5 Dino's",
+    "ObjectiveText": "Get 100 Knife Kills!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 1,
-    "IsWeeklyQuest": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
-            "Amount": 10000,
+            "Amount": 20000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -32,14 +32,10 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        3,
-        8,
-        10
+        2
     ],
     "QuestTurnInIDs": [
-        3,
-        8,
-        10
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
@@ -63,5 +59,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }

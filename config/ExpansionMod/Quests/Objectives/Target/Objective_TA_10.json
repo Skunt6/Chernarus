@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 10,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 100 Dino's",
+    "ObjectiveText": "Get 100 Headshots!",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -14,16 +14,14 @@
     "MinDistance": -1.0,
     "Amount": 100,
     "ClassNames": [
-        "dbo_idrex",
-        "dbo_trex",
-        "dbo_tricero",
-        "dbo_raptor",
-        "dbo_raptorB"
+        "eAIBase"
     ],
     "CountSelfKill": 0,
     "AllowedWeapons": [],
     "ExcludedClassNames": [],
-    "CountAIPlayers": 0,
+    "CountAIPlayers": 1,
     "AllowedTargetFactions": [],
-    "AllowedDamageZones": []
+    "AllowedDamageZones": [
+        "Head"
+    ]
 }

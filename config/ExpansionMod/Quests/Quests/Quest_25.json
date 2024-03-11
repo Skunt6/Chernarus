@@ -2,11 +2,11 @@
     "ConfigVersion": 21,
     "ID": 25,
     "Type": 1,
-    "Title": "Weekly: Round em up",
+    "Title": "Weekly: Melon popper!",
     "Descriptions": [
-        "Survivors, The relentless presence of the dinosaurs persists, and we need your unwavering resolve. We've extended this weekly bounty, calling upon you to eliminate 25 of these colossal creatures that roam our land. Week after week, our struggle endures, and your dedication remains paramount. As a testament to our strength and unity, stand against these ancient giants, secure our camp's safety, and claim your rightful rewards. Arvandus Metalsmith"
+        "Listen up. It's Rico, the grittiest operator this side of the Delta. You want rewards? You want respect? Then listen close, 'cause I'm laying down the law. I ain't here to sweet-talk you. I'm here to give you a job: 50 headshots of those lowlife bandits. Yeah, you heard me right. 50. I want those scumbags taken out, clean and precise. Survivors, you know the drill. You want to prove you got what it takes? You want to earn your place in this world? Then show me. Show me you got the guts, the skill, and the stones to do what needs to be done. This ain't a game. This is survival. So get out there, hunt 'em down, and make every shot count. Bring me those bandit heads, and maybe, just maybe, you'll earn yourself a shred of respect in this godforsaken wasteland. Rico, out."
     ],
-    "ObjectiveText": "Kill 25 Dino's",
+    "ObjectiveText": "Get 50 headshots",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -32,14 +32,10 @@
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "QuestGiverIDs": [
-        3,
-        8,
-        10
+        2
     ],
     "QuestTurnInIDs": [
-        3,
-        8,
-        10
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
@@ -63,5 +59,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }
