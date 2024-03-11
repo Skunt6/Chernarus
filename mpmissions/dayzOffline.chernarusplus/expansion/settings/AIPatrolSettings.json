@@ -42,7 +42,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "Land_Train_Wagon_Box"
+            "ClassName": "StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE"
         },
         {
             "Name": "heli crash uh1y",

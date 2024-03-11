@@ -17290,14 +17290,9 @@
 					<proxy type="PileOfWoodenPlanks" pos="3.30 0.8 0.35" rpy="0.0 90.0 0.0" dechance="1.3" />
 				</dispatch>
 		</group>
-		<group name="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE" lootmax="15">
-				<usage name="Industrial" />
-				<usage name="Town" />
-				<usage name="Village" />
-				<container name="loot" lootmax="15">
-					<category name="tools" />
-					<category name="clothes" />
-					<category name="weapons" />
+		<group name="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE" lootmax="1">
+				<usage name="Keycards" />
+				<container name="loot" lootmax="1">
 					<point pos="-1.493165 0.738111 -0.807127" range="0.340625" height="0.851563" />
 					<point pos="0.768067 0.736933 0.346679" range="0.753125" height="1.882813" />
 					<point pos="3.724854 0.739101 0.000729" range="1.096875" height="2.000000" />
@@ -17310,7 +17305,7 @@
 					<point pos="-0.871338 0.736065 0.371094" range="0.718750" height="1.796875" />
 					<point pos="-3.594726 0.734655 0.395999" range="0.684375" height="1.710938" />
 				</container>
-				<dispatch dechance="1.0">
+				<dispatch dechance="0.1">
 					<proxy type="Barrel_Blue" pos="4.91 0.7 -0.47" rpy="0.0 0.0 0.0" dechance="0.15" />	
 					<proxy type="Barrel_Red" pos="5.21 0.7 0.50" rpy="0.0 0.0 0.0" dechance="0.15" />
 					<proxy type="Barrel_Yellow" pos="3.40 0.7 -0.75" rpy="0.0 0.0 0.0" dechance="0.15" />						
