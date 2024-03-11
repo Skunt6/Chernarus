@@ -44,6 +44,8 @@
 		<usage name="DayzOresandGems_Sulfur" />
 		<usage name="DayzOresandGems_Iron" />
         <usage name="Underground"/>
+        <usage name="Keycards"/>
+
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

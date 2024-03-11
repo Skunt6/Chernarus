@@ -6144,16 +6144,8 @@
 						<point pos="-0.570801 -0.665321 -1.100830" range="0.319092" height="0.797729" />
 				</container>
 		</group>
-		<group name="Land_Train_Wagon_Box" lootmax="4">
-				<usage name="Industrial" />
-				<usage name="Village" />
-				<container name="lootFloor">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="weapons" />
-						<category name="books" />
-						<category name="explosives" />
+		<group name="Land_Train_Wagon_Box" lootmax="1">
+				<usage name="Keycards" />
 						<point pos="1.819336 -0.538246 -0.031006" range="1.010986" height="2.000000" />
 						<point pos="4.255126 -0.538216 0.003174" range="1.029785" height="2.000000" />
 						<point pos="-4.144531 -0.538322 -0.010254" range="1.031738" height="2.000000" />
