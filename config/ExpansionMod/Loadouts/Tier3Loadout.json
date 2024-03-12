@@ -448,7 +448,83 @@
         }
     ],
     "InventoryCargo": [
-        {
+    {
+        "ClassName": "Pen_Black",
+        "Chance": 0.25,
+        "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+        },
+        "Health": [
+            {
+                "Min": 0.699999988079071,
+                "Max": 1.0,
+                "Zone": ""
+            }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+    },
+    {
+        "ClassName": "Pen_Blue",
+        "Chance": 0.25,
+        "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+        },
+        "Health": [
+            {
+                "Min": 0.699999988079071,
+                "Max": 1.0,
+                "Zone": ""
+            }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+    },
+    {
+        "ClassName": "Pen_Green",
+        "Chance": 0.25,
+        "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+        },
+        "Health": [
+            {
+                "Min": 0.699999988079071,
+                "Max": 1.0,
+                "Zone": ""
+            }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+    },
+    {
+        "ClassName": "Pen_Red",
+        "Chance": 0.25,
+        "Quantity": {
+            "Min": 0.0,
+            "Max": 0.0
+        },
+        "Health": [
+            {
+                "Min": 0.699999988079071,
+                "Max": 1.0,
+                "Zone": ""
+            }
+        ],
+        "InventoryAttachments": [],
+        "InventoryCargo": [],
+        "ConstructionPartsBuilt": [],
+        "Sets": []
+    },
+    {
             "ClassName": "BBP_TapeMeasure",
             "Chance": 0.025,
             "Quantity": {
