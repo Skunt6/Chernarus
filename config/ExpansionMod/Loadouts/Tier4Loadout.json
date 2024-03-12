@@ -6862,7 +6862,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_3006",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -6881,7 +6881,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_408Chey",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -6900,7 +6900,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_50Cal",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -6919,7 +6919,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_762x51",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -6938,7 +6938,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mm",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -6957,7 +6957,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mmAP",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -6976,7 +6976,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_145Cal",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -6995,7 +6995,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_300ACC",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7014,7 +7014,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_338",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7033,7 +7033,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_44",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7052,7 +7052,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_45_70mm",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7071,7 +7071,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_46x30",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7090,7 +7090,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_5_7x28mm",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7109,7 +7109,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_500_SW",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7128,7 +7128,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_762x25",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -7147,7 +7147,7 @@
         },
         {
             "ClassName": "SNAFU_MD_Ammo_556x45mm_M855A1",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9532,7 +9532,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_3006",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9545,7 +9545,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_408Chey",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9558,7 +9558,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_50Cal",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9571,7 +9571,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_762x51",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10806,7 +10806,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mm",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10819,7 +10819,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mmAP",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10832,7 +10832,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_145Cal",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10845,7 +10845,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_300ACC",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10858,7 +10858,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_338",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10871,7 +10871,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_44",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10884,7 +10884,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_45_70mm",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10897,7 +10897,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_46x30",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10910,7 +10910,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_5_7x28mm",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10923,7 +10923,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_500_SW",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10936,7 +10936,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_762x25",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12353,7 +12353,7 @@
         },
         {
             "ClassName": "SNAFU_MD_Ammo_556x45mm_M855A1",
-            "Chance": 0.012,
+            "Chance": 0.036,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
