@@ -2,7 +2,7 @@ void main()
 {
 	DC_FastTravel.SpawnBoard(1, "3711.67 403.273 5992.69", "63 0 0"); //Green Mountain with m_ID = 1 in the config
   	DC_FastTravel.SpawnBoard(2, "10722.2 350.986 5678.11", "-162.716 0 0"); // Echo with m_ID = 2 in the config
-	DC_FastTravel.SpawnBoard(2, "14201.3 196.715 15285.3", "-74.1487 0 0"); // Trailside with m_ID = 3 in the config
+	DC_FastTravel.SpawnBoard(3, "14201.3 196.715 15285.3", "-74.1487 0 0"); // Trailside with m_ID = 3 in the config
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )
@@ -10,7 +10,7 @@ void main()
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 3, reset_day = 15;
+	int reset_month = 1, reset_day = 15;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
