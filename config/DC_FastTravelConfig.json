@@ -27,6 +27,11 @@
                     "m_LocationID": 3,
                     "m_RequiredTokenClassName": "DC_FastTravelTicket",
                     "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 4,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 3
                 }
             ]
         },
@@ -55,6 +60,11 @@
                     "m_LocationID": 3,
                     "m_RequiredTokenClassName": "DC_FastTravelTicket",
                     "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 4,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 3
                 }
             ]
         },
@@ -81,6 +91,48 @@
                 },
                 {
                     "m_LocationID": 1,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 4,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 3
+                }
+            ]
+        },
+        {
+            "m_ID": 4,
+            "m_Name": "Northtisy",
+            "m_MarkerCoordinates": [
+                1896.99,
+                442.394,
+                15000.9
+            ],
+            "m_MarkerType": 0,
+            "m_LocationCoordinates": [
+                {
+                    "m_Coordinates": [
+                        1896.99,
+                        442.394,
+                        15000.9
+                    ],
+                    "m_Radius": 1.0
+                }
+            ],
+            "m_VisitableLocations": [
+                {
+                    "m_LocationID": 2,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 1,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 3,
                     "m_RequiredTokenClassName": "DC_FastTravelTicket",
                     "m_RequiredTokenQuantity": 1
                 }
