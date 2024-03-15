@@ -6,7 +6,9 @@
             "m_ID": 1,
             "m_Name": "Green Mountain",
             "m_MarkerCoordinates": [
-                3711.77, 402.012, 5992.81
+                3692.10009765625,
+                -1.0,
+                5988.10009765625
             ],
             "m_MarkerType": 0,
             "m_LocationCoordinates": [
@@ -78,6 +80,73 @@
             "m_VisitableLocations": [
                 {
                     "m_LocationID": 2,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                }
+            ]
+        },
+        {
+            "m_ID": 2,
+            "m_Name": "Kumyrna",
+            "m_MarkerCoordinates": [
+                8345.2001953125,
+                -1.0,
+                6002.0
+            ],
+            "m_MarkerType": 0,
+            "m_LocationCoordinates": [
+                {
+                    "m_Coordinates": [
+                        8348.0,
+                        -1.0,
+                        6002.0
+                    ],
+                    "m_Radius": 2.0
+                },
+                {
+                    "m_Coordinates": [
+                        8349.0,
+                        -1.0,
+                        5998.0
+                    ],
+                    "m_Radius": 2.0
+                },
+                {
+                    "m_Coordinates": [
+                        8353.0,
+                        -1.0,
+                        5989.0
+                    ],
+                    "m_Radius": 4.0
+                },
+                {
+                    "m_Coordinates": [
+                        8360.0,
+                        -1.0,
+                        5985.0
+                    ],
+                    "m_Radius": 6.0
+                },
+                {
+                    "m_Coordinates": [
+                        8369.0,
+                        -1.0,
+                        5988.0
+                    ],
+                    "m_Radius": 2.0
+                },
+                {
+                    "m_Coordinates": [
+                        8329.0,
+                        -1.0,
+                        5995.0
+                    ],
+                    "m_Radius": 7.0
+                }
+            ],
+            "m_VisitableLocations": [
+                {
+                    "m_LocationID": 1,
                     "m_RequiredTokenClassName": "DC_FastTravelTicket",
                     "m_RequiredTokenQuantity": 1
                 }
