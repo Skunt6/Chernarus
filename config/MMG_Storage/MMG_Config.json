@@ -1,0 +1,10 @@
+{
+    "RaidingTimeinSeconds": 300,
+    "ToolsDamageOnRaid": 100,
+    "EnableAttach": "true",
+    "EnableRaid": "false",
+    "DeleteLockAfterRaid": "false",
+    "RaidingTools": [
+        "mmg_raid_driver"
+    ]
+}
