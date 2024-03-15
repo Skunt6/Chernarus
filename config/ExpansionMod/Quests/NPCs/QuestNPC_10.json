@@ -11,7 +11,7 @@
         15.898956, 0, -0
     ],
     "NPCName": "Daily and Weekly target missions",
-    "DefaultNPCText": "There is nothing to do here for you...",
+    "DefaultNPCText": "Please progress more in the campaign!",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,

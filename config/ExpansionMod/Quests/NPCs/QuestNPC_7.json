@@ -13,7 +13,7 @@
         0.0
     ],
     "NPCName": "Arvandus Metalsmith",
-    "DefaultNPCText": "Greetings?",
+    "DefaultNPCText": "Please progress more in the campaign!",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,

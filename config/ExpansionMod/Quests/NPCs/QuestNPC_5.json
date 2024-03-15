@@ -13,7 +13,7 @@
         0.0
     ],
     "NPCName": "General Tulius",
-    "DefaultNPCText": "What do your want?!",
+    "DefaultNPCText": "Please progress more in the campaign!",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
