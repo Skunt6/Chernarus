@@ -34,12 +34,14 @@
     "QuestGiverIDs": [
         3,
         8,
-        10
+        10,
+        11
     ],
     "QuestTurnInIDs": [
         3,
         8,
-        10
+        10,
+        11
     ],
     "IsAchievement": 0,
     "Objectives": [

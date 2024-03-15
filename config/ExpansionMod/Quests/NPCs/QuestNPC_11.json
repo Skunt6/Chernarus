@@ -1,0 +1,26 @@
+{
+    "ConfigVersion": 6,
+    "ID": 11,
+    "ClassName": "ExpansionQuestBoardSmall",
+    "Position": [
+        1899.53,
+        442.248,
+        12000.2
+    ],
+    "Orientation": [
+        135, 0, 0
+    ],
+    "NPCName": "Daily and Weekly target missions",
+    "DefaultNPCText": "Please progress more in the campaign!",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}
