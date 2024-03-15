@@ -333,15 +333,15 @@
             ]
         },
         {
-            "Name": "bunker2",
-            "Faction": "Mercenaries",
+            "Name": "north tisy trader",
+            "Faction": "Gaurds",
             "Formation": "RANDOM",
-            "FormationLooseness": 50.0,
-            "LoadoutFile": "CaveLoadout",
+            "FormationLooseness": 5.0,
+            "LoadoutFile": "PoliceLoadout",
             "Units": [],
-            "NumberOfAI": 1,
+            "NumberOfAI": 2,
             "Behaviour": "ALTERNATE",
-            "Speed": "STATIC",
+            "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
@@ -350,124 +350,10 @@
             "AccuracyMax": 0.85,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 6.0,
             "DamageReceivedMultiplier": 0.08,
-            "MinDistRadius": 10.0,
-            "MaxDistRadius": 50.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 100.0,
-            "Chance": 0.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    8608.27,
-                    135.473,
-                    13537.1
-                ]
-            ]
-        },
-        {
-            "Name": "bunker3",
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 50.0,
-            "LoadoutFile": "CaveLoadout",
-            "Units": [],
-            "NumberOfAI": 1,
-            "Behaviour": "ALTERNATE",
-            "Speed": "STATIC",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": -1.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
-            "ThreatDistanceLimit": -1.0,
-            "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.08,
-            "MinDistRadius": 10.0,
-            "MaxDistRadius": 50.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 100.0,
-            "Chance": 0.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    8607.17,
-                    135.473,
-                    13546.2
-                ]
-            ]
-        },
-        {
-            "Name": "bunker4",
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 50.0,
-            "LoadoutFile": "CaveLoadout",
-            "Units": [],
-            "NumberOfAI": 1,
-            "Behaviour": "ALTERNATE",
-            "Speed": "STATIC",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": -1.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
-            "ThreatDistanceLimit": -1.0,
-            "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.08,
-            "MinDistRadius": 10.0,
-            "MaxDistRadius": 50.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 100.0,
-            "Chance": 0.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    8603.65,
-                    135.473,
-                    13539.6
-                ]
-            ]
-        },
-        {
-            "Name": "bunker5",
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 50.0,
-            "LoadoutFile": "CaveLoadout",
-            "Units": [],
-            "NumberOfAI": 1,
-            "Behaviour": "ALTERNATE",
-            "Speed": "STATIC",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": -1.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
-            "ThreatDistanceLimit": -1.0,
-            "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.08,
-            "MinDistRadius": 10.0,
-            "MaxDistRadius": 50.0,
+            "MinDistRadius": 100.0,
+            "MaxDistRadius": 200.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
@@ -478,47 +364,37 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8602.63,
-                    135.574,
-                    13548.8
-                ]
-            ]
-        },
-        {
-            "Name": "bunker6",
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 50.0,
-            "LoadoutFile": "CaveLoadout",
-            "Units": [],
-            "NumberOfAI": 1,
-            "Behaviour": "ALTERNATE",
-            "Speed": "STATIC",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": -1.0,
-            "AccuracyMin": 0.35,
-            "AccuracyMax": 0.85,
-            "ThreatDistanceLimit": -1.0,
-            "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.0,
-            "DamageReceivedMultiplier": 0.08,
-            "MinDistRadius": 10.0,
-            "MaxDistRadius": 50.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 100.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
+                    1932.4, 436.334, 14969.6
+                ],
                 [
-                    8599.06,
-                    135.473,
-                    13541.6
+                    1930.12, 436.347, 14949.7
+                ],
+                [
+                    1902.79, 437.31, 14942.5
+                ],
+                [
+                    1916.25, 436.334, 14958.6
+                ],
+                [
+                    1910.08, 436.349, 14976.9
+                ],
+                [
+                    1900.93, 436.349, 14986.3
+                ],
+                [
+                    1886.73, 436.349, 14985.5
+                ],
+                [
+                    1880.16, 436.349, 14996.8
+                ],
+                [
+                    1905.64, 441.07, 14992
+                ],
+                [
+                    1907.72, 437, 14996.9
+                ],
+                [
+                    1922.61, 437.218, 14977.6
                 ]
             ]
         },
