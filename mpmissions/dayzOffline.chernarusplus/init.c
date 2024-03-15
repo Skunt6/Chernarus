@@ -1,7 +1,8 @@
 void main()
 {
-	DC_FastTravel.SpawnBoard(1, "3710.24 402.01 5992.3", "-15.7854 0 0"); //Green Mountain with m_ID = 1 in the config
-  	DC_FastTravel.SpawnBoard(2, "10721.8 349.708 5677.35", "112.841 0 0"); // Echo with m_ID = 2 in the config
+	DC_FastTravel.SpawnBoard(1, "3711.67 403.273 5992.69", "63 0 0"); //Green Mountain with m_ID = 1 in the config
+  	DC_FastTravel.SpawnBoard(2, "10722.2 350.986 5678.11", "-162.716 0 0"); // Echo with m_ID = 2 in the config
+	DC_FastTravel.SpawnBoard(2, "14201.3 196.715 15285.3", "-74.1487 0 0"); // Trailside with m_ID = 3 in the config
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )

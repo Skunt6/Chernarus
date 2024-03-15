@@ -6,24 +6,27 @@
             "m_ID": 1,
             "m_Name": "Green Mountain",
             "m_MarkerCoordinates": [
-                3710.24, 402.01, 5992.3
+                3711.67, 403.273, 5992.69
             ],
             "m_MarkerType": 0,
             "m_LocationCoordinates": [
                 {
                     "m_Coordinates": [
-                        3699.5,
-                        -1.0,
-                        5991.0
+                        3711.67, 403.273, 5992.69
                     ],
-                    "m_Radius": 10.0
+                    "m_Radius": 1.0
                 }
             ],
             "m_VisitableLocations": [
                 {
                     "m_LocationID": 2,
-                    "m_RequiredTokenClassName": "",
-                    "m_RequiredTokenQuantity": 0
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 3,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
                 }
             ]
         },
@@ -31,22 +34,55 @@
             "m_ID": 2,
             "m_Name": "Echo",
             "m_MarkerCoordinates": [
-                10721.8, 349.708, 5677.35
+                10722.2, 350.986, 5678.11
             ],
             "m_MarkerType": 0,
             "m_LocationCoordinates": [
                 {
                     "m_Coordinates": [
-                        10759.8, 343.703, 5659.59
+                        10722.2, 350.986, 5678.11
                     ],
-                    "m_Radius": 10.0
+                    "m_Radius": 1.0
                 }
             ],
             "m_VisitableLocations": [
                 {
                     "m_LocationID": 1,
-                    "m_RequiredTokenClassName": "",
-                    "m_RequiredTokenQuantity": 0
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 3,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                }
+            ]
+        },
+        {
+            "m_ID": 3,
+            "m_Name": "Trailside",
+            "m_MarkerCoordinates": [
+                14201.3, 196.715, 15285.3
+            ],
+            "m_MarkerType": 0,
+            "m_LocationCoordinates": [
+                {
+                    "m_Coordinates": [
+                        14201.3, 196.715, 15285.3
+                    ],
+                    "m_Radius": 1.0
+                }
+            ],
+            "m_VisitableLocations": [
+                {
+                    "m_LocationID": 2,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
+                },
+                {
+                    "m_LocationID": 1,
+                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
+                    "m_RequiredTokenQuantity": 1
                 }
             ]
         }
