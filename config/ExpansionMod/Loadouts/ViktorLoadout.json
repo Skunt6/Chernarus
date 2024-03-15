@@ -316,7 +316,7 @@
     "InventoryCargo": [
         {
             "ClassName": "DC_FastTravelTicket",
-            "Chance": 0.1,
+            "Chance": 0.01,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 3.0
