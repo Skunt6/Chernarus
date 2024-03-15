@@ -6,9 +6,7 @@
             "m_ID": 1,
             "m_Name": "Green Mountain",
             "m_MarkerCoordinates": [
-                3692.10009765625,
-                -1.0,
-                5988.10009765625
+                3710.24, 402.01, 5992.3
             ],
             "m_MarkerType": 0,
             "m_LocationCoordinates": [
@@ -18,137 +16,37 @@
                         -1.0,
                         5991.0
                     ],
-                    "m_Radius": 4.0
-                },
-                {
-                    "m_Coordinates": [
-                        3701.300048828125,
-                        -1.0,
-                        5977.5
-                    ],
-                    "m_Radius": 3.0
-                },
-                {
-                    "m_Coordinates": [
-                        3724.0,
-                        -1.0,
-                        5970.0
-                    ],
-                    "m_Radius": 5.0
-                },
-                {
-                    "m_Coordinates": [
-                        3723.699951171875,
-                        -1.0,
-                        5958.0
-                    ],
-                    "m_Radius": 2.0
-                },
-                {
-                    "m_Coordinates": [
-                        3711.60009765625,
-                        -1.0,
-                        6002.39990234375
-                    ],
-                    "m_Radius": 2.0
-                },
-                {
-                    "m_Coordinates": [
-                        3733.60009765625,
-                        -1.0,
-                        6013.60009765625
-                    ],
-                    "m_Radius": 8.0
-                },
-                {
-                    "m_Coordinates": [
-                        3688.300048828125,
-                        -1.0,
-                        6006.0
-                    ],
-                    "m_Radius": 3.0
-                },
-                {
-                    "m_Coordinates": [
-                        3697.0,
-                        -1.0,
-                        6015.0
-                    ],
-                    "m_Radius": 2.0
+                    "m_Radius": 10.0
                 }
             ],
             "m_VisitableLocations": [
                 {
                     "m_LocationID": 2,
-                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
-                    "m_RequiredTokenQuantity": 1
+                    "m_RequiredTokenClassName": "",
+                    "m_RequiredTokenQuantity": 0
                 }
             ]
         },
         {
             "m_ID": 2,
-            "m_Name": "Kumyrna",
+            "m_Name": "Echo",
             "m_MarkerCoordinates": [
-                8345.2001953125,
-                -1.0,
-                6002.0
+                10721.8, 349.708, 5677.35
             ],
             "m_MarkerType": 0,
             "m_LocationCoordinates": [
                 {
                     "m_Coordinates": [
-                        8348.0,
-                        -1.0,
-                        6002.0
+                        10759.8, 343.703, 5659.59
                     ],
-                    "m_Radius": 2.0
-                },
-                {
-                    "m_Coordinates": [
-                        8349.0,
-                        -1.0,
-                        5998.0
-                    ],
-                    "m_Radius": 2.0
-                },
-                {
-                    "m_Coordinates": [
-                        8353.0,
-                        -1.0,
-                        5989.0
-                    ],
-                    "m_Radius": 4.0
-                },
-                {
-                    "m_Coordinates": [
-                        8360.0,
-                        -1.0,
-                        5985.0
-                    ],
-                    "m_Radius": 6.0
-                },
-                {
-                    "m_Coordinates": [
-                        8369.0,
-                        -1.0,
-                        5988.0
-                    ],
-                    "m_Radius": 2.0
-                },
-                {
-                    "m_Coordinates": [
-                        8329.0,
-                        -1.0,
-                        5995.0
-                    ],
-                    "m_Radius": 7.0
+                    "m_Radius": 10.0
                 }
             ],
             "m_VisitableLocations": [
                 {
                     "m_LocationID": 1,
-                    "m_RequiredTokenClassName": "DC_FastTravelTicket",
-                    "m_RequiredTokenQuantity": 1
+                    "m_RequiredTokenClassName": "",
+                    "m_RequiredTokenQuantity": 0
                 }
             ]
         }
