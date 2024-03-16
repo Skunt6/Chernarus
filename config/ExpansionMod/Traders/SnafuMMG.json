@@ -1,10 +1,10 @@
 {
     "m_Version": 12,
-    "DisplayName": "SnafuMMG Trader",
+    "DisplayName": "MMG Trader",
     "MinRequiredReputation": 20000,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": 38,
+    "RequiredCompletedQuestID": -1,
     "TraderIcon": "Shotgun",
     "Currencies": [
         "expansionbanknoteUSD"
@@ -12,13 +12,6 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Snafu",
-        "Snafu_Bipods",
-        "Snafu_Handgaurds",
-        "Sanfu_Mags",
-        "Snafu_Scopes",
-        "Snafu_Stocks",
-        "Snafu_Ammo"
     ],
     "Items": {}
 }
