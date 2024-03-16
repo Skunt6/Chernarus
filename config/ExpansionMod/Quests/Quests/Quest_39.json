@@ -2,7 +2,7 @@
     "ConfigVersion": 21,
     "ID": 39,
     "Type": 1,
-    "Title": "Daily: Kill 100 NightWalkers",
+    "Title": "Weekly: Kill 100 NightWalkers",
     "Descriptions": [
         "Survivor, we've got a pressing matter on our hands. The night walkers have become a relentless threat to our camp, and it's time to take decisive action. I'm initiating 'Operation Nightfall.' Your mission, should you choose to accept it, is to eliminate 100 night walkers under the cover of darkness. These abominations become more active after sunset, so be cautious and swift in your strikes. Return with proof of your kills, and you'll earn the respect of your fellow survivors and valuable rewards. The night belongs to us, not them. Rico, out."
     ],
@@ -20,6 +20,15 @@
         {
             "ClassName": "expansionbanknoteUSD",
             "Amount": 50000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "DC_FastTravelTicket",
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
