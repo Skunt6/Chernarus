@@ -14,11 +14,11 @@
     "DamageReceivedMultiplier": -1.0,
     "ObjectPatrols": [
         {
-            "Name": "Tisy HQ",
+            "Name": "Airfield basment",
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 25.0,
-            "LoadoutFile": "Tier4Loadout",
+            "LoadoutFile": "Tier3Loadout",
             "Units": [],
             "NumberOfAI": 2,
             "Behaviour": "HALT_OR_ALTERNATE",
@@ -27,11 +27,11 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 500.0,
-            "AccuracyMin": 0.4,
-            "AccuracyMax": 0.9,
+            "AccuracyMin": 0.35,
+            "AccuracyMax": 0.85,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": -1.0,
             "DamageReceivedMultiplier": -1.0,
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
@@ -42,7 +42,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "Land_Tisy_HQ"
+            "ClassName": "Land_Mil_Barracks5_Basement"
         },
         {
             "Name": "Tisy HQ",
