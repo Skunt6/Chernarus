@@ -13653,7 +13653,7 @@
         <usage name="Underground"/>
     </type>
     <type name="mmg_trashcontainer_green_static">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>7200</restock>
         <min>0</min>
@@ -13664,7 +13664,7 @@
         <usage name="Underground"/>
     </type>
     <type name="mmg_trashcontainer_orange_static">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>7200</restock>
         <min>0</min>
