@@ -8086,10 +8086,10 @@
 						<point pos="-2.228182 -1.161530 -0.128232" range="0.944595" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Tisy_HQ" lootmax="25">
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="10">
-						<category name="tools" />
+		<group name="Land_Tisy_HQ" lootmax="5">
+				<usage name="Underground" />
+				<container name="lootFloor" lootmax="5">
+						<category name="weapons" />
 						<category name="containers" />
 						<category name="clothes" />
 						<tag name="floor" />
