@@ -6954,10 +6954,10 @@
 						<point pos="-2.076275 -0.933044 13.855999" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks5_Basement" lootmax="8">
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="6">
-						<category name="tools" />
+		<group name="Land_Mil_Barracks5_Basement" lootmax="2">
+				<usage name="Underground" />
+				<container name="lootFloor" lootmax="2">
+						<category name="clothes" />
 						<category name="containers" />
 						<tag name="floor" />
 						<point pos="3.228932 -2.972443 2.754294" range="0.312531" height="1.195313" />
