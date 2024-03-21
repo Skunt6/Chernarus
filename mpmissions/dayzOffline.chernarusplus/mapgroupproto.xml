@@ -17102,26 +17102,26 @@
 						<point pos="-3.594726 0.734655 0.395999" range="0.684375" height="1.710938" />
 				</container>
 		</group>
-				<group name="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" lootmax="5">
-				<usage name="Underground" />
-				<container name="lootFloor" lootmax="5">
+			<group name="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" lootmax="15">
+				<usage name="Military" />
+				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
 						<tag name="floor" />
 						<tag name="shelves" />
-						<point pos="-1.493165 0.738111 -0.807127" range="0.340625" height="0.851563" />
-						<point pos="0.768067 0.736933 0.346679" range="0.753125" height="1.882813" />
-						<point pos="3.724854 0.739101 0.000729" range="1.096875" height="2.000000" />
-						<point pos="6.185058 0.741623 -0.646003" range="0.512500" height="1.281250" />
-						<point pos="7.778564 0.740980 0.073478" range="0.443750" height="1.109375" />
-						<point pos="-6.481202 0.734070 -0.032465" range="1.131250" height="2.000000" />
 						<point pos="-4.231202 0.736799 -0.835201" range="0.306250" height="0.765625" />
 						<point pos="-3.081788 0.737391 -0.843259" range="0.306250" height="0.765625" />
+						<point pos="-1.493165 0.738111 -0.807127" range="0.340625" height="0.851563" />
 						<point pos="-1.937743 0.734816 0.729250" range="0.340625" height="0.851563" />
-						<point pos="-0.871338 0.736065 0.371094" range="0.718750" height="1.796875" />
+						<point pos="7.778564 0.740980 0.073478" range="0.443750" height="1.109375" />
+						<point pos="6.185058 0.741623 -0.646003" range="0.512500" height="1.281250" />
 						<point pos="-3.594726 0.734655 0.395999" range="0.684375" height="1.710938" />
+						<point pos="-0.871338 0.736065 0.371094" range="0.718750" height="1.796875" />
+						<point pos="0.768067 0.736933 0.346679" range="0.753125" height="1.882813" />
+						<point pos="3.724854 0.739101 0.000729" range="1.096875" height="2.000000" />
+						<point pos="-6.481202 0.734070 -0.032465" range="1.131250" height="2.000000" />
 				</container>
 		</group>
 			<group name="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" lootmax="15">
@@ -17282,9 +17282,9 @@
 						<point pos="-0.568051 -0.656114 -1.100959" range="0.319092" height="0.795949" />
 				</container>
 		</group>
-		<group name="Land_Train_Wagon_Box_Mil_DE" lootmax="15">
-				<usage name="Military" />
-					<container name="lootFloor" lootmax="15">
+		<group name="Land_Train_Wagon_Box_Mil_DE" lootmax="5">
+				<usage name="Underground" />
+					<container name="lootFloor" lootmax="5">
 							<category name="containers" />
 							<category name="clothes" />
 							<category name="weapons" />
@@ -17334,16 +17334,9 @@
 						<point pos="-0.109003 -1.087738 -0.011321" range="0.913440" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Container_1Bo_DE" lootmax="15">
-				<usage name="Village" />
-				<usage name="Industrial" />
-				<usage name="Town" />
-				<container name="lootFloor" lootmax="15">
-						<category name="tools" />
-						<category name="weapons" />
-						<tag name="floor" />
-						<tag name="shelves" />
-						<tag name="ground" />
+		<group name="Land_Container_1Bo_DE" lootmax="1">
+				<usage name="Keycards" />
+				<container name="lootFloor" lootmax="1">
 						<point pos="1.280778 -1.087738 0.534238" range="0.339402" height="1.312256" />
 						<point pos="-2.489923 -1.087738 -0.568799" range="0.479492" height="1.198730" />
 						<point pos="1.435268 -1.087738 -0.435166" range="0.492053" height="1.533203" />

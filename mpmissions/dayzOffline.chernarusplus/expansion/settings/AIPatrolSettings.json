@@ -104,7 +104,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE"
+            "ClassName": "Land_Container_1Bo_DE"
         },
         {
             "Name": "heli crash uh1y",
@@ -166,7 +166,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "StaticObj_Wreck_Train_Wagon_Flat_Mil_DE"
+            "ClassName": "Land_Train_Wagon_Box_Mil_DE"
         },
         {
             "Name": "airplane crate",
