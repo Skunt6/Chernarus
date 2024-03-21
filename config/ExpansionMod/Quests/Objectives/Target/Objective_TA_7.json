@@ -19,7 +19,7 @@
     "CountSelfKill": 0,
     "AllowedWeapons": [],
     "ExcludedClassNames": [],
-    "CountAIPlayers": 0,
+    "CountAIPlayers": 1,
     "AllowedTargetFactions": [],
     "AllowedDamageZones": [
         "Head"
