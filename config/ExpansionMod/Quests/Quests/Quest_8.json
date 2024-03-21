@@ -61,7 +61,7 @@
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 0,
+    "ReputationReward": 400,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
         2

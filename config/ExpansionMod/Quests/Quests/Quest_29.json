@@ -33,7 +33,7 @@
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 0.25
         }
     ],
     "NeedToSelectReward": 0,
@@ -55,7 +55,7 @@
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 100,
+    "ReputationReward": 700,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
         14

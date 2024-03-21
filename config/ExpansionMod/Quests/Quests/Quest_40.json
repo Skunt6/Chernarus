@@ -1900,7 +1900,7 @@
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 0,
+    "ReputationReward": 10,
     "ReputationRequirement": 15000,
     "PreQuestIDs": [
         2
