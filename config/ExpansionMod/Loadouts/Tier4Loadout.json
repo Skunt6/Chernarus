@@ -21277,7 +21277,7 @@
                     "Items": [
                         {
                             "ClassName": "M4A1",
-                            "Chance": 0.05,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -21459,7 +21459,7 @@
                     "Items": [
                         {
                             "ClassName": "M14",
-                            "Chance": 0.05,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0

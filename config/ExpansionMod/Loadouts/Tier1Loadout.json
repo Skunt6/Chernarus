@@ -24040,7 +24040,7 @@
     "Sets": [
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 0.25,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -24052,7 +24052,7 @@
                     "Items": [
                         {
                             "ClassName": "MakarovIJ70",
-                            "Chance": 0.25,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -24085,13 +24085,40 @@
                     ]
                 }
             ],
-            "InventoryCargo": [],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_IJ70_8Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_380",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 0.25,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -24103,7 +24130,7 @@
                     "Items": [
                         {
                             "ClassName": "Colt1911",
-                            "Chance": 0.25,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -24149,7 +24176,34 @@
                     ]
                 }
             ],
-            "InventoryCargo": [],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_1911_7Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_45ACP",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
             "ConstructionPartsBuilt": [],
             "Sets": []
         }

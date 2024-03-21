@@ -1,5 +1,5 @@
 {
-    "ClassName": "Tier4",
+    "ClassName": "",
     "Chance": 1.0,
     "Quantity": {
         "Min": 0.0,
@@ -20506,60 +20506,62 @@
                                     ]
                                 }
                             ],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "Mag_CMAG_20Rnd",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Mag_CMAG_20Rnd",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Ammo_556x45",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
+                            "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         }
                     ]
                 }
             ],
-            "InventoryCargo": [],
+            "InventoryCargo": [
+                
+                {
+                    "ClassName": "Mag_CMAG_20Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Mag_CMAG_20Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_556x45",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            
+            ],
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20571,7 +20573,7 @@
                     "Items": [
                         {
                             "ClassName": "FAL",
-                            "Chance": 0.5,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -20695,13 +20697,53 @@
                     ]
                 }
             ],
-            "InventoryCargo": [],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_FAL_20Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Mag_FAL_20Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_308Win",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20713,7 +20755,7 @@
                     "Items": [
                         {
                             "ClassName": "M4A1",
-                            "Chance": 0.05,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -20830,59 +20872,60 @@
                                     ]
                                 }
                             ],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "Mag_CMAG_30Rnd",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Mag_CMAG_30Rnd",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
+                            "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         }
                     ]
                 }
             ],
-            "InventoryCargo": [],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_STANAG_30Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Mag_STANAG_30Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_556x45",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20894,7 +20937,7 @@
                     "Items": [
                         {
                             "ClassName": "M14",
-                            "Chance": 0.05,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -20985,53 +21028,72 @@
                                     ]
                                 }
                             ],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "Mag_M14_10Rnd",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Mag_M14_20Rnd",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [
-                                        {
-                                            "Min": 0.699999988079071,
-                                            "Max": 1.0,
-                                            "Zone": ""
-                                        }
-                                    ],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
+                            "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         }
                     ]
                 }
             ],
-            "InventoryCargo": [],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_M14_10Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Mag_M14_20Rnd",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_308Win",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
@@ -21257,6 +21319,19 @@
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_762x39",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -21509,6 +21584,19 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_545x39",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 }
             ],
             "ConstructionPartsBuilt": [],
@@ -21623,6 +21711,19 @@
                 {
                     "ClassName": "Mag_AK74_30Rnd",
                     "Chance": 0.15000000596046448,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_545x39",
+                    "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -21878,6 +21979,19 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_762x39",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 }
             ],
             "ConstructionPartsBuilt": [],
@@ -22066,6 +22180,19 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_9x19",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 }
             ],
             "ConstructionPartsBuilt": [],
@@ -22123,34 +22250,8 @@
                     "ClassName": "Ammo_762x54",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_762x54",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_762x54",
-                    "Chance": 0.15000000596046448,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -22214,34 +22315,8 @@
                     "ClassName": "Ammo_762x39",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_762x39",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_762x39",
-                    "Chance": 0.15000000596046448,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -22352,6 +22427,19 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_308Win",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 }
             ],
             "ConstructionPartsBuilt": [],
@@ -22390,8 +22478,8 @@
                     "ClassName": "Ammo_12gaSlug",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -22403,34 +22491,8 @@
                     "ClassName": "Ammo_12gaPellets",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_12gaSlug",
-                    "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_12gaPellets",
-                    "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -22519,6 +22581,19 @@
                 {
                     "ClassName": "Mag_CZ527_5rnd",
                     "Chance": 0.15000000596046448,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_308Win",
+                    "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -22632,6 +22707,19 @@
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_45ACP",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
