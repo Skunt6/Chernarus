@@ -11,28 +11,37 @@ void main()
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 3, reset_day = 15;
+	int reset_month = 3, reset_day = 20;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
-	if ((month == reset_month) && (day < reset_day))
-	{
-		GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-	}
-	else
-	{
-		if ((month == reset_month + 1) && (day > reset_day))
-		{
-			GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-		}
-		else
-		{
-			if ((month < reset_month) || (month > reset_month + 1))
-			{
-				GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-			}
-		}
-	}
+	if ((month == reset_month) && (day < reset_day)) {
+    GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
+} else {
+    if ((month == reset_month + 1) && (day > reset_day)) {
+        GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
+    } else {
+        if ((month < reset_month) || (month > reset_month + 1)) {
+            GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
+        }
+    }
 }
+
+// Check if three resets have occurred
+if (reset_count == 3) {
+    // Add a day to the reset day
+    reset_day++;
+    if (reset_day > days_in_month(reset_month)) {
+        reset_day = 1;
+        reset_month++;
+        if (reset_month > 12) {
+            reset_month = 1;
+            year++;
+        }
+    }
+    // Reset the reset count
+    reset_count = 0;
+}
+
 
 class CustomMission: MissionServer
 {
