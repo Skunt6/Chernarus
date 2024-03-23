@@ -1913,5 +1913,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }
