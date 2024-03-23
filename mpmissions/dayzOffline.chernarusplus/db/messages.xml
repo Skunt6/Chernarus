@@ -70,7 +70,7 @@ Example messages:
     <!--Server restart-->
 
     <message>
-        <deadline>477</deadline>
+        <deadline>1440</deadline>
         <text>Natures Weavers will shutdown in #tmin minutes.</text>
     </message>
     
