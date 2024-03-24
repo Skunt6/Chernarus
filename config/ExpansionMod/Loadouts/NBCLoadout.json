@@ -385,6 +385,25 @@
             "Sets": []
         },
         {
+            "ClassName": "Ammo_ER7RFW",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 1.0,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
             "ClassName": "mmg_craftable_tent_kit",
             "Chance": 0.015,
             "Quantity": {
