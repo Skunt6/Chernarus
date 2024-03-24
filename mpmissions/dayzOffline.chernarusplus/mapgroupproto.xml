@@ -6956,6 +6956,7 @@
 		</group>
 		<group name="Land_Mil_Barracks5_Basement" lootmax="2">
 				<usage name="Underground" />
+				<usage name="Military" />
 				<container name="lootFloor" lootmax="2">
 						<category name="clothes" />
 						<category name="containers" />
@@ -8036,6 +8037,7 @@
 		</group>
 		<group name="Land_Tisy_HQ" lootmax="2">
 				<usage name="Underground" />
+				<usage name="Military" />
 				<container name="lootFloor" lootmax="2">
 						<category name="weapons" />
 						<category name="containers" />
