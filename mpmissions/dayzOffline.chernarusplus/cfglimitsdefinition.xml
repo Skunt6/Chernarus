@@ -10,6 +10,7 @@
         <category name="books"/>
         <category name="explosives"/>
 		<category name="Ore"/>
+        <category name="Herbals"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -45,7 +46,7 @@
 		<usage name="DayzOresandGems_Iron" />
         <usage name="Underground"/>
         <usage name="Keycards"/>
-        <usage name="Herbals"/>
+        <category name="Herbals"/>
 
     </usageflags>
     <valueflags>
