@@ -5,14 +5,14 @@
         <Items_List_A	Quantity_Or_Chance_To_Spawn = "1.0"		state = "Pristine"		List = "evg_keycards_Tisy05,evg_keycards_Green,evg_keycards_NWAF01,evg_keycards_Red"/> <!-- Add REWARD for player that defeat the horde -->
         <Items_List_B	Quantity_Or_Chance_To_Spawn = "1.0"		state = "Pristine"		List = "WitchHood_Red,WitchHood_Black,WitchHood_Brown"/>
         <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.1"		state = "Pristine"		List = "evg_keycards_Blue"/>
-        <Items_List_D	Quantity_Or_Chance_To_Spawn = "3.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.1"		state = "Pristine"		List = "ER7_Gauss,ER7_Gauss_Battery,ER7_Scope,ER7_Gauss_Magazine,Ammo_ER7RFW"/>
 	</type>
 	
 	<type Zombie_Category_Class_Names="ZmbM_DH_Master_Night">		
         <Items_List_A	Quantity_Or_Chance_To_Spawn = "1.0"	        state = "Pristine"		List = "evg_keycards_ALL"/> <!-- Add REWARD for player that defeat the horde -->
         <Items_List_B	Quantity_Or_Chance_To_Spawn = "1.0"		state = "Pristine"		List = "WitchHood_Red,WitchHood_Black,WitchHood_Brown"/>
         <Items_List_C	Quantity_Or_Chance_To_Spawn = "1.0"		state = "Pristine"		List = "evg_keycards_Tisy05,evg_keycards_Green,evg_keycards_NWAF01,evg_keycards_Red,evg_keycards_Blue"/>
-        <Items_List_D	Quantity_Or_Chance_To_Spawn = "5.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.2"		state = "Pristine"		List = "ER7_Gauss,ER7_Gauss_Battery,ER7_Scope,ER7_Gauss_Magazine,Ammo_ER7RFW"/>
 	</type>
 	
 	<type Zombie_Category_Class_Names="ZmbM_DH_Invisible_Ghillie">		
