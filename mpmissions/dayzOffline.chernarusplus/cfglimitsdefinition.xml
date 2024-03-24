@@ -45,6 +45,7 @@
 		<usage name="DayzOresandGems_Iron" />
         <usage name="Underground"/>
         <usage name="Keycards"/>
+        <usage name="Herbals"/>
 
     </usageflags>
     <valueflags>
