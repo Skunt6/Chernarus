@@ -17509,9 +17509,10 @@
 						<point pos="1.125000 0.677094 -0.023194" range="0.203125" height="0.507813" />
 				</container>
 		</group>
-		<group name="StaticObj_Wreck_Uaz_DE" lootmax="15">
+		<group name="StaticObj_Wreck_Uaz_DE" lootmax="5">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="3">
+				<usage name="Underground" />
+				<container name="lootFloor" lootmax="5">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
