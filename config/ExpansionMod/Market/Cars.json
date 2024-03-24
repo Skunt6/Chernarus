@@ -341,11 +341,11 @@
         },
         {
             "ClassName": "expansionvodnik",
-            "MaxPriceThreshold": 3000000,
-            "MinPriceThreshold": 3000000,
+            "MaxPriceThreshold": 8000000,
+            "MinPriceThreshold": 8000000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 4,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "expansionvodnikwheel",
