@@ -8402,9 +8402,10 @@
 						<point pos="7.051305 -4.268127 6.184982" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Tisy_Barracks" lootmax="25">
+		<group name="Land_Tisy_Barracks" lootmax="10">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
+				<usage name="Ungerground" />
+				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
