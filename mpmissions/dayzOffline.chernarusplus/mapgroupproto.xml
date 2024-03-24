@@ -6956,6 +6956,7 @@
 		</group>
 		<group name="Land_Mil_Barracks5_Basement" lootmax="2">
 				<usage name="Underground" />
+				<usage name="Military" />
 				<container name="lootFloor" lootmax="2">
 						<category name="clothes" />
 						<category name="containers" />
@@ -8036,6 +8037,7 @@
 		</group>
 		<group name="Land_Tisy_HQ" lootmax="2">
 				<usage name="Underground" />
+				<usage name="Military" />
 				<container name="lootFloor" lootmax="2">
 						<category name="weapons" />
 						<category name="containers" />
@@ -17507,9 +17509,10 @@
 						<point pos="1.125000 0.677094 -0.023194" range="0.203125" height="0.507813" />
 				</container>
 		</group>
-		<group name="StaticObj_Wreck_Uaz_DE" lootmax="15">
+		<group name="StaticObj_Wreck_Uaz_DE" lootmax="5">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="3">
+				<usage name="Underground" />
+				<container name="lootFloor" lootmax="5">
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
@@ -18213,8 +18216,8 @@
 				</dispatch>
 		</group>
 		<group name="Land_Wreck_sed01_aban1_police_DE" lootmax="1">
-				<category name="Herbals" />
 				<container name="loot" lootmax="1">
+					<category name="Herbals" />
 						<point pos="0.031705 -0.464386 0.646786" range="0.100000" height="0.170959" />
 						<point pos="-1.275356 0.155441 0.962088" range="0.100000" height="0.250000" />
 						<point pos="-1.227970 0.297272 -0.657177" range="0.100000" height="0.250000" />
@@ -18321,8 +18324,8 @@
 				</dispatch>
 		</group>
 		<group name="Land_Wreck_sed01_aban2_police_DE" lootmax="1">
-				<category name="Herbals" />
 				<container name="loot" lootmax="1">
+					<category name="Herbals" />
 						<point pos="-0.756097 -0.451713 -0.498970" range="0.100000" height="0.250000" />
 						<point pos="-1.289279 0.145333 -0.723734" range="0.168750" height="0.421875" />
 						<point pos="-1.222338 0.196649 0.878290" range="0.134375" height="0.335938" />
