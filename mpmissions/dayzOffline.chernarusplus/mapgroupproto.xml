@@ -18215,8 +18215,8 @@
 				</dispatch>
 		</group>
 		<group name="Land_Wreck_sed01_aban1_police_DE" lootmax="1">
-				<category name="Herbals" />
 				<container name="loot" lootmax="1">
+					<category name="Herbals" />
 						<point pos="0.031705 -0.464386 0.646786" range="0.100000" height="0.170959" />
 						<point pos="-1.275356 0.155441 0.962088" range="0.100000" height="0.250000" />
 						<point pos="-1.227970 0.297272 -0.657177" range="0.100000" height="0.250000" />
@@ -18323,8 +18323,8 @@
 				</dispatch>
 		</group>
 		<group name="Land_Wreck_sed01_aban2_police_DE" lootmax="1">
-				<category name="Herbals" />
 				<container name="loot" lootmax="1">
+					<category name="Herbals" />
 						<point pos="-0.756097 -0.451713 -0.498970" range="0.100000" height="0.250000" />
 						<point pos="-1.289279 0.145333 -0.723734" range="0.168750" height="0.421875" />
 						<point pos="-1.222338 0.196649 0.878290" range="0.134375" height="0.335938" />
