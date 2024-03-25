@@ -8406,7 +8406,7 @@
 		</group>
 		<group name="Land_Tisy_Barracks" lootmax="10">
 				<usage name="Military" />
-				<usage name="Ungerground" />
+				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
