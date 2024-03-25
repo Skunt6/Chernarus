@@ -261,6 +261,27 @@
             ]
         },
         {
+            "ClassName": "MBM_RamRebel_wheel_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MBM_RamRebel_wheel_BlackLime",
+                "MBM_RamRebel_wheel_BlackYellow",
+                "MBM_RamRebel_wheel_BlackOrange",
+                "MBM_RamRebel_Mudder_Left_Red",
+                "MBM_RamRebel_Mudder_Right_Red",
+                "MBM_RamRebel_Mudder_Left_Yellow",
+                "MBM_RamRebel_Mudder_Right_Yellow",
+                "MBM_RamRebel_Mudder_Left_Orange",
+                "MBM_RamRebel_Mudder_Right_Orange",
+                "MBM_RamRebel_wheel_BlackRed"
+            ]
+        },
+        {
             "ClassName": "MBM_RamRebel_doors_driver_Red",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
