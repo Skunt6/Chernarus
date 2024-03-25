@@ -19,10 +19,409 @@
                 "FordRaptor_Scorpio_Wheel_Black",			
                 "FordRaptor_Scorpio_Wheel_White",			
                 "FordRaptor_Scorpio_Wheel_Gold",			
-                "FordRaptor_Scorpio_Wheel_Blue",			
-                "FordRaptor_Scorpio_Green",				
-                "FordRaptor_Scorpio_Black",				
-                "FordRaptor_Scorpio_White"
+                "FordRaptor_Scorpio_Wheel_Blue"
+            ]
+        },
+        {
+            "ClassName": "JLTVWheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JLTVDoorDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"JLTVDoorDriverWhite",
+				"JLTVDoorDriverTan"
+			]
+        },
+        {
+            "ClassName": "JLTVDoorCoDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"JLTVDoorCoDriverWhite",
+				"JLTVDoorCoDriverTan"
+			]
+        },
+        {
+            "ClassName": "JLTVDoorBackLeft",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"JLTVDoorBackLeftWhite",
+				"JLTVDoorBackLeftTan"
+			]
+        },
+        {
+            "ClassName": "JLTVDoorBackRight",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"JLTVDoorBackRightWhite",
+				"JLTVDoorBackRightTan"
+			]
+        },
+        {
+            "ClassName": "JLTVHood",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"JLTVHoodWhite",
+				"JLTVHoodTan"
+			]
+        },
+        {
+            "ClassName": "JLTVRearGuard",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"JLTVRearGuardWhite",
+				"JLTVRearGuardTan"
+			]
+        },
+        {
+            "ClassName": "sl65_bumpf",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"sl65_bumpf_black",
+				"sl65_bumpf_blue",
+                "sl65_bumpf_khaki",
+                "sl65_bumpf_white",
+                "sl65_bumpf_camo1",
+                "sl65_bumpf_chrome",
+                "sl65_bumpf_green",
+                "sl65_bumpf_orange",
+                "sl65_bumpf_purple",
+                "sl65_bumpf_red",
+                "sl65_bumpf_silver",
+                "sl65_bumpf_yellow",
+                "sl65_bumpf_lime",
+                "sl65_bumpf_gold"
+            ]
+        },
+        {
+            "ClassName": "sl65_bumpr",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"sl65_bumpr_black",
+				"sl65_bumpr_blue",
+                "sl65_bumpr_khaki",
+                "sl65_bumpr_white",
+                "sl65_bumpr_camo1",
+                "sl65_bumpr_chrome",
+                "sl65_bumpr_green",
+                "sl65_bumpr_orange",
+                "sl65_bumpr_purple",
+                "sl65_bumpr_red",
+                "sl65_bumpr_silver",
+                "sl65_bumpr_yellow",
+                "sl65_bumpr_lime",
+                "sl65_bumpr_gold"
+            ]
+        },
+        {
+            "ClassName": "sl65_doors_trunk",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"sl65_doors_trunk_black",
+				"sl65_doors_trunk_blue",
+                "sl65_doors_trunk_khaki",
+                "sl65_doors_trunk_white",
+                "sl65_doors_trunk_camo1",
+                "sl65_doors_trunk_chrome",
+                "sl65_doors_trunk_green",
+                "sl65_doors_trunk_orange",
+                "sl65_doors_trunk_purple",
+                "sl65_doors_trunk_red",
+                "sl65_doors_trunk_silver",
+                "sl65_doors_trunk_yellow",
+                "sl65_doors_trunk_lime",
+                "sl65_doors_trunk_gold"
+            ]
+        },
+        {
+            "ClassName": "sl65_doors_hood",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"sl65_doors_hood_black",
+				"sl65_doors_hood_blue",
+                "sl65_doors_hood_khaki",
+                "sl65_doors_hood_white",
+                "sl65_doors_hood_camo1",
+                "sl65_doors_hood_chrome",
+                "sl65_doors_hood_green",
+                "sl65_doors_hood_orange",
+                "sl65_doors_hood_purple",
+                "sl65_doors_hood_red",
+                "sl65_doors_hood_silver",
+                "sl65_doors_hood_yellow",
+                "sl65_doors_hood_lime",
+                "sl65_doors_hood_gold"
+            ]
+        },
+        {
+            "ClassName": "sl65_Doors_coDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"sl65_Doors_coDriver_black",
+				"sl65_Doors_coDriver_blue",
+                "sl65_Doors_coDriver_khaki",
+                "sl65_Doors_coDriver_white",
+                "sl65_Doors_coDriver_camo1",
+                "sl65_Doors_coDriver_chrome",
+                "sl65_Doors_coDriver_green",
+                "sl65_Doors_coDriver_orange",
+                "sl65_Doors_coDriver_purple",
+                "sl65_Doors_coDriver_red",
+                "sl65_Doors_coDriver_silver",
+                "sl65_Doors_coDriver_yellow",
+                "sl65_Doors_coDriver_lime",
+                "sl65_Doors_coDriver_gold"
+            ]
+        },
+        {
+            "ClassName": "sl65_doors_Driver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"sl65_doors_Driver_black",
+				"sl65_doors_Driver_blue",
+                "sl65_doors_Driver_khaki",
+                "sl65_doors_Driver_white",
+                "sl65_doors_Driver_camo1",
+                "sl65_doors_Driver_chrome",
+                "sl65_doors_Driver_green",
+                "sl65_doors_Driver_orange",
+                "sl65_doors_Driver_purple",
+                "sl65_doors_Driver_red",
+                "sl65_doors_Driver_silver",
+                "sl65_doors_Driver_yellow",
+                "sl65_doors_Driver_lime",
+                "sl65_doors_Driver_gold"
+            ]
+        },
+        {
+            "ClassName": "MBM_RamRebel_doors_driver_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MBM_RamRebel_doors_driver_Grey",
+				"MBM_RamRebel_doors_driver_Lime",
+                "MBM_RamRebel_doors_driver_White",
+                "MBM_RamRebel_doors_driver_Yellow",
+                "MBM_RamRebel_doors_driver_Orange"
+            ]
+        },
+        {
+            "ClassName": "MBM_RamRebel_doors_codriver_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MBM_RamRebel_doors_codriver_Grey",
+				"MBM_RamRebel_doors_codriver_Lime",
+                "MBM_RamRebel_doors_codriver_White",
+                "MBM_RamRebel_doors_codriver_Yellow",
+                "MBM_RamRebel_doors_codriver_Orange"
+            ]
+        },
+        {
+            "ClassName": "MBM_RamRebel_doors_cargo1_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MBM_RamRebel_doors_cargo1_Grey",
+				"MBM_RamRebel_doors_cargo1_Lime",
+                "MBM_RamRebel_doors_cargo1_White",
+                "MBM_RamRebel_doors_cargo1_Yellow",
+                "MBM_RamRebel_doors_cargo1_Orange"
+            ]
+        },
+        {
+            "ClassName": "MBM_RamRebel_doors_cargo2_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MBM_RamRebel_doors_cargo2_Grey",
+				"MBM_RamRebel_doors_cargo2_Lime",
+                "MBM_RamRebel_doors_cargo2_White",
+                "MBM_RamRebel_doors_cargo2_Yellow",
+                "MBM_RamRebel_doors_cargo2_Orange"
+            ]
+        },
+        {
+            "ClassName": "MBM_RamRebel_doors_hood_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MBM_RamRebel_doors_hood_Grey",
+				"MBM_RamRebel_doors_hood_Lime",
+                "MBM_RamRebel_doors_hood_White",
+                "MBM_RamRebel_doors_hood_Yellow",
+                "MBM_RamRebel_doors_hood_Orange"
+            ]
+        },
+        {
+            "ClassName": "MBM_RamRebel_doors_trunk_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"MBM_RamRebel_doors_trunk_Grey",
+				"MBM_RamRebel_doors_trunk_Lime",
+                "MBM_RamRebel_doors_trunk_White",
+                "MBM_RamRebel_doors_trunk_Yellow",
+                "MBM_RamRebel_doors_trunk_Orange"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Driver_Door",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Porsche_911RWB_Driver_Door_Black",
+				"Porsche_911RWB_Driver_Door_Blue",
+                "Porsche_911RWB_Driver_Door_Pink",
+                "Porsche_911RWB_Driver_Door_Orange",
+                "Porsche_911RWB_Driver_Door_Green",
+                "Porsche_911RWB_Driver_Door_Red"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_CoDriver_Door",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Porsche_911RWB_CoDriver_Door_Black",
+				"Porsche_911RWB_CoDriver_Door_Blue",
+                "Porsche_911RWB_CoDriver_Door_Pink",
+                "Porsche_911RWB_CoDriver_Door_Orange",
+                "Porsche_911RWB_CoDriver_Door_Green",
+                "Porsche_911RWB_CoDriver_Door_Red"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Hood",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Porsche_911RWB_Hood_Black",
+				"Porsche_911RWB_Hood_Blue",
+                "Porsche_911RWB_Hood_Pink",
+                "Porsche_911RWB_Hood_Orange",
+                "Porsche_911RWB_Hood_Green",
+                "Porsche_911RWB_Hood_Red"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Trunk",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Porsche_911RWB_Trunk_Black",
+				"Porsche_911RWB_Trunk_Blue",
+                "Porsche_911RWB_Trunk_Pink",
+                "Porsche_911RWB_Trunk_Orange",
+                "Porsche_911RWB_Trunk_Green",
+                "Porsche_911RWB_Trunk_Red"
             ]
         },
         {
@@ -32,6 +431,28 @@
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sl65_Wheel",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche_911RWB_Front_Wheel",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []

@@ -7,6 +7,39 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
+            "ClassName": "GunnerTruck",
+            "MaxPriceThreshold": 20000000,
+            "MinPriceThreshold": 20000000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "JLTVWheel",
+                "JLTVWheel",
+                "JLTVWheel",
+                "JLTVWheel",
+                "JLTVDoorDriver",
+                "JLTVDoorCoDriver",
+                "JLTVDoorBackLeft",
+                "JLTVDoorBackRight",
+                "JLTVHood",
+                "JLTVRearGuard",
+				"CanisterGasoline",
+				"JLTVWheel"
+            ],
+            "Variants": [
+                "GunnerTruckWhite",
+                "GunnerTruckTan",
+                "GunnerTruck_Auto",
+                "GunnerTruckWhite_Auto",
+                "GunnerTruckTan_Auto"
+            ]
+        },
+        {
             "ClassName": "FordRaptor_Scorpio",
             "MaxPriceThreshold": 750000,
             "MinPriceThreshold": 750000,
@@ -83,6 +116,115 @@
                 "headlighth7"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "Porsche_911RWB_White",
+            "MaxPriceThreshold": 10000000,
+            "MinPriceThreshold": 10000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Porsche_911RWB_Front_Wheel",
+                "Porsche_911RWB_Front_Wheel",
+                "Porsche_911RWB_Front_Wheel",
+                "Porsche_911RWB_Front_Wheel",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7",
+                "Porsche_911RWB_Driver_Door",
+                "Porsche_911RWB_CoDriver_Door",
+                "Porsche_911RWB_Hood",
+                "Porsche_911RWB_Trunk"
+            ],
+            "Variants": [
+                "Porsche_911RWB_Black",
+                "Porsche_911RWB_Blue",
+                "Porsche_911RWB_Pink",
+                "Porsche_911RWB_Orange",
+                "Porsche_911RWB_Green",
+                "Porsche_911RWB_Red"
+            ]
+        },
+        {
+            "ClassName": "MBM_RamRebel_Red",
+            "MaxPriceThreshold": 10000000,
+            "MinPriceThreshold": 10000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "MBM_RamRebel_wheel_Black",
+                "MBM_RamRebel_wheel_Black",
+                "MBM_RamRebel_wheel_Black",
+                "MBM_RamRebel_wheel_Black",
+                "MBM_RamRebel_wheel_Black",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7",
+                "MBM_RamRebel_doors_driver_Red",
+                "MBM_RamRebel_doors_codriver_Red",
+                "MBM_RamRebel_doors_cargo1_Red",
+                "MBM_RamRebel_doors_cargo2_Red",
+                "MBM_RamRebel_doors_hood_Red",
+                "MBM_RamRebel_doors_trunk_Red"
+            ],
+            "Variants": [
+                "MBM_RamRebel_Grey",
+                "MBM_RamRebel_Lime",
+                "MBM_RamRebel_White",
+                "MBM_RamRebel_Yellow",
+                "MBM_RamRebel_Orange"
+            ]
+        },
+        {
+            "ClassName": "sl65",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "sl65_Wheel",
+                "sl65_Wheel",
+                "sl65_Wheel",
+                "sl65_Wheel",
+                "sl65_Wheel",
+                "CanisterGasoline",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "sl65_bumpf",
+                "sl65_bumpr",
+                "sl65_doors_trunk",
+                "sl65_doors_hood",
+                "sl65_Doors_coDriver",
+                "sl65_doors_Driver",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+                "sl65_black",
+                "sl65_blue",
+                "sl65_khaki",
+                "sl65_white",
+                "sl65_chrome",	
+                "sl65_green",
+                "sl65_orange",
+                "sl65_purple",
+                "sl65_red",	
+                "sl65_silver",
+                "sl65_yellow",
+                "sl65_lime",
+                "sl65_gold"
+            ]
         },
         {
             "ClassName": "Techs_ATV_Black",
