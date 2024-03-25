@@ -119,8 +119,8 @@
         },
         {
             "ClassName": "Porsche_911RWB_White",
-            "MaxPriceThreshold": 10000000,
-            "MinPriceThreshold": 10000000,
+            "MaxPriceThreshold": 1000000,
+            "MinPriceThreshold": 1000000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 4,
@@ -151,8 +151,8 @@
         },
         {
             "ClassName": "MBM_RamRebel_Red",
-            "MaxPriceThreshold": 10000000,
-            "MinPriceThreshold": 10000000,
+            "MaxPriceThreshold": 750000,
+            "MinPriceThreshold": 750000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 4,
@@ -185,8 +185,8 @@
         },
         {
             "ClassName": "sl65",
-            "MaxPriceThreshold": 200000,
-            "MinPriceThreshold": 200000,
+            "MaxPriceThreshold": 1000000,
+            "MinPriceThreshold": 1000000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 4,
