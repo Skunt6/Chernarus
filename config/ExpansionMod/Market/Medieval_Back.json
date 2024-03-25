@@ -1,0 +1,26 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Back",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "t_crusader_cape",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "t_crusader_cape_black",
+                "t_crusader_cape_blue",
+                "t_crusader_cape_red",
+                "t_crusader_cape_green"
+            ]
+        }
+    ]
+}
