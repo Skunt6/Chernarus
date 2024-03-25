@@ -7881,6 +7881,71 @@
     <usage name="Military"/>
     <usage name="Hunting"/>
   </type>
+  <type name="t_crusader_cape">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="t_crusader_cape_black">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="t_crusader_cape_blue">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="t_crusader_cape_red">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="t_crusader_cape_green">
+    <nominal>0</nominal>
+    <lifetime>4000</lifetime>
+    <restock>0</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <usage name="Hunting"/>
+  </type>
   <type name="t_crusader_cloth_kek">
     <nominal>0</nominal>
     <lifetime>4000</lifetime>
