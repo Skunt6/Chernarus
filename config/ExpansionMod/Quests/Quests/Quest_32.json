@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 21,
+    "ConfigVersion": 22,
     "ID": 32,
     "Type": 1,
     "Title": "Main: The Suicide Mission",
@@ -31,6 +31,7 @@
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
     "QuestGiverIDs": [
         5
     ],

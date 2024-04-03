@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 21,
+    "ConfigVersion": 22,
     "ID": 39,
     "Type": 1,
     "Title": "Weekly: Kill 100 NightWalkers",
@@ -40,6 +40,7 @@
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
     "QuestGiverIDs": [
         3,
         8,

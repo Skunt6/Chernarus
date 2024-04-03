@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 21,
+    "ConfigVersion": 22,
     "ID": 3,
     "Type": 1,
     "Title": "Meet the doctor",
@@ -21,6 +21,7 @@
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
     "QuestGiverIDs": [
         1
     ],

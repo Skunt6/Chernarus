@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 21,
+    "ConfigVersion": 22,
     "ID": 9,
     "Type": 1,
     "Title": "Mystic: Whispers of the Celestial Cache",
@@ -21,6 +21,7 @@
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
     "QuestGiverIDs": [
         6
     ],

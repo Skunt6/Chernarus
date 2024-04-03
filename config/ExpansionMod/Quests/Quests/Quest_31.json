@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 21,
+    "ConfigVersion": 22,
     "ID": 31,
     "Type": 1,
     "Title": "Find a Handheld Transmitter",
@@ -21,6 +21,7 @@
     "RandomReward": 0,
     "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
     "QuestGiverIDs": [],
     "QuestTurnInIDs": [],
     "IsAchievement": 0,

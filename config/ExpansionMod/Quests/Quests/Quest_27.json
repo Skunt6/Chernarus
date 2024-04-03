@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 21,
+    "ConfigVersion": 22,
     "ID": 27,
     "Type": 1,
     "Title": "Arvandus: The Enigmatic Knights of Chernaurs",
@@ -31,6 +31,7 @@
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
     "QuestGiverIDs": [
         7
     ],

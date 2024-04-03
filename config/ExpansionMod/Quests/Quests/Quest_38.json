@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 21,
+    "ConfigVersion": 22,
     "ID": 38,
     "Type": 1,
     "Title": "Main: Viktor Strakov",
@@ -1890,6 +1890,7 @@
     "RandomReward": 1,
     "RandomRewardAmount": 3,
     "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
     "QuestGiverIDs": [
         9
     ],
