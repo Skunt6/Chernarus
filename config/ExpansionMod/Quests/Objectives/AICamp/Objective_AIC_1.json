@@ -28,7 +28,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_Base"
@@ -37,8 +37,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -61,7 +61,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -100,8 +100,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -124,7 +124,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -163,8 +163,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -187,7 +187,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -226,8 +226,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -250,7 +250,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -289,8 +289,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -313,7 +313,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -352,8 +352,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -376,7 +376,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -415,8 +415,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -439,7 +439,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -478,8 +478,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -502,7 +502,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -541,8 +541,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -565,7 +565,7 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "ThreatDistanceLimit": 1000.0,
-            "DamageMultiplier": 1.0,
+            "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "ClassNames": [
                 "eAI_SurvivorF_Eva",
@@ -604,8 +604,8 @@
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
             "MinDistanceRadius": 200.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MaxDistanceRadius": 600.0,
+            "DespawnRadius": 600.0
         }
     ],
     "MaxDistance": -1.0,

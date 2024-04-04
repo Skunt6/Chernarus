@@ -33,12 +33,12 @@
             "ClassNames": [
                 "eAI_SurvivorM_Guo"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -66,12 +66,12 @@
             "ClassNames": [
                 "eAI_SurvivorM_Cyril"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -99,12 +99,12 @@
             "ClassNames": [
                 "eAI_SurvivorF_Baty"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -132,12 +132,12 @@
             "ClassNames": [
                 "eAI_SurvivorM_Francis"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -165,12 +165,12 @@
             "ClassNames": [
                 "eAI_SurvivorM_Jose"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -198,12 +198,12 @@
             "ClassNames": [
                 "eAI_SurvivorF_Gabi"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -231,12 +231,12 @@
             "ClassNames": [
                 "eAI_SurvivorM_Boris"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -264,12 +264,12 @@
             "ClassNames": [
                 "eAI_SurvivorM_Denis"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -327,12 +327,12 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -390,12 +390,12 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -453,12 +453,12 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -516,12 +516,12 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -579,12 +579,12 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -642,12 +642,12 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         },
         {
             "NumberOfAI": 1,
@@ -705,12 +705,12 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "SniperProneDistanceThreshold": 300.0,
+            "SniperProneDistanceThreshold": 500.0,
             "RespawnTime": 1.0,
             "DespawnTime": 1.0,
-            "MinDistanceRadius": 400.0,
-            "MaxDistanceRadius": 880.0,
-            "DespawnRadius": 880.0
+            "MinDistanceRadius": 200.0,
+            "MaxDistanceRadius": 500.0,
+            "DespawnRadius": 600.0
         }
     ],
     "MaxDistance": -1.0,
