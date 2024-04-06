@@ -23,31 +23,31 @@
                 },
                 {
                     "RuleParagraph": "1.2.",
-                    "RuleText": "Cheating will result in ban."
+                    "RuleText": "Cheating will result in a ban."
                 },
                 {
                     "RuleParagraph": "1.3.",
-                    "RuleText": "Be resonable."
+                    "RuleText": "Be reasonable."
                 },
                 {
                     "RuleParagraph": "1.4.",
-                    "RuleText": "PVE only."
+                    "RuleText": "PvE only."
                 },
                 {
                     "RuleParagraph": "1.5.",
-                    "RuleText": "Do not touch other players stuff."
+                    "RuleText": "Do not tamper with other players' possessions."
                 },
                 {
                     "RuleParagraph": "1.6.",
-                    "RuleText": "Server is always being worked on. Any feedback comments or complaints please drop a message in feedback channel located on our Discord"
+                    "RuleText": "The server is continually evolving. Share your feedback, comments, or complaints in the feedback channel on our Discord."
                 },
                 {
                     "RuleParagraph": "1.7.",
-                    "RuleText": "There are mysteries located through out the map."
+                    "RuleText": "Discover the mysteries scattered throughout the map."
                 },
                 {
                     "RuleParagraph": "1.8.",
-                    "RuleText": "When you die you have 2 hours to retieve your body, and whats on it before it despawns."
+                    "RuleText": "You have 2 hours to retrieve your body and belongings before they despawn upon death."
                 }
             ]
         }
@@ -120,77 +120,59 @@
     ],
     "Descriptions": [
         {
-            "CategoryName": "Server support",
+            "CategoryName": "Server Support",
             "Descriptions": [
                 {
-                    "DescriptionText": "Click the Discord link in the book, or hit esc and you will see it in the menu. Please submit a ticket, and we will help as soon as we can."
+                    "DescriptionText": "Click the Discord link in the book or hit 'Esc' to find it in the menu. Submit a ticket, and we'll assist you promptly."
                 }
             ]
         },
         {
-            "CategoryName": "AI info",
+            "CategoryName": "AI Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "Hostile AI will always wear a orange armband"
+                    "DescriptionText": "Hostile AI proudly dons an orange armband, while their friendly counterparts sport a verdant green one. Beware the Boss AI, unmistakable in their fiery red bands."
                 },
                 {
-                    "DescriptionText": "Friendly AI will always wear a Green armband"
+                    "DescriptionText": "AI's precision and gear escalate with their tiers, from basic loot to formidable armaments."
                 },
                 {
-                    "DescriptionText": "Boss AI will always wear a Red armband"
+                    "DescriptionText": "Expect AI encounters in every nook and cranny: towns, villages, military zones, and even the wilds."
                 },
                 {
-                    "DescriptionText": "AI's accuracy, and loadout scale with the tiers."
+                    "DescriptionText": "Accuracy breakdown: Tier 1: (0.25, 0.75), Tier 2: (0.30, 0.80), Tier 3: (0.35, 0.85), Tier 4: (0.40, 0.90)."
                 },
                 {
-                    "DescriptionText": "There is AI in almost every town, village, Military, and city. Also wooded areas and fields to."
+                    "DescriptionText": "Loot bonuses await, with officers and NPCs like Van Pelt, NBC, and Colonels offering enhanced rewards."
                 },
                 {
-                    "DescriptionText": "Accuracies are: tier1: (0.25, 0.75) tier2: (0.30, 0.80) tier3: (0.35, 0.85) tier4: (0.40, 0.90)"
+                    "DescriptionText": "Rage, Tri Krestas Boss, boasts a staggering 20x Snafu loot chance!"
                 },
                 {
-                    "DescriptionText": "Tier 1 and 2 AI are base loot, Tier 3 is 2x snafu and mmg, Tier 4 is 3x snafu, mmg, and base building stuff."
+                    "DescriptionText": "Even zombies get in on the action, occasionally dropping rare herbal and ore items."
                 },
                 {
-                    "DescriptionText": "AI officers have a 3x chance to spawn loot."
+                    "DescriptionText": "Beware the Jug AI: rare, elusive, and impervious to looting."
                 },
                 {
-                    "DescriptionText": "Van Pelt has 4x chance to spawn loot, and keycards."
-                },
-                {
-                    "DescriptionText": "NBC AI have 10x chance to spawn Snafu loot, and keycards."
-                },
-                {
-                    "DescriptionText": "Colonel's have a 6x chance of spawning loot, and keycards."
-                },
-                {
-                    "DescriptionText": "Rage, Tri Krestas Boss has 20x Snafu loot chance."
-                },
-                {
-                    "DescriptionText": "Zombies have a chance to spawn Herbals and ore items."
-                },
-                {
-                    "DescriptionText": "Jug AI has 1% chance of spawning at AI spawns, and can't be looted."
-                },
-                {
-                    "DescriptionText": "During quests if a AI gets killed by their own kind the kill wont count."
+                    "DescriptionText": "Friendly fire doesn't count: during quests, AI-on-AI casualties won't advance your score."
                 }
             ]
         },
         {
-            "CategoryName": "Base Building info",
+            "CategoryName": "Base Building Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "500m from military is allowed."
+                    "DescriptionText": "Build within 500m of military zones, but remember, no traders nearby!"
                 },
                 {
-                    "DescriptionText": "Bases have a 7 day duration unless you raise the flag"
+                    "DescriptionText": "Secure your territory and spawn point by establishing a territory before planting your flag."
                 },
                 {
-                    "DescriptionText": "Dont go crazy with the kits. Be reasonable!"
+                    "DescriptionText": "Base durations last 7 days unless you raise the flag."
                 },
                 {
-                    "DescriptionText": "No bases within 500m of traders"
+                    "DescriptionText": "Kit sensibly; excessive building can disrupt the balance of the server."
                 }
             ]
         },
@@ -198,10 +180,10 @@
             "CategoryName": "Dayz Dog",
             "Descriptions": [
                 {
-                    "DescriptionText": "Feed them a steak to gian their trust. They will not take wolf meat."
+                    "DescriptionText": "Win over these loyal companions with a juicy steak; they're discerning and won't settle for wolf meat."
                 },
                 {
-                    "DescriptionText": "They will enter vehicals with you."
+                    "DescriptionText": "They'll ride shotgun with you, faithful to the end."
                 }
             ]
         },
@@ -209,16 +191,13 @@
             "CategoryName": "KeyCards & Punchedcards",
             "Descriptions": [
                 {
-                    "DescriptionText": "All cards spawn on NBC zone AI's"
+                    "DescriptionText": "Unlock the mysteries with cards found on NBC zone AI's and high-level officers."
                 },
                 {
-                    "DescriptionText": "Cards also spawn on highlevel AI officers"
+                    "DescriptionText": "Colored or named cards spawn with the Day Master, while the Night Master offers access cards alongside others."
                 },
                 {
-                    "DescriptionText": "Colored or named cards spawn on day master. All access card spawns on night master with other cards."
-                },
-                {
-                    "DescriptionText": "Keycards also spawn on Train events."
+                    "DescriptionText": "Don't overlook train events for keycard opportunities."
                 }
             ]
         },
@@ -226,10 +205,7 @@
             "CategoryName": "Tigers",
             "Descriptions": [
                 {
-                    "DescriptionText": "At Bear spawns."
-                },
-                {
-                    "DescriptionText": "Van Pelt spawns near them."
+                    "DescriptionText": "Tigers prowl near Bear spawns, with Van Pelt often lurking close by."
                 }
             ]
         },
@@ -237,24 +213,18 @@
             "CategoryName": "Base Building Plus",
             "Descriptions": [
                 {
-                    "DescriptionText": "2 large, 2 medium, 2 small tents, and 4 barrels per player."
+                    "DescriptionText": "Each player can claim 2 large, 2 medium, and 2 small tents, along with 4 barrels."
                 }
             ]
         },
         {
-            "CategoryName": "Vehical info",
+            "CategoryName": "Vehicle Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "Vehical will last 7 days without being touched. If left in base, they will last 14 days."
+                    "DescriptionText": "Vehicles stand the test of time for 7 days but enjoy a longer life within the safety of your base."
                 },
                 {
-                    "DescriptionText": "Vehicals left at trader that are in the way will be deleted."
-                },
-                {
-                    "DescriptionText": "Two Vehicals per player."
-                },
-                {
-                    "DescriptionText": "They dont take damage. Be careful flying close to the traders. It gets buggy."
+                    "DescriptionText": "Trader parking violations result in vehicular deletions."
                 }
             ]
         }
