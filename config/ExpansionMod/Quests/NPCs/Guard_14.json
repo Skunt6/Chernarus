@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 6,
+    "ID": 14,
+    "ClassName": "ExpansionQuestNPCAILinda",
+    "Position": [
+
+        3718.44, 401.861, 6003.7
+
+    ],
+    "Orientation": [
+
+        146.85, 0, -0
+
+    ],
+    "NPCName": "Green Mountian Guard",
+    "DefaultNPCText": "Best be moving along...",
+    "Waypoints": [
+        [
+            3718.44, 401.861, 6003.7
+        ],
+        [
+            3683.94, 402.692, 5983.4
+        ],
+        [
+            3708.48, 402, 5967.54
+        ],
+        [
+            3667.15, 401.984, 5974.96
+        ],
+        [
+            3688.79, 401.59, 5937.4
+        ],
+        [
+            3766.73, 404.313, 5960.01
+        ],
+        [
+            3717.24, 397.057, 6068.68
+        ],
+        [
+            3674.04, 401.832, 6011.3
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "GuardLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}
