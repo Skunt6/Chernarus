@@ -326,7 +326,7 @@
         ]
     },
     "EnableSpawnSelection": 1,
-    "SpawnOnTerritory": 0,
+    "SpawnOnTerritory": 1,
     "StartingGear": {
         "EnableStartingGear": 1,
         "ApplyEnergySources": 0,
