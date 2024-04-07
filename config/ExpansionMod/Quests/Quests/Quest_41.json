@@ -60,11 +60,6 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 12,
-            "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 27,
             "ID": 7,
             "ObjectiveType": 8
         }
