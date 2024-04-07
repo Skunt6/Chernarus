@@ -423,7 +423,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 10.0,
-            "LoadoutFile": "CaveLoadout",
+            "LoadoutFile": "Tier4Loadout",
             "Units": [],
             "NumberOfAI": 3,
             "Behaviour": "ALTERNATE",
