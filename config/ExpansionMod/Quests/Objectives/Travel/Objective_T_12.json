@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 27,
+    "ID": 12,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go check Severograd",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8457.63, 137.815, 12907.6
+    ],
+    "MaxDistance": 150.0,
+    "MarkerName": "?",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
