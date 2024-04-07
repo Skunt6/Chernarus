@@ -81,7 +81,7 @@
             "eAI_SurvivorM_Seth",
             "eAI_SurvivorM_Taiki"
         ],
-        "SniperProneDistanceThreshold": 300.0,
+        "SniperProneDistanceThreshold": 1000.0,
         "RespawnTime": 1.0,
         "DespawnTime": 1.0,
         "MinDistanceRadius": 50.0,
