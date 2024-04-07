@@ -2,13 +2,13 @@
     "ConfigVersion": 27,
     "ID": 5,
     "ObjectiveType": 6,
-    "ObjectiveText": "Collect",
+    "ObjectiveText": "Collect Intel",
     "TimeLimit": -1,
     "Active": 1,
     "ShowDistance": 1,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 0,
-    "MarkerName": "Gold and Silver",
+    "MarkerName": "Package",
     "MarkerVisibility": 1,
     "Positions": [
         [
@@ -21,20 +21,11 @@
     "MaxDistance": 10.0,
     "Loot": [
         {
-            "Name": "ExpansionGoldBar",
+            "Name": "ExpansionQuestItemPackage",
             "Chance": 1.0,
             "Attachments": [],
             "QuantityPercent": 100,
-            "Max": 10,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ExpansionSilverBar",
-            "Chance": 1.0,
-            "Attachments": [],
-            "QuantityPercent": 100,
-            "Max": 10,
+            "Max": 0,
             "Min": 0,
             "Variants": []
         }
