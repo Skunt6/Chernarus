@@ -87,7 +87,7 @@
     </event>
     <!--Ore events start-->
     <event name="ItemOreSpawn">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>80</min>
         <max>100</max>
         <lifetime>7200</lifetime>
