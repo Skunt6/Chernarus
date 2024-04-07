@@ -3,9 +3,7 @@
     "ID": 7,
     "ClassName": "ExpansionQuestNPCAIManua",
     "Position": [
-        3711.3798828125,
-        402.0119934082031,
-        6009.5498046875
+        3712.39, 402.012, 6008.44
     ],
     "Orientation": [
         131.11199951171876,
@@ -14,7 +12,20 @@
     ],
     "NPCName": "Arvandus Metalsmith",
     "DefaultNPCText": "Please progress more in the campaign!",
-    "Waypoints": [],
+    "Waypoints": [
+        [
+            3712.39, 402.012, 6008.44
+        ],
+        [
+            3708.5, 402.012, 6004.22
+        ],
+        [
+            3702.58, 402.012, 6006.97
+        ],
+        [
+            3706.52, 402.064, 6005.68
+        ]
+    ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
     "NPCLoadoutFile": "ArvandusLoadout",
