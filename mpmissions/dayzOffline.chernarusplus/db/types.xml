@@ -3184,7 +3184,7 @@
         <tag name="shelves"/>
     </type>
     <type name="evg_keycards_Tisy05">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -3219,7 +3219,7 @@
         <tag name="shelves"/>
     </type>
     <type name="evg_keycards_All">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>1000</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -3230,7 +3230,7 @@
         <usage name="Keycards"/>
     </type>
     <type name="evg_keycards_Blue">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -3253,7 +3253,7 @@
         <usage name="Military"/>
     </type>
     <type name="evg_keycards_Red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
