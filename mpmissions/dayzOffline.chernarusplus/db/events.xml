@@ -88,7 +88,7 @@
     <!--Ore events start-->
     <event name="ItemOreSpawn">
         <nominal>50</nominal>
-        <min>10</min>
+        <min>35</min>
         <max>50</max>
         <lifetime>7200</lifetime>
         <restock>800</restock>
@@ -103,12 +103,12 @@
             <child lootmax="0" lootmin="0" max="2" min="1" type="AlienOre"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="DiamondOre"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="GoldOre"/>
-            <child lootmax="0" lootmin="0" max="5" min="4" type="SilverOre"/>
-            <child lootmax="0" lootmin="0" max="5" min="4" type="CharCoalOre"/>
-            <child lootmax="0" lootmin="0" max="6" min="5" type="IronOre"/>
-            <child lootmax="0" lootmin="0" max="6" min="5" type="CopperOre"/>
-            <child lootmax="0" lootmin="0" max="7" min="6" type="TinOre"/>
-            <child lootmax="0" lootmin="0" max="7" min="6" type="SulfurOre"/>
+            <child lootmax="0" lootmin="0" max="6" min="4" type="SilverOre"/>
+            <child lootmax="0" lootmin="0" max="6" min="4" type="CharCoalOre"/>
+            <child lootmax="0" lootmin="0" max="7" min="5" type="IronOre"/>
+            <child lootmax="0" lootmin="0" max="7" min="5" type="CopperOre"/>
+            <child lootmax="0" lootmin="0" max="8" min="6" type="TinOre"/>
+            <child lootmax="0" lootmin="0" max="8" min="6" type="SulfurOre"/>
         </children>
 	</event>
      <!-- Vanilla Tweaks -->
