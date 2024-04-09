@@ -88,26 +88,27 @@
     <!--Ore events start-->
     <event name="ItemOreSpawn">
         <nominal>50</nominal>
-        <min>80</min>
-        <max>100</max>
+        <min>10</min>
+        <max>50</max>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <saferadius>200</saferadius>
-        <distanceradius>40</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <distanceradius>150</distanceradius>
+        <cleanupradius>400</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-			<child lootmax="0" lootmin="0" max="12" min="12" type="AlienOre"/>
-			<child lootmax="0" lootmin="0" max="12" min="12" type="TinOre"/>
-			<child lootmax="0" lootmin="0" max="12" min="12" type="CharCoalOre"/>
-            <child lootmax="0" lootmin="0" max="12" min="12" type="SulfurOre"/>
-			<child lootmax="0" lootmin="0" max="12" min="12" type="GoldOre"/>
-			<child lootmax="0" lootmin="0" max="12" min="12" type="SilverOre"/>
-			<child lootmax="0" lootmin="0" max="13" min="13" type="IronOre"/>
-			<child lootmax="0" lootmin="0" max="13" min="13" type="CopperOre"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="AlienOre"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="DiamondOre"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="GoldOre"/>
+            <child lootmax="0" lootmin="0" max="5" min="4" type="SilverOre"/>
+            <child lootmax="0" lootmin="0" max="5" min="4" type="CharCoalOre"/>
+            <child lootmax="0" lootmin="0" max="6" min="5" type="IronOre"/>
+            <child lootmax="0" lootmin="0" max="6" min="5" type="CopperOre"/>
+            <child lootmax="0" lootmin="0" max="7" min="6" type="TinOre"/>
+            <child lootmax="0" lootmin="0" max="7" min="6" type="SulfurOre"/>
         </children>
 	</event>
      <!-- Vanilla Tweaks -->
