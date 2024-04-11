@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
 
-    <!--Ore spawn-->
+    <!--Ore spawn
         <group name="Land_Oresspawnpoint_All" pos="3053.352783 338.673981 14328.635742" rpy="17.948286 17.398424 0.000000" a="90"/>
         <group name="Land_Oresspawnpoint_All" pos="3038.039307 344.944672 14332.176758" rpy="17.335430 16.418152 0.000000" a="90"/>
         <group name="Land_Oresspawnpoint_All" pos="3027.701660 334.511780 14311.567383" rpy="29.866661 9.405872 0.000000" a="90"/>
@@ -501,7 +501,7 @@
         <group name="Land_Oresspawnpoint_All" pos="7516.640137 435.187988 15144.708008" rpy="5.723220 20.127216 0.000000" a="90"/>
         <group name="Land_Oresspawnpoint_All" pos="7580.311035 435.687531 15140.947266" rpy="-15.614582 14.694108 0.000000" a="90"/>
         <group name="Land_Oresspawnpoint_All" pos="7566.124023 449.151978 15174.972656" rpy="0.681810 7.266992 0.000000" a="90"/>
-        <group name="Land_Oresspawnpoint_All" pos="7489.257324 433.406281 15123.548828" rpy="3.277333 -2.810870 0.000000" a="90"/>
+        <group name="Land_Oresspawnpoint_All" pos="7489.257324 433.406281 15123.548828" rpy="3.277333 -2.810870 0.000000" a="90"/>-->
 
     <group name="Land_Misc_FeedShack" pos="80.262581 113.793480 4422.178223" rpy="-0.000000 0.000000 -70.013718" a="160.013718" />
     <group name="Land_Misc_FeedShack" pos="80.261421 411.262756 10449.132813" rpy="-0.000000 0.000000 -58.923214" a="148.923203" />
