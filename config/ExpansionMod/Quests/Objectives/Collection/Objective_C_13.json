@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 13,
     "ObjectiveType": 4,
-    "ObjectiveText": "Look in inventory for nails.",
+    "ObjectiveText": "Look in inventory for iron ingot.",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
