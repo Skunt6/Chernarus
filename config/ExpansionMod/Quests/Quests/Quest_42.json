@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "Nail",
-            "Amount": 1,
+            "Amount": 99,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -28,7 +28,7 @@
         },
         {
             "ClassName": "MetalPlate",
-            "Amount": 1,
+            "Amount": 10,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
