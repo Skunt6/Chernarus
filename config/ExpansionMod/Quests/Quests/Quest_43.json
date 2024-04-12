@@ -1,20 +1,20 @@
 {
     "ConfigVersion": 22,
-    "ID": 41,
+    "ID": 43,
     "Type": 1,
-    "Title": "Mick: Severograd Ruff Housers",
+    "Title": "Mick: Micks supply run.",
     "Descriptions": [
-        "Hey there, Bubs, it's Mick. Just took my barefoot journey through Severograd, and let me tell ya, it's wilder than a storm on the coast. Ran into a crew down there, not your ordinary folks, mind you. These are cannibals, cooking up a storm of their own, but not the kind you'd ever want to get a whiff of. They're using what's left of dead survivors, turning despair into dinner, and they're not shy about fueling their fires with more than just wood, if you catch my drift. Why don't you wander down that way, take a gander for yourself? But keep your wits sharp and your spirit sharper. It's a dance with the devil down there, and not everyone's cut out for the ball. If by some turn of fate you find your way out, unscathed and with tales to tell, track me down. I'll be on the green trail, the one that weaves through Kamensk, walking with the earth, listening to the stories the wind carries. Find me there, Bubs. We'll share tales of the wild and keep the true spirit of the forest alive amidst the chaos. Safe travels, and remember, it's not just the land that tests us, it's what we choose to do within it."
+        "Hey Bubs, Mick here with a bit of a wild goose chase—only there’s no geese, just my stash! So, here’s the scoop: strut your way to the northern tip of that pond, the one that’s just a hare’s leap northeast of Kamensk. Now, don’t just wander aimlessly! Look for the reddest pine tree around—she’s a standout, can’t miss her. Got a bit of a sunburn, that one. I tucked my treasures right under her roots. Didn’t choose her for her beauty alone; she’s also got a knack for keeping secrets, that tree. Why didn’t I fetch it myself, you ask? Well, let’s just say I had a prior engagement with the forest spirits and, ah, maybe a couple of furry locals who aren’t too keen on sharing their neck of the woods. Dig in, find the goods, and tread lightly, Bubs. The forest’s got eyes, and it loves a good laugh as much as the next woodland creature."
     ],
-    "ObjectiveText": "Check out the hippies in Severograd.",
+    "ObjectiveText": "Find Micks Stash!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
-    "ObjectSetFileName": "Severo-cookout",
+    "ObjectSetFileName": "micks-stash",
     "QuestItems": [],
     "Rewards": [
         {
@@ -123,14 +123,21 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 7,
-            "ObjectiveType": 8
+            "ID": 9,
+            "ObjectiveType": 6
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 14,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 50,
     "ReputationRequirement": 0,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        41
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 27,
+    "ID": 14,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Search under Red Pine tree at the north tip.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionQuestItemPackage",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

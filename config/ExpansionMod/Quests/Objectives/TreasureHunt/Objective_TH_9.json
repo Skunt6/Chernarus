@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 27,
+    "ID": 9,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Search for a pond northeast of Kamensk.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestDryBag_Black",
+    "DigInStash": 1,
+    "MarkerName": "",
+    "MarkerVisibility": 0,
+    "Positions": [
+        [
+            15049.5,
+            112.06600189208985,
+            14108.099609375
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "ExpansionQuestItemPackage",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}
