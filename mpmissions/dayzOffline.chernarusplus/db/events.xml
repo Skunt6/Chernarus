@@ -87,9 +87,9 @@
     </event>
     <!--Ore events start-->
     <event name="ItemOreSpawn">
-        <nominal>100</nominal>
-        <min>35</min>
-        <max>100</max>
+        <nominal>200</nominal>
+        <min>65</min>
+        <max>200</max>
         <lifetime>7200</lifetime>
         <restock>800</restock>
         <saferadius>200</saferadius>
@@ -100,15 +100,15 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="4" min="2" type="ItemAlienNugget"/>
-            <child lootmax="0" lootmin="0" max="6" min="4" type="ItemDiamondNugget"/>
-            <child lootmax="0" lootmin="0" max="6" min="4" type="ItemGoldNugget"/>
-            <child lootmax="0" lootmin="0" max="12" min="8" type="ItemSilverNugget"/>
-            <child lootmax="0" lootmin="0" max="12" min="8" type="ItemCharCoalNugget"/>
-            <child lootmax="0" lootmin="0" max="14" min="10" type="ItemIronNugget"/>
-            <child lootmax="0" lootmin="0" max="14" min="10" type="ItemCopperNugget"/>
-            <child lootmax="0" lootmin="0" max="16" min="12" type="ItemTinNugget"/>
-            <child lootmax="0" lootmin="0" max="16" min="12" type="ItemSulfurNugget"/>
+            <child lootmax="0" lootmin="0" max="8" min="4" type="ItemAlienNugget"/>
+            <child lootmax="0" lootmin="0" max="12" min="8" type="ItemDiamondNugget"/>
+            <child lootmax="0" lootmin="0" max="12" min="8" type="ItemGoldNugget"/>
+            <child lootmax="0" lootmin="0" max="24" min="16" type="ItemSilverNugget"/>
+            <child lootmax="0" lootmin="0" max="24" min="16" type="ItemCharCoalNugget"/>
+            <child lootmax="0" lootmin="0" max="28" min="20" type="ItemIronNugget"/>
+            <child lootmax="0" lootmin="0" max="28" min="20" type="ItemCopperNugget"/>
+            <child lootmax="0" lootmin="0" max="32" min="24" type="ItemTinNugget"/>
+            <child lootmax="0" lootmin="0" max="32" min="24" type="ItemSulfurNugget"/>
         </children>
 	</event>
      <!-- Vanilla Tweaks -->
