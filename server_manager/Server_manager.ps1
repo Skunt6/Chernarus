@@ -1,3 +1,21 @@
+
+function Update-DayZServer {
+    $steamCmdPath = "C:\Program Files (x86)\Steam\steamcmd.exe"
+    $installDir = "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus"
+    $appId = 223350  # AppID for DayZ Server
+
+    & "$steamCmdPath" + " +login anonymous +force_install_dir `"$installDir`" +app_update $appId validate +quit"
+}
+
+# Assuming the script uses parameters, check if update is needed at the start
+param(
+    [switch]$autoUpdate
+)
+
+if ($autoUpdate -or $args[0] -eq "update") {
+    Update-DayZServer
+}
+
 <# 
 .SYNOPSIS 
 	Script for download and management of DayZ server and mods.
@@ -1853,3 +1871,4 @@ exit 0
 # UbJ0g5+qJZdKBwjgPqSlDECThZHeapzKNMVof9yx+H3gd4IiE9Awg8JvCvJ+e0Y3
 # jptZrzTzeVAv7ukQhZjhqD9IFtgNXOXot49/
 # SIG # End signature block
+
