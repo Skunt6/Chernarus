@@ -47,6 +47,10 @@
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
 		</territory>
+		<!--tiger-->
+		<territory type="Herd" name="Tiger" behavior="BlissBearGroupBeh">
+			<file usable="Tiger_territories"/>
+		</territory>
 		<!--Dayz dog-->
 		<territory type="Herd" name="WildDog" behavior="DZWolfGroupBeh">
 			<file usable="dog_territories" />
