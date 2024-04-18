@@ -2,7 +2,7 @@
     "m_Version": 18,
     "Enabled": 1,
     "DespawnTime": 600.0,
-    "RespawnTime": -1.0,
+    "RespawnTime": 1800.0,
     "MinDistRadius": 300.0,
     "MaxDistRadius": 800.0,
     "DespawnRadius": 800.0,
