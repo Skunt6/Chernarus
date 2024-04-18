@@ -15,14 +15,14 @@
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
+			"staminaMax": 1000.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
 			"staminaMinCap": 5.0,
-			"sprintSwimmingStaminaModifier": 1.0,
-			"sprintLadderStaminaModifier": 1.0,
+			"sprintSwimmingStaminaModifier": 0.1,
+			"sprintLadderStaminaModifier": 0.1,
 			"meleeStaminaModifier": 1.0,
 			"obstacleTraversalStaminaModifier": 1.0,
-			"holdBreathStaminaModifier": 1.0
+			"holdBreathStaminaModifier": 0.25
 		},
 		"ShockHandlingData":
 		{
@@ -34,14 +34,14 @@
 		{
 			"timeToStrafeJog": 0.1,
 			"rotationSpeedJog": 0.3,
-			"timeToSprint": 0.45,
+			"timeToSprint": 0.35,
 			"timeToStrafeSprint": 0.3,
-			"rotationSpeedSprint": 0.15,
+			"rotationSpeedSprint": 0.25,
 			"allowStaminaAffectInertia": true
 		},
 		"DrowningData":
 		{
-			"staminaDepletionSpeed": 1.0,
+			"staminaDepletionSpeed": 0.05,
 			"healthDepletionSpeed": 10.0,
 			"shockDepletionSpeed": 10.0
 		}
@@ -52,7 +52,7 @@
 		"objectSpawnersArr": [],
 		"environmentMinTemps": [7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0],
 		"environmentMaxTemps": [16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0],
-		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
+		"wetnessWeightModifiers": [1.0, 2.0, 2.33, 2.66, 3.0]
 	},
 	"BaseBuildingData":
 	{
