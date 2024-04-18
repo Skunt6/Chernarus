@@ -1836,7 +1836,7 @@
         },
         {
             "ClassName": "BBP_Blueprint_Expanded",
-            "Chance": 0.01,
+            "Chance": 0.08,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
