@@ -4,7 +4,7 @@
     "BBP_BaseBuildAnywhere": 1,
     "BBP_FlagBuildAnywhere": 0,
     "BBP_TentBuildAnywhere": 0,
-    "BBP_VanillaBuildAnywhere": 0,
+    "BBP_VanillaBuildAnywhere": 1,
     "BBP_CraftWorkbenchRequiresPermit": 0,
     "BBP_SetInfiniteLifetime": 1,
     "BBP_AdvancedRotation": 1,
