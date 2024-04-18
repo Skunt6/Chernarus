@@ -4587,10 +4587,6 @@
         <lifetime>604800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-    <type name="BBP_Cement_Mixer">
-        <lifetime>604800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
     <type name="BBP_Workbench">
         <lifetime>604800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -4608,7 +4604,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="BBP_Cement_Mixer_Static">
-        <lifetime>604800</lifetime>
+        <nominal>4</nominal>
+        <lifetime>40800</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <!-- THIS IS JUST AN EXAMPLE START BUT THESE ARE THE DEFAULT CLASS NAMES (these are for wallpapers,plasters and carpets, PLEASE SET THEM UP ON HOW YOU WANT THEM TO SPAWN!!!!-->
