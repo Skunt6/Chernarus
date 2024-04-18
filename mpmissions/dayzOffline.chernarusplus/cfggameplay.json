@@ -52,7 +52,7 @@
 		"objectSpawnersArr": [],
 		"environmentMinTemps": [7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0],
 		"environmentMaxTemps": [16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0, 16.0],
-		"wetnessWeightModifiers": [1.0, 2.0, 2.33, 2.66, 3.0]
+		"wetnessWeightModifiers": [1.0, 1.66, 2.0, 2.33, 2.66]
 	},
 	"BaseBuildingData":
 	{
