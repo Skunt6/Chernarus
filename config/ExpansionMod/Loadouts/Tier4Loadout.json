@@ -83,6 +83,25 @@
             "SlotName": "Back",
             "Items": [
                 {
+                    "ClassName": "TortillaBag",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
                     "ClassName": "MMG_assault_pack_olive",
                     "Chance": 0.00625,
                     "Quantity": {

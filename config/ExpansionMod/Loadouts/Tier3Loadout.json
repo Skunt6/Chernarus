@@ -449,7 +449,6 @@
     ],
     "InventoryCargo": [
         {
-<<<<<<< HEAD
             "ClassName": "BBP_Tape_Measure",
             "Chance": 0.01,
             "Quantity": {
