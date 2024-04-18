@@ -360,7 +360,7 @@
                         },
                         {
                             "ClassName": "Mag_IJ70_8Rnd",
-                            "Chance": 0.30000001192092896,
+                            "Chance": 0.30000001192092898,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -373,7 +373,7 @@
                         },
                         {
                             "ClassName": "Mag_IJ70_8Rnd",
-                            "Chance": 0.20000000298023224,
+                            "Chance": 0.20000000298023225,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -510,7 +510,7 @@
                         },
                         {
                             "ClassName": "Mag_IJ70_8Rnd",
-                            "Chance": 0.30000001192092896,
+                            "Chance": 0.30000001192092898,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -523,7 +523,7 @@
                         },
                         {
                             "ClassName": "Mag_IJ70_8Rnd",
-                            "Chance": 0.20000000298023224,
+                            "Chance": 0.20000000298023225,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -660,7 +660,7 @@
                         },
                         {
                             "ClassName": "Mag_IJ70_8Rnd",
-                            "Chance": 0.30000001192092896,
+                            "Chance": 0.30000001192092898,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -673,7 +673,7 @@
                         },
                         {
                             "ClassName": "Mag_IJ70_8Rnd",
-                            "Chance": 0.20000000298023224,
+                            "Chance": 0.20000000298023225,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -1076,6 +1076,7 @@
     ],
     "InventoryCargo": [
         {
+<<<<<<< HEAD
             "ClassName": "BBP_Tape_Measure",
             "Chance": 0.01,
             "Quantity": {
@@ -2748,6 +2749,1870 @@
             "Sets": []
         },
         {
+=======
+                "ClassName": "BBP_Tape_Measure",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Xmas_Tree",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Sun_Shade",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Painting_1",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Painting_2",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Wood_Storage",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_A",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_B",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_C",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_D",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_E",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_F",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_G",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_H",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_I",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_J",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_K",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_L",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_M",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_N",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_O",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_P",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_Q",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_R",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_S",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_T",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_U",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_V",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_W",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_X",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_Y",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Letter_Large_Z",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_A",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_B",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_C",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_D",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_E",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_F",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_G",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_H",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_I",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_J",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_K",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_L",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_M",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_N",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_O",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_P",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_Q",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_R",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_S",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_T",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_U",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_V",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_W",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_X",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_Y",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Magnet_Z",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_MagnetBox",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Old_Lamp",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Floor_Lamp",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Golf",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Gang_Plug",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_SolarPlus_PanelKit",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_SolarPlus",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_BedKit",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Bed",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Bedding",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Step_LadderKit",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Step_Ladder",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Bucket",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_WellKit",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Well",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Wheelbarrow",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_SofaKit",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Sofa",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Toilet",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Dance_FloorKit",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Dance_Floor",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_XmasLights_9v",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_XmasLights_Solar",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Painting_Landscape",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_PhotoFrame_Portrait",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_PhotoFrame_Landscape",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_Roll",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_Base",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_01",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_02",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_03",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_04",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_05",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_06",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_07",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_08",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Carpet_09",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Mesh_Floor_Kit",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Mesh_Floor",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+                "ClassName": "BBP_Blueprint_Expanded",
+                "Chance": 0.01,
+                "Quantity": {
+                    "Min": 0.0,
+                    "Max": 0.0
+                },
+                "Health": [
+                    {
+                        "Min": 0.699999988079071,
+                        "Max": 1.0,
+                        "Zone": ""
+                    }
+                ],
+                "InventoryAttachments": [],
+                "InventoryCargo": [],
+                "ConstructionPartsBuilt": [],
+                "Sets": []
+            },
+            {
+>>>>>>> parent of 3d687b8 (removed bbp items not suited for inventories)
             "ClassName": "Apple",
             "Chance": 0.10000000149011612,
             "Quantity": {
@@ -2762,7 +4627,7 @@
         },
         {
             "ClassName": "BandageDressing",
-            "Chance": 0.15000000596046448,
+            "Chance": 0.15000000596046449,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -2815,7 +4680,7 @@
                                         },
                                         {
                                             "ClassName": "AK_PlasticBttstck",
-                                            "Chance": 0.30000001192092896,
+                                            "Chance": 0.30000001192092898,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -2828,7 +4693,7 @@
                                         },
                                         {
                                             "ClassName": "AK_FoldingBttstck",
-                                            "Chance": 0.30000001192092896,
+                                            "Chance": 0.30000001192092898,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -2906,7 +4771,7 @@
                                         },
                                         {
                                             "ClassName": "KobraOptic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -2938,7 +4803,7 @@
                                         },
                                         {
                                             "ClassName": "PSO1Optic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -2994,7 +4859,7 @@
                 },
                 {
                     "ClassName": "Mag_AK101_30Rnd",
-                    "Chance": 0.15000000596046448,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3048,7 +4913,7 @@
                                         },
                                         {
                                             "ClassName": "AK_PlasticBttstck",
-                                            "Chance": 0.30000001192092896,
+                                            "Chance": 0.30000001192092898,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3061,7 +4926,7 @@
                                         },
                                         {
                                             "ClassName": "AK_FoldingBttstck",
-                                            "Chance": 0.30000001192092896,
+                                            "Chance": 0.30000001192092898,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3152,7 +5017,7 @@
                                         },
                                         {
                                             "ClassName": "KobraOptic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3184,7 +5049,7 @@
                                         },
                                         {
                                             "ClassName": "PSO1Optic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3240,7 +5105,7 @@
                 },
                 {
                     "ClassName": "Mag_AK74_30Rnd",
-                    "Chance": 0.15000000596046448,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3363,7 +5228,7 @@
                 },
                 {
                     "ClassName": "Mag_AK74_30Rnd",
-                    "Chance": 0.15000000596046448,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3430,7 +5295,7 @@
                                         },
                                         {
                                             "ClassName": "AK_PlasticBttstck",
-                                            "Chance": 0.30000001192092896,
+                                            "Chance": 0.30000001192092898,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3443,7 +5308,7 @@
                                         },
                                         {
                                             "ClassName": "AK_FoldingBttstck",
-                                            "Chance": 0.30000001192092896,
+                                            "Chance": 0.30000001192092898,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3521,7 +5386,7 @@
                                         },
                                         {
                                             "ClassName": "KobraOptic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3553,7 +5418,7 @@
                                         },
                                         {
                                             "ClassName": "PSO1Optic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3609,7 +5474,7 @@
                 },
                 {
                     "ClassName": "Mag_AKM_30Rnd",
-                    "Chance": 0.15000000596046448,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3663,7 +5528,7 @@
                                         },
                                         {
                                             "ClassName": "PSO1Optic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3719,7 +5584,7 @@
                 },
                 {
                     "ClassName": "Mag_SVD_10Rnd",
-                    "Chance": 0.15000000596046448,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3786,7 +5651,7 @@
                                         },
                                         {
                                             "ClassName": "PistolSuppressor",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3799,7 +5664,7 @@
                                         },
                                         {
                                             "ClassName": "KobraOptic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3855,7 +5720,7 @@
                 },
                 {
                     "ClassName": "Mag_PP19_64Rnd",
-                    "Chance": 0.15000000596046448,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3935,7 +5800,7 @@
                                         },
                                         {
                                             "ClassName": "ACOGOptic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -3948,7 +5813,7 @@
                                         },
                                         {
                                             "ClassName": "ReflexOptic",
-                                            "Chance": 0.20000000298023224,
+                                            "Chance": 0.20000000298023225,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -4004,7 +5869,7 @@
                 },
                 {
                     "ClassName": "Mag_FAL_20Rnd",
-                    "Chance": 0.15000000596046448,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
