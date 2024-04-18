@@ -3315,7 +3315,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="BBP_Xmas_Tree">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>600400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -3868,7 +3868,7 @@
         <usage name="Village"/>
     </type>
 	<type name="BBP_Old_Lamp">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>600400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -3889,7 +3889,7 @@
 		<usage name="Medic"/>
     </type>
 	<type name="BBP_Floor_Lamp">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>600400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -3910,7 +3910,7 @@
 		<usage name="Medic"/>
     </type>
 	<type name="BBP_Golf">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -3927,7 +3927,7 @@
         <usage name="School"/>
     </type>
 	<type name="BBP_Gang_Plug">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>600400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -3990,7 +3990,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="BBP_Bedding">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -4025,7 +4025,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="BBP_Bucket">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -4050,7 +4050,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="BBP_Wheelbarrow">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>600400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4082,7 +4082,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="BBP_Toilet">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>600400</lifetime>
         <restock>0</restock>
         <min>5</min>
