@@ -4060,1868 +4060,1678 @@
     ],
     "InventoryCargo": [
         {
-                "ClassName": "BBP_Tape_Measure",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Xmas_Tree",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Sun_Shade",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Painting_1",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Painting_2",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Wood_Storage",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_A",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_B",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_C",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_D",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_E",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_F",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_G",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_H",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_I",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_J",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_K",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_L",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_M",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_N",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_O",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_P",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_Q",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_R",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_S",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_T",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_U",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_V",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_W",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_X",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_Y",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Letter_Large_Z",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_A",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_B",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_C",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_D",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_E",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_F",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_G",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_H",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_I",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_J",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_K",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_L",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_M",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_N",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_O",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_P",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_Q",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_R",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_S",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_T",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_U",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_V",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_W",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_X",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_Y",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Magnet_Z",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_MagnetBox",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Old_Lamp",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Floor_Lamp",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Golf",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Gang_Plug",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_SolarPlus_PanelKit",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_SolarPlus",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_BedKit",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Bed",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Bedding",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Step_LadderKit",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Step_Ladder",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Bucket",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_WellKit",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Well",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Wheelbarrow",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_SofaKit",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Sofa",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Toilet",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Dance_FloorKit",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Dance_Floor",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_XmasLights_9v",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_XmasLights_Solar",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Painting_Landscape",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_PhotoFrame_Portrait",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_PhotoFrame_Landscape",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_Roll",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_Base",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_01",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_02",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_03",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_04",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_05",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_06",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_07",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_08",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Carpet_09",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Mesh_Floor_Kit",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Mesh_Floor",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Blueprint_Expanded",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
+            "ClassName": "BBP_Tape_Measure",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Sun_Shade",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Painting_1",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Painting_2",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Wood_Storage",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_A",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_B",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_C",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_D",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_E",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_F",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_G",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_H",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_I",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_J",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_K",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_L",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_M",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_N",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_O",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_P",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_Q",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_R",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_S",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_T",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_U",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_V",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_W",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_X",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_Y",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Letter_Large_Z",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_A",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_B",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_C",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_D",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_E",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_F",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_G",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_H",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_I",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_J",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_K",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_L",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_M",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_N",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_O",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_P",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_Q",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_R",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_S",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_T",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_U",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_V",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_W",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_X",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_Y",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Magnet_Z",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_MagnetBox",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Floor_Lamp",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Gang_Plug",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_SolarPlus_PanelKit",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_BedKit",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Bedding",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Step_LadderKit",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Bucket",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_WellKit",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Wheelbarrow",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_SofaKit",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Toilet",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Dance_FloorKit",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_XmasLights_9v",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_XmasLights_Solar",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Painting_Landscape",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_PhotoFrame_Portrait",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_PhotoFrame_Landscape",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_Roll",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_Base",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_01",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_02",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_03",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_04",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_05",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_06",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_07",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_08",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Carpet_09",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Mesh_Floor_Kit",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "BBP_Blueprint_Expanded",
+            "Chance": 0.01,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
             "ClassName": "DC_FastTravelTicket",
             "Chance": 0.01,
             "Quantity": {
@@ -5939,578 +5749,578 @@
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
             "Sets": []
-        },    
+        },
         {
-                "ClassName": "mmg_craftable_tent_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
+            "ClassName": "mmg_craftable_tent_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
             },
-            {
-                "ClassName": "mmg_equipment_locker_green_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_equipment_locker_black_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_equipment_locker_grey_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_locker02_blue_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_locker02_green_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_locker02_tan_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_gun_rack_kit_blue",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_gun_rack_kit_green",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_gun_rack_kit_tan",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_lockable_gun_rack_kit_grey",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_gun_wall_kit_wooden",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_gun_wall_kit_metal",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_fridge_kit_beige",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_fridge_kit_blue",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_gear_stand_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_planter_box_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_greenhouse_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_solo_locker_yellow_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_craftable_tent_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_solo_locker_blue_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_solo_locker_red_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_solo_locker_grey_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_solo_locker_purple_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_solo_locker_green_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "mmg_solo_locker_medic_kit",
-                "Chance": 0.0015,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },    
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
         {
-        "ClassName": "Pen_Black",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+            "ClassName": "mmg_equipment_locker_green_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
-        "ClassName": "Pen_Blue",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+        {
+            "ClassName": "mmg_equipment_locker_black_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
-        "ClassName": "Pen_Green",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+        {
+            "ClassName": "mmg_equipment_locker_grey_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
-        "ClassName": "Pen_Red",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+        {
+            "ClassName": "mmg_locker02_blue_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
+        {
+            "ClassName": "mmg_locker02_green_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_locker02_tan_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_gun_rack_kit_blue",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_gun_rack_kit_green",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_gun_rack_kit_tan",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_lockable_gun_rack_kit_grey",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_gun_wall_kit_wooden",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_gun_wall_kit_metal",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_fridge_kit_beige",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_fridge_kit_blue",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_gear_stand_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_planter_box_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_greenhouse_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_solo_locker_yellow_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_craftable_tent_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_solo_locker_blue_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_solo_locker_red_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_solo_locker_grey_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_solo_locker_purple_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_solo_locker_green_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "mmg_solo_locker_medic_kit",
+            "Chance": 0.0015,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "Pen_Black",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "Pen_Blue",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "Pen_Green",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "Pen_Red",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
             "ClassName": "BBP_TapeMeasure",
             "Chance": 0.025,
             "Quantity": {
@@ -12584,7 +12394,6 @@
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
-        
         {
             "ClassName": "ItemStarRuby",
             "Chance": 0.001,
@@ -14667,7 +14476,7 @@
         },
         {
             "ClassName": "GCGN_M82_Barret",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14680,7 +14489,7 @@
         },
         {
             "ClassName": "AA12_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14706,7 +14515,7 @@
         },
         {
             "ClassName": "ACR_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14784,7 +14593,7 @@
         },
         {
             "ClassName": "GCGN_HK416",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14797,7 +14606,7 @@
         },
         {
             "ClassName": "GCGN_M110_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14810,7 +14619,7 @@
         },
         {
             "ClassName": "GCGN_M110_Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14836,7 +14645,7 @@
         },
         {
             "ClassName": "GCGN_M110_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14888,7 +14697,7 @@
         },
         {
             "ClassName": "GCGN_M1Garand",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14914,7 +14723,7 @@
         },
         {
             "ClassName": "GCGN_M200_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14927,7 +14736,7 @@
         },
         {
             "ClassName": "GCGN_M200",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14953,7 +14762,7 @@
         },
         {
             "ClassName": "GCGN_M249",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14966,7 +14775,7 @@
         },
         {
             "ClassName": "GCGN_M4A1",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14992,7 +14801,7 @@
         },
         {
             "ClassName": "GCGN_M700",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15057,7 +14866,7 @@
         },
         {
             "ClassName": "GCGN_MP7",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15083,7 +14892,7 @@
         },
         {
             "ClassName": "GCGN_VEPR",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15109,7 +14918,7 @@
         },
         {
             "ClassName": "GCGN_Vityaz",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15122,7 +14931,7 @@
         },
         {
             "ClassName": "HK416_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15135,7 +14944,7 @@
         },
         {
             "ClassName": "IA2_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15148,7 +14957,7 @@
         },
         {
             "ClassName": "M4_6933_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15161,7 +14970,7 @@
         },
         {
             "ClassName": "MK18_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15291,7 +15100,7 @@
         },
         {
             "ClassName": "SCAR_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15304,7 +15113,7 @@
         },
         {
             "ClassName": "SG550_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15343,7 +15152,7 @@
         },
         {
             "ClassName": "SN_Auto_Shotgun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15356,7 +15165,7 @@
         },
         {
             "ClassName": "SN_Glock19",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15369,7 +15178,7 @@
         },
         {
             "ClassName": "SN_M870",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15395,7 +15204,7 @@
         },
         {
             "ClassName": "SN_M9",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15421,7 +15230,7 @@
         },
         {
             "ClassName": "SN_Mp443",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15447,7 +15256,7 @@
         },
         {
             "ClassName": "SN_Springfield",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15473,7 +15282,7 @@
         },
         {
             "ClassName": "SN_USP",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15499,7 +15308,7 @@
         },
         {
             "ClassName": "SNAFU_ADAR_Modular16_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15512,7 +15321,7 @@
         },
         {
             "ClassName": "SNAFU_AEK545_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15525,7 +15334,7 @@
         },
         {
             "ClassName": "SNAFU_AFG_02_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15538,7 +15347,7 @@
         },
         {
             "ClassName": "SNAFU_AFG_02_OD",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15551,7 +15360,7 @@
         },
         {
             "ClassName": "SNAFU_AFG_02_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15577,7 +15386,7 @@
         },
         {
             "ClassName": "SNAFU_Agram_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15642,7 +15451,7 @@
         },
         {
             "ClassName": "SNAFU_AK_HG",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15681,7 +15490,7 @@
         },
         {
             "ClassName": "SNAFU_AK103A",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15707,7 +15516,7 @@
         },
         {
             "ClassName": "SNAFU_AK12A",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15733,7 +15542,7 @@
         },
         {
             "ClassName": "SNAFU_AK19",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15772,7 +15581,7 @@
         },
         {
             "ClassName": "SNAFU_AK308",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -15980,7 +15789,7 @@
         },
         {
             "ClassName": "SNAFU_AKWalther",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16136,7 +15945,7 @@
         },
         {
             "ClassName": "SNAFU_AR15_Modular16_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16149,7 +15958,7 @@
         },
         {
             "ClassName": "SNAFU_AR15SPRBK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16162,7 +15971,7 @@
         },
         {
             "ClassName": "SNAFU_AR15SPRTAN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16175,7 +15984,7 @@
         },
         {
             "ClassName": "SNAFU_AS50_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16214,7 +16023,7 @@
         },
         {
             "ClassName": "SNAFU_AWM_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16305,7 +16114,7 @@
         },
         {
             "ClassName": "SNAFU_CALI_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16474,7 +16283,7 @@
         },
         {
             "ClassName": "SNAFU_CZ805_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16487,7 +16296,7 @@
         },
         {
             "ClassName": "SNAFU_Docter",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16565,7 +16374,7 @@
         },
         {
             "ClassName": "SNAFU_Fort12_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16591,7 +16400,7 @@
         },
         {
             "ClassName": "SNAFU_FRF2",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16604,7 +16413,7 @@
         },
         {
             "ClassName": "SNAFU_GADAR",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16695,7 +16504,7 @@
         },
         {
             "ClassName": "SNAFU_HG625",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16708,7 +16517,7 @@
         },
         {
             "ClassName": "SNAFU_HGGS",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16721,7 +16530,7 @@
         },
         {
             "ClassName": "SNAFU_HGMlok_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16734,7 +16543,7 @@
         },
         {
             "ClassName": "SNAFU_HGMlok",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16851,7 +16660,7 @@
         },
         {
             "ClassName": "SNAFU_HWalther",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16877,7 +16686,7 @@
         },
         {
             "ClassName": "SNAFU_KAC_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16916,7 +16725,7 @@
         },
         {
             "ClassName": "SNAFU_Kobra",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -16994,7 +16803,7 @@
         },
         {
             "ClassName": "SNAFU_LVOA556_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17007,7 +16816,7 @@
         },
         {
             "ClassName": "SNAFU_LVOAHG",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17033,7 +16842,7 @@
         },
         {
             "ClassName": "SNAFU_M14",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17072,7 +16881,7 @@
         },
         {
             "ClassName": "SNAFU_M1918A2",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17085,7 +16894,7 @@
         },
         {
             "ClassName": "SNAFU_M200B_BK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17098,7 +16907,7 @@
         },
         {
             "ClassName": "SNAFU_M200Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17111,7 +16920,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_BK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17124,7 +16933,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17137,7 +16946,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_Snow",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17150,7 +16959,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17163,7 +16972,7 @@
         },
         {
             "ClassName": "SNAFU_M200SNOW",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17202,7 +17011,7 @@
         },
         {
             "ClassName": "SNAFU_M249HG",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17228,7 +17037,7 @@
         },
         {
             "ClassName": "SNAFU_M300BK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17241,7 +17050,7 @@
         },
         {
             "ClassName": "SNAFU_M300Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17267,7 +17076,7 @@
         },
         {
             "ClassName": "SNAFU_M300TAN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17280,7 +17089,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_10_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17293,7 +17102,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_14_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17306,7 +17115,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_14DV_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17319,7 +17128,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_16_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17332,7 +17141,7 @@
         },
         {
             "ClassName": "SNAFU_M4556_Modular14_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17345,7 +17154,7 @@
         },
         {
             "ClassName": "SNAFU_M4556_Modular16_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17358,7 +17167,7 @@
         },
         {
             "ClassName": "SNAFU_M48",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17397,7 +17206,7 @@
         },
         {
             "ClassName": "SNAFU_M76",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17449,7 +17258,7 @@
         },
         {
             "ClassName": "SNAFU_MAR10_Black_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17462,7 +17271,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR07",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17475,7 +17284,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR08",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17488,7 +17297,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR09",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17501,7 +17310,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR10",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17514,7 +17323,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR13",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17527,7 +17336,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR15",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17592,7 +17401,7 @@
         },
         {
             "ClassName": "SNAFU_MK10",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17605,7 +17414,7 @@
         },
         {
             "ClassName": "SNAFU_MK13",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17618,7 +17427,7 @@
         },
         {
             "ClassName": "SNAFU_MK15",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17644,7 +17453,7 @@
         },
         {
             "ClassName": "SNAFU_MK4710Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17657,7 +17466,7 @@
         },
         {
             "ClassName": "SNAFU_MK4716Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17670,7 +17479,7 @@
         },
         {
             "ClassName": "SNAFU_MK47HG",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17696,7 +17505,7 @@
         },
         {
             "ClassName": "SNAFU_MK7",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17709,7 +17518,7 @@
         },
         {
             "ClassName": "SNAFU_MK9",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17813,7 +17622,7 @@
         },
         {
             "ClassName": "SNAFU_MP9_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17839,7 +17648,7 @@
         },
         {
             "ClassName": "SNAFU_MPX_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -17956,7 +17765,7 @@
         },
         {
             "ClassName": "SNAFU_MWalther",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18034,7 +17843,7 @@
         },
         {
             "ClassName": "SNAFU_PDW_45ACP",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18060,7 +17869,7 @@
         },
         {
             "ClassName": "SNAFU_PDW_9mm",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18112,7 +17921,7 @@
         },
         {
             "ClassName": "Snafu_pkp_Black_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18125,7 +17934,7 @@
         },
         {
             "ClassName": "Snafu_pkp_NBlack_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18229,7 +18038,7 @@
         },
         {
             "ClassName": "SNAFU_RPK16_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18255,7 +18064,7 @@
         },
         {
             "ClassName": "SNAFU_RPK16_Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18281,7 +18090,7 @@
         },
         {
             "ClassName": "SNAFU_RPK16_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18307,7 +18116,7 @@
         },
         {
             "ClassName": "SNAFU_Saint_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18333,7 +18142,7 @@
         },
         {
             "ClassName": "SNAFU_Saint556_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18450,7 +18259,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_Black_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18463,7 +18272,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_DKMC_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18476,7 +18285,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_OD_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18489,7 +18298,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_SIL_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18502,7 +18311,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_SIL_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18515,7 +18324,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_Snow_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18528,7 +18337,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_Tan_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18593,7 +18402,7 @@
         },
         {
             "ClassName": "SNAFU_SKS",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18606,7 +18415,7 @@
         },
         {
             "ClassName": "SNAFU_SPMOD",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18619,7 +18428,7 @@
         },
         {
             "ClassName": "SNAFU_SR25_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18671,7 +18480,7 @@
         },
         {
             "ClassName": "SNAFU_SR3HG",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18840,7 +18649,7 @@
         },
         {
             "ClassName": "SNAFU_TP82S",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18853,7 +18662,7 @@
         },
         {
             "ClassName": "SNAFU_Trenchgun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18905,7 +18714,7 @@
         },
         {
             "ClassName": "SNAFU_U100",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18944,7 +18753,7 @@
         },
         {
             "ClassName": "SNAFU_Walther",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -18983,7 +18792,7 @@
         },
         {
             "ClassName": "SNAFUAlligator",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19009,7 +18818,7 @@
         },
         {
             "ClassName": "SNAFUAPS",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19022,7 +18831,7 @@
         },
         {
             "ClassName": "SNAFUAR15_AFG",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19087,7 +18896,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_SIL",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19100,7 +18909,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_SQSIL",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19126,7 +18935,7 @@
         },
         {
             "ClassName": "SNAFUASh12",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19152,7 +18961,7 @@
         },
         {
             "ClassName": "SNAFUAUG_BK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19165,7 +18974,7 @@
         },
         {
             "ClassName": "SNAFUAUG",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19178,7 +18987,7 @@
         },
         {
             "ClassName": "SNAFUAX50_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19204,7 +19013,7 @@
         },
         {
             "ClassName": "SNAFUChiappaRhino",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19243,7 +19052,7 @@
         },
         {
             "ClassName": "SNAFUDVL10M2",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19256,7 +19065,7 @@
         },
         {
             "ClassName": "SNAFUFAMAS",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19282,7 +19091,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19295,7 +19104,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19308,7 +19117,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Grey",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19347,7 +19156,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19373,7 +19182,7 @@
         },
         {
             "ClassName": "SNAFUGM6Lynx",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19412,7 +19221,7 @@
         },
         {
             "ClassName": "SNAFUHoneyBadger_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19425,7 +19234,7 @@
         },
         {
             "ClassName": "SNAFUHoneyBadger_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19451,7 +19260,7 @@
         },
         {
             "ClassName": "SNAFUKH9",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19503,7 +19312,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Black_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19516,7 +19325,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Grey_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19529,7 +19338,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Snow_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19542,7 +19351,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Tan_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19568,7 +19377,7 @@
         },
         {
             "ClassName": "SNAFUM1A_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19581,7 +19390,7 @@
         },
         {
             "ClassName": "SNAFUM1A_Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19594,7 +19403,7 @@
         },
         {
             "ClassName": "SNAFUM1A_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19607,7 +19416,7 @@
         },
         {
             "ClassName": "SNAFUM24_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19646,7 +19455,7 @@
         },
         {
             "ClassName": "SNAFUM96",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19659,7 +19468,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Atac_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19672,7 +19481,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Digi_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19685,7 +19494,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Ger_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19711,7 +19520,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Mc_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19724,7 +19533,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Snow_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19737,7 +19546,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Wood_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19763,7 +19572,7 @@
         },
         {
             "ClassName": "SNAFUMarlin1895",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19789,7 +19598,7 @@
         },
         {
             "ClassName": "SNAFUMk12",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19828,7 +19637,7 @@
         },
         {
             "ClassName": "SNAFUP90",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19854,7 +19663,7 @@
         },
         {
             "ClassName": "SNAFUPPSh",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19880,7 +19689,7 @@
         },
         {
             "ClassName": "SNAFUPPSKN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19906,7 +19715,7 @@
         },
         {
             "ClassName": "SNAFURPD",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19919,7 +19728,7 @@
         },
         {
             "ClassName": "SNAFURSASS_dkmc_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19945,7 +19754,7 @@
         },
         {
             "ClassName": "SNAFURSASS_od_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19958,7 +19767,7 @@
         },
         {
             "ClassName": "SNAFURSASS_Wood_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19971,7 +19780,7 @@
         },
         {
             "ClassName": "SNAFUSA80",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19984,7 +19793,7 @@
         },
         {
             "ClassName": "SNAFUScar_AFG_BK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -19997,7 +19806,7 @@
         },
         {
             "ClassName": "SNAFUScar_AFG_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20010,7 +19819,7 @@
         },
         {
             "ClassName": "SNAFUSR3_Vikhr",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20036,7 +19845,7 @@
         },
         {
             "ClassName": "SNAFUSRSA2",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20062,7 +19871,7 @@
         },
         {
             "ClassName": "SNAFUSten",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20075,7 +19884,7 @@
         },
         {
             "ClassName": "SNAFUSWM629",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20088,7 +19897,7 @@
         },
         {
             "ClassName": "SNAFUT5000_Dkmcc_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20114,7 +19923,7 @@
         },
         {
             "ClassName": "SNAFUT5000_Snow_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20127,7 +19936,7 @@
         },
         {
             "ClassName": "SNAFUT5000_Wood_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20153,7 +19962,7 @@
         },
         {
             "ClassName": "SNAFUTac21",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20166,7 +19975,7 @@
         },
         {
             "ClassName": "SNAFUTAR21_Black",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20179,7 +19988,7 @@
         },
         {
             "ClassName": "SNAFUTAR21_Green",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20192,7 +20001,7 @@
         },
         {
             "ClassName": "SNAFUTAR21_Tan",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20218,7 +20027,7 @@
         },
         {
             "ClassName": "SNAFUThompsonMk2",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20270,7 +20079,7 @@
         },
         {
             "ClassName": "SNAFUUzi",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20283,7 +20092,7 @@
         },
         {
             "ClassName": "SNAFUVECTOR_45acp_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20309,7 +20118,7 @@
         },
         {
             "ClassName": "SNAFUVECTOR_9mm_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20335,7 +20144,7 @@
         },
         {
             "ClassName": "SNAFUVSSK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20348,7 +20157,7 @@
         },
         {
             "ClassName": "SNHK417_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20374,7 +20183,7 @@
         },
         {
             "ClassName": "SNSA58_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20387,7 +20196,7 @@
         },
         {
             "ClassName": "Spas12_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20413,7 +20222,7 @@
         },
         {
             "ClassName": "Tec9_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20439,7 +20248,7 @@
         },
         {
             "ClassName": "VR80_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20478,7 +20287,7 @@
         },
         {
             "ClassName": "GCGN_BenelliM4",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20491,7 +20300,7 @@
         },
         {
             "ClassName": "GCGN_M1Garand_FH",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20608,7 +20417,7 @@
         },
         {
             "ClassName": "SNAFU_AWM_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20634,7 +20443,7 @@
         },
         {
             "ClassName": "SNAFU_Kabar",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20647,7 +20456,7 @@
         },
         {
             "ClassName": "SNAFU_Kabar_BK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20660,7 +20469,7 @@
         },
         {
             "ClassName": "SNAFU_PL14HQP",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20790,7 +20599,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_Black_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20803,7 +20612,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_Tan_GUN",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -20829,7 +20638,7 @@
         },
         {
             "ClassName": "SR3_Vikhr_Gun",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
