@@ -1858,25 +1858,7 @@
                 "ConstructionPartsBuilt": [],
                 "Sets": []
             },
-            {
-                "ClassName": "BBP_Xmas_Tree",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
+            
             {
                 "ClassName": "BBP_Sun_Shade",
                 "Chance": 0.01,
@@ -2960,82 +2942,10 @@
                 "ConstructionPartsBuilt": [],
                 "Sets": []
             },
-            {
-                "ClassName": "BBP_Old_Lamp",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Floor_Lamp",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Golf",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Gang_Plug",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
+            
+            
+            
+            
             {
                 "ClassName": "BBP_SolarPlus_PanelKit",
                 "Chance": 0.01,
@@ -3055,25 +2965,7 @@
                 "ConstructionPartsBuilt": [],
                 "Sets": []
             },
-            {
-                "ClassName": "BBP_SolarPlus",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
+            
             {
                 "ClassName": "BBP_BedKit",
                 "Chance": 0.01,
@@ -3093,44 +2985,8 @@
                 "ConstructionPartsBuilt": [],
                 "Sets": []
             },
-            {
-                "ClassName": "BBP_Bed",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Bedding",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
+            
+            
             {
                 "ClassName": "BBP_Step_LadderKit",
                 "Chance": 0.01,
@@ -3150,44 +3006,8 @@
                 "ConstructionPartsBuilt": [],
                 "Sets": []
             },
-            {
-                "ClassName": "BBP_Step_Ladder",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Bucket",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
+            
+            
             {
                 "ClassName": "BBP_WellKit",
                 "Chance": 0.01,
@@ -3207,44 +3027,8 @@
                 "ConstructionPartsBuilt": [],
                 "Sets": []
             },
-            {
-                "ClassName": "BBP_Well",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Wheelbarrow",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
+            
+            
             {
                 "ClassName": "BBP_SofaKit",
                 "Chance": 0.01,
@@ -3264,44 +3048,8 @@
                 "ConstructionPartsBuilt": [],
                 "Sets": []
             },
-            {
-                "ClassName": "BBP_Sofa",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
-            {
-                "ClassName": "BBP_Toilet",
-                "Chance": 0.01,
-                "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                },
-                "Health": [
-                    {
-                        "Min": 0.699999988079071,
-                        "Max": 1.0,
-                        "Zone": ""
-                    }
-                ],
-                "InventoryAttachments": [],
-                "InventoryCargo": [],
-                "ConstructionPartsBuilt": [],
-                "Sets": []
-            },
+            
+            
             {
                 "ClassName": "BBP_Dance_FloorKit",
                 "Chance": 0.01,
