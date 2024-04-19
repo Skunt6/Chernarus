@@ -1,6 +1,7 @@
 {
-    "m_Version": 2,
+    "m_Version": 3,
     "UseCategoryMenu": 0,
+    "ExcludedItems": [],
     "StorageLevels": {
         "1": {
             "ReputationRequirement": -1,
