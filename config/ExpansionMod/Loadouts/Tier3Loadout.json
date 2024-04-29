@@ -22549,7 +22549,7 @@
         },
         {
             "ClassName": "HandSaw",
-            "Chance": 0.0,
+            "Chance": 0.5,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -22588,7 +22588,7 @@
         },
         {
             "ClassName": "Hatchet",
-            "Chance": 0.0,
+            "Chance": 0.5,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
