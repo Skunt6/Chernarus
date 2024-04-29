@@ -8,7 +8,7 @@
     ],
     "ObjectiveText": "Banish the Spirit Witch!",
     "FollowUpQuest": -1,
-    "Repeatable": 1,
+    "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
@@ -123,20 +123,15 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 9,
-            "ObjectiveType": 6
-        },
-        {
-            "ConfigVersion": 27,
-            "ID": 14,
-            "ObjectiveType": 4
+            "ID": 5,
+            "ObjectiveType": 7
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 50,
+    "ReputationReward": 100,
     "ReputationRequirement": 0,
     "PreQuestIDs": [
-        41
+        43
     ],
     "RequiredFaction": "",
     "FactionReward": "",
