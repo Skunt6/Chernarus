@@ -4108,7 +4108,7 @@
         },
         {
             "ClassName": "BandageDressing",
-            "Chance": 0.2,
+            "Chance": 1.0,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
