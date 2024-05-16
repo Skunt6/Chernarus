@@ -28,7 +28,7 @@
         },
         {
             "ClassName": "ItemAlienNugget",
-            "Amount": 2,
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -37,7 +37,7 @@
         },
         {
             "ClassName": "ItemCharCoalNugget",
-            "Amount": 4,
+            "Amount": 2,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -64,7 +64,7 @@
         },
         {
             "ClassName": "ItemDiamondNugget",
-            "Amount": 4,
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -73,7 +73,7 @@
         },
         {
             "ClassName": "ItemGoldNugget",
-            "Amount": 4,
+            "Amount": 2,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -91,7 +91,7 @@
         },
         {
             "ClassName": "ItemSilverNugget",
-            "Amount": 4,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
