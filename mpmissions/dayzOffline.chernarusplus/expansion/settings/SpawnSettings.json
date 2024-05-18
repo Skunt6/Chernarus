@@ -1837,7 +1837,7 @@
             "TaloonBag_Violet"
         ]
     },
-    "EnableSpawnSelection": 1,
+    "EnableSpawnSelection": 0,
     "SpawnOnTerritory": 1,
     "StartingGear": {
         "EnableStartingGear": 1,
