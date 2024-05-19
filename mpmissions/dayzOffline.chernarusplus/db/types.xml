@@ -31648,10 +31648,10 @@
         <usage name="Village"/>
     </type>
     <type name="ChernarusMap">
-        <nominal>100</nominal>
+        <nominal>200</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -31660,6 +31660,7 @@
         <tag name="shelves"/>
         <usage name="Hunting"/>
         <usage name="Office"/>
+        <usage name="Police"/>
     </type>
     <type name="ChernarusMap_Open">
         <nominal>0</nominal>
@@ -34704,10 +34705,10 @@
         <value name="Tier4"/>
     </type>
     <type name="GPSReceiver">
-        <nominal>50</nominal>
+        <nominal>100</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -41163,10 +41164,10 @@
         <usage name="Lunapark"/>
     </type>
     <type name="OrienteeringCompass">
-        <nominal>100</nominal>
+        <nominal>200</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
