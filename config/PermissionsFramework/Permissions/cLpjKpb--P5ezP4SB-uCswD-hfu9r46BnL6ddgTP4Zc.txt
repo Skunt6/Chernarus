@@ -32,6 +32,7 @@ Admin.Player.StopBleeding 0
 Admin.Player.BrokenLegs 0
 Admin.Player.ReceiveDamageDealt 0
 Admin.Player.Kick 0
+Admin.Player.Ban 0
 Admin.Player.Message 0
 Admin.Player.CannotBeTargetedByAI 0
 Admin.Player.RemoveCollision 0
@@ -147,3 +148,5 @@ FlipTransport 0
 FlipTransport.Settings 0
 FlipTransport.Settings.View 0
 FlipTransport.Settings.Save 0
+Actions 0
+Actions.QuickActions 0
