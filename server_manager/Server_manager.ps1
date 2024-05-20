@@ -18,22 +18,23 @@
     DayZ Wiki     : https://community.bistudio.com/wiki/DayZ:Server_manager
 
 .PARAMETER update
-    Updates both DayZ server and mods to the latest version.
+    Specifies the component to update. Valid values are 'server', 'mods', or 'all'.
 
 .PARAMETER restart
     Restarts the DayZ server after updates.
 
 .EXAMPLE
     Update both server and mods, and restart server afterward:
-    C:\foo> .\Server_manager.ps1 -update -restart
+    C:\foo> .\Server_manager.ps1 -update all -restart
 
 © 2018 Bohemia Interactive a.s. (Modified by User)
 All rights reserved.
 #>
 
 param (
-    [switch] $update = $false,
-    [switch] $restart = $false
+    [ValidateSet("server", "mods", "all")]
+    [string] $update,
+    [switch] $restart
 )
 
 # Configuration
@@ -47,6 +48,7 @@ $dayzServerExe = "$installDir\DayZServer_x64.exe"
 function Update-DayZServer {
     Write-Output "Updating DayZ server..."
     & "$steamCmdPath" + " +login anonymous +force_install_dir `"$installDir`" +app_update 223350 validate +quit"
+    Write-Output "DayZ server update complete."
 }
 
 # Function to update mods
@@ -64,32 +66,46 @@ function Update-Mods {
     foreach ($serverMod in $serverModIDs) {
         & "$steamCmdPath" + " +login anonymous +workshop_download_item 221100 $serverMod validate +quit"
     }
+
+    Write-Output "DayZ mods update complete."
 }
 
 # Function to start DayZ server
 function Start-DayZServer {
     Write-Output "Starting DayZ server..."
     Start-Process -FilePath "$dayzServerExe" -ArgumentList ("-config=serverDZ.cfg", "-profiles=logs", "-port=2302") -NoNewWindow
+    Write-Output "DayZ server started."
 }
 
 # Function to stop running DayZ server instances
 function Stop-DayZServer {
     Write-Output "Stopping DayZ server instances..."
     Get-Process -Name "DayZServer_x64" -ErrorAction SilentlyContinue | Stop-Process -Force
+    Write-Output "DayZ server stopped."
 }
 
 # Execution logic
 if ($update) {
-    # Stop server, update both server and mods, then restart the server if specified
     Stop-DayZServer
-    Update-DayZServer
-    Update-Mods
+
+    switch ($update) {
+        "server" {
+            Update-DayZServer
+        }
+        "mods" {
+            Update-Mods
+        }
+        "all" {
+            Update-DayZServer
+            Update-Mods
+        }
+    }
 
     if ($restart) {
         Start-DayZServer
     }
 } else {
-    Write-Output "Usage: .\Server_manager.ps1 -update -restart"
+    Write-Output "Usage: .\Server_manager.ps1 -update <server|mods|all> -restart"
 }
 
 Write-Output "DayZ server management completed."
