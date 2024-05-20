@@ -31,7 +31,6 @@
 All rights reserved.
 #>
 
-# Parameters
 param (
     [switch] $update = $false,
     [switch] $restart = $false
@@ -81,7 +80,7 @@ function Stop-DayZServer {
 
 # Execution logic
 if ($update) {
-    # Stop server, update both server and mods, then restart the server
+    # Stop server, update both server and mods, then restart the server if specified
     Stop-DayZServer
     Update-DayZServer
     Update-Mods
