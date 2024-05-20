@@ -15,7 +15,7 @@
             "Rules": [
                 {
                     "RuleParagraph": "1.0.",
-                    "RuleText": "Server resets once a day at midnight."
+                    "RuleText": "Server resets three times a day at 12 am, 8 am, and 4 pm."
                 },
                 {
                     "RuleParagraph": "1.1.",
