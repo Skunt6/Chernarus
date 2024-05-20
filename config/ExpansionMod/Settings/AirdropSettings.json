@@ -1027,7 +1027,7 @@
                 "eAI_SurvivorM_Cyril|faction:Mercenaries,loadout:Tier3Loadout,canbelooted:true,name:Private",
                 "eAI_SurvivorM_Peter|faction:Mercenaries,loadout:Tier3Loadout,canbelooted:true,name:Private"
             ],
-            "ItemCount": 1,
+            "ItemCount": 5,
             "InfectedCount": 3,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
@@ -4985,7 +4985,7 @@
                 "eAI_SurvivorF_Eva|faction:Shamans,loadout:Tier3Loadout,canbelooted:true,name:Private",
                 "eAI_SurvivorF_Gabi|faction:Shamans,loadout:Tier3Loadout,canbelooted:true,name:Private"
             ],
-            "ItemCount": 1,
+            "ItemCount": 2,
             "InfectedCount": 3,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
@@ -9297,7 +9297,7 @@
                 "ZmbM_CitizenBFat_Red",
                 "ZmbM_CitizenBFat_Green"
             ],
-            "ItemCount": 1,
+            "ItemCount": 3,
             "InfectedCount": 15,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
