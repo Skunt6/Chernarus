@@ -18,19 +18,19 @@
     "EnableTailRotorDamage": 0,
     "Towing": 1,
     "EnableHelicopterExplosions": 1,
-    "DisableVehicleDamage": 1,
-    "VehicleCrewDamageMultiplier": 0.0,
-    "VehicleSpeedDamageMultiplier": 0.0,
+    "DisableVehicleDamage": 0,
+    "VehicleCrewDamageMultiplier": 0.3,
+    "VehicleSpeedDamageMultiplier": 0.5,
     "VehicleRoadKillDamageMultiplier": 0.10,
     "CollisionDamageIfEngineOff": 0,
     "CollisionDamageMinSpeedKmh": 30.0,
-    "CanChangeLock": 0,
+    "CanChangeLock": 1,
     "ChangeLockTools": [
         "Screwdriver"
     ],
     "ChangeLockTimeSeconds": 120,
     "ChangeLockToolDamagePercent": 10.0,
-    "PlacePlayerOnGroundOnReconnectInVehicle": 2,
+    "PlacePlayerOnGroundOnReconnectInVehicle": 1,
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehicleDropsRuinedDoors": 1,
     "ExplodingVehicleDropsAttachments": 1,
@@ -43,10 +43,10 @@
     "VehicleAutoCoverTimeSeconds": 0.0,
     "VehicleAutoCoverRequireCamonet": 0,
     "EnableAutoCoveringDEVehicles": 0,
-    "CFToolsHeliCoverIconName": "helicopter",
-    "CFToolsBoatCoverIconName": "ship",
-    "CFToolsCarCoverIconName": "car",
-    "ShowVehicleOwners": 0,
+    "CFToolsHeliCoverIconName": "Helicopter",
+    "CFToolsBoatCoverIconName": "Ship",
+    "CFToolsCarCoverIconName": "Car",
+    "ShowVehicleOwners": 1,
     "VehiclesConfig": [
         {
             "ClassName": "ExpansionUAZCargoRoofless",
@@ -92,6 +92,11 @@
             "ClassName": "ExpansionMh6",
             "CanPlayerAttach": 0,
             "LockComplexity": 3.0
+        },
+        {
+            "ClassName": "ExpansionUh1h",
+            "CanPlayerAttach": 0,
+            "LockComplexity": 2.5
         },
         {
             "ClassName": "ExpansionUh1h",
