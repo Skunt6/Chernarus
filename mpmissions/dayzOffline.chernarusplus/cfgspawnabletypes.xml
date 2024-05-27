@@ -13111,6 +13111,17 @@
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="SV98">
+		<attachments chance="0.25">
+			<item name="M4_T3NRDSOptic" chance="0.30" />	
+			<item name="ReflexOptic" chance="0.30" />	
+			<item name="ACOGOptic" chance="0.25" />	
+			<item name="ACOGOptic_6x" chance="0.15" />
+		</attachments>
+		<attachments chance="0.45">
+			<item name="Mag_SV98_10Rnd" chance="1.0" />
+		</attachments>
+	</type>	
 	<type name="SVD">
 		<damage min="0.3" max="0.7" />
 		<attachments chance="0.10">

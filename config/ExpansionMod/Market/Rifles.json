@@ -151,6 +151,19 @@
                 "mag_expansion_m14_10rnd"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "SV98",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_SV98_10Rnd"
+            ],
+            "Variants": []
         }
     ]
 }
