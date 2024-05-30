@@ -1873,5 +1873,5 @@
     "PunishCooldown": 120,
     "PunishTimeframe": 300,
     "CreateDeathMarker": 0,
-    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+    "BackgroundImagePath": "NaturesWeavers/LoadingScreen/GUI/LoadingScreens/Natures.edds"
 }
