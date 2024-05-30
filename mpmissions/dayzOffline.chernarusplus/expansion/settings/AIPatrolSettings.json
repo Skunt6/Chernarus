@@ -325,7 +325,7 @@
         },
         {
             "Name": "Police sit2",
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "LoadoutFile": "Tier3Loadout",
@@ -356,7 +356,7 @@
         },
         {
             "Name": "Police sit1",
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "LoadoutFile": "Tier3Loadout",
