@@ -1,6 +1,6 @@
 {
     "m_Version": 5,
-    "BaseBuildingRaidMode": 0,
+    "BaseBuildingRaidMode": 1,
     "ExplosionTime": 30.0,
     "ExplosiveDamageWhitelist": [
         "Expansion_C4_Explosion",
