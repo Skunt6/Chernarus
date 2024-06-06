@@ -63,31 +63,31 @@
         {
             "Weekday": "Monday",
             "StartHour": 0,
-            "StartMinute": 0,
+            "StartMinute": 1,
             "DurationMinutes": 1440
         },
         {
             "Weekday": "Tuesday",
             "StartHour": 0,
-            "StartMinute": 0,
+            "StartMinute": 1,
             "DurationMinutes": 1440
         },
         {
             "Weekday": "Wednesday",
             "StartHour": 0,
-            "StartMinute": 0,
+            "StartMinute": 1,
             "DurationMinutes": 1440
         },
         {
             "Weekday": "Thursday",
             "StartHour": 0,
-            "StartMinute": 0,
+            "StartMinute": 1,
             "DurationMinutes": 1440
         },
         {
             "Weekday": "Friday",
             "StartHour": 0,
-            "StartMinute": 0,
+            "StartMinute": 1,
             "DurationMinutes": 1440
         },
         {
