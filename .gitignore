@@ -72,6 +72,7 @@ config/EventManagerLog/
 config/Users/
 config/CommunityOnlineTools/Logs/
 config/PermissionsFramework/Players/
+config/PvZmoD_TheDarkHorde_Profile_V2/Other/SaveData/
 config/ExpansionMod/AI/
 config/ExpansionMod/Groups/
 config/ExpansionMod/Hardline/
