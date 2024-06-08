@@ -3,6 +3,8 @@
 taskkill /im DayZServer_x64.exe /F
 ::Time in seconds to wait before..
 timeout 10
+echo Updating mods...
+powershell.exe -ExecutionPolicy Bypass -File "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\server_manager\UpdateMods.ps1"
 ::Server name (This is just for the bat file)
 set serverName=Natures Weavers
 ::Server files location
