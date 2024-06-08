@@ -20,29 +20,17 @@ $workshopFolder = "C:\Program Files (x86)\Steam\steamapps\workshop\content\22110
 # Path to SteamCMD executable
 $steamCMDPath = "C:\Program Files (x86)\Steam\steamcmd.exe"
 # Path to save Steam credentials
-$credentialsPath = "$env:USERPROFILE\steam_credentials.txt"
+$credentialsPath = "$env:USERPROFILE\steam_credentials.xml"
 
 # Function to get or prompt for Steam credentials
 function Get-SteamCredentials {
     if (Test-Path -Path $credentialsPath) {
-        $encryptedContent = Get-Content -Path $credentialsPath
-        $credentials = ConvertTo-SecureString -String $encryptedContent -Key (1..16)
-        $steamCredentials = [PSCustomObject]@{
-            Username = (Get-Content "$env:USERPROFILE\steam_username.txt")
-            Password = (New-Object PSCredential "user", $credentials).GetNetworkCredential().Password
-        }
+        $steamCredentials = Import-Clixml -Path $credentialsPath
     } else {
         $steamUsername = Read-Host -Prompt 'Enter your Steam username'
         $steamPassword = Read-Host -Prompt 'Enter your Steam password' -AsSecureString
-        $steamPasswordEncrypted = ConvertFrom-SecureString -SecureString $steamPassword -Key (1..16)
-        
-        Set-Content -Path $credentialsPath -Value $steamPasswordEncrypted
-        Set-Content -Path "$env:USERPROFILE\steam_username.txt" -Value $steamUsername
-
-        $steamCredentials = [PSCustomObject]@{
-            Username = $steamUsername
-            Password = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto([System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($steamPassword))
-        }
+        $steamCredentials = New-Object PSCredential -ArgumentList $steamUsername, $steamPassword
+        $steamCredentials | Export-Clixml -Path $credentialsPath
     }
     return $steamCredentials
 }
@@ -74,10 +62,10 @@ function UpdateMod {
     param (
         [string]$modId,
         [string]$modName,
-        [PSCustomObject]$steamCredentials
+        [PSCredential]$steamCredentials
     )
 
-    Start-Process -FilePath "$steamCMDPath" -ArgumentList "+login $($steamCredentials.Username) $($steamCredentials.Password) +workshop_download_item 221100 $modId validate +quit" -Wait -NoNewWindow
+    Start-Process -FilePath "$steamCMDPath" -ArgumentList "+login $($steamCredentials.UserName) $($steamCredentials.GetNetworkCredential().Password) +workshop_download_item 221100 $modId validate +quit" -Wait -NoNewWindow
     Write-Output "Updated mod: $modName"
 }
 
