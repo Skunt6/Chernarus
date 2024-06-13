@@ -65,8 +65,9 @@ function UpdateMod {
         [PSCredential]$steamCredentials
     )
 
+    Write-Output "Updating mod: $modName ($modId)"
     Start-Process -FilePath "$steamCMDPath" -ArgumentList "+login $($steamCredentials.UserName) $($steamCredentials.GetNetworkCredential().Password) +workshop_download_item 221100 $modId validate +quit" -Wait -NoNewWindow
-    Write-Output "Updated mod: $modName"
+    Write-Output "Updated mod: $modName ($modId)"
 }
 
 # Function to update mods using SteamCMD
@@ -83,25 +84,13 @@ function UpdateMods {
     # Get Steam credentials
     $steamCredentials = Get-SteamCredentials
 
-    # Create a runspace pool for parallel processing
-    $runspacePool = [runspacefactory]::CreateRunspacePool(1, 5)
-    $runspacePool.Open()
-
-    $runspaces = @()
-
     foreach ($mod in $mods) {
         if ($mod -match "(\d+)\s*(#\s*@.*)$") {
             $modId = $matches[1]
             $modName = $matches[2] -replace "#\s*", ""
 
             if (NeedsUpdate $modId $modName) {
-                $runspace = [powershell]::Create().AddScript({
-                    param ($modId, $modName, $steamCredentials)
-                    UpdateMod -modId $modId -modName $modName -steamCredentials $steamCredentials
-                }).AddArgument($modId).AddArgument($modName).AddArgument($steamCredentials)
-
-                $runspace.RunspacePool = $runspacePool
-                $runspaces += [PSCustomObject]@{ Pipe = $runspace; Status = $runspace.BeginInvoke() }
+                UpdateMod -modId $modId -modName $modName -steamCredentials $steamCredentials
             } else {
                 Write-Output "Mod $modName is already up to date."
             }
@@ -109,15 +98,6 @@ function UpdateMods {
             Write-Output "Invalid format in mod list: $mod"
         }
     }
-
-    # Wait for all runspaces to complete
-    $runspaces | ForEach-Object {
-        $_.Pipe.EndInvoke($_.Status)
-        $_.Pipe.Dispose()
-    }
-
-    $runspacePool.Close()
-    $runspacePool.Dispose()
 
     Write-Output "Mod download/update completed."
 }
@@ -151,6 +131,7 @@ function CopyMods {
 
             # Check if the source path exists
             if (Test-Path "$sourcePath") {
+                Write-Output "Copying $modName to $serverFolder"
                 # Copy mod folder to server folder, overwriting existing ones
                 Copy-Item -Path "$sourcePath\*" -Destination "$destinationPath" -Recurse -Force
                 Write-Output "Copied $modName to $serverFolder"
@@ -167,8 +148,11 @@ function CopyMods {
 
 # Main function to update and copy mods
 function Main {
+    Write-Output "Starting mod update process..."
     UpdateMods
+    Write-Output "Starting mod copy process..."
     CopyMods
+    Write-Output "Process completed."
 }
 
 # Call the main function
