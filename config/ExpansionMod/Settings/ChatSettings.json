@@ -4,7 +4,7 @@
     "EnablePartyChat": 1,
     "EnableTransportChat": 1,
     "ChatColors": {
-        "SystemChatColor": "EB45EBFF",
+        "SystemChatColor": "39FF14",
         "AdminChatColor": "FF392BFF",
         "GlobalChatColor": "58C3FFFF",
         "DirectChatColor": "FFFFFFFF",
