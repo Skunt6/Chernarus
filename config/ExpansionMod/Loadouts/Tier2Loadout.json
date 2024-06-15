@@ -30202,44 +30202,44 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_AK101_30Rnd",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Mag_AK101_30Rnd",
-                    "Chance": 0.15000000596046448,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Ammo_762x39",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 1.0,
-                        "Max": 100.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
+    "ClassName": "Mag_AK101_30Rnd",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+},
+{
+    "ClassName": "Mag_AK101_30Rnd",
+    "Chance": 0.15000000596046448,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+},
+{
+    "ClassName": "Ammo_556x45",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 1.0,
+        "Max": 100.0
+    },
+    "Health": [],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+}
             ],
             "ConstructionPartsBuilt": [],
             "Sets": []
@@ -31493,7 +31493,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Ammo_308Win",
+                    "ClassName": "Ammo_762x39",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
