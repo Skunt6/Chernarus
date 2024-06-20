@@ -492,7 +492,7 @@ function ServerUpdate {
 function ModsUpdate {
 	
 	#Path to DayZ server folder
-	$serverFolder = $folder + $appFolder 
+	$serverFolder = 'C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus' 
 	
 	#Check if DayZ server folder exists
 	if (!(Test-Path "$serverFolder"))
