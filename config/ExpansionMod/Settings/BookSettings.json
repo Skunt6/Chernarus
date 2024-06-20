@@ -31,22 +31,18 @@
                 },
                 {
                     "RuleParagraph": "1.4.",
-                    "RuleText": "PvE and PVP base raiding only."
+                    "RuleText": "PvE only."
                 },
                 {
                     "RuleParagraph": "1.5.",
-                    "RuleText": "You may kill unwanted players within your territory."
-                },
-                {
-                    "RuleParagraph": "1.6.",
                     "RuleText": "The server is continually evolving. Share your feedback, comments, or complaints in the feedback channel on our Discord."
                 },
                 {
-                    "RuleParagraph": "1.7.",
+                    "RuleParagraph": "1.6.",
                     "RuleText": "Discover the mysteries scattered throughout the map."
                 },
                 {
-                    "RuleParagraph": "1.8.",
+                    "RuleParagraph": "1.7.",
                     "RuleText": "You have 2 hours to retrieve your body and belongings before they despawn upon death."
                 }
             ]
@@ -198,14 +194,6 @@
                 },
                 {
                     "DescriptionText": "Don't overlook train events for keycard opportunities."
-                }
-            ]
-        },
-        {
-            "CategoryName": "Tigers",
-            "Descriptions": [
-                {
-                    "DescriptionText": "Tigers prowl near Bear spawns, with Van Pelt often lurking close by."
                 }
             ]
         },
