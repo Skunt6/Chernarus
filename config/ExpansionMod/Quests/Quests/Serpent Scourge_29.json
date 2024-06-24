@@ -25,15 +25,6 @@
             "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        },
-        {
-            "ClassName": "DC_FastTravelTicket",
-            "Amount": 3,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 0.25
         }
     ],
     "NeedToSelectReward": 0,
