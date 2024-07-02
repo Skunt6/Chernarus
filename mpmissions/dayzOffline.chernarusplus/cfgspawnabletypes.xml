@@ -2600,6 +2600,7 @@
 <!-- MMG TACTICAL HELMET -->
 	<type name="MMG_tactical_helmet_black">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_black" 			chance="0.20" />
 			<item name="MMG_headphones_black" 			chance="0.20" />
 			<item name="mmg_gp_nvg_black" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2608,6 +2609,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_green">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_green" 			chance="0.20" />
 			<item name="MMG_headphones_green" 			chance="0.20" />
 			<item name="mmg_gp_nvg_green" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2616,6 +2618,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_tan">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_tan" 			chance="0.20" />
 			<item name="MMG_headphones_tan" 			chance="0.20" />
 			<item name="mmg_gp_nvg_tan" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2624,6 +2627,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_multicam">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_tan" 			chance="0.20" />
 			<item name="MMG_headphones_tan" 			chance="0.20" />
 			<item name="mmg_gp_nvg_tan" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2632,6 +2636,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_multicamblack">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_black" 			chance="0.20" />
 			<item name="MMG_headphones_green" 			chance="0.20" />
 			<item name="mmg_gp_nvg_green" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2640,6 +2645,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_erdl">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_green" 			chance="0.20" />
 			<item name="MMG_headphones_green" 			chance="0.20" />
 			<item name="mmg_gp_nvg_green" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2648,6 +2654,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_alpine">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_tan" 			chance="0.20" />
 			<item name="MMG_headphones_gren" 			chance="0.20" />
 			<item name="mmg_gp_nvg_grey" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2656,6 +2663,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_dark_woodland">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_black" 			chance="0.20" />
 			<item name="MMG_headphones_black" 			chance="0.20" />
 			<item name="mmg_gp_nvg_black" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2664,6 +2672,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_ucp">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_green" 			chance="0.20" />
 			<item name="MMG_headphones_ucp" 			chance="0.20" />
 			<item name="mmg_gp_nvg_green" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2672,6 +2681,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_multicam_tropic">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_green" 			chance="0.20" />
 			<item name="MMG_headphones_green" 			chance="0.20" />
 			<item name="mmg_gp_nvg_green" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />
@@ -2680,6 +2690,7 @@
 	</type>
 	<type name="MMG_tactical_helmet_atacs">
 		<attachments chance="1.00">
+			<item name="MMG_tactical_visor_" 			chance="0.20" />
 			<item name="MMG_headphones_green" 			chance="0.20" />
 			<item name="mmg_gp_nvg_green" 				chance="0.05" />
 			<item name="NVGoggles" 						chance="0.05" />

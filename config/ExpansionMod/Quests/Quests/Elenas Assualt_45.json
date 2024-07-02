@@ -1,0 +1,125 @@
+{
+    "ConfigVersion": 22,
+    "ID": 45,
+    "Type": 1,
+    "Title": "Dr Elena: On The Offensive",
+    "Descriptions": [
+        "Hey there survivor, i've got a mission for you. It envolves a little lead, and courage, its also very important. My scout spotted a group of rebels camped out near the blue trail near Pass Oreshka. They could be the ones looting our military supplies at the bottom of the hill. Why dont you go take a look and see what you can find."
+    ],
+    "ObjectiveText": "Check Out The Camp!",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "offense",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknoteUSD",
+            "Amount": 10000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatpants_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_assault_pack_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_helmet_atacs",
+            "Amount": 1,
+            "Attachments": ["MMG_tactical_visor_green","UniversalLight"],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 27,
+            "ID": 13,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 6,
+            "ObjectiveType": 7
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 14,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 8,
+            "ObjectiveType": 8
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 10,
+            "ObjectiveType": 6
+        },
+        {
+            "ConfigVersion": 27,
+            "ID": 5,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        12
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

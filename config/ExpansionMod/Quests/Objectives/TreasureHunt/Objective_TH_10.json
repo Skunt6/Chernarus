@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 27,
+    "ID": 10,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Search for evidence of the groups movements.",
+    "TimeLimit": 120,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestDryBag_Black",
+    "DigInStash": 1,
+    "MarkerName": "",
+    "MarkerVisibility": 0,
+    "Positions": [
+        [
+            9859.1, 176.592, 6721.39
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 1.0,
+    "Loot": [
+        {
+            "Name": "ExpansionQuestItemPackage",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": 100,
+            "Max": 0,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 27,
+    "ID": 14,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go further down the trial.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10034.8, 200.501, 6544.14
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "?",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
