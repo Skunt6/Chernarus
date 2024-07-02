@@ -69,7 +69,7 @@
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
-            "Chance": 1.0,
+            "Chance": 0.0,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -1534,7 +1534,7 @@
         },
         {
             "Name": "Firestaion1",
-            "Faction": "Civilian",
+            "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
             "LoadoutFile": "FireFighterLoadout",
@@ -1565,7 +1565,7 @@
         },
         {
             "Name": "Firestaion2",
-            "Faction": "Civilian",
+            "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
             "LoadoutFile": "FireFighterLoadout",
@@ -1627,7 +1627,7 @@
         },
         {
             "Name": "Police",
-            "Faction": "Civilian",
+            "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
             "LoadoutFile": "PoliceLoadout",
@@ -1658,7 +1658,7 @@
         },
         {
             "Name": "Police2",
-            "Faction": "Civilian",
+            "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
             "LoadoutFile": "PoliceLoadout",
