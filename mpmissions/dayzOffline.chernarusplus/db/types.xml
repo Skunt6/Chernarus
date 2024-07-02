@@ -26570,7 +26570,7 @@
         <!-- MISC END -->
         <!-- CONSUMABLES TYPES -->
         <type name="ExpansionMilkBottle">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26585,7 +26585,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionBread1">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26600,7 +26600,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionBread2">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26615,7 +26615,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionBread3">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26630,7 +26630,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese1">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26645,7 +26645,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese2">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26660,7 +26660,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese3">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26675,7 +26675,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese4">
-            <nominal>25</nominal>
+            <nominal>15</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
