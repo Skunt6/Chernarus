@@ -3,7 +3,7 @@
     "ID": 6,
     "ObjectiveType": 7,
     "ObjectiveText": "Clear The Ambush, before they escape.",
-    "TimeLimit": 60,
+    "TimeLimit": 90,
     "Active": 1,
     "AISpawn": {
         "NumberOfAI": 2,
@@ -62,8 +62,8 @@
         "SniperProneDistanceThreshold": 1000.0,
         "RespawnTime": 1.0,
         "DespawnTime": 1.0,
-        "MinDistanceRadius": 5.0,
-        "MaxDistanceRadius": 10.0,
+        "MinDistanceRadius": 100.0,
+        "MaxDistanceRadius": 130.0,
         "DespawnRadius": 880.0
     },
     "MaxDistance": -1.0,
