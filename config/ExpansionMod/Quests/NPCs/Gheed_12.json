@@ -9,7 +9,7 @@
         16.6007, 0, -0
     ],
     "NPCName": "Gheed",
-    "DefaultNPCText": "Earn more Reputation!",
+    "DefaultNPCText": "Earn more Reputation!   (Req: 15000)",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
