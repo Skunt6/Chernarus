@@ -1434,9 +1434,9 @@
         </children>
     </event>
     <event name="VehicleCivilianSedan">
-        <nominal>0</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>1</nominal>
+        <min>0</min>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1453,9 +1453,9 @@
         </children>
     </event>
     <event name="VehicleHatchback02">
-        <nominal>0</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>1</nominal>
+        <min>0</min>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1472,9 +1472,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>0</nominal>
-        <min>2</min>
-        <max>3</max>
+        <nominal>1</nominal>
+        <min>0</min>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1489,9 +1489,9 @@
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
-        <nominal>0</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>1</nominal>
+        <min>0</min>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1508,9 +1508,9 @@
         </children>
     </event>
     <event name="VehicleSedan02">
-        <nominal>0</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>1</nominal>
+        <min>0</min>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1527,9 +1527,9 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>0</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>1</nominal>
+        <min>0</min>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
