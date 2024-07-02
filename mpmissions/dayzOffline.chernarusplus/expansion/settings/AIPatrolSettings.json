@@ -9010,7 +9010,7 @@
             "FormationLooseness": 300.0,
             "LoadoutFile": "Tier3Loadout",
             "Units": [],
-            "NumberOfAI": -25,
+            "NumberOfAI": -10,
             "Behaviour": "ALTERNATE",
             "Speed": "JOGRANDOM_NONSTATIC",
             "UnderThreatSpeed": "SPRINT",
