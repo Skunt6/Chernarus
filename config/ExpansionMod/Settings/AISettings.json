@@ -3,7 +3,7 @@
     "AccuracyMin": 0.2800000011920929,
     "AccuracyMax": 0.7799999713897705,
     "ThreatDistanceLimit": 800.0,
-    "NoiseInvestigationDistanceLimit": 800.0,
+    "NoiseInvestigationDistanceLimit": 400.0,
     "DamageMultiplier": 0.75,
     "DamageReceivedMultiplier": 1.0,
     "Admins": [],
