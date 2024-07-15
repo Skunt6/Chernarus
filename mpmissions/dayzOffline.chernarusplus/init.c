@@ -5,33 +5,21 @@ void main()
 	DC_FastTravel.SpawnBoard(3, "14201.3 196.715 15285.3", "-74.1487 0 0"); // Trailside with m_ID = 3 in the config
 	DC_FastTravel.SpawnBoard(4, "1896.99 442.394 15000.9", "-135.043 0 0"); // north tisy with m_ID = 4 in the config
 	//INIT ECONOMY--------------------------------------
-	Hive ce = CreateHive();
-	if ( ce )
-		ce.InitOffline();
-
-	//DATE RESET AFTER ECONOMY INIT-------------------------
+	CreateHive();
+	GetHive().InitOffline();
 	int year, month, day, hour, minute;
-	int reset_month = 1, reset_day = 0;
-	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
+	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
 
-	if ((month == reset_month) && (day < reset_day))
-	{
-		GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
+	//Change here the dates for whatever months you desire
+    if ( month < 12 )
+    {
+    	year = 2011;
+        month = 12;
+        day = 25;
+		
+		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
-	else
-	{
-		if ((month == reset_month + 1) && (day > reset_day))
-		{
-			GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-		}
-		else
-		{
-			if ((month < reset_month) || (month > reset_month + 1))
-			{
-				GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-			}
-		}
-	}
+
 }
 
 
