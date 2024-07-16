@@ -54,7 +54,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Black">
       <nominal>0</nominal>
@@ -64,7 +64,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Blue">
       <nominal>0</nominal>
@@ -74,7 +74,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Pink">
       <nominal>0</nominal>
@@ -84,7 +84,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Orange">
       <nominal>0</nominal>
@@ -94,7 +94,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Green">
       <nominal>0</nominal>
@@ -104,7 +104,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Red">
       <nominal>0</nominal>
@@ -114,7 +114,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Driver_Door">
       <nominal>0</nominal>
@@ -124,7 +124,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Driver_Door_Black">
       <nominal>0</nominal>
@@ -134,7 +134,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Driver_Door_Blue">
       <nominal>0</nominal>
@@ -144,7 +144,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Driver_Door_Pink">
       <nominal>0</nominal>
@@ -154,7 +154,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Driver_Door_Orange">
       <nominal>0</nominal>
@@ -164,7 +164,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Driver_Door_Green">
       <nominal>0</nominal>
@@ -174,7 +174,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Driver_Door_Red">
       <nominal>0</nominal>
@@ -184,7 +184,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
 
          <!-- by 4KBOSSK -->
@@ -196,7 +196,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_CoDriver_Door_Black">
       <nominal>0</nominal>
@@ -206,7 +206,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_CoDriver_Door_Blue">
       <nominal>0</nominal>
@@ -216,7 +216,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_CoDriver_Door_Pink">
       <nominal>0</nominal>
@@ -226,7 +226,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_CoDriver_Door_Orange">
       <nominal>0</nominal>
@@ -236,7 +236,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_CoDriver_Door_Green">
       <nominal>0</nominal>
@@ -246,7 +246,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_CoDriver_Door_Red">
       <nominal>0</nominal>
@@ -256,7 +256,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Hood">
       <nominal>0</nominal>
@@ -266,7 +266,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Hood_Black">
       <nominal>0</nominal>
@@ -276,7 +276,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Hood_Blue">
       <nominal>0</nominal>
@@ -286,7 +286,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Hood_Pink">
       <nominal>0</nominal>
@@ -296,7 +296,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Hood_Orange">
       <nominal>0</nominal>
@@ -306,7 +306,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Hood_Green">
       <nominal>0</nominal>
@@ -316,7 +316,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Hood_Red">
       <nominal>0</nominal>
@@ -326,7 +326,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Trunk">
       <nominal>0</nominal>
@@ -336,7 +336,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Trunk_Black">
       <nominal>0</nominal>
@@ -346,7 +346,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Trunk_Blue">
       <nominal>0</nominal>
@@ -356,7 +356,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Trunk_Pink">
       <nominal>0</nominal>
@@ -366,7 +366,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Trunk_Orange">
       <nominal>0</nominal>
@@ -376,7 +376,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
       <type name="Porsche_911RWB_Trunk_Green">
       <nominal>0</nominal>
@@ -386,7 +386,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
 	<type name="Porsche_911RWB_Trunk_Red">
       <nominal>0</nominal>
@@ -396,7 +396,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
    <type name="Porsche_911RWB_Front_Wheel">
       <nominal>0</nominal>
@@ -406,7 +406,7 @@
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
    </type>
 <!--Ram-->
   <type name="MBM_RamRebelPlate">
@@ -417,7 +417,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
     </type>
     <type name="MBM_RamRebel_wheel_BlackRed">
@@ -428,7 +428,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_wheel_Black">
         <nominal>0</nominal>
@@ -438,7 +438,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_wheel_BlackLime">
         <nominal>0</nominal>
@@ -448,7 +448,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_wheel_BlackYellow">
         <nominal>0</nominal>
@@ -458,7 +458,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_wheel_BlackOrange">
         <nominal>0</nominal>
@@ -468,7 +468,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Mudder_Left_Red">
         <nominal>0</nominal>
@@ -478,7 +478,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Mudder_Right_Red">
         <nominal>0</nominal>
@@ -488,7 +488,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Mudder_Left_Yellow">
         <nominal>0</nominal>
@@ -498,7 +498,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Mudder_Right_Yellow">
         <nominal>0</nominal>
@@ -508,7 +508,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Mudder_Left_Orange">
         <nominal>0</nominal>
@@ -518,7 +518,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Mudder_Right_Orange">
         <nominal>0</nominal>
@@ -528,7 +528,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_driver_Red">
         <nominal>0</nominal>
@@ -538,7 +538,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_codriver_Red">
         <nominal>0</nominal>
@@ -548,7 +548,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo1_Red">
         <nominal>0</nominal>
@@ -558,7 +558,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo2_Red">
         <nominal>0</nominal>
@@ -568,7 +568,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_hood_Red">
         <nominal>0</nominal>
@@ -578,7 +578,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_trunk_Red">
         <nominal>0</nominal>
@@ -588,7 +588,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Red">
         <nominal>0</nominal>
@@ -598,7 +598,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Grey">
         <nominal>0</nominal>
@@ -608,7 +608,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_driver_Grey">
         <nominal>0</nominal>
@@ -618,7 +618,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_codriver_Grey">
         <nominal>0</nominal>
@@ -628,7 +628,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo1_Grey">
         <nominal>0</nominal>
@@ -638,7 +638,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo2_Grey">
         <nominal>0</nominal>
@@ -648,7 +648,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_hood_Grey">
         <nominal>0</nominal>
@@ -658,7 +658,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_trunk_Grey">
         <nominal>0</nominal>
@@ -668,7 +668,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Lime">
         <nominal>0</nominal>
@@ -678,7 +678,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_driver_Lime">
         <nominal>0</nominal>
@@ -688,7 +688,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_codriver_Lime">
         <nominal>0</nominal>
@@ -698,7 +698,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo1_Lime">
         <nominal>0</nominal>
@@ -708,7 +708,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo2_Lime">
         <nominal>0</nominal>
@@ -718,7 +718,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_hood_Lime">
         <nominal>0</nominal>
@@ -728,7 +728,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_trunk_Lime">
         <nominal>0</nominal>
@@ -738,7 +738,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_White">
         <nominal>0</nominal>
@@ -748,7 +748,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_driver_White">
         <nominal>0</nominal>
@@ -758,7 +758,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_codriver_White">
         <nominal>0</nominal>
@@ -768,7 +768,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo1_White">
         <nominal>0</nominal>
@@ -778,7 +778,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo2_White">
         <nominal>0</nominal>
@@ -788,7 +788,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_hood_White">
         <nominal>0</nominal>
@@ -798,7 +798,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_trunk_White">
         <nominal>0</nominal>
@@ -808,7 +808,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Yellow">
         <nominal>0</nominal>
@@ -818,7 +818,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_driver_Yellow">
         <nominal>0</nominal>
@@ -828,7 +828,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_codriver_Yellow">
         <nominal>0</nominal>
@@ -838,7 +838,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo1_Yellow">
         <nominal>0</nominal>
@@ -848,7 +848,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo2_Yellow">
         <nominal>0</nominal>
@@ -858,7 +858,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_hood_Yellow">
         <nominal>0</nominal>
@@ -868,7 +868,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_trunk_Yellow">
         <nominal>0</nominal>
@@ -878,7 +878,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_Orange">
         <nominal>0</nominal>
@@ -888,7 +888,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_driver_Orange">
         <nominal>0</nominal>
@@ -898,7 +898,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_codriver_Orange">
         <nominal>0</nominal>
@@ -908,7 +908,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo1_Orange">
         <nominal>0</nominal>
@@ -918,7 +918,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_cargo2_Orange">
         <nominal>0</nominal>
@@ -928,7 +928,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_hood_Orange">
         <nominal>0</nominal>
@@ -938,7 +938,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="MBM_RamRebel_doors_trunk_Orange">
         <nominal>0</nominal>
@@ -948,7 +948,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 <!--Gunnertruck-->
   <type name="GunnerTruck">
@@ -1222,7 +1222,7 @@
         <usage name="Farm"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <category name="Herbals" />
+        <category name="Herbals"/>
     </type>
     <type name="DP_CocaSeeds">
         <nominal>1</nominal>
@@ -1233,7 +1233,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="Herbals" />
+        <category name="Herbals"/>
     </type>
     <type name="DP_CocaSeedsPack">
         <nominal>1</nominal>
@@ -1244,7 +1244,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="Herbals" />
+        <category name="Herbals"/>
     </type>
     <type name="DP_CocaBag">
         <nominal>1</nominal>
@@ -1255,7 +1255,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="Herbals" />
+        <category name="Herbals"/>
     </type>
     <type name="DP_CocaBrick">
         <nominal>1</nominal>
@@ -1266,7 +1266,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="Herbals" />
+        <category name="Herbals"/>
     </type>
     <type name="PsilocybeMushroom">
         <nominal>1</nominal>
@@ -1278,7 +1278,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
-        <category name="Herbals" />
+        <category name="Herbals"/>
     </type>
 <!--Cannabis-->
     <type name="CP_CannabisSkunk">
@@ -1289,13 +1289,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsSkunk">
         <nominal>1</nominal>
@@ -1305,8 +1305,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackSkunk">
         <nominal>1</nominal>
@@ -1316,8 +1316,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagSkunk">
         <nominal>1</nominal>
@@ -1327,8 +1327,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickSkunk">
         <nominal>1</nominal>
@@ -1338,8 +1338,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisSkunk">
         <nominal>1</nominal>
@@ -1349,11 +1349,11 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier4"/>
     </type>
     <type name="CP_JointSkunk">
         <nominal>5</nominal>
@@ -1363,16 +1363,16 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
  	<type name="CP_Plant_CannabisBlue">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="CP_CannabisBlue">
         <nominal>15</nominal>
@@ -1382,13 +1382,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsBlue">
         <nominal>1</nominal>
@@ -1398,8 +1398,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackBlue">
         <nominal>1</nominal>
@@ -1409,8 +1409,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagBlue">
         <nominal>1</nominal>
@@ -1420,8 +1420,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickBlue">
         <nominal>1</nominal>
@@ -1431,8 +1431,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisBlue">
         <nominal>1</nominal>
@@ -1442,11 +1442,11 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier4"/>
     </type>
     <type name="CP_JointBlue">
         <nominal>5</nominal>
@@ -1456,16 +1456,16 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
  	<type name="CP_Plant_CannabisKush">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="CP_CannabisKush">
         <nominal>9</nominal>
@@ -1475,13 +1475,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsKush">
         <nominal>1</nominal>
@@ -1491,8 +1491,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackKush">
         <nominal>1</nominal>
@@ -1502,8 +1502,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagKush">
         <nominal>1</nominal>
@@ -1513,8 +1513,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickKush">
         <nominal>1</nominal>
@@ -1524,8 +1524,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisKush">
         <nominal>1</nominal>
@@ -1535,11 +1535,11 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier4"/>
     </type>
     <type name="CP_JointKush">
         <nominal>7</nominal>
@@ -1549,16 +1549,16 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
  	<type name="CP_Plant_CannabisStardawg">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisStardawg">
         <nominal>6</nominal>
@@ -1568,13 +1568,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsStardawg">
         <nominal>1</nominal>
@@ -1584,8 +1584,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackStardawg">
         <nominal>1</nominal>
@@ -1595,8 +1595,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagStardawg">
         <nominal>1</nominal>
@@ -1606,8 +1606,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickStardawg">
         <nominal>1</nominal>
@@ -1617,8 +1617,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisStardawg">
         <nominal>1</nominal>
@@ -1628,8 +1628,8 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_JointStardawg">
         <nominal>4</nominal>
@@ -1639,16 +1639,16 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
  	<type name="CP_Plant_Tobacco">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_Tobacco">
         <nominal>20</nominal>
@@ -1658,13 +1658,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_TobaccoSeeds">
         <nominal>1</nominal>
@@ -1674,8 +1674,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
  	<type name="CP_TobaccoSeedsPack">
         <nominal>1</nominal>
@@ -1685,8 +1685,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_Empty">
         <nominal>1</nominal>
@@ -1696,13 +1696,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <usage name="Town" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <usage name="Town"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="CigarettePack_Chernamorka">
         <nominal>1</nominal>
@@ -1712,13 +1712,13 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <usage name="Town" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <usage name="Town"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="CigarettePack_Merkur">
         <nominal>1</nominal>
@@ -1728,13 +1728,13 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <usage name="Town" />
-        <tag name="shelves" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <usage name="Town"/>
+        <tag name="shelves"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="CigarettePack_Partyzanka">
         <nominal>1</nominal>
@@ -1744,13 +1744,13 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <usage name="Town" />
-        <tag name="shelves" />
-        <value name="Tier3" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <usage name="Town"/>
+        <tag name="shelves"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CP_Cigarette">
         <nominal>10</nominal>
@@ -1760,12 +1760,12 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="CP_RollingPapers">
         <nominal>45</nominal>
@@ -1775,19 +1775,19 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <usage name="Town" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <usage name="Town"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
 
     
  	<type name="CP_Plant_CannabisFuture">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisFuture">
         <nominal>6</nominal>
@@ -1797,13 +1797,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsFuture">
         <nominal>1</nominal>
@@ -1813,8 +1813,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackFuture">
         <nominal>1</nominal>
@@ -1824,8 +1824,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagFuture">
         <nominal>1</nominal>
@@ -1835,8 +1835,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickFuture">
         <nominal>1</nominal>
@@ -1846,8 +1846,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisFuture">
         <nominal>1</nominal>
@@ -1857,8 +1857,8 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_JointFuture">
         <nominal>4</nominal>
@@ -1868,16 +1868,16 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
  	<type name="CP_Plant_CannabisS1">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisS1">
         <nominal>6</nominal>
@@ -1887,13 +1887,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsS1">
         <nominal>1</nominal>
@@ -1903,8 +1903,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackS1">
         <nominal>1</nominal>
@@ -1914,8 +1914,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagS1">
         <nominal>1</nominal>
@@ -1925,8 +1925,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickS1">
         <nominal>1</nominal>
@@ -1936,8 +1936,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisS1">
         <nominal>1</nominal>
@@ -1947,8 +1947,8 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_JointS1">
         <nominal>4</nominal>
@@ -1958,16 +1958,16 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
      	<type name="CP_Plant_CannabisNomad">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisNomad">
         <nominal>6</nominal>
@@ -1977,13 +1977,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsNomad">
         <nominal>1</nominal>
@@ -1993,8 +1993,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackNomad">
         <nominal>1</nominal>
@@ -2004,8 +2004,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagNomad">
         <nominal>1</nominal>
@@ -2015,8 +2015,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickNomad">
         <nominal>1</nominal>
@@ -2026,8 +2026,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisNomad">
         <nominal>1</nominal>
@@ -2037,8 +2037,8 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_JointNomad">
         <nominal>4</nominal>
@@ -2048,16 +2048,16 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
   	<type name="CP_Plant_CannabisBlackFrost">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisBlackFrost">
         <nominal>6</nominal>
@@ -2067,13 +2067,13 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="food" />
-        <tag name="shelves" />
-        <usage name="Farm" />
-        <usage name="Town" />
-        <usage name="Village" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsBlackFrost">
         <nominal>1</nominal>
@@ -2083,8 +2083,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisSeedsPackBlackFrost">
         <nominal>1</nominal>
@@ -2094,8 +2094,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBagBlackFrost">
         <nominal>1</nominal>
@@ -2105,8 +2105,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CannabisBrickBlackFrost">
         <nominal>1</nominal>
@@ -2116,8 +2116,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_CigarettePack_CannabisBlackFrost">
         <nominal>1</nominal>
@@ -2127,8 +2127,8 @@
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
     <type name="CP_JointBlackFrost">
         <nominal>1</nominal>
@@ -2138,8 +2138,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
     </type>
 
     
@@ -2151,12 +2151,12 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Medic" />
-        <tag name="shelves" />
-        <value name="Tier3" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
 
 
@@ -2168,15 +2168,15 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Industrial" />
-        <usage name="Farm" />
-        <usage name="Office" />
-        <usage name="School" />
-        <usage name="Prison" />
-        <value name="Tier3" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Prison"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CP_DryPost_Kit">
         <nominal>1</nominal>
@@ -2186,53 +2186,53 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Industrial" />
-        <usage name="Farm" />
-        <usage name="Office" />
-        <usage name="School" />
-        <usage name="Prison" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Prison"/>
     </type>
     <type name="CP_DryPost">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="CP_DriedCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="CP_RawSkunkCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_RawBlueCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_RawKushCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_RawStardawgCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_RawFutureCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_RawNomadCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_RawS1CannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_RawBlackFrostCannabisPlant">
         <lifetime>7200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="CP_Workbench_Kit">
         <nominal>10</nominal>
@@ -2242,19 +2242,19 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <usage name="Industrial" />
-        <usage name="Farm" />
-        <usage name="Office" />
-        <usage name="School" />
-        <usage name="Prison" />
-        <value name="Tier3" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Prison"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CP_Workbench">
         <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="CP_Bagger">
         <nominal>5</nominal>
@@ -2264,15 +2264,15 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="tools" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <usage name="School" />
-        <value name="Tier3" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CP_PlasticWrapper">
         <nominal>5</nominal>
@@ -2282,15 +2282,15 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="tools" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <usage name="School" />
-        <value name="Tier3" />
-        <value name="Tier4" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>    
     <type name="CP_EmptyBag">
         <nominal>30</nominal>
@@ -2300,13 +2300,13 @@
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
-        <category name="tools" />
-        <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <usage name="School" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="School"/>
     </type>
     <type name="CP_PlasticRoll">
         <nominal>1</nominal>
@@ -2316,8 +2316,8 @@
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="Herbals" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Herbals"/>
         
     </type>
 <!--Gauss rifle-->
@@ -2394,7 +2394,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Red">
         <nominal>0</nominal>
@@ -2404,7 +2404,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_White">
         <nominal>0</nominal>
@@ -2414,7 +2414,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Blue">
         <nominal>0</nominal>
@@ -2424,7 +2424,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Yellow">
         <nominal>0</nominal>
@@ -2434,7 +2434,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_OD">
         <nominal>0</nominal>
@@ -2444,7 +2444,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Brown">
         <nominal>0</nominal>
@@ -2454,7 +2454,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Lime">
         <nominal>0</nominal>
@@ -2464,7 +2464,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Orange">
         <nominal>0</nominal>
@@ -2474,7 +2474,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Pink">
         <nominal>0</nominal>
@@ -2484,7 +2484,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Purple">
         <nominal>0</nominal>
@@ -2494,7 +2494,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_ATV_Teal">
         <nominal>0</nominal>
@@ -2504,7 +2504,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>	
 
     <type name="Techs_EvoGaming_ATV_Black">
@@ -2515,7 +2515,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Red">
         <nominal>0</nominal>
@@ -2525,7 +2525,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_White">
         <nominal>0</nominal>
@@ -2535,7 +2535,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Blue">
         <nominal>0</nominal>
@@ -2545,7 +2545,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Yellow">
         <nominal>0</nominal>
@@ -2555,7 +2555,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_OD">
         <nominal>0</nominal>
@@ -2565,7 +2565,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Brown">
         <nominal>0</nominal>
@@ -2575,7 +2575,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Lime">
         <nominal>0</nominal>
@@ -2585,7 +2585,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Orange">
         <nominal>0</nominal>
@@ -2595,7 +2595,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Pink">
         <nominal>0</nominal>
@@ -2605,7 +2605,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Purple">
         <nominal>0</nominal>
@@ -2615,7 +2615,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Techs_EvoGaming_ATV_Teal">
         <nominal>0</nominal>
@@ -2625,7 +2625,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 
     <type name="Techs_ATV_Wheel">
@@ -2636,14 +2636,14 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
     <type name="Techs_ATV_Wheel_Ruined">
         <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 <!--Loot chest-->
     <type name="CJ_LootChest_Grey_Small">
@@ -7145,7 +7145,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7159,7 +7159,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7173,7 +7173,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7187,7 +7187,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7201,7 +7201,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7215,7 +7215,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7229,7 +7229,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7243,7 +7243,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7257,7 +7257,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7271,7 +7271,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -7285,7 +7285,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>50</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="clothes"/>
     <usage name="Military"/>
     <usage name="ContaminatedArea"/>
@@ -9721,7 +9721,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<tag name="floor"/>
 		<category name="tools"/>
 		<usage name="Industrial"/>
@@ -9734,7 +9734,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="tools"/>
 	</type>
     <type name="CopperStill">
@@ -9745,7 +9745,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<tag name="floor"/>
 		<category name="tools"/>
 		<usage name="Farm"/>
@@ -26600,7 +26600,7 @@
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
             <category name="tools"/>
             <usage name="Industrial"/>
-            <usage name="Keycards" />
+            <usage name="Keycards"/>
         </type>
         <type name="ExpansionPropaneTorch">
             <nominal>2</nominal>
@@ -26613,7 +26613,7 @@
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
             <category name="tools"/>
             <usage name="Industrial"/>
-            <usage name="Keycards" />
+            <usage name="Keycards"/>
         </type>
         <type name="ExpansionToolBox">
             <nominal>2</nominal>
@@ -26630,7 +26630,7 @@
         <!-- MISC END -->
         <!-- CONSUMABLES TYPES -->
         <type name="ExpansionMilkBottle">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26645,7 +26645,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionBread1">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26660,7 +26660,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionBread2">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26675,7 +26675,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionBread3">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26690,7 +26690,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese1">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26705,7 +26705,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese2">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26720,7 +26720,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese3">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -26735,7 +26735,7 @@
             <usage name="Village"/>
         </type>
         <type name="ExpansionCheese4">
-            <nominal>15</nominal>
+            <nominal>0</nominal>
             <lifetime>1800</lifetime>
             <restock>0</restock>
             <min>15</min>
@@ -29348,7 +29348,7 @@
         <category name="tools"/>
     </type>
     <type name="BakedBeansCan">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -30702,7 +30702,7 @@
         <value name="Tier2"/>
     </type>
     <type name="BoxCerealCrunchin">
-        <nominal>46</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>18</min>
@@ -30877,7 +30877,7 @@
         <usage name="Village"/>
     </type>
     <type name="BrisketSpread">
-        <nominal>46</nominal>
+        <nominal>0</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
         <min>18</min>
@@ -31141,7 +31141,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Canteen">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -31437,7 +31437,7 @@
         <category name="food"/>
     </type>
     <type name="CatFoodCan">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -31733,7 +31733,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Chips">
-        <nominal>46</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>18</min>
@@ -32682,7 +32682,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Crackers">
-        <nominal>46</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>18</min>
@@ -33234,7 +33234,7 @@
         <usage name="Village"/>
     </type>
     <type name="DogFoodCan">
-        <nominal>60</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -35310,7 +35310,7 @@
         <usage name="Historical"/>
     </type>
     <type name="GreenBellPepper">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -36631,7 +36631,7 @@
         <usage name="Village"/>
     </type>
     <type name="Honey">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -38457,7 +38457,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Lunchmeat">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -39695,7 +39695,7 @@
         <usage name="Town"/>
     </type>
     <type name="Marmalade">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -41265,7 +41265,7 @@
         <usage name="Medic"/>
     </type>
     <type name="Pajka">
-        <nominal>46</nominal>
+        <nominal>0</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
         <min>18</min>
@@ -41424,7 +41424,7 @@
         <usage name="Lunapark"/>
     </type>
     <type name="Pate">
-        <nominal>46</nominal>
+        <nominal>0</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
         <min>18</min>
@@ -41452,7 +41452,7 @@
         <category name="food"/>
     </type>
     <type name="PeachesCan">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -41567,7 +41567,7 @@
         <category name="tools"/>
     </type>
     <type name="PepperSeedsPack">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
@@ -42112,7 +42112,7 @@
         <usage name="Police"/>
     </type>
     <type name="PorkCan">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -42193,7 +42193,7 @@
         <category name="food"/>
     </type>
     <type name="PotatoSeed">
-        <nominal>64</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>28</min>
@@ -42210,7 +42210,7 @@
         <value name="Tier3"/>
     </type>
     <type name="PowderedMilk">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -42341,7 +42341,7 @@
         <category name="tools"/>
     </type>
     <type name="PumpkinSeedsPack">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
@@ -42851,7 +42851,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Rice">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -43039,7 +43039,7 @@
         <category name="tools"/>
     </type>
     <type name="SaltySticks">
-        <nominal>46</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>18</min>
@@ -43109,7 +43109,7 @@
         <category name="food"/>
     </type>
     <type name="SardinesCan">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -44518,7 +44518,7 @@
         <usage name="School"/>
     </type>
     <type name="SodaCan_Cola">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>16</min>
@@ -44532,7 +44532,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Fronta">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>16</min>
@@ -44546,7 +44546,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Kvass">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>16</min>
@@ -44560,7 +44560,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Pipsi">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>16</min>
@@ -44574,7 +44574,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SodaCan_Spite">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>16</min>
@@ -44588,7 +44588,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SpaghettiCan">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -45405,7 +45405,7 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalBaconCan">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -45713,7 +45713,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Tomato">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -45741,7 +45741,7 @@
         <category name="tools"/>
     </type>
     <type name="TomatoSeedsPack">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
@@ -46276,7 +46276,7 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="TunaCan">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -46439,7 +46439,7 @@
         <value name="Tier4"/>
     </type>
     <type name="UnknownFoodCan">
-        <nominal>86</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>37</min>
@@ -47524,7 +47524,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Zagorky">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -47544,7 +47544,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ZagorkyChocolate">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -47557,7 +47557,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="ZagorkyPeanuts">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -49263,7 +49263,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Zucchini">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -49292,7 +49292,7 @@
         <category name="tools"/>
     </type>
     <type name="ZucchiniSeedsPack">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>25</min>
