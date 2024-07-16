@@ -501,7 +501,7 @@
             "Sets": []
         },
         {
-            "ClassName": "WaterBottle",
+            "ClassName": "dzn_WaterBottle",
             "Chance": 1.0,
             "Quantity": {
                 "Min": 0.0,

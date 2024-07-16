@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "sodacan_pipsi",
+            "ClassName": "dzn_SodaCan_Pipsi",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "sodacan_cola",
+            "ClassName": "dzn_SodaCan_Cola",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "sodacan_spite",
+            "ClassName": "dzn_SodaCan_Spite",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "sodacan_kvass",
+            "ClassName": "dzn_SodaCan_Kvass",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "sodacan_fronta",
+            "ClassName": "dzn_SodaCan_Fronta",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "waterbottle",
+            "ClassName": "dzn_WaterBottle",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,

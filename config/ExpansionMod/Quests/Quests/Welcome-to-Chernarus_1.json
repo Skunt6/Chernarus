@@ -18,7 +18,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TunaCan",
+            "ClassName": "dzn_TunaCan",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
