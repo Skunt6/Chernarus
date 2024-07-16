@@ -1,5 +1,334 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
+<!--Frozen Food-->
+    <type name="dzn_SodaCan_Pipsi">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_SodaCan_Cola">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_SodaCan_Spite">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_SodaCan_Kvass">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_SodaCan_Fronta">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_BakedBeansCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_PeachesCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_SardinesCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_SpaghettiCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_TunaCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_UnknownFoodCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_DogFoodCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_CatFoodCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_PorkCan">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_Lunchmeat">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_Pajka">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_Pate">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_BrisketSpread">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_Marmalade">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_Honey">
+    <nominal>50</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <usage />
+    <value />
+    <category name="food" />
+  </type>
+  <type name="dzn_meme_banana">
+    <lifetime>5400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_snowball_large">
+    <lifetime>500</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_snowball_medium">
+    <lifetime>500</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_snowball_small">
+    <lifetime>500</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_BakedBeansCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_PeachesCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_SpaghettiCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_SardinesCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_TunaCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_UnknownFoodCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_DogFoodCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_CatFoodCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_PorkCan_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_Lunchmeat_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_Pajka_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_Pate_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="dzn_BrisketSpread_Opened">
+    <lifetime>900</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
 <!--Winter Cherno-->
     <type name="WinterStash">
         <nominal>0</nominal>
