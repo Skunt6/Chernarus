@@ -13,10 +13,10 @@
     <usage />
     <value />
     <category name="tools" />
-    <tag name="civilian" />
-    <tag name="hunting" />
-    <tag name="police" />
-    <tag name="military" />
+    <tag name="Civilian" />
+    <tag name="Hunting" />
+    <tag name="Police" />
+    <tag name="Military" />
   </type>
     <type name="dzn_tool_watch">
     <nominal>50</nominal>
@@ -30,10 +30,10 @@
     <usage />
     <value />
     <category name="tools" />
-    <tag name="civilian" />
-    <tag name="hunting" />
-    <tag name="police" />
-    <tag name="military" />
+    <tag name="Civilian" />
+    <tag name="Hunting" />
+    <tag name="Police" />
+    <tag name="Military" />
   </type>
     <type name="dzn_detector">
     <nominal>50</nominal>
@@ -45,7 +45,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+    <value name="Tier3" />
   </type>
     <type name="dzn_Canteen">
     <nominal>15</nominal>
@@ -59,8 +59,8 @@
     <usage />
     <value />
     <category name="tools" />
-    <tag name="hunting" />
-    <tag name="military" />
+    <tag name="Hunting" />
+    <tag name="Military" />
   </type>
   <type name="dzn_WaterBottle">
     <nominal>130</nominal>
@@ -74,8 +74,8 @@
     <usage />
     <value />
     <category name="tools" />
-    <tag name="industrial" />
-    <tag name="civilian" />
+    <tag name="Industrial" />
+    <tag name="Civilian" />
   </type>
     <type name="dzn_SodaCan_Pipsi">
     <nominal>50</nominal>
