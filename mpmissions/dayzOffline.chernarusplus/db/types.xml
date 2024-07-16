@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--Frozen Food-->
+    <type name="dzn_tool_watch2">
+    <nominal>50</nominal>
+    <min>10</min>
+    <lifetime>300</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="police" />
+    <tag name="military" />
+  </type>
+    <type name="dzn_tool_watch">
+    <nominal>50</nominal>
+    <min>10</min>
+    <lifetime>300</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+    <tag name="police" />
+    <tag name="military" />
+  </type>
+    <type name="dzn_detector">
+    <nominal>50</nominal>
+    <min>8</min>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier3" />
+  </type>
+    <type name="dzn_Canteen">
+    <nominal>15</nominal>
+    <min>12</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>20</quantmin>
+    <quantmax>60</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="hunting" />
+    <tag name="military" />
+  </type>
+  <type name="dzn_WaterBottle">
+    <nominal>130</nominal>
+    <min>20</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>20</quantmin>
+    <quantmax>60</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="industrial" />
+    <tag name="civilian" />
+  </type>
     <type name="dzn_SodaCan_Pipsi">
     <nominal>50</nominal>
     <min>20</min>
@@ -46885,7 +46961,7 @@
         <category name="tools"/>
     </type>
     <type name="WaterBottle">
-        <nominal>260</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>100</min>
