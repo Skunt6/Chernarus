@@ -25,7 +25,7 @@
         "UnlimitedReload": 1,
         "ThreatDistanceLimit": 1000.0,
         "DamageMultiplier": 0.75,
-        "DamageReceivedMultiplier": 3.0,
+        "DamageReceivedMultiplier": 5.0,
         "ClassNames": [
             "eAI_SurvivorM_Peter",
             "eAI_SurvivorM_Quinn",
