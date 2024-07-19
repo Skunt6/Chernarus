@@ -2,9 +2,9 @@
 <events>
     <!--Atv-->
     <event name="VehicleTechs_ATV_Spawn">
-        <nominal>3</nominal>
+        <nominal>20</nominal>
         <min>2</min>
-        <max>10</max>
+        <max>20</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>

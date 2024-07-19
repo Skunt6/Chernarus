@@ -3048,7 +3048,7 @@
     </type>
 
     <type name="Techs_ATV_Wheel">
-        <nominal>15</nominal>
+        <nominal>70</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>10</min>
