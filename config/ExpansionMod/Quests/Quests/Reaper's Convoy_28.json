@@ -14,13 +14,58 @@
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 1,
-    "ObjectSetFileName": "",
+    "ObjectSetFileName": "Reapers-ambush",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 6000,
-            "Attachments": [],
+            "ClassName": "SNAFU_AK308",
+            "Amount": 1,
+            "Attachments": ["SNAFU_AK308_Mag"],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_AEK545_Gun",
+            "Amount": 1,
+            "Attachments": ["SNAFU_RPK16_Black_Mag"],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFUHoneyBadger_Tan",
+            "Amount": 1,
+            "Attachments": ["SNAFU_AFG_02_Tan","SNAFUHoneyBadger_30rdMag_Tan"],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFUP90",
+            "Amount": 1,
+            "Attachments": ["SNAFUP90_50rdMag"],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_KAC_Gun",
+            "Amount": 1,
+            "Attachments": ["SNAFU_KAC_Mag"],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_CZ805_Gun",
+            "Amount": 1,
+            "Attachments": ["Mag_STANAG_60Rnd"],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -42,15 +87,15 @@
     "Objectives": [
         {
             "ConfigVersion": 27,
-            "ID": 3,
-            "ObjectiveType": 7
+            "ID": 9,
+            "ObjectiveType": 8
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 500,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
-        2
+        13
     ],
     "RequiredFaction": "",
     "FactionReward": "",
@@ -60,5 +105,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }
