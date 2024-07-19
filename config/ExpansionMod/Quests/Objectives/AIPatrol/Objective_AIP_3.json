@@ -27,6 +27,8 @@
         "DamageMultiplier": 0.75,
         "DamageReceivedMultiplier": 3.0,
         "ClassNames": [
+            "eAI_SurvivorM_Peter",
+            "eAI_SurvivorM_Quinn",
             "eAI_SurvivorM_Rolf"
         ],
         "SniperProneDistanceThreshold": 1000.0,
