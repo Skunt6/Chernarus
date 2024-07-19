@@ -2,14 +2,14 @@
     "ConfigVersion": 22,
     "ID": 28,
     "Type": 1,
-    "Title": "Rico: Reaper's Payback",
+    "Title": "Rico: Reaper's Convoy",
     "Descriptions": [
-        "Survivors, we've got a pressing matter on our hands. A patrol of Reapers, five strong, is terrorizing fresh spawns near the coast. These ruthless bastards have been making life hell for newcomers, and it's time we put an end to it. I want you to eliminate them brutally, no mercy. Send a message to any Reaper scum thinking they can prey on the weak. We've had enough of their nonsense. Gather your gear, form up, and strike hard. We'll rendezvous at the coast, and together we'll make sure these Reapers regret the day they stepped foot on our turf. Stay sharp, stay ruthless, and let's show 'em what we're made of!"
+        "Hello survivor, In the aftermath of the raid on their, might I say, well-fortified castle (which I don’t even know how they built), there has been a huge intel leak thanks to you. I'm sure they know we have this info, so we have to act fast. Apparently, there is a convoy of these pricks, some higher-ups. I need you to confront them with force and see what they've got laying around there at their convoy."
     ],
-    "ObjectiveText": "Kill the Crimsom Reapers patrol",
+    "ObjectiveText": "Crash the convoy.",
     "FollowUpQuest": -1,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
@@ -60,5 +60,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 1
+    "Active": 0
 }

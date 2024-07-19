@@ -2,14 +2,14 @@
     "ConfigVersion": 22,
     "ID": 10,
     "Type": 1,
-    "Title": "Rico: The Reaper's Raid",
+    "Title": "Main: The Reaper's Trial",
     "Descriptions": [
         "Survivor, listen up. We've got a serious problem on our hands. A group of troublemakers, known as the Crimson Reapers, has been wreaking havoc in our territory. They're not your run-of-the-mill bandits; these folks are well-armed and deadly accurate. We can't let them continue their rampage unchecked. Your mission, if you choose to accept it, is to locate the Crimson Reapers' patrol routes and gather intel on their base of operations. It's time to show these Reapers that our camp is not to be trifled with. They are located at some dam, i cant remember the name. But it is just east of here."
     ],
-    "ObjectiveText": "Kill the Crimsom Reapers patrol",
-    "FollowUpQuest": -1,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "ObjectiveText": "Eliminate the shot callers.",
+    "FollowUpQuest": 13,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
@@ -18,8 +18,44 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 5000,
+            "ClassName": "MMG_combatpants_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_balaclava_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_JPC_Vest_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_helmet_alpine",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -27,7 +63,7 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
