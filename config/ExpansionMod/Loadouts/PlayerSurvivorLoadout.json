@@ -475,6 +475,19 @@
             "Sets": []
         },
         {
+            "ClassName": "Roadflare",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
             "ClassName": "KitchenKnife",
             "Chance": 1.0,
             "Quantity": {
@@ -515,19 +528,6 @@
         },
         {
             "ClassName": "dzn_tool_watch2",
-            "Chance": 0.5,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "dzn_tool_watch",
             "Chance": 0.5,
             "Quantity": {
                 "Min": 0.0,
