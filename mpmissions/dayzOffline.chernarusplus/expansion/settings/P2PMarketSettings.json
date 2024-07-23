@@ -56,11 +56,11 @@
             "SubCategories": [
                 {
                     "DisplayName": "Drinks",
-                    "IconPath": "set:dayz_inventory image:canteen",
+                    "IconPath": "set:dayz_inventory image:dzn_Canteen",
                     "Included": [
                         "SodaCan_ColorBase",
                         "dzn_WaterBottle",
-                        "Canteen",
+                        "dzn_Canteen",
                         "Vodka",
                         "ExpansionMilkBottle"
                     ],

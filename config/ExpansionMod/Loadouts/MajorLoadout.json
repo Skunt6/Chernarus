@@ -11145,7 +11145,7 @@
             "Sets": []
         },
         {
-            "ClassName": "Canteen",
+            "ClassName": "dzn_Canteen",
             "Chance": 0.1,
             "Quantity": {
                 "Min": 0.0,

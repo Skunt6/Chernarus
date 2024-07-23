@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "canteen",
+            "ClassName": "dzn_Canteen",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 180,
             "SellPricePercent": -1.0,

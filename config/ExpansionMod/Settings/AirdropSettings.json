@@ -332,7 +332,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Canteen",
+                    "Name": "dzn_Canteen",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,

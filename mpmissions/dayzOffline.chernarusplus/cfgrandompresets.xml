@@ -295,7 +295,7 @@
 				<item name="dzn_SpaghettiCan" chance="0.05" />
 				<item name="dzn_BakedBeansCan" chance="0.05" />
 				<item name="TacticalBaconCan" chance="0.1" />
-				<item name="Canteen" chance="0.1" />
+				<item name="dzn_Canteen" chance="0.1" />
 		</cargo>
 		<cargo chance="0.15" name="toolsHermit">
 				<item name="WeaponCleaningKit" chance="0.10" />
@@ -463,7 +463,7 @@
 				<item name="dzn_SpaghettiCan" chance="0.05" />
 				<item name="dzn_BakedBeansCan" chance="0.05" />
 				<item name="TacticalBaconCan" chance="0.1" />
-				<item name="Canteen" chance="0.1" />
+				<item name="dzn_Canteen" chance="0.1" />
 				<item name="Ammo_45ACP" chance="0.2" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
 				<item name="Ammo_762x39" chance="0.2" />
