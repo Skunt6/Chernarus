@@ -71,7 +71,7 @@ Example messages:
 
     <message>
         <deadline>480</deadline>
-        <text>Natures Weavers will shutdown in #tmin minutes.</text>
+        <text>Natures Weavers will shutdown in roughly #tmin minutes.</text>
     </message>
     
     <!--Server restart end-->
