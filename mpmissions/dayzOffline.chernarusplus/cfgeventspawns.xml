@@ -2278,4 +2278,5 @@
 	<event name="AnimalWildDog" />
     <event name="AnimalWildBoar" />
 	<event name="ItemOreSpawn" />
+	<event name="AnimalWildHorse" />
 </eventposdef>
