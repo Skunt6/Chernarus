@@ -1,32 +1,22 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 6,
     "ObjectiveType": 7,
     "ObjectiveText": "Clear The Ambush, before they escape.",
     "TimeLimit": 90,
     "Active": 1,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [],
     "AISpawn": {
-        "NumberOfAI": 2,
-        "NPCName": "Dirty Scum",
-        "Waypoints": [
-            [
-                9946.28, 237.691, 6348.18
-            ]
-        ],
-        "Behaviour": 0,
-        "Formation": "RANDOM",
-        "Loadout": "Tier3Loadout",
+        "Name": "Dirty Scum",
+        "Persist": 0,
         "Faction": "Mercenaries",
-        "Speed": 0.0,
-        "ThreatSpeed": 3.0,
-        "MinAccuracy": 0.24,
-        "MaxAccuracy": 0.75,
-        "CanBeLooted": 1,
-        "UnlimitedReload": 1,
-        "ThreatDistanceLimit": 1000.0,
-        "DamageMultiplier": 0.5,
-        "DamageReceivedMultiplier": 1.0,
-        "ClassNames": [
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.0,
+        "Loadout": "Tier3Loadout",
+        "Units": [
             "eAI_SurvivorF_Eva",
             "eAI_SurvivorF_Frida",
             "eAI_SurvivorF_Gabi",
@@ -59,15 +49,35 @@
             "eAI_SurvivorM_Seth",
             "eAI_SurvivorM_Taiki"
         ],
+        "NumberOfAI": 2,
+        "Behaviour": "HALT",
+        "Speed": "STATIC",
+        "UnderThreatSpeed": "SPRINT",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
         "SniperProneDistanceThreshold": 1000.0,
-        "RespawnTime": 1.0,
+        "AccuracyMin": 0.23999999463558198,
+        "AccuracyMax": 0.75,
+        "ThreatDistanceLimit": 1000.0,
+        "NoiseInvestigationDistanceLimit": -1.0,
+        "DamageMultiplier": 0.5,
+        "DamageReceivedMultiplier": 1.0,
+        "MinDistRadius": 100.0,
+        "MaxDistRadius": 130.0,
+        "DespawnRadius": 880.0,
+        "MinSpreadRadius": 0.0,
+        "MaxSpreadRadius": 0.0,
+        "Chance": 1.0,
+        "WaypointInterpolation": "",
         "DespawnTime": 1.0,
-        "MinDistanceRadius": 100.0,
-        "MaxDistanceRadius": 130.0,
-        "DespawnRadius": 880.0
-    },
-    "MaxDistance": -1.0,
-    "MinDistance": -1.0,
-    "AllowedWeapons": [],
-    "AllowedDamageZones": []
+        "RespawnTime": 1.0,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+            [
+                9946.2802734375,
+                237.6909942626953,
+                6348.18017578125
+            ]
+        ]
+    }
 }

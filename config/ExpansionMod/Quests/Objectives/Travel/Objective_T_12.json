@@ -1,12 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 12,
     "ObjectiveType": 3,
     "ObjectiveText": "Go check Severograd",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        8457.63, 137.815, 12907.6
+        8457.6298828125,
+        137.81500244140626,
+        12907.599609375
     ],
     "MaxDistance": 150.0,
     "MarkerName": "?",

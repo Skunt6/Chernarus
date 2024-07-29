@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 10,
     "ObjectiveType": 6,
     "ObjectiveText": "Search for evidence of the groups movements.",
@@ -12,7 +12,9 @@
     "MarkerVisibility": 0,
     "Positions": [
         [
-            9859.1, 176.592, 6721.39
+            9859.099609375,
+            176.5919952392578,
+            6721.39013671875
         ]
     ],
     "LootItemsAmount": 1,

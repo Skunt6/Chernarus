@@ -1,12 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 4,
     "ObjectiveType": 3,
     "ObjectiveText": "Go to Radio Zenit",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        8130.4, 475.435, 9126.95
+        8130.39990234375,
+        475.43499755859377,
+        9126.9501953125
     ],
     "MaxDistance": 20.0,
     "MarkerName": "Radio Zenit",

@@ -1,45 +1,55 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 3,
     "ObjectiveType": 7,
     "ObjectiveText": "Kill the Menice.",
     "TimeLimit": -1,
     "Active": 1,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [],
     "AISpawn": {
-        "NumberOfAI": 1,
-        "NPCName": "Lumbahjack",
-        "Waypoints": [
-            [
-                2281.44, 190.166, 5199.66
-            ]
-        ],
-        "Behaviour": 0,
-        "Formation": "RANDOM",
-        "Loadout": "LumberJackLoadout",
+        "Name": "Lumbahjack",
+        "Persist": 0,
         "Faction": "Mercenaries",
-        "Speed": 0.0,
-        "ThreatSpeed": 3.0,
-        "MinAccuracy": 0.4,
-        "MaxAccuracy": 0.9,
-        "CanBeLooted": 1,
-        "UnlimitedReload": 1,
-        "ThreatDistanceLimit": 1000.0,
-        "DamageMultiplier": 0.75,
-        "DamageReceivedMultiplier": 5.0,
-        "ClassNames": [
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.0,
+        "Loadout": "LumberJackLoadout",
+        "Units": [
             "eAI_SurvivorM_Peter",
             "eAI_SurvivorM_Quinn",
             "eAI_SurvivorM_Rolf"
         ],
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "STATIC",
+        "UnderThreatSpeed": "SPRINT",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
         "SniperProneDistanceThreshold": 1000.0,
-        "RespawnTime": 1.0,
+        "AccuracyMin": 0.4000000059604645,
+        "AccuracyMax": 0.8999999761581421,
+        "ThreatDistanceLimit": 1000.0,
+        "NoiseInvestigationDistanceLimit": -1.0,
+        "DamageMultiplier": 0.75,
+        "DamageReceivedMultiplier": 5.0,
+        "MinDistRadius": 50.0,
+        "MaxDistRadius": 100.0,
+        "DespawnRadius": 200.0,
+        "MinSpreadRadius": 0.0,
+        "MaxSpreadRadius": 0.0,
+        "Chance": 1.0,
+        "WaypointInterpolation": "",
         "DespawnTime": 1.0,
-        "MinDistanceRadius": 50.0,
-        "MaxDistanceRadius": 100.0,
-        "DespawnRadius": 200.0
-    },
-    "MaxDistance": -1.0,
-    "MinDistance": -1.0,
-    "AllowedWeapons": [],
-    "AllowedDamageZones": []
+        "RespawnTime": 1.0,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+            [
+                2281.43994140625,
+                190.16600036621095,
+                5199.66015625
+            ]
+        ]
+    }
 }

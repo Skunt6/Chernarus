@@ -1,12 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 13,
     "ObjectiveType": 3,
     "ObjectiveText": "Go to Pass Oreshka",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        9864.206055, 249.647964, 6247.438965
+        9864.2060546875,
+        249.64796447753907,
+        6247.43896484375
     ],
     "MaxDistance": 1.0,
     "MarkerName": "?",

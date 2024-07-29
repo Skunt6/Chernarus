@@ -20,7 +20,9 @@
         {
             "ClassName": "SNAFU_AK308",
             "Amount": 1,
-            "Attachments": ["SNAFU_AK308_Mag"],
+            "Attachments": [
+                "SNAFU_AK308_Mag"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -29,7 +31,9 @@
         {
             "ClassName": "SNAFU_AEK545_Gun",
             "Amount": 1,
-            "Attachments": ["SNAFU_RPK16_Black_Mag"],
+            "Attachments": [
+                "SNAFU_RPK16_Black_Mag"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -38,7 +42,10 @@
         {
             "ClassName": "SNAFUHoneyBadger_Tan",
             "Amount": 1,
-            "Attachments": ["SNAFU_AFG_02_Tan","SNAFUHoneyBadger_30rdMag_Tan"],
+            "Attachments": [
+                "SNAFU_AFG_02_Tan",
+                "SNAFUHoneyBadger_30rdMag_Tan"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -47,7 +54,9 @@
         {
             "ClassName": "SNAFUP90",
             "Amount": 1,
-            "Attachments": ["SNAFUP90_50rdMag"],
+            "Attachments": [
+                "SNAFUP90_50rdMag"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -56,7 +65,9 @@
         {
             "ClassName": "SNAFU_KAC_Gun",
             "Amount": 1,
-            "Attachments": ["SNAFU_KAC_Mag"],
+            "Attachments": [
+                "SNAFU_KAC_Mag"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -65,7 +76,9 @@
         {
             "ClassName": "SNAFU_CZ805_Gun",
             "Amount": 1,
-            "Attachments": ["Mag_STANAG_60Rnd"],
+            "Attachments": [
+                "Mag_STANAG_60Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -86,7 +99,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 9,
             "ObjectiveType": 8
         }

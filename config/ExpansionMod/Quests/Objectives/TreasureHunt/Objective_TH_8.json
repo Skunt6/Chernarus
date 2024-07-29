@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 8,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the Aztec Gold Around Krona.",
@@ -12,9 +12,9 @@
     "MarkerVisibility": 0,
     "Positions": [
         [
-            1409.44,
-            314.562,
-            9275.21
+            1409.43994140625,
+            314.56201171875,
+            9275.2099609375
         ]
     ],
     "LootItemsAmount": 10,

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 4,
     "ObjectiveType": 5,
     "ObjectiveText": "Deliver Intel to Rico",
@@ -16,5 +16,5 @@
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
     "MaxDistance": 10.0,
-    "MarkerName": "Deliver Package"
+    "MarkerName": "Deliver Items"
 }

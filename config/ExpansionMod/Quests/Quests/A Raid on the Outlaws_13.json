@@ -29,7 +29,10 @@
         {
             "ClassName": "FAL",
             "Amount": 1,
-            "Attachments": ["Fal_OeBttstck","Mag_FAL_20Rnd"],
+            "Attachments": [
+                "Fal_OeBttstck",
+                "Mag_FAL_20Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -38,7 +41,12 @@
         {
             "ClassName": "M4A1",
             "Amount": 1,
-            "Attachments": ["M4_OEBttstck","M4_PlasticHndgrd","M4_CarryHandleOptic","Mag_CMAG_30Rnd"],
+            "Attachments": [
+                "M4_OEBttstck",
+                "M4_PlasticHndgrd",
+                "M4_CarryHandleOptic",
+                "Mag_CMAG_30Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -47,7 +55,10 @@
         {
             "ClassName": "M14",
             "Amount": 1,
-            "Attachments": ["Mag_M14_20Rnd","ACOGOptic"],
+            "Attachments": [
+                "Mag_M14_20Rnd",
+                "ACOGOptic"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -56,7 +67,9 @@
         {
             "ClassName": "SVD",
             "Amount": 1,
-            "Attachments": ["Mag_SVD_10Rnd"],
+            "Attachments": [
+                "Mag_SVD_10Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -65,7 +78,10 @@
         {
             "ClassName": "VSS",
             "Amount": 1,
-            "Attachments": ["KashtanOptic","Mag_Vikhr_30Rnd"],
+            "Attachments": [
+                "KashtanOptic",
+                "Mag_Vikhr_30Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -86,17 +102,17 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 1,
             "ObjectiveType": 8
         },
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 5,
             "ObjectiveType": 6
         },
         {
-            "ConfigVersion": 27,
+            "ConfigVersion": 28,
             "ID": 4,
             "ObjectiveType": 5
         }

@@ -1,43 +1,53 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 5,
     "ObjectiveType": 7,
     "ObjectiveText": "Kill the Witch.",
     "TimeLimit": -1,
     "Active": 1,
-    "AISpawn": {
-        "NumberOfAI": 1,
-        "NPCName": "Witch",
-        "Waypoints": [
-            [
-                13177.3, 103.88, 12128.1
-            ]
-        ],
-        "Behaviour": 0,
-        "Formation": "RANDOM",
-        "Loadout": "WitchLoadout",
-        "Faction": "Mercenaries",
-        "Speed": 0.0,
-        "ThreatSpeed": 6.0,
-        "MinAccuracy": 0.50,
-        "MaxAccuracy": 0.95,
-        "CanBeLooted": 0,
-        "UnlimitedReload": 1,
-        "ThreatDistanceLimit": 50.0,
-        "DamageMultiplier": 0.3,
-        "DamageReceivedMultiplier": 10.0,
-        "ClassNames": [
-            "eAI_SurvivorF_Judy"
-        ],
-        "SniperProneDistanceThreshold": 100.0,
-        "RespawnTime": 1.0,
-        "DespawnTime": 1.0,
-        "MinDistanceRadius": 50.0,
-        "MaxDistanceRadius": 880.0,
-        "DespawnRadius": 880.0
-    },
     "MaxDistance": -1.0,
     "MinDistance": -1.0,
     "AllowedWeapons": [],
-    "AllowedDamageZones": []
+    "AllowedDamageZones": [],
+    "AISpawn": {
+        "Name": "Witch",
+        "Persist": 0,
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.0,
+        "Loadout": "WitchLoadout",
+        "Units": [
+            "eAI_SurvivorF_Judy"
+        ],
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "STATIC",
+        "UnderThreatSpeed": "unknown",
+        "CanBeLooted": 0,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 100.0,
+        "AccuracyMin": 0.5,
+        "AccuracyMax": 0.949999988079071,
+        "ThreatDistanceLimit": 50.0,
+        "NoiseInvestigationDistanceLimit": -1.0,
+        "DamageMultiplier": 0.30000001192092898,
+        "DamageReceivedMultiplier": 10.0,
+        "MinDistRadius": 50.0,
+        "MaxDistRadius": 880.0,
+        "DespawnRadius": 880.0,
+        "MinSpreadRadius": 0.0,
+        "MaxSpreadRadius": 0.0,
+        "Chance": 1.0,
+        "WaypointInterpolation": "",
+        "DespawnTime": 1.0,
+        "RespawnTime": 1.0,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+            [
+                13177.2998046875,
+                103.87999725341797,
+                12128.099609375
+            ]
+        ]
+    }
 }

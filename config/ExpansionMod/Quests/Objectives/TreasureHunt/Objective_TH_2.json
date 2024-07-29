@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 2,
     "ObjectiveType": 6,
     "ObjectiveText": "Look behind one of the sheds with a shovel",
@@ -12,7 +12,9 @@
     "MarkerVisibility": 0,
     "Positions": [
         [
-            8130.4, 475.435, 9126.95
+            8130.39990234375,
+            475.43499755859377,
+            9126.9501953125
         ]
     ],
     "LootItemsAmount": 3,
