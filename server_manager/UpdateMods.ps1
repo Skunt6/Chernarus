@@ -1,9 +1,9 @@
 <# 
 .SYNOPSIS 
-    Script for updating DayZ server mods using SteamCMD and copying them to the server folder.
+    Script for copying DayZ server mods to the server folder.
     
 .DESCRIPTION 
-    This script downloads DayZ mods using SteamCMD and copies them to the DayZ server folder, overwriting the existing mod folders directly.
+    This script copies DayZ mods to the DayZ server folder, ensuring necessary folders exist.
     
 .NOTES 
     Requires: PowerShell V4
@@ -17,96 +17,21 @@ $serverFolder = "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus"
 $modListPath = "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\server_manager\mod_list.txt"
 # Path to SteamCMD DayZ Workshop content folder
 $workshopFolder = "C:\Program Files (x86)\Steam\steamapps\workshop\content\221100"
-# Path to SteamCMD executable
-$steamCMDPath = "C:\Program Files (x86)\Steam\steamcmd.exe"
-# Path to save Steam credentials
-$credentialsPath = "$env:USERPROFILE\steam_credentials.xml"
 
-# Function to get or prompt for Steam credentials
-function Get-SteamCredentials {
-    if (Test-Path -Path $credentialsPath) {
-        $steamCredentials = Import-Clixml -Path $credentialsPath
-    } else {
-        $steamUsername = Read-Host -Prompt 'Enter your Steam username'
-        $steamPassword = Read-Host -Prompt 'Enter your Steam password' -AsSecureString
-        $steamCredentials = New-Object PSCredential -ArgumentList $steamUsername, $steamPassword
-        $steamCredentials | Export-Clixml -Path $credentialsPath
+# Function to ensure necessary folders exist
+function EnsureFolders {
+    $keysFolder = "$serverFolder\Keys"
+
+    if (!(Test-Path $keysFolder)) {
+        New-Item -Path $keysFolder -ItemType Directory
     }
-    return $steamCredentials
-}
-
-# Function to check if a mod needs to be updated
-function NeedsUpdate($modId, $modName) {
-    $sourcePath = "$workshopFolder\$modId"
-    $destinationPath = "$serverFolder\$modName"
-
-    if (!(Test-Path "$destinationPath")) {
-        # If the destination path doesn't exist, the mod needs to be updated
-        return $true
-    }
-
-    # Get the latest modification time from the source and destination paths
-    $sourceModTime = (Get-ChildItem -Path "$sourcePath" -Recurse | Sort-Object LastWriteTime -Descending | Select-Object -First 1).LastWriteTime
-    $destinationModTime = (Get-ChildItem -Path "$destinationPath" -Recurse | Sort-Object LastWriteTime -Descending | Select-Object -First 1).LastWriteTime
-
-    # Compare modification times
-    if ($sourceModTime -gt $destinationModTime) {
-        return $true
-    } else {
-        return $false
-    }
-}
-
-# Function to update a single mod using SteamCMD
-function UpdateMod {
-    param (
-        [string]$modId,
-        [string]$modName,
-        [PSCredential]$steamCredentials
-    )
-
-    Write-Output "Updating mod: $modName ($modId)"
-    Start-Process -FilePath "$steamCMDPath" -ArgumentList "+login $($steamCredentials.UserName) $($steamCredentials.GetNetworkCredential().Password) +workshop_download_item 221100 $modId validate +quit" -Wait -NoNewWindow
-    Write-Output "Updated mod: $modName ($modId)"
-}
-
-# Function to update mods using SteamCMD
-function UpdateMods {
-    # Check if mod list file exists
-    if (!(Test-Path "$modListPath")) {
-        Write-Output "Mod list file does not exist! Please provide a valid path."
-        return
-    }
-
-    # Load mod list
-    $mods = Get-Content "$modListPath"
-
-    # Get Steam credentials
-    $steamCredentials = Get-SteamCredentials
-
-    foreach ($mod in $mods) {
-        if ($mod -match "(\d+)\s*(#\s*@.*)$") {
-            $modId = $matches[1]
-            $modName = $matches[2] -replace "#\s*", ""
-
-            if (NeedsUpdate $modId $modName) {
-                UpdateMod -modId $modId -modName $modName -steamCredentials $steamCredentials
-            } else {
-                Write-Output "Mod $modName is already up to date."
-            }
-        } else {
-            Write-Output "Invalid format in mod list: $mod"
-        }
-    }
-
-    Write-Output "Mod download/update completed."
 }
 
 # Function to copy mods to the server folder
 function CopyMods {
     # Check if DayZ server folder exists
     if (!(Test-Path "$serverFolder")) {
-        Write-Output "DayZServer folder does not exist! Run server update before mod update."
+        Write-Output "DayZServer folder does not exist! Please provide a valid server folder path."
         return
     }
 
@@ -115,6 +40,9 @@ function CopyMods {
         Write-Output "Mod list file does not exist! Please provide a valid path."
         return
     }
+
+    # Ensure necessary folders exist
+    EnsureFolders
 
     # Load mod list
     $mods = Get-Content "$modListPath"
@@ -128,6 +56,7 @@ function CopyMods {
             # Source and destination paths
             $sourcePath = "$workshopFolder\$modId"
             $destinationPath = "$serverFolder\$modName"
+            $keysPath = "$serverFolder\Keys"
 
             # Check if the source path exists
             if (Test-Path "$sourcePath") {
@@ -135,6 +64,18 @@ function CopyMods {
                 # Copy mod folder to server folder, overwriting existing ones
                 Copy-Item -Path "$sourcePath\*" -Destination "$destinationPath" -Recurse -Force
                 Write-Output "Copied $modName to $serverFolder"
+
+                # Copy key files if they exist
+                $keyFiles = Get-ChildItem -Path "$sourcePath" -Filter "*.bikey" -Recurse
+                foreach ($keyFile in $keyFiles) {
+                    $keyFileName = [System.IO.Path]::GetFileName($keyFile.FullName)
+                    $keyFileDest = "$keysPath\$keyFileName"
+                    if (Test-Path -Path $keyFileDest -PathType Leaf) {
+                        Remove-Item -Path $keyFileDest -Force
+                    }
+                    Copy-Item -Path $keyFile.FullName -Destination "$keysPath" -Force
+                }
+                Write-Output "Copied key files for $modName to $serverFolder\Keys"
             } else {
                 Write-Output "Source mod folder does not exist: $sourcePath"
             }
@@ -146,10 +87,8 @@ function CopyMods {
     Write-Output "Mod copy completed."
 }
 
-# Main function to update and copy mods
+# Main function to copy mods
 function Main {
-    Write-Output "Starting mod update process..."
-    UpdateMods
     Write-Output "Starting mod copy process..."
     CopyMods
     Write-Output "Process completed."
