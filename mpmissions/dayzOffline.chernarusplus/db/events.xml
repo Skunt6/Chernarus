@@ -2,7 +2,7 @@
 <events>
 <!--Dayz Horse-->
     <event name="AnimalWildHorse">
-        <nominal>20</nominal>
+        <nominal>100</nominal>
         <min>2</min>
         <max>5</max>
         <lifetime>1800</lifetime>
