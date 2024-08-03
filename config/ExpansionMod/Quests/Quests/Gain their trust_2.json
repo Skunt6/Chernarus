@@ -18,8 +18,26 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 5000,
+            "ClassName": "SNAFU_TP82S",
+            "Amount": 1,
+            "Attachments": ["FNP45_MRDSOptic"],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "t_dagger",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "AliceBag_Black",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -27,7 +45,7 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 0,
