@@ -16697,52 +16697,48 @@
     <usage name="Underground"/>
   </type>
   <type name="GCGN_Ammo_3006">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="GCGN_Ammo_408Chey">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="GCGN_Ammo_50Cal">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="GCGN_Ammo_762x51">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="GCGN_HK416_Mag">
     <nominal>1</nominal>
@@ -17873,135 +17869,125 @@
     <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_127x55mm">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_127x55mmAP">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_145Cal">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_300ACC">
-    <nominal>100</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>55</min>
+    <min>15</min>
     <quantmin>1</quantmin>
-    <quantmax>100</quantmax>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
   </type>
   <type name="SNAFU_Ammo_338">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_44">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_45_70mm">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_46x30">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_5_7x28mm">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_500_SW">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_Ammo_762x25">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_AR15_Modular16_GUN">
     <nominal>1</nominal>
@@ -19300,16 +19286,15 @@
     <usage name="Underground"/>
   </type>
   <type name="SNAFU_MD_Ammo_556x45mm_M855A1">
-    <nominal>1</nominal>
+    <nominal>35</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
+    <min>15</min>
+    <quantmin>1</quantmin>
+    <quantmax>50</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
   </type>
   <type name="SNAFU_MElcan">
     <nominal>1</nominal>
@@ -35174,10 +35159,10 @@
         <value name="Tier3"/>
     </type>
     <type name="GasMask_Filter">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>0</quantmin>
         <quantmax>0</quantmax>
         <cost>100</cost>

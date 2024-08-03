@@ -23,16 +23,41 @@
     ],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 10000,
-            "Attachments": [],
+            "ClassName": "SNAFUMarlin1895",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HuntingOptic"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "GCGN_M1Garand",
+            "Amount": 1,
+            "Attachments": [
+                "GCGN_M84_Optic"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "GCGN_M700",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HuntingOptic",
+                "GCGN_M700_Mag"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
