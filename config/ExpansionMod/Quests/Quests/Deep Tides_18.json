@@ -18,9 +18,60 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 40000,
-            "Attachments": [],
+            "ClassName": "SNAFUM24_GUN",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HuntingOptic",
+                "SNAFUM24_Mag"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFUTac21",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HuntingOptic",
+                "SNAFUTac21_5rdMag"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_AWM_Gun",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HuntingOptic",
+                "SNAFU_AWM_Mag"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFUM98B_Snow_GUN",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HuntingOptic",
+                "SNAFUM98B_Mag"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFUKivaari_Snow_GUN",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_HuntingOptic",
+                "SNAFUKivaari_10rdMag"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
@@ -28,8 +79,8 @@
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
