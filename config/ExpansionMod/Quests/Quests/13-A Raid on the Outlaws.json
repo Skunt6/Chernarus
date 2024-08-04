@@ -108,8 +108,8 @@
         },
         {
             "ConfigVersion": 28,
-            "ID": 5,
-            "ObjectiveType": 6
+            "ID": 16,
+            "ObjectiveType": 4
         },
         {
             "ConfigVersion": 28,
@@ -127,7 +127,7 @@
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 0,
-    "SequentialObjectives": 1,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

@@ -4,7 +4,7 @@
     "ObjectiveType": 6,
     "ObjectiveText": "Collect Intel",
     "TimeLimit": -1,
-    "Active": 1,
+    "Active": 0,
     "ShowDistance": 1,
     "ContainerName": "ExpansionQuestSeaChest",
     "DigInStash": 0,
