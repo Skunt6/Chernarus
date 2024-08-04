@@ -22,7 +22,7 @@
         "NumberOfAI": 1,
         "Behaviour": "HALT",
         "Speed": "STATIC",
-        "UnderThreatSpeed": "unknown",
+        "UnderThreatSpeed": "SPRINT",
         "CanBeLooted": 0,
         "UnlimitedReload": 1,
         "SniperProneDistanceThreshold": 100.0,

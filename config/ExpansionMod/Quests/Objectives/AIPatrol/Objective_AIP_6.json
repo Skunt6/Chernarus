@@ -50,7 +50,7 @@
             "eAI_SurvivorM_Taiki"
         ],
         "NumberOfAI": 2,
-        "Behaviour": "HALT",
+        "Behaviour": "LOOP",
         "Speed": "STATIC",
         "UnderThreatSpeed": "SPRINT",
         "CanBeLooted": 1,

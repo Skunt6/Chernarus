@@ -11,7 +11,7 @@
     "AllowedDamageZones": [],
     "AISpawn": {
         "Name": "Reaper",
-        "Persist": 0,
+        "Persist": 1,
         "Faction": "Mercenaries",
         "Formation": "RANDOM",
         "FormationLooseness": 0.0,
@@ -50,7 +50,7 @@
             "eAI_SurvivorM_Taiki"
         ],
         "NumberOfAI": 4,
-        "Behaviour": "HALT",
+        "Behaviour": "LOOP",
         "Speed": "WALK",
         "UnderThreatSpeed": "SPRINT",
         "CanBeLooted": 1,
