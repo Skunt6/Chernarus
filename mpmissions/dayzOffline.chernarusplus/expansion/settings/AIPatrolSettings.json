@@ -16,7 +16,7 @@
         {
             "Name": "Witch's minions",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 2.0,
             "Loadout": "CaveLoadout",
@@ -48,7 +48,7 @@
         {
             "Name": "Lumberyard",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 25.0,
             "Loadout": "LumberJackLoadout",
@@ -144,12 +144,12 @@
         {
             "Name": "train keycard",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "JugLoadout",
             "Units": [],
-            "NumberOfAI": -5,
+            "NumberOfAI": -2,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "WALK",
             "UnderThreatSpeed": "JOG",
@@ -176,7 +176,7 @@
         {
             "Name": "heli crash uh1y",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "Tier4Loadout",
@@ -208,12 +208,12 @@
         {
             "Name": "Train container1",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "Tier4Loadout",
             "Units": [],
-            "NumberOfAI": -5,
+            "NumberOfAI": -2,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "RANDOM_NONSTATIC",
             "UnderThreatSpeed": "SPRINT",
@@ -272,7 +272,7 @@
         {
             "Name": "Heli Crash mi8",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "Tier4Loadout",
@@ -304,7 +304,7 @@
         {
             "Name": "Convoys",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "Tier4Loadout",
@@ -400,7 +400,7 @@
         {
             "Name": "Rify and Pavlovo",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "NBCLoadout",
@@ -432,7 +432,7 @@
         {
             "Name": "Moving gas zones",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "NBCLoadout",
@@ -8444,7 +8444,7 @@
         {
             "Name": "Lopatino",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "JugLoadout",
@@ -13461,7 +13461,7 @@
         {
             "Name": "Lopatino",
             "Persist": 0,
-            "Faction": "Shamans",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
             "Loadout": "Tier4Loadout",
