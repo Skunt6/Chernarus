@@ -1,6 +1,6 @@
 {
     "EnableDogWaypoints": 1,
     "PunishDogKillers": 0,
-    "DisablePlayerAttack": 0,
+    "DisablePlayerAttack": 1,
     "SummonItem": "Bone"
 }
