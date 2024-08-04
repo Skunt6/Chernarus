@@ -34,7 +34,7 @@
     "AISpawns": [
         {
             "Name": "Mysterious Medieval Knight",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -105,7 +105,7 @@
         },
         {
             "Name": "Mysterious Medieval Knight",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -176,7 +176,7 @@
         },
         {
             "Name": "Mysterious Medieval Knight",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -247,7 +247,7 @@
         },
         {
             "Name": "Mysterious Medieval Knight",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -318,7 +318,7 @@
         },
         {
             "Name": "Mysterious Medieval Knight",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -389,7 +389,7 @@
         },
         {
             "Name": "Mysterious Medieval Knight",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,

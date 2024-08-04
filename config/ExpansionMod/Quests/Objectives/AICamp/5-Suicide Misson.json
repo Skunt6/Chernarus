@@ -13,7 +13,7 @@
     "AISpawns": [
         {
             "Name": "Major Evans",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -54,7 +54,7 @@
         },
         {
             "Name": "Captian Hans",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -95,7 +95,7 @@
         },
         {
             "Name": "Major Howards",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -136,7 +136,7 @@
         },
         {
             "Name": "Colonel Richards",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -177,7 +177,7 @@
         },
         {
             "Name": "Colonel Briggs",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -218,7 +218,7 @@
         },
         {
             "Name": "Lieutenant Crawford",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -259,7 +259,7 @@
         },
         {
             "Name": "Lieutenant Collins",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -300,7 +300,7 @@
         },
         {
             "Name": "Staff Sergeant Wills",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -341,7 +341,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -412,7 +412,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -483,7 +483,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -554,7 +554,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -625,7 +625,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -696,7 +696,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -767,7 +767,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,

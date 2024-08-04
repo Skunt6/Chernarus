@@ -13,7 +13,7 @@
     "AISpawns": [
         {
             "Name": "Viktor Strakov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -54,7 +54,7 @@
         },
         {
             "Name": "Nikolai Petrov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -95,7 +95,7 @@
         },
         {
             "Name": "Svetlana Ivanova",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -136,7 +136,7 @@
         },
         {
             "Name": "Mikhail Kuznetsov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -177,7 +177,7 @@
         },
         {
             "Name": "Elena Volkova",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -218,7 +218,7 @@
         },
         {
             "Name": "Ivan Sokolov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -259,7 +259,7 @@
         },
         {
             "Name": "Anton Smirnov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -300,7 +300,7 @@
         },
         {
             "Name": "Yulia Malinov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -341,7 +341,7 @@
         },
         {
             "Name": "Sergei Romanov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -382,7 +382,7 @@
         },
         {
             "Name": "Grigori Voronov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -423,7 +423,7 @@
         },
         {
             "Name": "Marlena Kovac",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -464,7 +464,7 @@
         },
         {
             "Name": "Irina Kuznetsov",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -505,7 +505,7 @@
         },
         {
             "Name": "Joe Shruggs",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,

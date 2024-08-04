@@ -13,7 +13,7 @@
     "AISpawns": [
         {
             "Name": "Captain Roland",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -54,7 +54,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -125,7 +125,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -196,7 +196,7 @@
         },
         {
             "Name": "Lieutenant Ericson",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
@@ -237,7 +237,7 @@
         },
         {
             "Name": "Private",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,

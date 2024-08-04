@@ -15,7 +15,7 @@
     "ObjectPatrols": [
         {
             "Name": "Witch's minions",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 2.0,
@@ -47,7 +47,7 @@
         },
         {
             "Name": "Lumberyard",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 25.0,
@@ -79,7 +79,7 @@
         },
         {
             "Name": "Airfield basment",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 25.0,
@@ -111,7 +111,7 @@
         },
         {
             "Name": "Tisy HQ",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 25.0,
@@ -143,7 +143,7 @@
         },
         {
             "Name": "train keycard",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -175,7 +175,7 @@
         },
         {
             "Name": "heli crash uh1y",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -207,7 +207,7 @@
         },
         {
             "Name": "Train container1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -239,7 +239,7 @@
         },
         {
             "Name": "airplane crate",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -271,7 +271,7 @@
         },
         {
             "Name": "Heli Crash mi8",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -303,7 +303,7 @@
         },
         {
             "Name": "Convoys",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -335,7 +335,7 @@
         },
         {
             "Name": "Police sit2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -367,7 +367,7 @@
         },
         {
             "Name": "Police sit1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -399,7 +399,7 @@
         },
         {
             "Name": "Rify and Pavlovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -431,7 +431,7 @@
         },
         {
             "Name": "Moving gas zones",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -463,7 +463,7 @@
         },
         {
             "Name": "Tisy barracks",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -495,7 +495,7 @@
         },
         {
             "Name": "Well1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -527,7 +527,7 @@
         },
         {
             "Name": "Well2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -559,7 +559,7 @@
         },
         {
             "Name": "Camp",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -591,7 +591,7 @@
         },
         {
             "Name": "Camp2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -623,7 +623,7 @@
         },
         {
             "Name": "Camp3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -655,7 +655,7 @@
         },
         {
             "Name": "Deer Stands",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -687,7 +687,7 @@
         },
         {
             "Name": "Deer Stands2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -719,7 +719,7 @@
         },
         {
             "Name": "Deer Stands3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -751,7 +751,7 @@
         },
         {
             "Name": "House",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -783,7 +783,7 @@
         },
         {
             "Name": "House 1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -815,7 +815,7 @@
         },
         {
             "Name": "House 2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -847,7 +847,7 @@
         },
         {
             "Name": "House 3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -879,7 +879,7 @@
         },
         {
             "Name": "House 4",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -911,7 +911,7 @@
         },
         {
             "Name": "Fuelstaion3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -943,7 +943,7 @@
         },
         {
             "Name": "Pubs",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -975,7 +975,7 @@
         },
         {
             "Name": "Pubs2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1007,7 +1007,7 @@
         },
         {
             "Name": "Store",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1039,7 +1039,7 @@
         },
         {
             "Name": "Store2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1071,7 +1071,7 @@
         },
         {
             "Name": "Store3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1103,7 +1103,7 @@
         },
         {
             "Name": "Hospital",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1135,7 +1135,7 @@
         },
         {
             "Name": "Hospital2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1167,7 +1167,7 @@
         },
         {
             "Name": "Hospital3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1199,7 +1199,7 @@
         },
         {
             "Name": "Hospital4",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1231,7 +1231,7 @@
         },
         {
             "Name": "Busstop1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1263,7 +1263,7 @@
         },
         {
             "Name": "Busstop2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1295,7 +1295,7 @@
         },
         {
             "Name": "Church1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1327,7 +1327,7 @@
         },
         {
             "Name": "Church2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1359,7 +1359,7 @@
         },
         {
             "Name": "Church3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1391,7 +1391,7 @@
         },
         {
             "Name": "Church4",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1423,7 +1423,7 @@
         },
         {
             "Name": "Church5",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1455,7 +1455,7 @@
         },
         {
             "Name": "Church6",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1487,7 +1487,7 @@
         },
         {
             "Name": "Church7",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1519,7 +1519,7 @@
         },
         {
             "Name": "Church8",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1551,7 +1551,7 @@
         },
         {
             "Name": "Church9",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1583,7 +1583,7 @@
         },
         {
             "Name": "Firestaion1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1615,7 +1615,7 @@
         },
         {
             "Name": "Firestaion2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1647,7 +1647,7 @@
         },
         {
             "Name": "Fuelstaion1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1679,7 +1679,7 @@
         },
         {
             "Name": "Police",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1711,7 +1711,7 @@
         },
         {
             "Name": "Police2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1743,7 +1743,7 @@
         },
         {
             "Name": "Field Tractor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1775,7 +1775,7 @@
         },
         {
             "Name": "Field Harverster",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
@@ -1809,7 +1809,7 @@
     "Patrols": [
         {
             "Name": "Tisy HQ",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 10.0,
@@ -1883,7 +1883,7 @@
         },
         {
             "Name": "bunker1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -1922,7 +1922,7 @@
         },
         {
             "Name": "north tisy trader",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 5.0,
@@ -1976,7 +1976,7 @@
         },
         {
             "Name": "Woods1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2020,7 +2020,7 @@
         },
         {
             "Name": "Woods2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2064,7 +2064,7 @@
         },
         {
             "Name": "Woods3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2108,7 +2108,7 @@
         },
         {
             "Name": "Woods4",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2152,7 +2152,7 @@
         },
         {
             "Name": "Woods5",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2196,7 +2196,7 @@
         },
         {
             "Name": "Woods6",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2240,7 +2240,7 @@
         },
         {
             "Name": "Woods7",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2284,7 +2284,7 @@
         },
         {
             "Name": "Woods8",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2328,7 +2328,7 @@
         },
         {
             "Name": "Woods9",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2372,7 +2372,7 @@
         },
         {
             "Name": "Woods10",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2416,7 +2416,7 @@
         },
         {
             "Name": "Woods11",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2460,7 +2460,7 @@
         },
         {
             "Name": "Woods12",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2504,7 +2504,7 @@
         },
         {
             "Name": "Woods13",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2548,7 +2548,7 @@
         },
         {
             "Name": "Woods14",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2592,7 +2592,7 @@
         },
         {
             "Name": "Woods15",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2636,7 +2636,7 @@
         },
         {
             "Name": "Woods16",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2680,7 +2680,7 @@
         },
         {
             "Name": "Woods17",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2724,7 +2724,7 @@
         },
         {
             "Name": "Woods18",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2768,7 +2768,7 @@
         },
         {
             "Name": "Woods19",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2812,7 +2812,7 @@
         },
         {
             "Name": "Woods20",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2856,7 +2856,7 @@
         },
         {
             "Name": "Field1",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2900,7 +2900,7 @@
         },
         {
             "Name": "Field2",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2944,7 +2944,7 @@
         },
         {
             "Name": "Field3",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -2988,7 +2988,7 @@
         },
         {
             "Name": "Field4",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3032,7 +3032,7 @@
         },
         {
             "Name": "Field5",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3076,7 +3076,7 @@
         },
         {
             "Name": "Field6",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3120,7 +3120,7 @@
         },
         {
             "Name": "Field7",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3164,7 +3164,7 @@
         },
         {
             "Name": "Field8",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3208,7 +3208,7 @@
         },
         {
             "Name": "Field9",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3252,7 +3252,7 @@
         },
         {
             "Name": "Field10",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3296,7 +3296,7 @@
         },
         {
             "Name": "Field11",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3340,7 +3340,7 @@
         },
         {
             "Name": "Field12",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3384,7 +3384,7 @@
         },
         {
             "Name": "Field13",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3428,7 +3428,7 @@
         },
         {
             "Name": "Field14",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3472,7 +3472,7 @@
         },
         {
             "Name": "Field15",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3516,7 +3516,7 @@
         },
         {
             "Name": "VanPelt",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3737,7 +3737,7 @@
         },
         {
             "Name": "Tisy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -3846,7 +3846,7 @@
         },
         {
             "Name": "Tri Kresta",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3890,7 +3890,7 @@
         },
         {
             "Name": "Skalisty Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -3944,7 +3944,7 @@
         },
         {
             "Name": "Chortov Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4008,7 +4008,7 @@
         },
         {
             "Name": "Krona Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4077,7 +4077,7 @@
         },
         {
             "Name": "Zub Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4131,7 +4131,7 @@
         },
         {
             "Name": "Depot",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4190,7 +4190,7 @@
         },
         {
             "Name": "North West Air Field",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -4324,7 +4324,7 @@
         },
         {
             "Name": "Trotski",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4408,7 +4408,7 @@
         },
         {
             "Name": "VMC",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4457,7 +4457,7 @@
         },
         {
             "Name": "Zelenogorsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4541,7 +4541,7 @@
         },
         {
             "Name": "Prison Island",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4585,7 +4585,7 @@
         },
         {
             "Name": "Balota Airfield",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4634,7 +4634,7 @@
         },
         {
             "Name": "Krasno Airfield",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4683,7 +4683,7 @@
         },
         {
             "Name": "Ostry",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4727,7 +4727,7 @@
         },
         {
             "Name": "Novy Lug",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4771,7 +4771,7 @@
         },
         {
             "Name": "Gorka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4815,7 +4815,7 @@
         },
         {
             "Name": "Berezino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4859,7 +4859,7 @@
         },
         {
             "Name": "Staroye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4903,7 +4903,7 @@
         },
         {
             "Name": "Topolka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4947,7 +4947,7 @@
         },
         {
             "Name": "Tikhiyzaliv",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -4991,7 +4991,7 @@
         },
         {
             "Name": "Sosnovy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5035,7 +5035,7 @@
         },
         {
             "Name": "Myshkino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5079,7 +5079,7 @@
         },
         {
             "Name": "Grozovy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5123,7 +5123,7 @@
         },
         {
             "Name": "Zaprudnoye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5172,7 +5172,7 @@
         },
         {
             "Name": "Severograd",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5216,7 +5216,7 @@
         },
         {
             "Name": "Kamensk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5260,7 +5260,7 @@
         },
         {
             "Name": "Balota",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5309,7 +5309,7 @@
         },
         {
             "Name": "Chernogorsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5368,7 +5368,7 @@
         },
         {
             "Name": "Prigorodki",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5417,7 +5417,7 @@
         },
         {
             "Name": "Pusta",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5461,7 +5461,7 @@
         },
         {
             "Name": "Elektrozavodsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5525,7 +5525,7 @@
         },
         {
             "Name": "Kamyshovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5574,7 +5574,7 @@
         },
         {
             "Name": "Tulga",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5618,7 +5618,7 @@
         },
         {
             "Name": "Solnichniy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5682,7 +5682,7 @@
         },
         {
             "Name": "Dolina",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5731,7 +5731,7 @@
         },
         {
             "Name": "Orlovets",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5775,7 +5775,7 @@
         },
         {
             "Name": "Nizhneye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5819,7 +5819,7 @@
         },
         {
             "Name": "Benezino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5883,7 +5883,7 @@
         },
         {
             "Name": "Khelm",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5927,7 +5927,7 @@
         },
         {
             "Name": "Olsha",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -5971,7 +5971,7 @@
         },
         {
             "Name": "Svetloyarsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6020,7 +6020,7 @@
         },
         {
             "Name": "Turovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6069,7 +6069,7 @@
         },
         {
             "Name": "Karmanovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6118,7 +6118,7 @@
         },
         {
             "Name": "Dobroe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6162,7 +6162,7 @@
         },
         {
             "Name": "Belaya_Polyana",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6206,7 +6206,7 @@
         },
         {
             "Name": "Berezhki",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6250,7 +6250,7 @@
         },
         {
             "Name": "Kamenka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6294,7 +6294,7 @@
         },
         {
             "Name": "Komarovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6343,7 +6343,7 @@
         },
         {
             "Name": "Bor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6387,7 +6387,7 @@
         },
         {
             "Name": "Kozlovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6431,7 +6431,7 @@
         },
         {
             "Name": "Drozhino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6475,7 +6475,7 @@
         },
         {
             "Name": "Pulkovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6519,7 +6519,7 @@
         },
         {
             "Name": "Nadezhdino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6568,7 +6568,7 @@
         },
         {
             "Name": "Pogorevka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6612,7 +6612,7 @@
         },
         {
             "Name": "Rogovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6656,7 +6656,7 @@
         },
         {
             "Name": "Vyshnoye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6700,7 +6700,7 @@
         },
         {
             "Name": "Mogilevka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6744,7 +6744,7 @@
         },
         {
             "Name": "Kumyrna",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6788,7 +6788,7 @@
         },
         {
             "Name": "Guglovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6832,7 +6832,7 @@
         },
         {
             "Name": "Shakhovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6876,7 +6876,7 @@
         },
         {
             "Name": "Msta",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6920,7 +6920,7 @@
         },
         {
             "Name": "Staroye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -6974,7 +6974,7 @@
         },
         {
             "Name": "Polana",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7018,7 +7018,7 @@
         },
         {
             "Name": "Gorka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7067,7 +7067,7 @@
         },
         {
             "Name": "Dubrovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7111,7 +7111,7 @@
         },
         {
             "Name": "Vyshnaya",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7155,7 +7155,7 @@
         },
         {
             "Name": "Gvozdno",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7204,7 +7204,7 @@
         },
         {
             "Name": "Krasnostav",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7253,7 +7253,7 @@
         },
         {
             "Name": "Kalinovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7297,7 +7297,7 @@
         },
         {
             "Name": "Svergino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7346,7 +7346,7 @@
         },
         {
             "Name": "Nagornoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7390,7 +7390,7 @@
         },
         {
             "Name": "Novodmitrovsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7459,7 +7459,7 @@
         },
         {
             "Name": "Cernaya",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7503,7 +7503,7 @@
         },
         {
             "Name": "Pavlovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7547,7 +7547,7 @@
         },
         {
             "Name": "Zelenogorsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7601,7 +7601,7 @@
         },
         {
             "Name": "Zvir",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7650,7 +7650,7 @@
         },
         {
             "Name": "Sosnovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7694,7 +7694,7 @@
         },
         {
             "Name": "Myshkino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7738,7 +7738,7 @@
         },
         {
             "Name": "Pustoshka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7787,7 +7787,7 @@
         },
         {
             "Name": "Bogatyrka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7836,7 +7836,7 @@
         },
         {
             "Name": "Vybor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7890,7 +7890,7 @@
         },
         {
             "Name": "Kabanino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7934,7 +7934,7 @@
         },
         {
             "Name": "Stary Sobor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -7983,7 +7983,7 @@
         },
         {
             "Name": "Novy Sobor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8027,7 +8027,7 @@
         },
         {
             "Name": "Zabolotye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8071,7 +8071,7 @@
         },
         {
             "Name": "Grishino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8115,7 +8115,7 @@
         },
         {
             "Name": "Zaprudnoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8159,7 +8159,7 @@
         },
         {
             "Name": "Ratnoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8203,7 +8203,7 @@
         },
         {
             "Name": "Severograd",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8262,7 +8262,7 @@
         },
         {
             "Name": "Polesovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8306,7 +8306,7 @@
         },
         {
             "Name": "Kamensk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8350,7 +8350,7 @@
         },
         {
             "Name": "Krasnoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8394,7 +8394,7 @@
         },
         {
             "Name": "Stary Yar",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8443,7 +8443,7 @@
         },
         {
             "Name": "Lopatino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8492,7 +8492,7 @@
         },
         {
             "Name": "Vavilovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8541,7 +8541,7 @@
         },
         {
             "Name": "Sinystok",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8585,7 +8585,7 @@
         },
         {
             "Name": "Topolniki",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8629,7 +8629,7 @@
         },
         {
             "Name": "Novaya_Petrovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8683,7 +8683,7 @@
         },
         {
             "Name": "Tisy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -8792,7 +8792,7 @@
         },
         {
             "Name": "Tri Kresta",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8836,7 +8836,7 @@
         },
         {
             "Name": "Tri Kresta Boss",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8907,7 +8907,7 @@
         },
         {
             "Name": "Skalisty Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -8961,7 +8961,7 @@
         },
         {
             "Name": "Chortov Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9025,7 +9025,7 @@
         },
         {
             "Name": "Krona Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9094,7 +9094,7 @@
         },
         {
             "Name": "Zub Castle",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9148,7 +9148,7 @@
         },
         {
             "Name": "Depot",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9207,7 +9207,7 @@
         },
         {
             "Name": "North West Air Field",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 300.0,
@@ -9341,7 +9341,7 @@
         },
         {
             "Name": "Trotski",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9425,7 +9425,7 @@
         },
         {
             "Name": "VMC",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9474,7 +9474,7 @@
         },
         {
             "Name": "Zelenogorsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -9558,7 +9558,7 @@
         },
         {
             "Name": "Prison Island",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9602,7 +9602,7 @@
         },
         {
             "Name": "Balota Airfield",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9651,7 +9651,7 @@
         },
         {
             "Name": "Krasno Airfield",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9700,7 +9700,7 @@
         },
         {
             "Name": "Ostry",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9744,7 +9744,7 @@
         },
         {
             "Name": "Novy Lug",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9788,7 +9788,7 @@
         },
         {
             "Name": "Gorka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9832,7 +9832,7 @@
         },
         {
             "Name": "Berezino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -9876,7 +9876,7 @@
         },
         {
             "Name": "Staroye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9920,7 +9920,7 @@
         },
         {
             "Name": "Topolka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -9964,7 +9964,7 @@
         },
         {
             "Name": "Tikhiyzaliv",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10008,7 +10008,7 @@
         },
         {
             "Name": "Sosnovy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10052,7 +10052,7 @@
         },
         {
             "Name": "Myshkino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10096,7 +10096,7 @@
         },
         {
             "Name": "Grozovy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10140,7 +10140,7 @@
         },
         {
             "Name": "Zaprudnoye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10189,7 +10189,7 @@
         },
         {
             "Name": "Severograd",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10233,7 +10233,7 @@
         },
         {
             "Name": "Kamensk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10277,7 +10277,7 @@
         },
         {
             "Name": "Balota",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10326,7 +10326,7 @@
         },
         {
             "Name": "Chernogorsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 300.0,
@@ -10385,7 +10385,7 @@
         },
         {
             "Name": "Prigorodki",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10434,7 +10434,7 @@
         },
         {
             "Name": "Pusta",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10478,7 +10478,7 @@
         },
         {
             "Name": "Elektrozavodsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -10542,7 +10542,7 @@
         },
         {
             "Name": "Kamyshovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10591,7 +10591,7 @@
         },
         {
             "Name": "Tulga",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10635,7 +10635,7 @@
         },
         {
             "Name": "Solnichniy",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 100.0,
@@ -10699,7 +10699,7 @@
         },
         {
             "Name": "Dolina",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10748,7 +10748,7 @@
         },
         {
             "Name": "Orlovets",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10792,7 +10792,7 @@
         },
         {
             "Name": "Nizhneye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10836,7 +10836,7 @@
         },
         {
             "Name": "Benezino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10900,7 +10900,7 @@
         },
         {
             "Name": "Khelm",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10944,7 +10944,7 @@
         },
         {
             "Name": "Olsha",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -10988,7 +10988,7 @@
         },
         {
             "Name": "Svetloyarsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 100.0,
@@ -11037,7 +11037,7 @@
         },
         {
             "Name": "Turovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11086,7 +11086,7 @@
         },
         {
             "Name": "Karmanovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11135,7 +11135,7 @@
         },
         {
             "Name": "Dobroe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11179,7 +11179,7 @@
         },
         {
             "Name": "Belaya_Polyana",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11223,7 +11223,7 @@
         },
         {
             "Name": "Berezhki",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11267,7 +11267,7 @@
         },
         {
             "Name": "Kamenka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11311,7 +11311,7 @@
         },
         {
             "Name": "Komarovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11360,7 +11360,7 @@
         },
         {
             "Name": "Bor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11404,7 +11404,7 @@
         },
         {
             "Name": "Kozlovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11448,7 +11448,7 @@
         },
         {
             "Name": "Drozhino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11492,7 +11492,7 @@
         },
         {
             "Name": "Pulkovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11536,7 +11536,7 @@
         },
         {
             "Name": "Nadezhdino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11585,7 +11585,7 @@
         },
         {
             "Name": "Pogorevka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11629,7 +11629,7 @@
         },
         {
             "Name": "Rogovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11673,7 +11673,7 @@
         },
         {
             "Name": "Vyshnoye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11717,7 +11717,7 @@
         },
         {
             "Name": "Mogilevka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11761,7 +11761,7 @@
         },
         {
             "Name": "Kumyrna",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11805,7 +11805,7 @@
         },
         {
             "Name": "Guglovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11849,7 +11849,7 @@
         },
         {
             "Name": "Shakhovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11893,7 +11893,7 @@
         },
         {
             "Name": "Msta",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11937,7 +11937,7 @@
         },
         {
             "Name": "Staroye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -11991,7 +11991,7 @@
         },
         {
             "Name": "Polana",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12035,7 +12035,7 @@
         },
         {
             "Name": "Gorka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12084,7 +12084,7 @@
         },
         {
             "Name": "Dubrovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12128,7 +12128,7 @@
         },
         {
             "Name": "Vyshnaya",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12172,7 +12172,7 @@
         },
         {
             "Name": "Gvozdno",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12221,7 +12221,7 @@
         },
         {
             "Name": "Krasnostav",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12270,7 +12270,7 @@
         },
         {
             "Name": "Kalinovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12314,7 +12314,7 @@
         },
         {
             "Name": "Svergino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12363,7 +12363,7 @@
         },
         {
             "Name": "Nagornoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12407,7 +12407,7 @@
         },
         {
             "Name": "Novodmitrovsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -12476,7 +12476,7 @@
         },
         {
             "Name": "Cernaya",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12520,7 +12520,7 @@
         },
         {
             "Name": "Pavlovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12564,7 +12564,7 @@
         },
         {
             "Name": "Zelenogorsk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12618,7 +12618,7 @@
         },
         {
             "Name": "Zvir",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12667,7 +12667,7 @@
         },
         {
             "Name": "Sosnovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12711,7 +12711,7 @@
         },
         {
             "Name": "Myshkino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12755,7 +12755,7 @@
         },
         {
             "Name": "Pustoshka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12804,7 +12804,7 @@
         },
         {
             "Name": "Bogatyrka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12853,7 +12853,7 @@
         },
         {
             "Name": "Vybor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12907,7 +12907,7 @@
         },
         {
             "Name": "Kabanino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -12951,7 +12951,7 @@
         },
         {
             "Name": "Stary Sobor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13000,7 +13000,7 @@
         },
         {
             "Name": "Novy Sobor",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13044,7 +13044,7 @@
         },
         {
             "Name": "Zabolotye",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13088,7 +13088,7 @@
         },
         {
             "Name": "Grishino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13132,7 +13132,7 @@
         },
         {
             "Name": "Zaprudnoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13176,7 +13176,7 @@
         },
         {
             "Name": "Ratnoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13220,7 +13220,7 @@
         },
         {
             "Name": "Severograd",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,
@@ -13279,7 +13279,7 @@
         },
         {
             "Name": "Polesovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13323,7 +13323,7 @@
         },
         {
             "Name": "Kamensk",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13367,7 +13367,7 @@
         },
         {
             "Name": "Krasnoe",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13411,7 +13411,7 @@
         },
         {
             "Name": "Stary Yar",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13460,7 +13460,7 @@
         },
         {
             "Name": "Lopatino",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13509,7 +13509,7 @@
         },
         {
             "Name": "Vavilovo",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13558,7 +13558,7 @@
         },
         {
             "Name": "Sinystok",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13602,7 +13602,7 @@
         },
         {
             "Name": "Topolniki",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 50.0,
@@ -13646,7 +13646,7 @@
         },
         {
             "Name": "Novaya_Petrovka",
-            "Persist": 0,
+            "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 200.0,

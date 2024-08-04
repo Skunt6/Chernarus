@@ -11,7 +11,7 @@
     "AllowedDamageZones": [],
     "AISpawn": {
         "Name": "Lumbahjack",
-        "Persist": 0,
+        "Persist": 1,
         "Faction": "Mercenaries",
         "Formation": "RANDOM",
         "FormationLooseness": 0.0,
