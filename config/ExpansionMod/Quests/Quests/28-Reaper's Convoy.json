@@ -85,7 +85,7 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
