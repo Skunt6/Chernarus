@@ -940,7 +940,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier2Loadout",
+            "Loadout": "ShotcallerLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
