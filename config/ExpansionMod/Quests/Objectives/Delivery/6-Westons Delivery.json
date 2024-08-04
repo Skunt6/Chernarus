@@ -15,6 +15,6 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "MaxDistance": 10.0,
+    "MaxDistance": 3.0,
     "MarkerName": "Deliver Data"
 }
