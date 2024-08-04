@@ -18,17 +18,6 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "SNAFU_AK308",
-            "Amount": 1,
-            "Attachments": [
-                "SNAFU_AK308_Mag"
-            ],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
             "ClassName": "SNAFU_AEK545_Gun",
             "Amount": 1,
             "Attachments": [
