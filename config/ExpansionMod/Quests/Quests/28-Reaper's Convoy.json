@@ -7,7 +7,7 @@
         "Hello survivor, In the aftermath of the raid on their, might I say, well-fortified castle (which I don’t even know how they built), there has been a huge intel leak thanks to you. I'm sure they know we have this info, so we have to act fast. Apparently, there is a convoy of these pricks, some higher-ups. I need you to confront them with force and see what they've got laying around there at their convoy."
     ],
     "ObjectiveText": "Ambush the convoy.",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 46,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
