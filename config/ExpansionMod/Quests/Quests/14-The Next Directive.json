@@ -19,7 +19,7 @@
     "Rewards": [
         {
             "ClassName": "DC_FastTravelTicket",
-            "Amount": 3,
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -28,16 +28,7 @@
         },
         {
             "ClassName": "Nail",
-            "Amount": 99,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "GasMask_Filter",
-            "Amount": 1,
+            "Amount": 20,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
