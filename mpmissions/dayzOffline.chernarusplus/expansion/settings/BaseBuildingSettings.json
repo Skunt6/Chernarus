@@ -131,6 +131,24 @@
             ],
             "IsWhitelist": 1,
             "CustomMessage": "Hey you can't do that!"
+        },
+        {
+            "Name": "North Tisy Trader",
+            "Center": [
+                1900.82, 436.349, 14984
+            ],
+            "Radius": 50.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "Hey you can't do that!"
         }
     ],
     "ZonesAreNoBuildZones": 1,
