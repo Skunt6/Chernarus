@@ -4,7 +4,7 @@
     "Type": 1,
     "Title": "Rico: Captian Weston",
     "Descriptions": [
-        "Wow, just wow. We got some pretty good intel from that nest of rats. Unfortunately, I don't have the equipment to open this data. There is a guy I work with, Captain Roland. He watches over the North Tisy Research Base, where the General's scientists work to develop new weapons in the fight to bring back civilization. Take this data to him. It's a far travel; be careful, soldier."
+        "Wow, just wow. We got some pretty good intel from that nest of rats. Unfortunately, I don't have the equipment to open this data. There is a guy I work with, Captain Weston. He watches over the North Tisy Research Base, where the General's scientists work to develop new weapons in the fight to bring back civilization. Take this data to him. It's a far travel; be careful, soldier."
     ],
     "ObjectiveText": "Take the data to Capt Weston.",
     "FollowUpQuest": -1,
@@ -87,7 +87,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 5,
+            "ID": 6,
             "ObjectiveType": 5
         }
     ],
