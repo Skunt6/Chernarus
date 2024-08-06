@@ -20,10 +20,8 @@ $workshopFolder = "C:\Program Files (x86)\Steam\steamapps\workshop\content\22110
 
 # Function to ensure necessary folders exist
 function EnsureFolders {
-    $keysFolder = "$serverFolder\Keys"
-
-    if (!(Test-Path $keysFolder)) {
-        New-Item -Path $keysFolder -ItemType Directory
+    if (!(Test-Path $serverFolder)) {
+        New-Item -Path $serverFolder -ItemType Directory
     }
 }
 
@@ -56,7 +54,6 @@ function CopyMods {
             # Source and destination paths
             $sourcePath = "$workshopFolder\$modId"
             $destinationPath = "$serverFolder\$modName"
-            $keysPath = "$serverFolder\Keys"
 
             # Check if the source path exists
             if (Test-Path "$sourcePath") {
@@ -64,18 +61,6 @@ function CopyMods {
                 # Copy mod folder to server folder, overwriting existing ones
                 Copy-Item -Path "$sourcePath\*" -Destination "$destinationPath" -Recurse -Force
                 Write-Output "Copied $modName to $serverFolder"
-
-                # Copy key files if they exist
-                $keyFiles = Get-ChildItem -Path "$sourcePath" -Filter "*.bikey" -Recurse
-                foreach ($keyFile in $keyFiles) {
-                    $keyFileName = [System.IO.Path]::GetFileName($keyFile.FullName)
-                    $keyFileDest = "$keysPath\$keyFileName"
-                    if (Test-Path -Path $keyFileDest -PathType Leaf) {
-                        Remove-Item -Path $keyFileDest -Force
-                    }
-                    Copy-Item -Path $keyFile.FullName -Destination "$keysPath" -Force
-                }
-                Write-Output "Copied key files for $modName to $serverFolder\Keys"
             } else {
                 Write-Output "Source mod folder does not exist: $sourcePath"
             }

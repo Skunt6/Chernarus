@@ -92,7 +92,7 @@
       "mpmissions/dayzOffline.enoch/storage_1/": true,
       "config/ExpansionMod/Quests/GroupData/": true,
       "config/ExpansionMod/Quests/PlayerData/": true,
-      "mpmissions/dayzOffline.chernarusplus/expansion/traderzones/": true,
+      "mpmissions/dayzOffline.chernarusplus/expansion/traderzones/": false,
       "config/ExpansionMod/ATM/": true,
       "config/PermissionsFramework/Players/": true
       
