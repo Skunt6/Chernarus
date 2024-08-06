@@ -1,0 +1,87 @@
+{
+    "ConfigVersion": 22,
+    "ID": 47,
+    "Type": 1,
+    "Title": "Weston: Target Shear",
+    "Descriptions": [
+        "Hello, Survivor That data u recieved was quite a find. Turns out, this bandit gang might not be some run of the mill jerks that survived the apocalypes. After Breaking thru the encrypted data, i have found they actually work for the Serpents. This data contained a whole list of high ranking Seerpent officers, that are conducting bussiness much like you are. They are flying solo. I have also found the general location of where the are. lets start with Target Shear. This guy is a butcher. Records show the serpents are using this guy to get intel from Survivors coming in from the coast. Hes located in and around Mogilevka. Eliminate him and head back here for your next target. Heres some fast travel tickets use them wisely. "
+    ],
+    "ObjectiveText": "Eliminate Target Shear.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "DC_FastTravelTicket",
+            "Amount": 3
+        },
+        {
+            "ClassName": "DC_FastTravelTicket",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "GCGN_M110_Black",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_Tango6T_Black",
+                "SNAFU_Standardized_Suppressor_Black",
+                "SNAFU_AFG_02_Black",
+                "GCGN_M110_Mag"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "GCGN_M110_Mag",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        15
+    ],
+    "QuestTurnInIDs": [
+        15
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2,
+            "ObjectiveType": 7
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        28
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

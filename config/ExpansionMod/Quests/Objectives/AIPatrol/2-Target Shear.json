@@ -1,0 +1,102 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 7,
+    "ObjectiveText": "Kill the Serpant patrol.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [],
+    "AISpawn": {
+        "Name": "Shear",
+        "Persist": 1,
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.0,
+        "Loadout": "ShearLoadout",
+        "Units": [
+            "eAI_SurvivorM_Guo"
+        ],
+        "NumberOfAI": 1,
+        "Behaviour": "ROAMING",
+        "Speed": "RANDOM",
+        "UnderThreatSpeed": "RANDOM",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 1000.0,
+        "AccuracyMin": 0.4,
+        "AccuracyMax": 0.9,
+        "ThreatDistanceLimit": 1000.0,
+        "NoiseInvestigationDistanceLimit": -1.0,
+        "DamageMultiplier": 0.75,
+        "DamageReceivedMultiplier": 0.33,
+        "MinDistRadius": 100.0,
+        "MaxDistRadius": 300.0,
+        "DespawnRadius": 300.0,
+        "MinSpreadRadius": 0.0,
+        "MaxSpreadRadius": 0.0,
+        "Chance": 1.0,
+        "WaypointInterpolation": "",
+        "DespawnTime": 1.0,
+        "RespawnTime": 1.0,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+            [
+                7801.84, 215.779, 5134.28
+            ],
+            [
+                7777.8, 215.783, 5132.4
+            ],
+            [
+                7775.51, 215.093, 5150.42
+            ],
+            [
+                7751.66, 215.033, 5143.85
+            ],
+            [
+                7725.4, 214.325, 5132.16
+            ],
+            [
+                7624.77, 214.483, 5185.79
+            ],
+            [
+                7554.92, 213.997, 5169.92
+            ],
+            [
+                7527.38, 213.961, 5099.49
+            ],
+            [
+                7442.35, 221.997, 5062.06
+            ],
+            [
+                7364.35, 223.655, 5080.5
+            ],
+            [
+                7327.28, 221.171, 5169.83
+            ],
+            [
+                7408.96, 217.135, 5159.43
+            ],
+            [
+                7437.05, 219.226, 5213.1
+            ],
+            [
+                7512.2, 240.648, 5371.05
+            ],
+            [
+                7578.89, 235.845, 5342.88
+            ],
+            [
+                7559.03, 218.091, 5236.49
+            ],
+            [
+                7565.52, 214.043, 5201.13
+            ],
+            [
+                7650.89, 214.314, 5173.03
+            ]
+        ]
+    }
+}
