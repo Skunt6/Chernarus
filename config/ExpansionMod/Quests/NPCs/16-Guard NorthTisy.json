@@ -1,0 +1,53 @@
+{
+    "ConfigVersion": 6,
+    "ID": 14,
+    "ClassName": "ExpansionQuestNPCAIPeter",
+    "Position": [
+
+        1877.38, 436.349, 15004.3
+
+    ],
+    "Orientation": [
+
+        146.85, 0, -0
+
+    ],
+    "NPCName": "Green Mountian Guard",
+    "DefaultNPCText": "Best be moving along...",
+    "Waypoints": [
+        [
+            1877.38, 436.349, 15004.3
+        ],
+        [
+            1889.07, 436.349, 14993.2
+        ],
+        [
+            1929.33, 436.347, 14950.1
+        ],
+        [
+            1905.56, 437.063, 14936.5
+        ],
+        [
+            1917.45, 437.218, 14974.3
+        ],
+        [
+            1898.13, 437, 14999.8
+        ],
+        [
+            1898.36, 441.07, 14999.9
+        ],
+        [
+            1894.66, 433.089, 14991.7
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "GuardLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}
