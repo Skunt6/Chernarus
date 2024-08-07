@@ -291,8 +291,8 @@
 		<pos x="504.444275" y="424.994934" z="11237.218750" a="10.636043" />
 	</event>
 	<event name="VehicleGyroHelicopter">
-		<!-- Airfield Balota -->
-		<pos x="5030.672363" y="9.536390" z="2356.444824" a="40.269878" />
+		<pos x="1382.89"  z="9260.07" a="334.1297" />
+		<pos x="628.687"  z="14632.9" a="447.53978" />
 	</event>
 	<!-- EXPANSION BOATS -->
 	<event name="VehicleUtilityBoat">

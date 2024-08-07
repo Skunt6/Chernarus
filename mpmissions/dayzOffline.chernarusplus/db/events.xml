@@ -261,9 +261,9 @@
         </children>
     </event>
     <event name="VehicleLandRover">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <min>0</min>
-        <max>4</max>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -283,11 +283,11 @@
             <child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Blue"/>
         </children>
     </event>
-	<!-- HELICOPTERS -->
+<!-- HELICOPTERS -->
 	<event name="VehicleMH6Helicopter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <min>0</min>
-        <max>4</max>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -357,7 +357,7 @@
             <child lootmax="0" lootmin="0" max="3" min="1" type="ExpansionUh1h_Resistance"/>
         </children>
     </event>
-	<!-- BOATS -->
+<!-- BOATS -->
 	<event name="VehicleUtilityBoat">
         <nominal>0</nominal>
         <min>0</min>
@@ -395,9 +395,9 @@
         </children>
     </event>
     <event name="VehicleGyroHelicopter">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <min>0</min>
-        <max>4</max>
+        <max>1</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
