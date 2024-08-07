@@ -120,6 +120,58 @@
             ],
             "m_Locked": 0,
             "m_Persist": 1
+        },
+        {
+            "m_UID": "North Tisy",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Trader",
+            "m_IconName": "Trader",
+            "m_Color": -2944,
+            "m_Position": [
+                1900.82, 436.349, 14984
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Generals Trader",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Trader",
+            "m_IconName": "Trader",
+            "m_Color": -2944,
+            "m_Position": [
+                11253.9, 291.246, 4286.92
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Echo Trader",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Trader",
+            "m_IconName": "Trader",
+            "m_Color": -2944,
+            "m_Position": [
+                10727.3, 349.801, 5671.59
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Trailside Trader",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Trader",
+            "m_IconName": "Trader",
+            "m_Color": -2944,
+            "m_Position": [
+                14176.4, 195.339, 15279.8
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
         }
     ],
     "EnableHUDCompass": 1,
