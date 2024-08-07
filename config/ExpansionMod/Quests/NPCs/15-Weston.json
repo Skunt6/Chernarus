@@ -13,7 +13,7 @@
 
     ],
     "NPCName": "Weston",
-    "DefaultNPCText": "I dont do business with new blood.",
+    "DefaultNPCText": "Please progress more in the campaign!",
     "Waypoints": [
         [
             1893.79, 433.089, 14996
