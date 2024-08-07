@@ -22218,10 +22218,10 @@
             <usage name="Industrial"/>
         </type>
         <type name="ExpansionHelicopterBattery">
-            <nominal>5</nominal>
+            <nominal>0</nominal>
             <lifetime>43200</lifetime>
             <restock>0</restock>
-            <min>1</min>
+            <min>5</min>
             <quantmin>-1</quantmin>
             <quantmax>-1</quantmax>
             <cost>100</cost>
@@ -22244,10 +22244,10 @@
             <usage name="Military"/>
         </type>
         <type name="ExpansionIgniterPlug">
-            <nominal>5</nominal>
+            <nominal>0</nominal>
             <lifetime>43200</lifetime>
             <restock>0</restock>
-            <min>1</min>
+            <min>5</min>
             <quantmin>-1</quantmin>
             <quantmax>-1</quantmax>
             <cost>100</cost>
@@ -22257,10 +22257,10 @@
             <usage name="Military"/>
         </type>
         <type name="ExpansionHydraulicHoses">
-            <nominal>5</nominal>
+            <nominal>0</nominal>
             <lifetime>43200</lifetime>
             <restock>0</restock>
-            <min>1</min>
+            <min>5</min>
             <quantmin>-1</quantmin>
             <quantmax>-1</quantmax>
             <cost>100</cost>
