@@ -172,6 +172,21 @@
             ],
             "m_Locked": 0,
             "m_Persist": 1
+        },
+        {
+            "m_UID": "Green mountian Trader",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Trader",
+            "m_IconName": "Trader",
+            "m_Color": -2944,
+            "m_Position": [
+                3728.27001953125,
+                403.0,
+                6003.60009765625
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
         }
     ],
     "EnableHUDCompass": 1,
