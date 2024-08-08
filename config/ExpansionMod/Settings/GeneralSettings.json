@@ -1,7 +1,8 @@
 {
-    "m_Version": 14,
+    "m_Version": 15,
     "DisableShootToUnlock": 0,
     "EnableGravecross": 1,
+    "EnableAIGravecross": 0,
     "GravecrossDeleteBody": 0,
     "GravecrossTimeThreshold": 7200.0,
     "GravecrossSpawnTimeDelay": 180.0,
