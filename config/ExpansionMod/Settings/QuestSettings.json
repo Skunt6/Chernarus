@@ -21,7 +21,7 @@
     "QuestNotInGroupText": "Group quests can only be accepted while in a group!",
     "QuestNotGroupOwnerTitle": "Group Quest",
     "QuestNotGroupOwnerText": "Only a group owner can accept and turn-in a group quest!",
-    "GroupQuestMode": 0,
+    "GroupQuestMode": 2,
     "AchievementCompletedTitle": "Achievement \"%1\" completed!",
     "AchievementCompletedText": "%1",
     "WeeklyResetDay": "Wednesday",
