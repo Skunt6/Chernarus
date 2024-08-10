@@ -1,4 +1,13 @@
 @echo off
+
+:: Check for admin rights
+net session >nul 2>&1
+if %errorLevel% NEQ 0 (
+    echo Requesting administrative privileges...
+    powershell.exe -Command "Start-Process '%~0' -Verb RunAs"
+    exit /b
+)
+
 :start
 taskkill /im DayZServer_x64.exe /F
 ::Time in seconds to wait before..
