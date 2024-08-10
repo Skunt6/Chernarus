@@ -18,7 +18,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "MMG_combatpants_alpine",
+            "ClassName": "MMG_tactical_pants_alpine",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -27,7 +27,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "MMG_combatshirt_alpine",
+            "ClassName": "MMG_tactical_shirt_alpine",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
