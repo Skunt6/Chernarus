@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 15,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go to ledge.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5773.45, 479.608, 14760.7
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Ledge",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

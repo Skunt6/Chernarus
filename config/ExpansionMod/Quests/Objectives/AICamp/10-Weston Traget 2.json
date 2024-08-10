@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill Eclipse",
+    "TimeLimit": 30,
+    "Active": 1,
+    "InfectedDeletionRadius": 500.0,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [
+        "Head",
+        "Brain"
+    ],
+    "AISpawns": [
+        {
+            "Name": "Eclispe",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "EclipseLoadout",
+            "Units": [
+                "eAI_SurvivorM_Boris"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "HALT",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 1000.0,
+            "AccuracyMin": 0.3499999940395355,
+            "AccuracyMax": 0.8500000238418579,
+            "ThreatDistanceLimit": 10.0,
+            "NoiseInvestigationDistanceLimit": 100.0,
+            "DamageMultiplier": 0.75,
+            "DamageReceivedMultiplier": 3.0,
+            "MinDistRadius": 500.0,
+            "MaxDistRadius": 600.0,
+            "DespawnRadius": 600.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5794.97, 329.431, 14336.3
+                ]
+            ]
+        }
+    ]
+}
