@@ -14577,7 +14577,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="AA12_Gun">
     <nominal>1</nominal>
@@ -14813,7 +14814,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_M249_Mag">
     <nominal>1</nominal>
@@ -14885,7 +14887,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_M84_Optic">
     <nominal>1</nominal>
@@ -14993,7 +14996,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
   </type>
   <type name="IA2_Gun">
     <nominal>1</nominal>
@@ -18533,7 +18537,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUAlligator">
     <nominal>1</nominal>
@@ -18545,7 +18550,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
-    <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUAPS_20rdMag">
     <nominal>1</nominal>
