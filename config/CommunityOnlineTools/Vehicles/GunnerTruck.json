@@ -11,13 +11,13 @@
         "JLTVWheel",
         "JLTVWheel",
         "JLTVWheel",
-		"JLTVDoorDriver",
-		"JLTVDoorCoDriver",
-		"JLTVDoorBackLeft",
-		"JLTVDoorBackRight",
-		"JLTVHood",
-		"JLTVRearGuard",
-		"CanisterGasoline",
-		"JLTVWheel"
+        "JLTVDoorDriver",
+        "JLTVDoorCoDriver",
+        "JLTVDoorBackLeft",
+        "JLTVDoorBackRight",
+        "JLTVHood",
+        "JLTVRearGuard",
+        "CanisterGasoline",
+        "JLTVWheel"
     ]
 }
