@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 16,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Search for the camp.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8854.49, 336.681, 5556.57
+    ],
+    "MaxDistance": 150.0,
+    "MarkerName": "Search",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

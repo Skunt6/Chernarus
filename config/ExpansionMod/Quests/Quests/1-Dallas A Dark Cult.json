@@ -1,33 +1,24 @@
 {
     "ConfigVersion": 22,
-    "ID": 2,
+    "ID": 1,
     "Type": 1,
-    "Title": "Main: Gain their trust",
+    "Title": "Dallas: A Dark Cult",
     "Descriptions": [
-        "Alright, listen up, Survivor. You're under this roof now, but don't get comfortable. Here's your ration – it's not a feast, but it's what we've got. Zelenogorsk's a nightmare, infested with the undead. Your task? Clean it up, 25 of them, and maybe we'll consider you part of the crew. Supplies won't shield you from those biters; it's a fight for survival, and we don't hold hands. Keep your eyes peeled for bandits; they're scavenging the area too. Move fast, but move smart. Clock's ticking, and we're not your babysitters. Now, if you manage to wade through that mess and make it back in one piece, there might be a reward waiting for you – notice I said 'might.' This isn't a charity, Survivor. Prove you're worth a damn out there, and maybe, just maybe, you'll find yourself with a little more than just scraps. Now, get going. Time waits for no one."
+        "Hello, You want to help around here and be useful? Great ive got some work for you. Our scouts have been talking about there being some weird stuff going on over in Shakovka. They seem to think its a demon but I know its not. i got to much shit going on here and i need a talented indiviual like you to figure out whats going on there. Go see if you can find some intel. "
     ],
-    "ObjectiveText": "Kill 25 Infected in Zelenogorsk",
-    "FollowUpQuest": 3,
+    "ObjectiveText": "Search Shakhovka.",
+    "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
-    "IsGroupQuest": 1,
+    "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "SNAFU_TP82S",
-            "Amount": 1,
-            "Attachments": ["FNP45_MRDSOptic"],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1.0
-        },
-        {
-            "ClassName": "t_dagger",
+            "ClassName": "MMG_combatpants_atatcs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -36,7 +27,34 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "AliceBag_Black",
+            "ClassName": "MMG_combatshirt_atatcs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_balaclava_atatcs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_JPC_Vest_atatcs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_helmet_atatcs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -45,36 +63,34 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 1,
+    "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        1
+        18
     ],
     "QuestTurnInIDs": [
-        1
+        18
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 5,
+            "ID": 1,
             "ObjectiveType": 3
         },
         {
             "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 2
+            "ID": 4,
+            "ObjectiveType": 7
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 200,
-    "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        1
-    ],
+    "ReputationReward": 50,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
@@ -83,5 +99,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }

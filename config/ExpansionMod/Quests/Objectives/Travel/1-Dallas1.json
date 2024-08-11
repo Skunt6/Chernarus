@@ -2,16 +2,14 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 3,
-    "ObjectiveText": "Get to the reserchers camp!",
+    "ObjectiveText": "Get to Shakhovka.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        3699.718994140625,
-        402.01239013671877,
-        5989.66845703125
+        9659.78, 209.035, 6562.4
     ],
-    "MaxDistance": 20.0,
-    "MarkerName": "The camp",
+    "MaxDistance": 150.0,
+    "MarkerName": "Search",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

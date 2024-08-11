@@ -2,20 +2,20 @@
     "ConfigVersion": 28,
     "ID": 4,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill the Serpent patrol.",
-    "TimeLimit": -1,
+    "ObjectiveText": "Kill the Cult members before they escape.",
+    "TimeLimit": 120,
     "Active": 1,
     "MaxDistance": -1.0,
     "MinDistance": -1.0,
     "AllowedWeapons": [],
     "AllowedDamageZones": [],
     "AISpawn": {
-        "Name": "Serpent",
+        "Name": "Dark Cultist",
         "Persist": 1,
         "Faction": "Mercenaries",
         "Formation": "RANDOM",
-        "FormationLooseness": 0.0,
-        "Loadout": "SerpentsLoadout",
+        "FormationLooseness": 50.0,
+        "Loadout": "CaveLoadout",
         "Units": [
             "eAI_SurvivorF_Eva",
             "eAI_SurvivorF_Frida",
@@ -49,19 +49,19 @@
             "eAI_SurvivorM_Seth",
             "eAI_SurvivorM_Taiki"
         ],
-        "NumberOfAI": 5,
+        "NumberOfAI": 4,
         "Behaviour": "LOOP",
         "Speed": "WALK",
         "UnderThreatSpeed": "SPRINT",
         "CanBeLooted": 1,
         "UnlimitedReload": 1,
         "SniperProneDistanceThreshold": 1000.0,
-        "AccuracyMin": 0.3499999940395355,
-        "AccuracyMax": 0.75,
+        "AccuracyMin": 0.6,
+        "AccuracyMax": 0.9,
         "ThreatDistanceLimit": 1000.0,
         "NoiseInvestigationDistanceLimit": -1.0,
-        "DamageMultiplier": 1.0,
-        "DamageReceivedMultiplier": 1.0,
+        "DamageMultiplier": -1.0,
+        "DamageReceivedMultiplier": 0.3,
         "MinDistRadius": 50.0,
         "MaxDistRadius": 880.0,
         "DespawnRadius": 880.0,
@@ -74,39 +74,25 @@
         "UseRandomWaypointAsStartPoint": 1,
         "Waypoints": [
             [
-                1509.9599609375,
-                439.0950012207031,
-                13598.2001953125
+                9660.69, 209.108, 6559.79
             ],
             [
-                1807.52001953125,
-                435.8590087890625,
-                13810.5
+                9699.79, 209.801, 6528.74
             ],
             [
-                1732.68994140625,
-                451.7300109863281,
-                14152.7001953125
+                9557.8, 211.128, 6588.46
             ],
             [
-                1556.0400390625,
-                452.7699890136719,
-                14062.7001953125
+                9679.42, 199.783, 6618.68
             ],
             [
-                1640.0799560546876,
-                451.7149963378906,
-                14425.099609375
+                9629.21, 223.34, 6471.42
             ],
             [
-                1409.0,
-                459.6839904785156,
-                14465.099609375
+                9585.86, 212.599, 6556.44
             ],
             [
-                867.6580200195313,
-                454.8080139160156,
-                14720.7998046875
+                9573.16, 214.629, 6518.39
             ]
         ]
     }

@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 6,
+    "ID": 18,
+    "ClassName": "ExpansionQuestNPCAIPeter",
+    "Position": [
+
+        10713.5, 350.505, 5683.26
+
+    ],
+    "Orientation": [
+
+        -44.0791, -0, 0
+
+    ],
+    "NPCName": "Rico",
+    "DefaultNPCText": "Please progress more in the campaign!",
+    "Waypoints": [
+        [
+            10713.5, 350.505, 5683.26
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "RicoLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

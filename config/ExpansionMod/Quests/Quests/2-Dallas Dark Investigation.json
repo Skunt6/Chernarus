@@ -1,0 +1,85 @@
+{
+    "ConfigVersion": 22,
+    "ID": 2,
+    "Type": 1,
+    "Title": "Dallas: Dark Investigation",
+    "Descriptions": [
+        "Great job on that last mission. After you ended those weird fucks my scouts went back to search around. Turns out they found something. A hard drive with info on a location were these goons are hiding out. We gotta do some more digging to figure out how this data is valuble, go check it out."
+    ],
+    "ObjectiveText": "Locate the goons hideout.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "dark-cult",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "SNAFU_AK12A",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_AK_AR_Stock",
+                "SNAFU_AK12_Mag"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_AK19",
+            "Amount": 1,
+            "Attachments": [
+                "SNAFU_AK_HG",
+                "SNAFU_AK19_Stock",
+                "Mag_AK101_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        18
+    ],
+    "QuestTurnInIDs": [
+        18
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 16,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        1
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 0
+}
