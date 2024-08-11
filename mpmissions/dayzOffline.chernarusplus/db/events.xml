@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+<!--Gunner Truck-->
+    <event name="VehicleGunnerTruck">
+    <nominal>2</nominal>
+    <min>0</min>
+    <max>1</max>
+    <lifetime>600000</lifetime>
+    <restock>0</restock>
+    <saferadius>1000</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>200</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+        <child lootmax="0" lootmin="0" max="1" min="0" type="GunnerTruck" />
+        <child lootmax="0" lootmin="0" max="1" min="0" type="GunnerTruckWhite" />
+        <child lootmax="0" lootmin="0" max="1" min="0" type="GunnerTruckTan" />
+        <child lootmax="0" lootmin="0" max="1" min="0" type="GunnerTruck_Auto" />
+        <child lootmax="0" lootmin="0" max="1" min="0" type="GunnerTruckWhite_Auto" />
+        <child lootmax="0" lootmin="0" max="1" min="0" type="GunnerTruckTan_Auto" />
+    </children>
+    </event>
 <!--Dayz Horse-->
     <event name="AnimalWildHorse">
         <nominal>100</nominal>
