@@ -2,12 +2,12 @@
     "ConfigVersion": 22,
     "ID": 4,
     "Type": 1,
-    "Title": "Dr Milena: In Search of Tetracycline",
+    "Title": "DR: In Search of Tetracycline",
     "Descriptions": [
         "Ah, you made it, Dr. Milena says, her voice carrying a slight Eastern European accent, as she looks up from her makeshift workspace. Rico filled me in on your exploits in Zelenogorsk. Impressive, Survivor. We might have a use for someone with your skills. The situation is grim, and time isn't on our side. I've been studying the infection, and your unique abilities could be invaluable. There's much to discuss, but before we dive into that, I have an immediate concern. Our sick and injured desperately need Tetracycline, and our supplies are running dangerously low. I need you to head out and collect 12 doses. It's not just about their survival; it's about preserving hope. Can you do this for us?"
     ],
     "ObjectiveText": "Collect 12 Tetracycline",
-    "FollowUpQuest": 11,
+    "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
@@ -33,10 +33,12 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        2,
+        4
     ],
     "QuestTurnInIDs": [
-        2
+        2,
+        4
     ],
     "IsAchievement": 0,
     "Objectives": [
@@ -49,9 +51,7 @@
     "QuestColor": 0,
     "ReputationReward": 200,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        3
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,

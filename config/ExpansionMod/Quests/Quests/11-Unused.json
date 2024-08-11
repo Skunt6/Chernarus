@@ -89,9 +89,7 @@
     "QuestColor": 0,
     "ReputationReward": 600,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        4
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
@@ -100,5 +98,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 1
+    "Active": 0
 }

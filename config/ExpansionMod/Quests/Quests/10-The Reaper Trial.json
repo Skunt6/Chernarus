@@ -2,12 +2,12 @@
     "ConfigVersion": 22,
     "ID": 10,
     "Type": 1,
-    "Title": "Main: The Reaper's Trial",
+    "Title": "Rico: The Reaper's Trial",
     "Descriptions": [
         "Survivor, listen up. We've got a serious problem on our hands. A group of troublemakers, known as the Crimson Reapers, has been wreaking havoc in our territory. They're not your run-of-the-mill bandits; these folks are well-armed and deadly accurate. We can't let them continue their rampage unchecked. Your mission, if you choose to accept it, is to locate the Crimson Reapers' patrol routes and gather intel on their base of operations. It's time to show these Reapers that our camp is not to be trifled with. They are located at some dam, i cant remember the name. But it is just east of here."
     ],
     "ObjectiveText": "Eliminate the shot callers.",
-    "FollowUpQuest": 13,
+    "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -85,9 +85,7 @@
     "QuestColor": 0,
     "ReputationReward": 350,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        2
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,

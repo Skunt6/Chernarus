@@ -7,7 +7,7 @@
         "Survivor, your assistance has been invaluable before, and I need your help again. It's been a while since I last heard from my husband, Eddy Locke. He's stationed north of Belaya Polyana, working on establishing a safe zone. Please visit him, check on his well-being, and deliver this package with crucial information about gas bombs. It's vital that Eddy receives this package. Thank you for your help."
     ],
     "ObjectiveText": "Find Eddy Locke",
-    "FollowUpQuest": 37,
+    "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -69,5 +69,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 1
+    "Active": 0
 }
