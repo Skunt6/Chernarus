@@ -130,13 +130,10 @@
                     "DescriptionText": "Hostile AI proudly dons an orange armband, while their friendly counterparts sport a verdant green one. Beware the Boss AI, unmistakable in their fiery red bands."
                 },
                 {
-                    "DescriptionText": "AI's precision and gear escalate with their tiers, from basic loot to formidable armaments."
+                    "DescriptionText": "AI's gear escalate with their tiers, from basic loot to formidable armaments."
                 },
                 {
                     "DescriptionText": "Expect AI encounters in every nook and cranny: towns, villages, military zones, and even the wilds."
-                },
-                {
-                    "DescriptionText": "Accuracy breakdown: Tier 1: (0.25, 0.75), Tier 2: (0.30, 0.80), Tier 3: (0.35, 0.85), Tier 4: (0.40, 0.90)."
                 },
                 {
                     "DescriptionText": "Loot bonuses await, with officers and NPCs like Van Pelt, NBC, and Colonels offering enhanced rewards."
@@ -184,7 +181,7 @@
             ]
         },
         {
-            "CategoryName": "KeyCards & Punchedcards",
+            "CategoryName": "KeyCards",
             "Descriptions": [
                 {
                     "DescriptionText": "Unlock the mysteries with cards found on NBC zone AI's and high-level officers."
@@ -213,6 +210,12 @@
                 },
                 {
                     "DescriptionText": "Trader parking violations result in vehicular deletions."
+                },
+                {
+                    "DescriptionText": "All vehicles spawn on the map and cant be traded."
+                },
+                {
+                    "DescriptionText": "You take damage so does your vehicle if you crash."
                 }
             ]
         }
