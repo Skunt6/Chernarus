@@ -18,7 +18,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "MMG_combatpants_atatcs",
+            "ClassName": "MMG_combatpants_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -27,7 +27,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "MMG_combatshirt_atatcs",
+            "ClassName": "MMG_combatshirt_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -36,7 +36,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "MMG_balaclava_atatcs",
+            "ClassName": "MMG_balaclava_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -45,7 +45,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "MMG_JPC_Vest_atatcs",
+            "ClassName": "MMG_JPC_Vest_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -54,7 +54,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "MMG_tactical_helmet_atatcs",
+            "ClassName": "MMG_tactical_helmet_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
