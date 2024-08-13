@@ -210,7 +210,7 @@
             ]
         },
         {
-            "SlotName": "MELEE",
+            "SlotName": "Shoulder",
             "Items": [
                 {
                     "ClassName": "t_GTS",
