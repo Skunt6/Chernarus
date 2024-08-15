@@ -166,6 +166,9 @@
                 },
                 {
                     "DescriptionText": "Kit sensibly; excessive building can disrupt the balance of the server."
+                },
+                {
+                    "DescriptionText": "Flag is made vanilla, then you create territory at flag, and invite friends from there"
                 }
             ]
         },
