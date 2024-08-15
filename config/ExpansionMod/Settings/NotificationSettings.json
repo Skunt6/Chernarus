@@ -1,9 +1,9 @@
 {
     "m_Version": 5,
     "EnableNotification": 1,
-    "ShowPlayerJoinServer": 1,
+    "ShowPlayerJoinServer": 0,
     "JoinMessageType": 1,
-    "ShowPlayerLeftServer": 1,
+    "ShowPlayerLeftServer": 0,
     "LeftMessageType": 1,
     "ShowAirdropStarted": 1,
     "ShowAirdropClosingOn": 1,
