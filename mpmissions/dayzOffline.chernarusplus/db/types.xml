@@ -36396,7 +36396,7 @@
     </type>
     <type name="LargeTent">
         <nominal>8</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38282,7 +38282,7 @@
     </type>
     <type name="MediumTent">
         <nominal>4</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38295,7 +38295,7 @@
     </type>
     <type name="MediumTent_Green">
         <nominal>4</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38308,7 +38308,7 @@
     </type>
     <type name="MediumTent_Orange">
         <nominal>4</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39136,6 +39136,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier4"/>
+        <value name="Tier3"/>
     </type>
     <type name="Nail">
         <nominal>40</nominal>
@@ -39150,6 +39152,7 @@
         <tag name="shelves"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <value name="Tier4"/>
     </type>
     <type name="NailBox">
         <nominal>60</nominal>
@@ -39164,6 +39167,7 @@
         <tag name="shelves"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <value name="Tier4"/>
     </type>
     <type name="NailedBaseballBat">
         <nominal>0</nominal>
@@ -39786,7 +39790,7 @@
     </type>
     <type name="PartyTent">
         <nominal>4</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39798,7 +39802,7 @@
     </type>
     <type name="PartyTent_Blue">
         <nominal>4</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39810,7 +39814,7 @@
     </type>
     <type name="PartyTent_Brown">
         <nominal>4</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39822,7 +39826,7 @@
     </type>
     <type name="PartyTent_Lunapark">
         <nominal>4</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -42749,7 +42753,7 @@
         <usage name="Town"/>
     </type>
     <type name="SledgeHammer">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
