@@ -24,7 +24,7 @@
     </children>
     </event>
 <!--Dayz Horse-->
-    <event name="HerdWildHorse">
+    <event name="AnimalWildHorse">
         <nominal>100</nominal>
         <min>2</min>
         <max>5</max>
