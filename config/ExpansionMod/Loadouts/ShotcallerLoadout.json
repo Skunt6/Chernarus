@@ -5968,7 +5968,8 @@
                 "Max": 0.0
             },
             "Health": [],
-            "InventoryAttachments": [
+            "InventoryAttachments": [],
+            "InventoryCargo": [
                 {
                     "ClassName": "ExpansionQuestItemPackage",
                     "Chance": 1.0,
@@ -5983,7 +5984,6 @@
                     "Sets": []
                 }
             ],
-            "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
