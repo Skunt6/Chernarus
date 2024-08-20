@@ -2,23 +2,41 @@
     "ConfigVersion": 22,
     "ID": 14,
     "Type": 1,
-    "Title": "Main: The Next Directive",
+    "Title": "Jack: Novaya",
     "Descriptions": [
-        "Survivor, you've proven yourself, and now there's a higher calling. The General needs a word with you. Head to his location at Rog, a medieval castle, for a meet-up; he's got more high-priority missions that require your touch. Remember, this ain't a leisurely chat; it's a briefing for what comes next. The stakes are high, and we're counting on you to show the General what you're made of. Gear up and head out – the camp is relying on your skills for the missions ahead."
+        "Good job on that patrol. My scouts trailed you in Lopatino and found intel on a nearby camp in the fields north of Novaya Petrovka—head there and see what you can uncover."
     ],
-    "ObjectiveText": "Go meet the general",
-    "FollowUpQuest": 18,
+    "ObjectiveText": "Search the fields.",
+    "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 0,
     "IsGroupQuest": 1,
-    "ObjectSetFileName": "",
+    "ObjectSetFileName": "serpent-field",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "DC_FastTravelTicket",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 100000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "M79",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -27,8 +45,8 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "Nail",
-            "Amount": 20,
+            "ClassName": "Ammo_40mm_Explosive",
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -42,24 +60,24 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        1
+        19
     ],
     "QuestTurnInIDs": [
-        5
+        19
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 8,
-            "ObjectiveType": 3
+            "ID": 3,
+            "ObjectiveType": 8
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 100,
+    "ReputationReward": 300,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
-        13
+        12
     ],
     "RequiredFaction": "",
     "FactionReward": "",
