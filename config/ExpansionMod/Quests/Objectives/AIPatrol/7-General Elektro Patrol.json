@@ -1,0 +1,114 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7,
+    "ObjectiveType": 7,
+    "ObjectiveText": "Find and eliminate Reapers",
+    "TimeLimit": -1,
+    "Active": 1,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [],
+    "AISpawn": {
+        "Name": "Reaper",
+        "Persist": 1,
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 150.0,
+        "Loadout": "Tier2Loadout",
+        "Units": [
+            "eAI_SurvivorF_Eva",
+            "eAI_SurvivorF_Frida",
+            "eAI_SurvivorF_Gabi",
+            "eAI_SurvivorF_Helga",
+            "eAI_SurvivorF_Irena",
+            "eAI_SurvivorF_Judy",
+            "eAI_SurvivorF_Keiko",
+            "eAI_SurvivorF_Linda",
+            "eAI_SurvivorF_Maria",
+            "eAI_SurvivorF_Naomi",
+            "eAI_SurvivorF_Baty",
+            "eAI_SurvivorM_Boris",
+            "eAI_SurvivorM_Cyril",
+            "eAI_SurvivorM_Denis",
+            "eAI_SurvivorM_Elias",
+            "eAI_SurvivorM_Francis",
+            "eAI_SurvivorM_Guo",
+            "eAI_SurvivorM_Hassan",
+            "eAI_SurvivorM_Indar",
+            "eAI_SurvivorM_Jose",
+            "eAI_SurvivorM_Kaito",
+            "eAI_SurvivorM_Lewis",
+            "eAI_SurvivorM_Manua",
+            "eAI_SurvivorM_Mirek",
+            "eAI_SurvivorM_Niki",
+            "eAI_SurvivorM_Oliver",
+            "eAI_SurvivorM_Peter",
+            "eAI_SurvivorM_Quinn",
+            "eAI_SurvivorM_Rolf",
+            "eAI_SurvivorM_Seth",
+            "eAI_SurvivorM_Taiki"
+        ],
+        "NumberOfAI": 4,
+        "Behaviour": "LOOP",
+        "Speed": "JOG",
+        "UnderThreatSpeed": "SPRINT",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 1000.0,
+        "AccuracyMin": 0.4,
+        "AccuracyMax": 0.9,
+        "ThreatDistanceLimit": 1000.0,
+        "NoiseInvestigationDistanceLimit": -1.0,
+        "DamageMultiplier": 0.5,
+        "DamageReceivedMultiplier": 1.0,
+        "MinDistRadius": 300.0,
+        "MaxDistRadius": 400.0,
+        "DespawnRadius": 880.0,
+        "MinSpreadRadius": 0.0,
+        "MaxSpreadRadius": 0.0,
+        "Chance": 1.0,
+        "WaypointInterpolation": "",
+        "DespawnTime": 1.0,
+        "RespawnTime": 1.0,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+            [
+                10675.4, 6.03598, 2440.73
+            ],
+            [
+                10581.3, 33.4347, 2486.5
+            ],
+            [
+                10558.3, 22.4814, 2610.91
+            ],
+            [
+                10449, 6.0825, 2527.56
+            ],
+            [
+                10275.4, 19.6341, 2449.62
+            ],
+            [
+                10275.4, 19.6341, 2449.62
+            ],
+            [
+                9975.88, 6.22236, 1953.37
+            ],
+            [
+                9905.79, 6.0345, 1796.33
+            ],
+            [
+                10062.6, 6, 1833.02
+            ],
+            [
+                10282.7, 6.175, 1897.66
+            ],
+            [
+                10418.6, 6, 2219.94
+            ],
+            [
+                10579, 6.35003, 2066.31
+            ]
+        ]
+    }
+}

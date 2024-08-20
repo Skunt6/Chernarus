@@ -40,7 +40,7 @@
             3674.04, 401.832, 6011.3
         ]
     ],
-    "NPCEmoteID": 46,
+    "NPCEmoteID": 44,
     "NPCEmoteIsStatic": 0,
     "NPCLoadoutFile": "GuardLoadout",
     "NPCInteractionEmoteID": 1,

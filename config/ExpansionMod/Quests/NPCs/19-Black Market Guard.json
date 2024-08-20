@@ -1,27 +1,27 @@
 {
     "ConfigVersion": 6,
-    "ID": 14,
-    "ClassName": "ExpansionQuestNPCAIPeter",
+    "ID": 19,
+    "ClassName": "ExpansionQuestNPCAILewis",
     "Position": [
 
-        1921.07, 474.467, 14974.3
+        4051.47, 372.717, 11702
 
     ],
     "Orientation": [
 
-        -149.33, -0, -0
+        -6.75424, -0, 0
 
     ],
-    "NPCName": "Green Mountian Guard",
-    "DefaultNPCText": "Best be moving along...",
+    "NPCName": "Jack",
+    "DefaultNPCText": "Black Market gaurd at your service.",
     "Waypoints": [
         [
-            1921.07, 474.467, 14974.3
+            4051.47, 372.717, 11702
         ]
     ],
     "NPCEmoteID": 44,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "GuardSniperLoadout",
+    "NPCLoadoutFile": "GuardLoadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 22,
+    "ID": 12,
+    "Type": 1,
+    "Title": "Jack: Lopatino",
+    "Descriptions": [
+        "Hoorah, soldier! Welcome to the Black Market Trader. My duty here is simple: to keep this place secure from those filthy zombies and the bandits that plague these lands. One of my guards had you in his sights, but he saw you weren't wearing orange or red on your sleeve, so you got a pass. But enough of that. I've got a mission for someone with your skills, if you're up to the challenge. There’s a gang of Serpents slithering around Lopatino, looting and causing havoc. I need you to teach them a lesson they won't forget. Now go. Dismissed!"
+    ],
+    "ObjectiveText": "Kill Serpents",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "DC_FastTravelTicket",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CharcoalTablets",
+            "Amount": 12,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_AKTango6T_Black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        19
+    ],
+    "QuestTurnInIDs": [
+        19
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 8,
+            "ObjectiveType": 7
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

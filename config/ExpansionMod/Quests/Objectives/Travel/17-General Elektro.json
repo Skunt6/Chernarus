@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Elektro",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10361.3, 6.01817, 2104.86
+    ],
+    "MaxDistance": 300.0,
+    "MarkerName": "?",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
