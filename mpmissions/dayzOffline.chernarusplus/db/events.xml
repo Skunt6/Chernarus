@@ -49,7 +49,7 @@
     <event name="VehicleTechs_ATV_Spawn">
         <nominal>30</nominal>
         <min>2</min>
-        <max>20</max>
+        <max>30</max>
         <lifetime>600000</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
