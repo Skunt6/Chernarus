@@ -63,23 +63,21 @@
         },
         {
             "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 2
+            "ID": 13,
+            "ObjectiveType": 8
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 200,
+    "ReputationReward": 250,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [
-        1
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 0,
-    "SequentialObjectives": 0,
+    "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }

@@ -1864,6 +1864,65 @@
     ],
     "Patrols": [
         {
+            "Name": "Cultist Hidout",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 10.0,
+            "Loadout": "CaveLoadout",
+            "Units": [],
+            "NumberOfAI": -3,
+            "Behaviour": "LOOP",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": -1.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.4,
+            "DamageReceivedMultiplier": 1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8828.85, 333.361, 5548.25
+                ],
+                [
+                    8847.18, 331.932, 5512.36
+                ],
+                [
+                    8853.97, 337.423, 5565.35
+                ],
+                [
+                    8891.22, 334.026, 5574.61
+                ],
+                [
+                    8895.62, 324.879, 5536.92
+                ],
+                [
+                    8834.86, 328.887, 5500.83
+                ],
+                [
+                    8799.29, 324.27, 5526.02
+                ],
+                [
+                    8892.29, 352.204, 5641.33
+                ]
+            ]
+        },
+        {
             "Name": "Tisy HQ",
             "Persist": 1,
             "Faction": "Mercenaries",
@@ -1885,8 +1944,8 @@
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
             "CanBeTriggeredByAI": 0,
-            "MinDistRadius": 100.0,
-            "MaxDistRadius": 500.0,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,

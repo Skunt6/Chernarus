@@ -8,7 +8,7 @@
     "Position": [
         8854.49, 336.681, 5556.57
     ],
-    "MaxDistance": 150.0,
+    "MaxDistance": 200.0,
     "MarkerName": "Search",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
