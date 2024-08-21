@@ -103,9 +103,9 @@
     "UseNewsFeedInGameMenu": 1,
     "UseHUDColors": 0,
     "HUDColors": {
-        "StaminaBarColor": "FFFFFFFF",
-        "StaminaBarColorHalf": "FFFFFFFF",
-        "StaminaBarColorLow": "FFFFFFFF",
+        "StaminaBarColor": "00FF00",
+        "StaminaBarColorHalf": "FFFF00",
+        "StaminaBarColorLow": "FF0000",
         "NotifierDividerColor": "DCDCDCFF",
         "TemperatureBurningColor": "DC0000FF",
         "TemperatureHotColor": "DCDC00FF",
