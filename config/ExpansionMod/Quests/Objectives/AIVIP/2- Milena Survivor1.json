@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Survivor back to camp.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3675.79, 406.762, 5990.25
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Camp",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "VIPLoadout",
+    "NPCClassName": "Survivor",
+    "NPCName": "Survivor"
+}

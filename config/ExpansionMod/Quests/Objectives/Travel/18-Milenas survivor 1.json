@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 18,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go to Barn",
+    "TimeLimit": 1800,
+    "Active": 1,
+    "Position": [
+        2504.6, 232.993, 4684.69
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "Barn",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

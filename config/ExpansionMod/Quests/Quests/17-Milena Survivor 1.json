@@ -1,0 +1,180 @@
+{
+    "ConfigVersion": 22,
+    "ID": 17,
+    "Type": 1,
+    "Title": "Milena: Zelenogorsk VIP",
+    "Descriptions": [
+        "Welcome, survivor. I'm so grateful for the help you've been giving us—it truly means the world to the women, children, the sick, and the elderly here. Rico just received a distress call from a survivor in Zelenogorsk. They’re stranded on a farm at the top of the hill near the old military base. I need you to head out, locate them, and make sure they get back here safely. We're all counting on you—please, bring them home safe. "
+    ],
+    "ObjectiveText": "Find the Survivor.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "SA58_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_AK_AR_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_AK19_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_M249Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_M4SS_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_MK47_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_MOE_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_PRSGen3_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_SADAR_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_SBA_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_SCQR_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_UBR_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFU_WSR3Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SNAFUDSASA58_Stock",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 18,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 12,
+            "ObjectiveType": 8
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 19,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 2,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 400,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

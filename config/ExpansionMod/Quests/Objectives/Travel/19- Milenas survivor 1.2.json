@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 19,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Check straw pile",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2496.68, 237.12, 4688.14
+    ],
+    "MaxDistance": 0.2,
+    "MarkerName": "?",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
