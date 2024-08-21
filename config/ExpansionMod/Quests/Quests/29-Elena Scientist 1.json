@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 22,
-    "ID": 17,
+    "ID": 29,
     "Type": 1,
-    "Title": "Milena: Zelenogorsk VIP",
+    "Title": "Elena: Dolina VIP",
     "Descriptions": [
-        "Welcome, survivor. I'm so grateful for the help you've been giving us—it truly means the world to the women, children, the sick, and the elderly here. Rico just received a distress call from a survivor in Zelenogorsk. They’re stranded on a farm at the top of the hill near the old military base. I need you to head out, locate them, and make sure they get back here safely. We're all counting on you—please, bring them home safe. "
+        "Survivor, hello. I have a special and urgent task for you. One of my colleagues—a fellow scientist from the early days of the outbreak—is in desperate need of help. The horrors we witnessed back then were a true test of the human spirit. After three long months, we’ve finally received a transmission from him. He’s being held captive in Dolina. I need you to go and save him. Please, do everything you can to bring him back safely."
     ],
-    "ObjectiveText": "Find the Survivor.",
+    "ObjectiveText": "Rescue Scientist",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -288,36 +288,41 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        5
+        4
     ],
     "QuestTurnInIDs": [
-        5
+        4
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 18,
+            "ID": 20,
             "ObjectiveType": 3
         },
         {
             "ConfigVersion": 28,
-            "ID": 12,
+            "ID": 21,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 14,
             "ObjectiveType": 8
         },
         {
             "ConfigVersion": 28,
-            "ID": 19,
+            "ID": 22,
             "ObjectiveType": 3
         },
         {
             "ConfigVersion": 28,
-            "ID": 2,
+            "ID": 3,
             "ObjectiveType": 9
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 400,
+    "ReputationReward": 250,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],
     "RequiredFaction": "",

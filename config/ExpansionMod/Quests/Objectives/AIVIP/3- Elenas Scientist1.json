@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Escort the Scientist to Dr. Elena.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10715.6, 350.505, 5674.55
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Elena",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "ScientistLoadout",
+    "NPCClassName": "Scientist",
+    "NPCName": "Scientist"
+}

@@ -1,9 +1,9 @@
 {
     "ConfigVersion": 28,
-    "ID": 13,
+    "ID": 14,
     "ObjectiveType": 8,
-    "ObjectiveText": "Kill Cultist Lieutenant's",
-    "TimeLimit": -1,
+    "ObjectiveText": "Kill Reapers",
+    "TimeLimit": 300,
     "Active": 1,
     "InfectedDeletionRadius": 0.0,
     "MaxDistance": -1.0,
@@ -12,12 +12,12 @@
     "AllowedDamageZones": [],
     "AISpawns": [
         {
-            "Name": "Cultist Lieutenant",
+            "Name": "Reaper",
             "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "CaveLoadout",
+            "Loadout": "Tier3Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -58,14 +58,14 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
-            "AccuracyMin": 0.7,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
             "ThreatDistanceLimit": 1000.0,
             "NoiseInvestigationDistanceLimit": 15.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 100.0,
-            "MaxDistRadius": 200.0,
+            "MinDistRadius": 5.0,
+            "MaxDistRadius": 10.0,
             "DespawnRadius": 800.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -76,17 +76,17 @@
             "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
-                    8857.84, 337.451, 5565.23
+                    11188, 84.631, 6590.71
                 ]
             ]
         },
         {
-            "Name": "Cultist Lieutenant",
+            "Name": "Reaper",
             "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "CaveLoadout",
+            "Loadout": "Tier3Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -127,14 +127,14 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
-            "AccuracyMin": 0.7,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
             "ThreatDistanceLimit": 1000.0,
             "NoiseInvestigationDistanceLimit": 15.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 100.0,
-            "MaxDistRadius": 200.0,
+            "MinDistRadius": 5.0,
+            "MaxDistRadius": 10.0,
             "DespawnRadius": 800.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -145,17 +145,17 @@
             "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
-                    8829.63, 333.991, 5592.83
+                    11192, 80.8716, 6588.43
                 ]
             ]
         },
         {
-            "Name": "Cultist Lieutenant",
+            "Name": "Reaper",
             "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "CaveLoadout",
+            "Loadout": "Tier3Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -196,14 +196,14 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
-            "AccuracyMin": 0.7,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
             "ThreatDistanceLimit": 1000.0,
             "NoiseInvestigationDistanceLimit": 15.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 100.0,
-            "MaxDistRadius": 200.0,
+            "MinDistRadius": 5.0,
+            "MaxDistRadius": 10.0,
             "DespawnRadius": 800.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -214,17 +214,17 @@
             "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
-                    8902.72, 343.667, 5615.43
+                    11184.9, 80.8808, 6594.4
                 ]
             ]
         },
         {
-            "Name": "Cultist Lieutenant",
+            "Name": "Reaper",
             "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "CaveLoadout",
+            "Loadout": "Tier3Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -265,14 +265,14 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
-            "AccuracyMin": 0.7,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.4,
+            "AccuracyMax": 0.9,
             "ThreatDistanceLimit": 1000.0,
             "NoiseInvestigationDistanceLimit": 15.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 100.0,
-            "MaxDistRadius": 200.0,
+            "MinDistRadius": 5.0,
+            "MaxDistRadius": 10.0,
             "DespawnRadius": 800.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -283,7 +283,7 @@
             "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
-                    8866.22, 328.517, 5505.12
+                    11193, 77.2997, 6592.93
                 ]
             ]
         }

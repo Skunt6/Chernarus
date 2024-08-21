@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 22,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get the scientist from the cell",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        11183.6, 77.3113, 6590.41
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Cell",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

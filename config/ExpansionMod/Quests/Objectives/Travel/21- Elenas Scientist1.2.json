@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 21,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find The Scientist",
+    "TimeLimit": 300,
+    "Active": 1,
+    "Position": [
+        11190, 77.3034, 6591.98
+    ],
+    "MaxDistance": 15.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

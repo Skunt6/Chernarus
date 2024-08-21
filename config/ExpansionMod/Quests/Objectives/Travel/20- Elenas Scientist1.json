@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Got to Dolina",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        11219.1, 76.4563, 6592.85
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "Dolina",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
