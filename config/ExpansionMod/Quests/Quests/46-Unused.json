@@ -80,9 +80,7 @@
     "QuestGiverIDs": [
         1
     ],
-    "QuestTurnInIDs": [
-        15
-    ],
+    "QuestTurnInIDs": [],
     "IsAchievement": 0,
     "Objectives": [
         {
@@ -105,5 +103,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 1
+    "Active": 0
 }
