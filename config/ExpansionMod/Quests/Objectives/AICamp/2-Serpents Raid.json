@@ -17,7 +17,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -159,7 +159,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -230,7 +230,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -301,7 +301,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -372,7 +372,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -514,7 +514,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -585,7 +585,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -656,7 +656,7 @@
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0.0,
-            "Loadout": "Tier3Loadout",
+            "Loadout": "Tier4Loadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",

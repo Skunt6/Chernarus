@@ -1,0 +1,212 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill the snipers.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "InfectedDeletionRadius": 500.0,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [],
+    "AISpawns": [
+        {
+            "Name": "Reaper Coward",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier3SniperLoadout",
+            "Units": [
+                "eAI_SurvivorM_Oliver"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "HALT",
+            "UnderThreatSpeed": "HALT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 1000.0,
+            "AccuracyMin": 0.4099999964237213,
+            "AccuracyMax": 0.9000000357627869,
+            "ThreatDistanceLimit": 1000.0,
+            "NoiseInvestigationDistanceLimit": 800.0,
+            "DamageMultiplier": 2.0,
+            "DamageReceivedMultiplier": 0.25,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
+            "DespawnRadius": 880.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    12458.6, 147.903, 12545.5
+                ]
+            ]
+        },
+        {
+            "Name": "Reaper Coward",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier3SniperLoadout",
+            "Units": [
+                "eAI_SurvivorM_Quinn"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "HALT",
+            "UnderThreatSpeed": "HALT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 1000.0,
+            "AccuracyMin": 0.4099999964237213,
+            "AccuracyMax": 0.9000000357627869,
+            "ThreatDistanceLimit": 1000.0,
+            "NoiseInvestigationDistanceLimit": 800.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 1.0,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
+            "DespawnRadius": 880.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11879.6, 145.996, 12438.9
+                ]
+            ]
+        },
+        {
+            "Name": "Reaper Coward",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier3SniperLoadout",
+            "Units": [
+                "eAI_SurvivorF_Gabi"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "HALT",
+            "UnderThreatSpeed": "HALT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 1000.0,
+            "AccuracyMin": 0.3499999940395355,
+            "AccuracyMax": 0.8500000238418579,
+            "ThreatDistanceLimit": 1000.0,
+            "NoiseInvestigationDistanceLimit": 800.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.75,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
+            "DespawnRadius": 880.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11817.3, 147.135, 12542.3
+                ]
+            ]
+        },
+        {
+            "Name": "Reaper Coward",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier3SniperLoadout",
+            "Units": [
+                "eAI_SurvivorM_Peter"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "HALT",
+            "UnderThreatSpeed": "HALT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 1000.0,
+            "AccuracyMin": 0.3499999940395355,
+            "AccuracyMax": 0.8500000238418579,
+            "ThreatDistanceLimit": 1000.0,
+            "NoiseInvestigationDistanceLimit": 800.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.75,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
+            "DespawnRadius": 880.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    11860.6, 140.605, 12467.2
+                ]
+            ]
+        },
+        {
+            "Name": "Reaper Coward",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier3SniperLoadout",
+            "Units": [
+                "eAI_SurvivorF_Eva"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "HALT",
+            "UnderThreatSpeed": "HALT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 1000.0,
+            "AccuracyMin": 0.3499999940395355,
+            "AccuracyMax": 0.8500000238418579,
+            "ThreatDistanceLimit": 1000.0,
+            "NoiseInvestigationDistanceLimit": 800.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.75,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
+            "DespawnRadius": 880.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8653.7001953125,
+                    165.41600036621095,
+                    13599.900390625
+                ]
+            ]
+        }
+    ]
+}
