@@ -1998,16 +1998,16 @@
             ]
         },
         {
-            "Name": "bunker1",
+            "Name": "Bunker Patrol",
             "Persist": 1,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
-            "FormationLooseness": 50.0,
-            "Loadout": "CaveLoadout",
+            "FormationLooseness": 100.0,
+            "Loadout": "Tier4Loadout",
             "Units": [],
-            "NumberOfAI": 1,
+            "NumberOfAI": -5,
             "Behaviour": "ROAMING",
-            "Speed": "STATIC",
+            "Speed": "JOG",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
@@ -2019,21 +2019,52 @@
             "DamageMultiplier": 1.0,
             "DamageReceivedMultiplier": 0.07999999821186066,
             "CanBeTriggeredByAI": 0,
-            "MinDistRadius": 10.0,
-            "MaxDistRadius": 50.0,
+            "MinDistRadius": 600.0,
+            "MaxDistRadius": 800.0,
             "DespawnRadius": -2.200000047683716,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.0,
+            "Chance": 1.0,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8611.5595703125,
-                    135.55299377441407,
-                    13544.5
+                    8729.95, 150.04, 13530.3
+                ],
+                [
+                    8765.9, 159.51, 13634.4
+                ],
+                [
+                    8676.32, 171.874, 13747.8
+                ],
+                [
+                    8533.03, 179.837, 13715.2
+                ],
+                [
+                    8459.19, 177.383, 13613.8
+                ],
+                [
+                    8482.53, 165.674, 13468.7
+                ],
+                [
+                    8476.53, 144.435, 13249.6
+                ],
+                [
+                    8652.79, 107.333, 13285.8
+                ],
+                [
+                    8697.51, 111.863, 13345.5
+                ],
+                [
+                    8636.47, 121.32, 13462.1
+                ],
+                [
+                    8711.18, 121.055, 13205.5
+                ],
+                [
+                    8549.24, 125.671, 13149.2
                 ]
             ]
         },
