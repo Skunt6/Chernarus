@@ -9554,81 +9554,306 @@
                     4003.300048828125,
                     375.7200012207031,
                     11815.099609375
+                ]
+            ]
+        },
+        {
+            "Name": "North West Air Field1",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 300.0,
+            "Loadout": "Tier3Loadout",
+            "Units": [],
+            "NumberOfAI": -2,
+            "Behaviour": "ROAMING",
+            "Speed": "JOGRANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": -1.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4463.68, 339.04, 9834.59
                 ],
                 [
-                    4100.18017578125,
-                    370.27801513671877,
-                    11628.5
+                    4469.68, 339.006, 9508.54
                 ],
                 [
-                    4246.0400390625,
-                    376.1629943847656,
-                    11543.400390625
+                    4604.35, 339, 9577.64
                 ],
                 [
-                    4119.2998046875,
-                    350.0669860839844,
-                    11325.099609375
+                    4492.67, 339, 9655.87
                 ],
                 [
-                    4135.83984375,
-                    337.8139953613281,
-                    11119.2998046875
+                    4506.67, 339, 9698.75
+                ]
+            ]
+        },
+        {
+            "Name": "North West Air Field2",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 300.0,
+            "Loadout": "Tier3Loadout",
+            "Units": [],
+            "NumberOfAI": -2,
+            "Behaviour": "ROAMING",
+            "Speed": "JOGRANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": -1.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4726.7, 339.09, 10275.8
                 ],
                 [
-                    4156.56982421875,
-                    338.3900146484375,
-                    11027.7001953125
+                    4771.43, 339.106, 10325.6
                 ],
                 [
-                    4232.1201171875,
-                    338.4100036621094,
-                    10991.599609375
+                    4649.41, 339.124, 10374.3
                 ],
                 [
-                    4424.91015625,
-                    338.7510070800781,
-                    10832.900390625
+                    4765.17, 338.992, 10370.4
                 ],
                 [
-                    4574.85986328125,
-                    338.8110046386719,
-                    10792.400390625
+                    4943.99, 334.01, 10434.9
+                ]
+            ]
+        },
+        {
+            "Name": "North West Air Field3",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 300.0,
+            "Loadout": "Tier3Loadout",
+            "Units": [],
+            "NumberOfAI": -2,
+            "Behaviour": "ROAMING",
+            "Speed": "JOGRANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": -1.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4801.97, 338.853, 10624.1
                 ],
                 [
-                    4565.10986328125,
-                    338.99700927734377,
-                    10702.900390625
+                    4716.98, 339.15, 10559.3
                 ],
                 [
-                    4541.2099609375,
-                    339.0,
-                    10553.2998046875
+                    4575.16, 339.115, 10545.5
                 ],
                 [
-                    4152.990234375,
-                    339.0,
-                    10417.400390625
+                    4650.32, 324.316, 10998.2
                 ],
                 [
-                    4610.2900390625,
-                    339.0,
-                    10456.099609375
+                    4582.91, 338.54, 10833.8
+                ]
+            ]
+        },
+        {
+            "Name": "North West Air Field4",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 300.0,
+            "Loadout": "Tier3Loadout",
+            "Units": [],
+            "NumberOfAI": -2,
+            "Behaviour": "ROAMING",
+            "Speed": "JOGRANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": -1.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4243.51, 338.402, 11042.5
                 ],
                 [
-                    4750.91015625,
-                    339.0899963378906,
-                    10308.2001953125
+                    4191.05, 338.41, 11088.2
                 ],
                 [
-                    4442.81982421875,
-                    339.0400085449219,
-                    9810.6103515625
+                    4138.13, 338.402, 11067.4
                 ],
                 [
-                    4585.81005859375,
-                    339.0,
-                    9525.1103515625
+                    4149.03, 338.39, 11032.7
+                ],
+                [
+                    4167.77, 338.41, 10987.4
+                ]
+            ]
+        },
+        {
+            "Name": "North West Air Field5",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 300.0,
+            "Loadout": "Tier3Loadout",
+            "Units": [],
+            "NumberOfAI": -2,
+            "Behaviour": "ROAMING",
+            "Speed": "JOGRANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": -1.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4153.99, 339, 10408.2
+                ],
+                [
+                    3874.55, 329.33, 10791.4
+                ],
+                [
+                    3808.82, 325.841, 10884.9
+                ],
+                [
+                    3809.18, 324.133, 10985.6
+                ],
+                [
+                    3946.89, 332.348, 11002.8
+                ]
+            ]
+        },
+        {
+            "Name": "North West Air Field6",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 300.0,
+            "Loadout": "Tier3Loadout",
+            "Units": [],
+            "NumberOfAI": -2,
+            "Behaviour": "ROAMING",
+            "Speed": "JOGRANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": -1.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4087.04, 342.984, 11204
+                ],
+                [
+                    4209.35, 362.232, 11445
+                ],
+                [
+                    4171.71, 371.664, 11623.3
+                ],
+                [
+                    3983.03, 369.186, 11703.6
+                ],
+                [
+                    4016.04, 375.5, 11881.7
                 ]
             ]
         },
