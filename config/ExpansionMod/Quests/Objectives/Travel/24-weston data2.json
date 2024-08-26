@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 24,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the Radio Tranmission.",
+    "TimeLimit": 600,
+    "Active": 1,
+    "Position": [
+        1574.51, 451.661, 14167.1
+    ],
+    "MaxDistance": 50.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

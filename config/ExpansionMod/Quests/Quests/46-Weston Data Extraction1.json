@@ -2,11 +2,11 @@
     "ConfigVersion": 22,
     "ID": 46,
     "Type": 1,
-    "Title": "Rico: Captian Weston",
+    "Title": "Weston: Data Extract",
     "Descriptions": [
-        "Wow, just wow. We got some pretty good intel from that nest of rats. Unfortunately, I don't have the equipment to open this data. There is a guy I work with, Captain Weston. He watches over the North Tisy Research Base, where the General's scientists work to develop new weapons in the fight to bring back civilization. Take this data to him. It's a far travel; be careful, soldier."
+        "At ease, soldier. I’ve got another mission for you, seeing as you're up for the challenge. Your task is to infiltrate the Serpents' radio communications setup over in Tisy. I don’t have the exact location, so you’ll need to scout around. Time is of the essence—you’ve got only an hour before we lose communication. Move out and get it done!"
     ],
-    "ObjectiveText": "Take the data to Capt Weston.",
+    "ObjectiveText": "Find Infomation on the Serpents",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -14,13 +14,8 @@
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 1,
-    "ObjectSetFileName": "",
-    "QuestItems": [
-        {
-            "ClassName": "ExpansionQuestItemPackage",
-            "Amount": 1
-        }
-    ],
+    "ObjectSetFileName": "serpent-radio",
+    "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "expansionbanknoteUSD",
@@ -75,33 +70,53 @@
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 0,
+    "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        1
+        15
     ],
-    "QuestTurnInIDs": [],
+    "QuestTurnInIDs": [
+        15
+    ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 6,
-            "ObjectiveType": 5
+            "ID": 23,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 24,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 15,
+            "ObjectiveType": 8
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 25,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 9,
+            "ObjectiveType": 7
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 500,
     "ReputationRequirement": 0,
-    "PreQuestIDs": [
-        28
-    ],
+    "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
-    "DeleteQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }

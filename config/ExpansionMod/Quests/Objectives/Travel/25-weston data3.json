@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 25,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Escape from Tisy.",
+    "TimeLimit": 120.0,
+    "Active": 1,
+    "Position": [
+        1640.85, 447.279, 14585.5
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Run!",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
