@@ -173,10 +173,16 @@
             ]
         },
         {
-            "CategoryName": "Dayz Dog",
+            "CategoryName": "Dayz Dog & Horse",
             "Descriptions": [
                 {
-                    "DescriptionText": "Win over these loyal companions with a juicy steak; they're discerning and won't settle for wolf meat."
+                    "DescriptionText": "(Dog)Win over these loyal companions with a juicy steak; they're discerning and won't settle for wolf meat."
+                },
+                {
+                    "DescriptionText": "(Horse)Walk up and simple attach a bridle & saddle, off you go."
+                },
+                {
+                    "DescriptionText": "Make sure to store them in a dog house or stable if you keep clothing on them or it disappears on restart."
                 },
                 {
                     "DescriptionText": "They'll ride shotgun with you, faithful to the end."
