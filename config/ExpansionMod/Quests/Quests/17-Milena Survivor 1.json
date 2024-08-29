@@ -288,10 +288,10 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        5
+        2
     ],
     "QuestTurnInIDs": [
-        5
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
