@@ -18,27 +18,761 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 30000,
+            "ClassName": "MMG_Mag_Pouch_Black",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         },
         {
-            "ClassName": "DC_FastTravelTicket",
-            "Amount": 3,
+            "ClassName": "MMG_triple_magpouch_black",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_multiple_magpouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_holster_pouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_alpine",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_atacs",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_multiple_magpouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_holster_pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Mag_Pouch_olive",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_triple_magpouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_multiple_magpouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_double_magpouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_Med_Pouch_Olive",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_ammo_pouch_olive",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_pouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_holster_pouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [

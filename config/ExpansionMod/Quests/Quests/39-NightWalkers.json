@@ -18,18 +18,129 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 50000,
+            "ClassName": "SYGUJugYang",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugPants_Yang",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugBoots_Yang",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "JugHelm_Yang",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugVest",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJug_Shirt",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJug_ShirtSnow",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugPants",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugPants_Snow",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugBoots_Snow",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugBoots",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "JugHelm",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "SYGUJugVestSnow",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "JugHelm_Snow",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "JugVisor",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [

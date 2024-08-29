@@ -18,18 +18,73 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 25000,
+            "ClassName": "CP_CannabisBrickSkunk",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CP_CannabisBrickBlue",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CP_CannabisBrickKush",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CP_CannabisBrickStardawg",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CP_CannabisBrickFuture",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CP_CannabisBrickS1",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CP_CannabisBrickNomad",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "CP_CannabisBrickBlackFrost",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
