@@ -18,7 +18,7 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "mmg_tactical_gloves_alpine",
+            "ClassName": "MMG_combatshirt_admin",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -26,7 +26,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_atacs",
+            "ClassName": "MMG_operatorshirt_alpine",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -34,7 +34,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_black",
+            "ClassName": "MMG_tactical_shirt_alpine",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -42,7 +42,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_dark_woodland",
+            "ClassName": "MMG_combatshirt_alpine",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -50,7 +50,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_erdl",
+            "ClassName": "MMG_operatorshirt_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -58,7 +58,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_multicam",
+            "ClassName": "MMG_tactical_shirt_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -66,7 +66,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_multicam_tropic",
+            "ClassName": "MMG_combatshirt_atacs",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -74,7 +74,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_multicamblack",
+            "ClassName": "MMG_operatorshirt_black",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -82,7 +82,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_tan",
+            "ClassName": "MMG_tactical_shirt_black",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -90,7 +90,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_ucp",
+            "ClassName": "MMG_combatshirt_black",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -98,7 +98,7 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_green",
+            "ClassName": "MMG_operatorshirt_dark_woodland",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -106,7 +106,215 @@
             "Chance": 1.0
         },
         {
-            "ClassName": "mmg_tactical_gloves_black",
+            "ClassName": "MMG_tactical_shirt_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_dark_woodland",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_erdl",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_multicam",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_multicam_tropic",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_multicamblack",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_police",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_ucp",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_green",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_operatorshirt_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MMG_combatshirt_black",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
