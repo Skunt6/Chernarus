@@ -1968,10 +1968,10 @@
     </type>
 <!--Fast Travel-->
   <type name="DC_FastTravelTicket">
-        <nominal>45</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

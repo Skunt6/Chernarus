@@ -37,7 +37,7 @@
         },
         {
             "ClassName": "DC_FastTravelTicket",
-            "Amount": 3,
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,

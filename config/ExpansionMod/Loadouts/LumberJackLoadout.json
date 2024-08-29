@@ -1672,7 +1672,7 @@
         },
         {
             "ClassName": "DC_FastTravelTicket",
-            "Chance": 0.01,
+            "Chance": 0.005,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 3.0
