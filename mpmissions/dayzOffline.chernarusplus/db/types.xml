@@ -28263,7 +28263,7 @@
     </type>
     <type name="BarrelHoles_Blue">
         <nominal>0</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -28274,7 +28274,7 @@
     </type>
     <type name="BarrelHoles_Green">
         <nominal>0</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -28285,7 +28285,7 @@
     </type>
     <type name="BarrelHoles_Red">
         <nominal>0</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -28296,7 +28296,7 @@
     </type>
     <type name="BarrelHoles_Yellow">
         <nominal>0</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -28307,7 +28307,7 @@
     </type>
     <type name="Barrel_Blue">
         <nominal>10</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -28321,7 +28321,7 @@
     </type>
     <type name="Barrel_Green">
         <nominal>10</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -28335,7 +28335,7 @@
     </type>
     <type name="Barrel_Red">
         <nominal>10</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -28349,7 +28349,7 @@
     </type>
     <type name="Barrel_Yellow">
         <nominal>10</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -29827,7 +29827,7 @@
     </type>
     <type name="CarTent">
         <nominal>8</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>43200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -32322,7 +32322,7 @@
     </type>
     <type name="Fence">
         <nominal>0</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -41848,7 +41848,7 @@
     </type>
     <type name="SeaChest">
         <nominal>40</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -45087,7 +45087,7 @@
     </type>
     <type name="Watchtower">
         <nominal>0</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -45530,7 +45530,7 @@
     </type>
     <type name="WoodenCrate">
         <nominal>0</nominal>
-
+        <lifetime>600000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
