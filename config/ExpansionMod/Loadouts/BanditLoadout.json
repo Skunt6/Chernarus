@@ -3187,8 +3187,8 @@
                     "ClassName": "Ammo_762x39",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -3200,8 +3200,8 @@
                     "ClassName": "Ammo_762x39",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 100.0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
