@@ -89,3 +89,4 @@ config/ExpansionMod/Quests/GroupData/
 config/ExpansionMod/ATM/
 @Natures Weavers/meta.cpp/
 @Natures Weavers/
+@QuickMoveItemsByCategory/

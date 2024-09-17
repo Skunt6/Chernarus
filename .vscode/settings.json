@@ -67,6 +67,7 @@
       "@SNAFU Weapons/": true,
       "@Natures Weavers/":true,
       "@Unlimited Stamina/": true,
+      "@QuickMoveItemsByCategory/": true,
       "addons/": true,
       "battleye/": true,
       "appcache/": true,
