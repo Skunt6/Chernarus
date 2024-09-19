@@ -1,5 +1,5 @@
 {
-    "m_Version": 13,
+    "m_Version": 15,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
@@ -10,7 +10,7 @@
     "ATMPartyLockerEnabled": 1,
     "MaxPartyDepositMoney": 12000000,
     "UseWholeMapForATMPlayerList": 1,
-    "SellPricePercent": 0.50,
+    "SellPricePercent": 0.5,
     "NetworkBatchSize": 100,
     "MaxVehicleDistanceToTrader": 120.0,
     "MaxLargeVehicleDistanceToTrader": 744.0,
@@ -44,10 +44,14 @@
         },
         {
             "Position": [
-                14193.9, 195.339, 15278.7
+                14193.900390625,
+                195.33900451660157,
+                15278.7001953125
             ],
             "Orientation": [
-                106.384, 0, -0
+                106.38400268554688,
+                0.0,
+                0.0
             ]
         }
     ],
@@ -78,10 +82,14 @@
         },
         {
             "Position": [
-                14193.9, 195.339, 15278.7
+                14193.900390625,
+                195.33900451660157,
+                15278.7001953125
             ],
             "Orientation": [
-                106.384, 0, -0
+                106.38400268554688,
+                0.0,
+                0.0
             ]
         }
     ],
@@ -144,5 +152,8 @@
         "ExpansionCarKey"
     ],
     "MaxSZVehicleParkingTime": 1800.0,
-    "SZVehicleParkingTicketFine": 0
+    "SZVehicleParkingTicketFine": 0,
+    "SZVehicleParkingFineUseKey": 1,
+    "TrainSpawnPositions": [],
+    "DisallowUnpersisted": 0
 }
