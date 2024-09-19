@@ -1950,10 +1950,25 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     767.107, 438.47, 13110.2
+                ],
+                [
+                    2721.55, 274.334, 10051
+                ],
+                [
+                    3416.28, 220.285, 12484.4
+                ],
+                [
+                    3367.66, 219.626, 13690.1
+                ],
+                [
+                    849.597, 455.648, 14732.4
+                ],
+                [
+                    460.682, 248.231, 9024.55
                 ]
             ]
         },
@@ -1988,10 +2003,25 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4757.33, 261.123, 11804.9
+                    767.107, 438.47, 13110.2
+                ],
+                [
+                    2721.55, 274.334, 10051
+                ],
+                [
+                    3416.28, 220.285, 12484.4
+                ],
+                [
+                    3367.66, 219.626, 13690.1
+                ],
+                [
+                    849.597, 455.648, 14732.4
+                ],
+                [
+                    460.682, 248.231, 9024.55
                 ]
             ]
         },
@@ -2026,10 +2056,37 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     4024.32, 306.298, 8371.5
+                ],
+                [
+                    5684.87, 261.354, 11239.9
+                ],
+                [
+                    6204.9, 336.532, 9320.16
+                ],
+                [
+                    5347.28, 310.624, 7290.73
+                ],
+                [
+                    1966.26, 178.345, 5297.27
+                ],
+                [
+                    8152.04, 140.841, 13007.9
+                ],
+                [
+                    5516.41, 376.49, 14638.3
+                ],
+                [
+                    3361.47, 286.728, 8445.45
+                ],
+                [
+                    8140.32, 260.77, 10912.9
+                ],
+                [
+                    1202.77, 136.287, 4036.43
                 ]
             ]
         },
@@ -2064,10 +2121,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     10818.1, 214.816, 4780.26
+                ],
+                [
+                    12160, 59.9053, 14133.4
+                ],
+                [
+                    10428.6, 241.191, 8559.36
+                ],
+                [
+                    7799.9, 200.591, 5625.17
+                ],
+                [
+                    2760.41, 26, 1206.13
                 ]
             ]
         },
@@ -2102,10 +2171,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     5703.62, 70.006, 2532.23
+                ],
+                [
+                    6122.08, 6.68019, 2150.88
+                ],
+                [
+                    10646.5, 74.864, 2813.15
+                ],
+                [
+                    12689.5, 111.289, 7050.49
+                ],
+                [
+                    13945.7, 27.4784, 12947.6
                 ]
             ]
         },
