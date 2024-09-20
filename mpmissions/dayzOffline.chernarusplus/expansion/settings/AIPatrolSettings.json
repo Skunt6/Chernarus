@@ -1920,6 +1920,200 @@
     ],
     "Patrols": [
         {
+            "Name": "Unique Serpants Camp1",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 100.0,
+            "Loadout": "Tier4SniperLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 800.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": 1000.0,
+            "NoiseInvestigationDistanceLimit": 600.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "CanBeTriggeredByAI": 1,
+            "MinDistRadius": 800.0,
+            "MaxDistRadius": 1000.0,
+            "DespawnRadius": 1000.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    3050.58, 249.187, 13730.2
+                ]
+            ]
+        },
+        {
+            "Name": "Unique Serpants Camp2",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 100.0,
+            "Loadout": "Tier4SniperLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 800.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": 1000.0,
+            "NoiseInvestigationDistanceLimit": 600.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "CanBeTriggeredByAI": 1,
+            "MinDistRadius": 800.0,
+            "MaxDistRadius": 1000.0,
+            "DespawnRadius": 1000.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    3025.23, 256.073, 13706
+                ]
+            ]
+        },
+        {
+            "Name": "Unique Serpants Camp3",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 25.0,
+            "Loadout": "Tier4Loadout",
+            "Units": [],
+            "NumberOfAI": -5,
+            "Behaviour": "LOOP",
+            "Speed": "RANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 800.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": 800.0,
+            "NoiseInvestigationDistanceLimit": 600.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "CanBeTriggeredByAI": 1,
+            "MinDistRadius": 300.0,
+            "MaxDistRadius": 600.0,
+            "DespawnRadius": 680.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3047, 231.835, 13660.3
+                ],
+                [
+                    3063.58, 232.164, 13672.8
+                ],
+                [
+                    3068.78, 233.497, 13696.5
+                ],
+                [
+                    3049.42, 233.473, 13686.1
+                ],
+                [
+                    3024.46, 234.002, 13683
+                ],
+                [
+                    3021.72, 236.722, 13718.2
+                ],
+                [
+                    3036.44, 236.666, 13727.8
+                ],
+                [
+                    3022.01, 238.69, 13753.7
+                ],
+                [
+                    3058.55, 237.248, 13751.4
+                ]
+            ]
+        },
+        {
+            "Name": "Unique Serpants Camp4",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 25.0,
+            "Loadout": "Tier4Loadout",
+            "Units": [],
+            "NumberOfAI": -5,
+            "Behaviour": "LOOP",
+            "Speed": "RANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 800.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": 800.0,
+            "NoiseInvestigationDistanceLimit": 600.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "CanBeTriggeredByAI": 1,
+            "MinDistRadius": 300.0,
+            "MaxDistRadius": 600.0,
+            "DespawnRadius": 680.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3083.73, 236.824, 13762.2
+                ],
+                [
+                    3050.32, 238.684, 13771
+                ],
+                [
+                    3010.61, 240.932, 13782.2
+                ],
+                [
+                    3124.13, 235.008, 13771.3
+                ],
+                [
+                    3097.41, 232.149, 13693.4
+                ],
+                [
+                    3036.15, 230.682, 13640.1
+                ],
+                [
+                    2986.13, 237.672, 13719
+                ]
+            ]
+        },
+        {
             "Name": "Skalisty Serpants",
             "Persist": 1,
             "Faction": "Mercenaries",
