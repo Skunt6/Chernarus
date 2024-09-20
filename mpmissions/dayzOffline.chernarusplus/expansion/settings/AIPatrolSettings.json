@@ -1920,6 +1920,59 @@
     ],
     "Patrols": [
         {
+            "Name": "Skalisty Serpants",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 100.0,
+            "Loadout": "Tier4Loadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "LOOP",
+            "Speed": "RANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 800.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": 800.0,
+            "NoiseInvestigationDistanceLimit": 600.0,
+            "DamageMultiplier": 0.75,
+            "DamageReceivedMultiplier": 1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13633.2, 44.0246, 2902.27
+                ],
+                [
+                    13680.3, 45.672, 2940.75
+                ],
+                [
+                    13680.3, 45.672, 2940.75
+                ],
+                [
+                    13632.2, 45.0639, 2945.59
+                ],
+                [
+                    13670, 44.2062, 3010.09
+                ],
+                [
+                    13594.7, 42.7402, 2929.26
+                ]
+            ]
+        },
+        {
             "Name": "AI Survivor",
             "Persist": 1,
             "Faction": "Raiders",
