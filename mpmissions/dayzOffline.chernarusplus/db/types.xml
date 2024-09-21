@@ -25803,8 +25803,17 @@
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         </type>
         <type name="ExpansionStove">
+            <nominal>10</nominal>
             <lifetime>600000</lifetime>
+            <restock>0</restock>
+            <min>5</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+            <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
         </type>
         <type name="ExpansionWoodPillar">
             <lifetime>600000</lifetime>
