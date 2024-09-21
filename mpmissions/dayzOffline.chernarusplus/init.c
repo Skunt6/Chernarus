@@ -1,10 +1,10 @@
 void main()
 {
     // Fast travel boards
-    DC_FastTravel.SpawnBoard(1, "3711.67 403.273 5992.69", "63 0 0"); // Green Mountain with m_ID = 1 in the config
-    DC_FastTravel.SpawnBoard(2, "10722.2 350.986 5678.11", "-162.716 0 0"); // Echo with m_ID = 2 in the config
-    DC_FastTravel.SpawnBoard(3, "14201.3 196.715 15285.3", "-74.1487 0 0"); // Trailside with m_ID = 3 in the config
-    DC_FastTravel.SpawnBoard(4, "1896.99 442.394 15000.9", "-135.043 0 0"); // North Tisy with m_ID = 4 in the config
+    DC_FastTravel.SpawnBoard(1, "3711.67 403.273 5992.69", "63 0 0"); // Green Mountain
+    DC_FastTravel.SpawnBoard(2, "10722.2 350.986 5678.11", "-162.716 0 0"); // Echo
+    DC_FastTravel.SpawnBoard(3, "14201.3 196.715 15285.3", "-74.1487 0 0"); // Trailside
+    DC_FastTravel.SpawnBoard(4, "1896.99 442.394 15000.9", "-135.043 0 0"); // North Tisy
 
     // INIT ECONOMY --------------------------------------
     CreateHive();
@@ -13,7 +13,7 @@ void main()
     int year, month, day, hour, minute;
     GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
-    // Change here the dates for whatever months you desire
+    // Change the date to December 25, 2011
     if (month < 12)
     {
         year = 2011;
@@ -29,11 +29,9 @@ class CustomMission : MissionServer
     {
         super.OnInit();
 
-        // This piece of code is recommended otherwise event system is switched on automatically and runs from default values
-        // Comment this whole block if NOT using Namalsk Survival
+        // Event system initialization (if Namalsk Survival or similar events are being used)
         if (m_EventManagerServer)
         {
-            // Enable/disable event system, min time between events, max time between events, max number of events at the same time
             m_EventManagerServer.OnInitServer(true, 550, 1000, 2);
 
             // Registering events and their probability
@@ -46,31 +44,7 @@ class CustomMission : MissionServer
         }
     }
 
-    // Function to disable PvP damage
-    override void OnPlayerHit(PlayerBase victim, Object source, float damage, int type, string zone, string ammo)
-    {
-        PlayerBase attacker;
-
-        // Check if the source of the hit is a player (PvP)
-        if (Class.CastTo(attacker, source))
-        {
-            // If the attacker is a player, prevent PvP damage
-            if (attacker != victim)
-            {
-                // Block the damage
-                Print("PvP damage blocked between " + victim.GetIdentity().GetName() + " and " + attacker.GetIdentity().GetName());
-
-                // Prevent damage to the victim
-                victim.SetHealth(victim.GetHealth()); // Reset health to block damage
-                return; // Stop further damage processing
-            }
-        }
-
-        // Allow normal AI damage and environmental damage
-        super.OnPlayerHit(victim, source, damage, type, zone, ammo);
-    }
-
-    // Set random health for items (no change here)
+    // Set random health for items (no change)
     void SetRandomHealth(EntityAI itemEnt)
     {
         if (itemEnt)
@@ -122,7 +96,32 @@ class CustomMission : MissionServer
     }
 }
 
-// Create the custom mission
+class CustomPlayerBase : PlayerBase
+{
+    override void EEHitBy(Object source, int component, string zone, string ammo, vector modelPos, float speedCoef)
+    {
+        PlayerBase attacker;
+
+        // Check if the source of the hit is another player (PvP)
+        if (Class.CastTo(attacker, source))
+        {
+            if (attacker != this) // Ensure it's not self-inflicted
+            {
+                // Block PvP damage
+                Print("PvP damage blocked between " + GetIdentity().GetName() + " and " + attacker.GetIdentity().GetName());
+
+                // Set health back to current value to nullify damage
+                SetHealth(GetHealth());
+                return;
+            }
+        }
+
+        // Allow normal damage from AI or environment
+        super.EEHitBy(source, component, zone, ammo, modelPos, speedCoef);
+    }
+}
+
+// Create custom mission and custom player
 Mission CreateCustomMission(string path)
 {
     return new CustomMission();
