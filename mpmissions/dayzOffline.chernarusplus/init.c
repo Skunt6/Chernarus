@@ -22,6 +22,19 @@ void main()
 
 }
 
+// Hook into player hit event to block player-to-player damage
+override void OnPlayerHitByPlayer(PlayerBase victim, PlayerBase attacker)
+{
+    if (victim != attacker)
+    {
+        // Prevent damage if it's PvP
+        victim.SetHealth(victim.GetHealth()); // No health change
+        attacker.SetHealth(attacker.GetHealth()); // No health change
+        Print("PvP damage blocked between players.");
+    }
+}
+
+
 
 class CustomMission: MissionServer
 {
