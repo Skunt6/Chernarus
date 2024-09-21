@@ -22,6 +22,7 @@ void main()
 
 }
 
+
 class CustomMission: MissionServer
 {
 	override void OnInit()
@@ -92,10 +93,7 @@ class CustomMission: MissionServer
 		
 		itemClothing = player.FindAttachmentBySlotName( "Feet" );
 	}
-
-	
 };
-
 
 Mission CreateCustomMission(string path)
 {
