@@ -92,7 +92,34 @@ class CustomMission: MissionServer
 		
 		itemClothing = player.FindAttachmentBySlotName( "Feet" );
 	}
+
+	// This function overrides player damage
+    override void OnEntityDamage(EntityAI victim, float damage, EntityAI source, int type, string zone, string ammo)
+    {
+        PlayerBase playerVictim;
+        PlayerBase playerAttacker;
+        
+        // Cast to PlayerBase (DayZ's player class) to check if victim and attacker are players
+        if (Class.CastTo(playerVictim, victim) && Class.CastTo(playerAttacker, source))
+        {
+            // If the attacker is a player, prevent damage
+            if (playerVictim != playerAttacker)
+            {
+                // Log blocked damage event
+                Print("PvP damage blocked between " + playerVictim.GetIdentity().GetName() + " and " + playerAttacker.GetIdentity().GetName());
+
+                // Reset the victim's health to block damage
+                playerVictim.SetHealth(playerVictim.GetHealth()); // No health change
+                return; // Block the damage and exit
+            }
+        }
+
+        // Allow normal AI damage and environmental damage
+        super.OnEntityDamage(victim, damage, source, type, zone, ammo);
+    }
 };
+
+
 
 Mission CreateCustomMission(string path)
 {
