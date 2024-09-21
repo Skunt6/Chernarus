@@ -8552,6 +8552,48 @@
             <value name="Tier4"/>
         </type>
 <!--MMG Military Gear-->
+  <type name="mmg_dump_pouch_tan">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Underground"/>
+    <value name="Unique"/>
+    <usage name="Military" />
+  </type>
+  <type name="mmg_dump_pouch_green">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Underground"/>
+    <value name="Unique"/>
+    <usage name="Military" />
+  </type>
+  <type name="mmg_dump_pouch_black">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Underground"/>
+    <value name="Unique"/>
+    <usage name="Military" />
+  </type>
   <type name="MMG_tactical_visor_tan">
     <nominal>1</nominal>
     <lifetime>7200</lifetime>
@@ -8581,7 +8623,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_visor_black">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8595,7 +8637,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tt_vest_admin">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8609,7 +8651,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_striker_helmet_admin">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8623,7 +8665,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatpants_admin">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8637,7 +8679,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatshirt_admin">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8651,7 +8693,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_balaclava_admin">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8665,7 +8707,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_JPC_Vest_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8679,7 +8721,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tt_Vest_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8693,7 +8735,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_chestrig_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8707,7 +8749,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_III_Armor_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8721,7 +8763,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_V_Armor_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8735,7 +8777,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Mag_Pouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8749,7 +8791,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_triple_magpouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8763,7 +8805,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_double_magpouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8777,7 +8819,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Med_Pouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8791,7 +8833,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_ammo_pouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8805,7 +8847,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_pouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8819,7 +8861,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_utility_pouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8833,7 +8875,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_grenade_pouch_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8847,7 +8889,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_carrier_backpack_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8861,7 +8903,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_supplybag_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8875,7 +8917,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_assault_pack_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8889,7 +8931,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_camelback_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8903,7 +8945,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mmps_bag_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8917,7 +8959,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_falcon_b1_belt_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8931,7 +8973,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_helmet_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8945,7 +8987,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_striker_helmet_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8959,7 +9001,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_sheath_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8973,7 +9015,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_bottle_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -8987,7 +9029,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Holster_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9001,7 +9043,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_operatorshirt_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9015,7 +9057,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_shirt_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9029,7 +9071,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatshirt_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9043,7 +9085,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatpants_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9057,7 +9099,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_pants_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9071,7 +9113,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_gloves_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9085,7 +9127,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_boots_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9099,7 +9141,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_facemask_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9113,7 +9155,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_balaclava_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9127,7 +9169,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_boonie_alpine">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9141,7 +9183,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_JPC_Vest_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9155,7 +9197,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tt_Vest_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9169,7 +9211,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_chestrig_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9183,7 +9225,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_III_Armor_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9197,7 +9239,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_V_Armor_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9211,7 +9253,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Mag_Pouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9225,7 +9267,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_triple_magpouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9239,7 +9281,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_double_magpouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9253,7 +9295,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Med_Pouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9267,7 +9309,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_ammo_pouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9281,7 +9323,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_pouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9295,7 +9337,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_utility_pouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9309,7 +9351,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_grenade_pouch_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9323,7 +9365,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_carrier_backpack_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9337,7 +9379,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_supplybag_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9351,7 +9393,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_assault_pack_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9365,7 +9407,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_camelback_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9379,7 +9421,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mmps_bag_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9393,7 +9435,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_falcon_b1_belt_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9407,7 +9449,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_helmet_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9421,7 +9463,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_striker_helmet_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9435,7 +9477,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_sheath_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9449,7 +9491,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_bottle_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9463,7 +9505,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Holster_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9477,7 +9519,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_operatorshirt_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9491,7 +9533,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_shirt_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9505,7 +9547,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatshirt_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9519,7 +9561,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatpants_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9533,7 +9575,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_pants_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9547,7 +9589,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_gloves_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9561,7 +9603,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_boots_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9575,7 +9617,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_facemask_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9589,7 +9631,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_balaclava_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -9603,7 +9645,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_boonie_atacs">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10191,7 +10233,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_JPC_Vest_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10205,7 +10247,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tt_Vest_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10219,7 +10261,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_chestrig_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10233,7 +10275,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_III_Armor_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10247,7 +10289,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_V_Armor_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10261,7 +10303,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Mag_Pouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10275,7 +10317,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_triple_magpouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10289,7 +10331,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_double_magpouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10303,7 +10345,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Med_Pouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10317,7 +10359,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_ammo_pouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10331,7 +10373,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_pouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10345,7 +10387,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_utility_pouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10359,7 +10401,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_grenade_pouch_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10373,7 +10415,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_carrier_backpack_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10387,7 +10429,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_supplybag_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10401,7 +10443,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_assault_pack_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10415,7 +10457,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_camelback_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10429,7 +10471,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mmps_bag_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10443,7 +10485,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_falcon_b1_belt_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10457,7 +10499,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_helmet_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10471,7 +10513,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_striker_helmet_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10485,7 +10527,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_sheath_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10499,7 +10541,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_bottle_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10513,7 +10555,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Holster_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10527,7 +10569,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_operatorshirt_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10541,7 +10583,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_shirt_dark_wl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10555,7 +10597,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatshirt_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10569,7 +10611,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatpants_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10583,7 +10625,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_pants_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10597,7 +10639,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_gloves_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10611,7 +10653,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_boots_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10625,7 +10667,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_facemask_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10639,7 +10681,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_balaclava_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10653,7 +10695,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_boonie_dark_woodland">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10667,7 +10709,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_JPC_Vest_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10681,7 +10723,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tt_Vest_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10695,7 +10737,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_chestrig_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10709,7 +10751,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_III_Armor_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10723,7 +10765,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_V_Armor_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10737,7 +10779,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Mag_Pouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10751,7 +10793,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_triple_magpouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10765,7 +10807,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_double_magpouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10779,7 +10821,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Med_Pouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10793,7 +10835,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_ammo_pouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10807,7 +10849,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_pouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10821,7 +10863,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_utility_pouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10835,7 +10877,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_grenade_pouch_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10849,7 +10891,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_carrier_backpack_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10863,7 +10905,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_supplybag_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10877,7 +10919,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_assault_pack_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10891,7 +10933,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_camelback_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10905,7 +10947,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mmps_bag_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10919,7 +10961,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_falcon_b1_belt_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10933,7 +10975,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_helmet_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10947,7 +10989,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_striker_helmet_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10961,7 +11003,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_sheath_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10975,7 +11017,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_bottle_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -10989,7 +11031,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Holster_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11003,7 +11045,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_operatorshirt_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11017,7 +11059,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_shirt_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11031,7 +11073,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatshirt_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11045,7 +11087,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatpants_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11059,7 +11101,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_pants_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11073,7 +11115,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_gloves_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11087,7 +11129,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_boots_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11101,7 +11143,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_facemask_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11115,7 +11157,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_balaclava_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11129,7 +11171,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_boonie_erdl">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11143,7 +11185,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_JPC_Vest_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11157,7 +11199,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tt_Vest_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11171,7 +11213,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_chestrig_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11185,7 +11227,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_III_Armor_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11199,7 +11241,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_MK_V_Armor_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11213,7 +11255,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Mag_Pouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11227,7 +11269,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_triple_magpouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11241,7 +11283,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_double_magpouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11255,7 +11297,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Med_Pouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11269,7 +11311,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_ammo_pouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11283,7 +11325,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_pouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11297,7 +11339,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_utility_pouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11311,7 +11353,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mk5_grenade_pouch_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11325,7 +11367,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_carrier_backpack_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11339,7 +11381,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_supplybag_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11353,7 +11395,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_assault_pack_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11367,7 +11409,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_camelback_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11381,7 +11423,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_mmps_bag_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11395,7 +11437,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_falcon_b1_belt_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11409,7 +11451,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_helmet_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11423,7 +11465,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_striker_helmet_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11437,7 +11479,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_sheath_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11451,7 +11493,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_bottle_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11465,7 +11507,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_Holster_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11479,7 +11521,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_operatorshirt_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11493,7 +11535,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_tactical_shirt_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11507,7 +11549,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatshirt_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11521,7 +11563,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_combatpants_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11535,7 +11577,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_pants_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11549,7 +11591,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_tactical_gloves_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11563,7 +11605,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_boots_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11577,7 +11619,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_facemask_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11591,7 +11633,7 @@
     <usage name="Military" />
   </type>
   <type name="MMG_balaclava_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -11605,7 +11647,7 @@
     <usage name="Military" />
   </type>
   <type name="mmg_boonie_multicam">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
