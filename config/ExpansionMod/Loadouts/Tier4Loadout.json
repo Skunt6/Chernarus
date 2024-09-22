@@ -8933,7 +8933,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_3006",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
@@ -8952,7 +8952,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_408Chey",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
@@ -8971,7 +8971,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_50Cal",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
@@ -8990,7 +8990,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_762x51",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
@@ -11382,7 +11382,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_3006",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11395,7 +11395,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_408Chey",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11408,7 +11408,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_50Cal",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11421,7 +11421,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_762x51",
-            "Chance": 0.036,
+            "Chance": 0.0072,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
