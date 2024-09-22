@@ -30728,10 +30728,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="CargoPants_Beige">
-        <nominal>40</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -30744,10 +30744,10 @@
         <value name="Tier4"/>
     </type>
     <type name="CargoPants_Black">
-        <nominal>40</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -30759,10 +30759,10 @@
         <value name="Tier4"/>
     </type>
     <type name="CargoPants_Blue">
-        <nominal>40</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -30789,10 +30789,10 @@
         <value name="Tier4"/>
     </type>
     <type name="CargoPants_Grey">
-        <nominal>40</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -44921,7 +44921,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Black">
-        <nominal>16</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -44935,7 +44935,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Grey">
-        <nominal>16</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -44947,10 +44947,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalShirt_Olive">
-        <nominal>20</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -44959,10 +44959,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalShirt_Tan">
-        <nominal>20</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
