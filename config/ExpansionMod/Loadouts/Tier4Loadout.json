@@ -9047,7 +9047,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_145Cal",
-            "Chance": 0.036,
+            "Chance": 0.0216,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
@@ -12682,7 +12682,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_145Cal",
-            "Chance": 0.036,
+            "Chance": 0.0216,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
