@@ -7,8 +7,8 @@
     "Items": [
 	    {
             "ClassName": "GCGN_Ammo_3006",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -27,8 +27,8 @@
         },
 		        {
             "ClassName": "GCGN_Ammo_762x51",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -126,8 +126,8 @@
         },
 		        {
             "ClassName": "GCGN_Ammo_50Cal",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1700,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -136,8 +136,8 @@
         },
         {
             "ClassName": "SNAFU_Ammo_338",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -146,8 +146,8 @@
         },
 		        {
             "ClassName": "GCGN_Ammo_408Chey",
-            "MaxPriceThreshold": 45,
-            "MinPriceThreshold": 45,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
