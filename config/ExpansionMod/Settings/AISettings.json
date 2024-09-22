@@ -16,7 +16,10 @@
     "MemeLevel": 1,
     "CanRecruitFriendly": 1,
     "CanRecruitGuards": 0,
-    "PreventClimb": [],
+    "PreventClimb": [
+        "BBP_Bwall",
+        "Fence"
+    ],
     "ExcludedRoamingLocations": [],
     "ExcludedRoamingBuildings": [],
     "PlayerFactions": [],
