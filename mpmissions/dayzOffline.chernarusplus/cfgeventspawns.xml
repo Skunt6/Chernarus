@@ -1320,6 +1320,10 @@
 		<pos x="11800.000000" z="14311.000000" />
 		<pos x="11876.000000" z="12530.000000" />
 		<pos x="12195.000000" z="13831.000000" />
+		
+		<!--Depot-->
+
+		<pos x="2331.07" z="11766.18" />
 	</event>
     <event name="Loot" />
     <event name="VehicleOffroadHatchback">
