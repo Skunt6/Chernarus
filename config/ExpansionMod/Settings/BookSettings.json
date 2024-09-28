@@ -200,6 +200,9 @@
                 },
                 {
                     "DescriptionText": "Don't overlook train events for keycard opportunities."
+                },
+                {
+                    "DescriptionText": "Vault doors stay open for 5 mins."
                 }
             ]
         },
