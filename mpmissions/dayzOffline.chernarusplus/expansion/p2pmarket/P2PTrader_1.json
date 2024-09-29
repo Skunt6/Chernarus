@@ -1,16 +1,22 @@
 {
-    "m_Version": 7,
+    "m_Version": 8,
     "m_TraderID": 1,
     "m_ClassName": "ExpansionP2PTraderAIIrena",
     "m_Position": [
-        3682.18, 406.762, 5984.16
+        3682.179931640625,
+        406.7619934082031,
+        5984.16015625
     ],
     "m_Orientation": [
-        -28.4611, -0, 0
+        -28.46109962463379,
+        0.0,
+        0.0
     ],
     "m_LoadoutFile": "P2PLoadout",
     "m_VehicleSpawnPosition": [
-        3747.18, 403.401, 6026.37
+        3747.179931640625,
+        403.4010009765625,
+        6026.3701171875
     ],
     "m_WatercraftSpawnPosition": [
         0.0,
@@ -18,7 +24,9 @@
         0.0
     ],
     "m_AircraftSpawnPosition": [
-        3747.01, 403.401, 6026.25
+        3747.010009765625,
+        403.4010009765625,
+        6026.25
     ],
     "m_DisplayName": "Player to Player Trader",
     "m_DisplayIcon": "Deliver",
@@ -26,6 +34,11 @@
     "m_Waypoints": [],
     "m_EmoteID": 46,
     "m_EmoteIsStatic": 0,
+    "m_RequiredFaction": "",
+    "m_UseReputation": 0,
+    "m_MinRequiredReputation": 0,
+    "m_MaxRequiredReputation": 2147483647,
+    "m_RequiredCompletedQuestID": -1,
     "m_IsGlobalTrader": 1,
     "m_Currencies": [
         "expansionbanknoteUSD"
