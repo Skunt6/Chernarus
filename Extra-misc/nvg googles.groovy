@@ -23,7 +23,13 @@
                                         "Min": 0.0,
                                         "Max": 0.0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                {
+                    "Min": 0.33,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
                                     "InventoryAttachments": [
                                         {
                                             "Slotname": "",
@@ -35,7 +41,13 @@
                                                         "Min": 0.0,
                                                         "Max": 0.0
                                                     },
-                                                    "Health": [],
+                                                    "Health": [
+                {
+                    "Min": 0.33,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
                                                     "InventoryAttachments": [],
                                                     "InventoryCargo": [],
                                                     "ConstructionPartsBuilt": [],
