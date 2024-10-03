@@ -5,13 +5,7 @@
         "Min": 0.0,
         "Max": 0.0
     },
-    "Health": [
-                {
-                    "Min": 0.33,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+    "Health": [],
     "InventoryAttachments": [
         {
             "SlotName": "Headgear",
