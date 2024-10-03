@@ -2732,8 +2732,8 @@
                                             "ClassName": "MakarovIJ70",
                                             "Chance": 1.0,
                                             "Quantity": {
-                                                "Min": 1.0,
-                                                "Max": 2.0
+                                                "Min": 0.0,
+                                                "Max": 0.0
                                             },
                                             "Health": [
                         {
@@ -2809,8 +2809,8 @@
                                             "ClassName": "MakarovIJ70",
                                             "Chance": 1.0,
                                             "Quantity": {
-                                                "Min": 1.0,
-                                                "Max": 2.0
+                                                "Min": 0.0,
+                                                "Max": 0.0
                                             },
                                             "Health": [
                         {
@@ -2832,8 +2832,8 @@
                                     "ClassName": "PlateCarrierHolster_Green",
                                     "Chance": 1.0,
                                     "Quantity": {
-                                        "Min": 1.0,
-                                        "Max": 2.0
+                                        "Min": 0.0,
+                                        "Max": 0.0
                                     },
                                     "Health": [
                         {
@@ -2886,8 +2886,8 @@
                                             "ClassName": "MakarovIJ70",
                                             "Chance": 1.0,
                                             "Quantity": {
-                                                "Min": 1.0,
-                                                "Max": 2.0
+                                                "Min": 0.0,
+                                                "Max": 0.0
                                             },
                                             "Health": [
                         {
