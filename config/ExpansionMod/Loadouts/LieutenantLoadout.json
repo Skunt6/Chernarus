@@ -20,7 +20,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -44,7 +44,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -68,7 +68,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -96,7 +96,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -204,7 +204,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -273,7 +273,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -297,7 +297,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -553,7 +553,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -572,7 +572,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -591,7 +591,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -610,7 +610,7 @@
                     "Health": [
                         {
                             "Min": 0.33,
-                            "Max": 1.0,
+                            "Max": 0.88,
                             "Zone": ""
                         }
                     ],
@@ -649,12 +649,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -668,12 +668,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -687,12 +687,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -706,12 +706,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -725,12 +725,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -744,12 +744,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -763,12 +763,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -782,12 +782,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -801,12 +801,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -820,12 +820,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -839,12 +839,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -858,12 +858,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -877,12 +877,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -896,12 +896,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -915,12 +915,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -934,12 +934,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -953,12 +953,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -972,12 +972,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -991,12 +991,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1010,12 +1010,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1029,12 +1029,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1048,12 +1048,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1067,12 +1067,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1086,12 +1086,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1105,12 +1105,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1124,12 +1124,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1143,12 +1143,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1162,12 +1162,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1181,12 +1181,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1200,12 +1200,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1219,12 +1219,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1238,12 +1238,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1257,12 +1257,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1276,12 +1276,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1295,12 +1295,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1314,12 +1314,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1333,12 +1333,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1352,12 +1352,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1371,12 +1371,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1390,12 +1390,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1409,12 +1409,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1428,12 +1428,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1447,12 +1447,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1466,12 +1466,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1485,12 +1485,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1504,12 +1504,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1523,12 +1523,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1542,12 +1542,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1561,12 +1561,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1580,12 +1580,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1599,12 +1599,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1618,12 +1618,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1637,12 +1637,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1656,12 +1656,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1675,12 +1675,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1694,12 +1694,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1713,12 +1713,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1732,12 +1732,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1751,12 +1751,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1770,12 +1770,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1789,12 +1789,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1808,12 +1808,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1827,12 +1827,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1846,12 +1846,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1865,12 +1865,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1884,12 +1884,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1903,12 +1903,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1922,12 +1922,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1941,12 +1941,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1960,12 +1960,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1979,12 +1979,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -1998,12 +1998,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2017,12 +2017,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2036,12 +2036,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2055,12 +2055,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2074,12 +2074,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2131,12 +2131,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2150,12 +2150,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2169,12 +2169,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2188,12 +2188,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2207,12 +2207,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2226,12 +2226,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2245,12 +2245,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2264,12 +2264,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2283,12 +2283,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2302,12 +2302,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2321,12 +2321,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2340,12 +2340,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2359,12 +2359,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2378,12 +2378,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2397,12 +2397,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2416,12 +2416,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2435,12 +2435,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2454,12 +2454,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2473,12 +2473,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2492,12 +2492,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2511,12 +2511,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2530,12 +2530,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2549,12 +2549,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2568,12 +2568,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2587,12 +2587,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -2606,12 +2606,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8059,12 +8059,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8078,12 +8078,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8097,12 +8097,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8116,12 +8116,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8135,12 +8135,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8154,12 +8154,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8173,12 +8173,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8192,12 +8192,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8211,12 +8211,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8230,12 +8230,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8249,12 +8249,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8268,12 +8268,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8287,12 +8287,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8306,12 +8306,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8325,12 +8325,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8344,12 +8344,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8363,12 +8363,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8382,12 +8382,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8401,12 +8401,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8420,12 +8420,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -8439,12 +8439,12 @@
                 "Max": 0.0
             },
             "Health": [
-                {
-                    "Min": 0.699999988079071,
-                    "Max": 1.0,
-                    "Zone": ""
-                }
-            ],
+                        {
+                            "Min": 0.33,
+                            "Max": 0.88,
+                            "Zone": ""
+                        }
+                    ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
