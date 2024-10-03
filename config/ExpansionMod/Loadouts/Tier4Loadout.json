@@ -8,6 +8,70 @@
     "Health": [],
     "InventoryAttachments": [
         {
+            "SlotName": "Eyes",
+            "Items": [
+                {
+                    "ClassName": "NVGHeadstrap",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "ClassName": "NVGoggles",
+                            "Chance": 0.1,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.699999988079071,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [
+                                {
+                                    "ClassName": "Battery9V",
+                                    "Chance": 1.0,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [
+                                        {
+                                            "Min": 0.699999988079071,
+                                            "Max": 1.0,
+                                            "Zone": ""
+                                        }
+                                    ],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
             "SlotName": "Body",
             "Items": [
                 {
@@ -828,7 +892,7 @@
             "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "mmg_armored_helmet_green",
+                    "ClassName": "GorkaHelmet_Black",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -846,7 +910,7 @@
                             "SlotName": "",
                             "Items": [
                                 {
-                                    "ClassName": "mmg_armored_helmet_visor_green",
+                                    "ClassName": "GorkaHelmetVisor",
                                     "Chance": 0.1,
                                     "Quantity": {
                                         "Min": 0.0,
