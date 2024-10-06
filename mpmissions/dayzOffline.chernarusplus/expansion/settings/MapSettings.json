@@ -47,7 +47,7 @@
             "m_UID": "Tisy Vault",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Vault",
+            "m_Text": "Snafu Vault",
             "m_IconName": "Gun",
             "m_Color": -2968436,
             "m_Position": [
@@ -60,7 +60,7 @@
             "m_UID": "Airfield Vault",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Vault",
+            "m_Text": "Drugs Vault",
             "m_IconName": "Medic Box",
             "m_Color": -3394697,
             "m_Position": [
@@ -73,7 +73,7 @@
             "m_UID": "depot",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Vault",
+            "m_Text": "MMG Vault",
             "m_IconName": "Persona",
             "m_Color": -16747776,
             "m_Position": [
@@ -86,7 +86,7 @@
             "m_UID": "rify",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Vault",
+            "m_Text": "Jug Armor Vault",
             "m_IconName": "Bandit",
             "m_Color": -16776961,
             "m_Position": [
@@ -99,7 +99,7 @@
             "m_UID": "pavlovo",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Vault",
+            "m_Text": "Gem Vault",
             "m_IconName": "Bandit",
             "m_Color": -65536,
             "m_Position": [
@@ -125,7 +125,7 @@
             "m_UID": "North Tisy",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Trader",
+            "m_Text": "Weston",
             "m_IconName": "Trader",
             "m_Color": -2944,
             "m_Position": [
@@ -138,7 +138,7 @@
             "m_UID": "Generals Trader",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Trader",
+            "m_Text": "The General",
             "m_IconName": "Trader",
             "m_Color": -2944,
             "m_Position": [
@@ -151,7 +151,7 @@
             "m_UID": "Echo Trader",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Trader",
+            "m_Text": "Echo Tower",
             "m_IconName": "Trader",
             "m_Color": -2944,
             "m_Position": [
@@ -164,7 +164,7 @@
             "m_UID": "Trailside Trader",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Trader",
+            "m_Text": "Trialside",
             "m_IconName": "Trader",
             "m_Color": -2944,
             "m_Position": [
@@ -177,7 +177,7 @@
             "m_UID": "Green mountian Trader",
             "m_Visibility": 4,
             "m_Is3D": 0,
-            "m_Text": "Trader",
+            "m_Text": "Green Mountian",
             "m_IconName": "Trader",
             "m_Color": -2944,
             "m_Position": [
