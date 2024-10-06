@@ -72,6 +72,7 @@
       "battleye/": true,
       "appcache/": true,
       "battleeye/": true,
+      "config/_QuickMoveItemsByCategory/": true,
       "bliss/": true,
       "docs/": true,
       "dta/": true,
