@@ -71,6 +71,7 @@ keys/
 logs/
 steamapps/
 config/DataCache/
+config/_QuickMoveItemsByCategory/
 config/BattlEye/
 config/EventManagerLog/
 config/Users/
