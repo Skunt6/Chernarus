@@ -38,9 +38,9 @@ class CustomMission: MissionServer
 			// registering events and their probability
 			m_EventManagerServer.RegisterEvent( Aurora, 0.85 );
 			m_EventManagerServer.RegisterEvent( Blizzard, 0.4 );
-			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.4 );
-			m_EventManagerServer.RegisterEvent( Snowfall, 0.6 );
-			m_EventManagerServer.RegisterEvent( EVRStorm, 0.35 );
+			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.5 );
+			m_EventManagerServer.RegisterEvent( Snowfall, 0.7 );
+			m_EventManagerServer.RegisterEvent( EVRStorm, 0.15 );
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
 	}
