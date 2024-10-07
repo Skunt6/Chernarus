@@ -675,11 +675,11 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_Mummy"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_DH_AlmostTransparent_Red"/>
-            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_DH_Invisible_RedEye"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_DH_NightWalker"/>
-            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_DH_Invisible_Ghillie"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_Mummy"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_DH_AlmostTransparent_Red"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_DH_Invisible_RedEye"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_DH_NightWalker"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_DH_Invisible_Ghillie"/>
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbF_DH_WhiteLady"/>
         </children>
     </event>
