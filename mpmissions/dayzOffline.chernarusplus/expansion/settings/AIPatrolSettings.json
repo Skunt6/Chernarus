@@ -1922,7 +1922,7 @@
         {
             "Name": "Unique Serpants Camp1",
             "Persist": 1,
-            "Faction": "Mercenaries",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationLooseness": 100.0,
             "Loadout": "Tier4SniperLoadout",
@@ -1960,7 +1960,7 @@
         {
             "Name": "Unique Serpants Camp2",
             "Persist": 1,
-            "Faction": "Mercenaries",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationLooseness": 100.0,
             "Loadout": "Tier4SniperLoadout",
@@ -1998,7 +1998,7 @@
         {
             "Name": "Unique Serpants Camp3",
             "Persist": 1,
-            "Faction": "Mercenaries",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationLooseness": 25.0,
             "Loadout": "Tier4Loadout",
@@ -2060,7 +2060,7 @@
         {
             "Name": "Unique Serpants Camp4",
             "Persist": 1,
-            "Faction": "Mercenaries",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationLooseness": 25.0,
             "Loadout": "Tier4Loadout",
