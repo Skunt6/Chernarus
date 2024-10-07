@@ -52,9 +52,9 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "LOOP",
+            "Behaviour": "HALT",
             "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
@@ -73,7 +73,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": 1.0,
             "RespawnTime": 1.0,
-            "UseRandomWaypointAsStartPoint": 1,
+            "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
                     9865.099609375,
@@ -123,9 +123,9 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "LOOP",
+            "Behaviour": "HALT",
             "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
@@ -144,7 +144,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": 1.0,
             "RespawnTime": 1.0,
-            "UseRandomWaypointAsStartPoint": 1,
+            "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
                     9862.8896484375,
@@ -194,9 +194,9 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "LOOP",
+            "Behaviour": "HALT",
             "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
@@ -215,7 +215,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": 1.0,
             "RespawnTime": 1.0,
-            "UseRandomWaypointAsStartPoint": 1,
+            "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
                     9850.48046875,
@@ -265,9 +265,9 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "LOOP",
+            "Behaviour": "HALT",
             "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
@@ -286,7 +286,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": 1.0,
             "RespawnTime": 1.0,
-            "UseRandomWaypointAsStartPoint": 1,
+            "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
                     9865.58984375,
@@ -336,9 +336,9 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "LOOP",
+            "Behaviour": "HALT",
             "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 1000.0,
@@ -357,7 +357,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": 1.0,
             "RespawnTime": 1.0,
-            "UseRandomWaypointAsStartPoint": 1,
+            "UseRandomWaypointAsStartPoint": 0,
             "Waypoints": [
                 [
                     9856.919921875,
