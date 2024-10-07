@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 6,
+    "ID": 20,
+    "ClassName": "ExpansionQuestNPCAINiki",
+    "Position": [
+
+        6923.91, 401.414, 11365.5
+
+    ],
+    "Orientation": [
+
+        136.873, 0, -0
+
+    ],
+    "NPCName": "Thorne Grimwald",
+    "DefaultNPCText": "Greetings, wanderer. I am Thorne Grimwald, keeper of shadows and whispers. Tread carefully, for the night holds many secrets… and not all who wander return.",
+    "Waypoints": [
+        [
+            6923.91, 401.414, 11365.5
+        ]
+    ],
+    "NPCEmoteID": 44,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "ThorneLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}
