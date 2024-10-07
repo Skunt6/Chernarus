@@ -374,7 +374,7 @@
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
-    "NPCFaction": "YeetBrigade",
+    "NPCFaction": "InvincibleYeetBrigade",
     "NPCType": 2,
     "Active": 1
 }
