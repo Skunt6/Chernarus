@@ -13117,10 +13117,10 @@
 						<point pos="-3.165771 -16.946526 6.819825" range="1.038574" height="1.508690" />
 				</container>
 		</group>
-		<group name="Wreck_UH1Y" lootmax="5">
+		<group name="Wreck_UH1Y" lootmax="10">
 				<usage name="Underground" />
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="5">
+				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13198,10 +13198,10 @@
 						<point pos="2.554070 -1.697937 4.891639" range="0.925143" height="1.900002" />
 				</container>
 		</group>
-		<group name="Wreck_Mi8_Crashed" lootmax="5">
+		<group name="Wreck_Mi8_Crashed" lootmax="15">
 				<usage name="Underground" />
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="5">
+				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
