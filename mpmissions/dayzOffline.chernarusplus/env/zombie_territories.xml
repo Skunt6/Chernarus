@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
+    <!--PVZ zombies-->
+    <territory color="4286338815">
+        <zone name="InfectedPVZ" smin="0" smax="0" dmin="15" dmax="30" x="3051.88" z="13736.51" r="150"/>
+    </territory>
+
+
     <territory color="1794965508">
         <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="5" x="6636.79" z="2578.75" r="50"/>
         <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="5" x="10455" z="2265" r="50"/>
