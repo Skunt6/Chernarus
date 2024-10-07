@@ -5,6 +5,32 @@
     "RandomQuantity": 0,
     "LootChestsLocations": [
         {
+            "name": "Unique mission",
+            "number": 1,
+            "pos": [
+                "3028.17 241.173 13745.7|2.29183 0 -0"
+            ],
+            "keyclass": "",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_MoneySafe_New"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0",
+                "ExpansionBanknoteUSD|1.0"
+            ]
+        },
+        {
             "name": "Tisy Headquarter Vault weapons",
             "number": 1,
             "pos": [

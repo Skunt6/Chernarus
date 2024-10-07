@@ -1,6 +1,52 @@
 {
     "KeycardDoor": [
         {
+            "doorClassName": "evg_simpleDoor2_DoubleWall1",
+            "doorPosition": [
+                3039.38,
+                242.978,
+                13742.1
+            ],
+            "doorRotation": [
+                94.0107,
+                -0,
+                -0
+            ],
+            "autoCloseTime": 300.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_White"
+            ],
+            "damageToKeycard": -1,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "Quest door",
+            "secondsNotify": 5.0
+        },
+        {
+            "doorClassName": "evg_simpleDoor1_Wall1",
+            "doorPosition": [
+                6926.59,
+                403.148,
+                11361.7
+            ],
+            "doorRotation": [
+                -56.8883,
+                0,
+                0
+            ],
+            "autoCloseTime": 120.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_Yellow"
+            ],
+            "damageToKeycard": 0.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "???",
+            "secondsNotify": 5.0
+        },
+        {
             "doorClassName": "evg_barDoor",
             "doorPosition": [
                 1684.34,
