@@ -3,7 +3,7 @@
     "ID": 4,
     "ObjectiveType": 7,
     "ObjectiveText": "Kill the Cult members before they escape.",
-    "TimeLimit": 120,
+    "TimeLimit": 300,
     "Active": 1,
     "MaxDistance": -1.0,
     "MinDistance": -1.0,
