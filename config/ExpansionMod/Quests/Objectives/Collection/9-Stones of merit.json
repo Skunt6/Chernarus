@@ -14,12 +14,6 @@
         },
         {
             "Amount": 4,
-            "ClassName": "ItemAlienIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
             "ClassName": "ItemPinkTourmaline",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
