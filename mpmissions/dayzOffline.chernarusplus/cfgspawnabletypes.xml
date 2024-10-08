@@ -1071,18 +1071,6 @@
 		</attachments>
 	</type>
 <!--ATV end-->
-	<type name="Animal_DBO_Tiger">
-		<cargo chance="0.00">
-			<item name="Paper" chance="0.50" />
-			<item name="Rag" chance="0.50" />
-		</cargo>
-	</type>
-	<type name="Animal_DBO_Tiger_s">
-		<cargo chance="0.00">
-			<item name="Paper" chance="0.50" />
-			<item name="Rag" chance="0.50" />
-		</cargo>
-	</type>
 	<!--MMG Military Spawnable types start-->
 	<type name="MMG_JPC_Vest_black">
 		<attachments chance="1.00">

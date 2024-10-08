@@ -30,7 +30,6 @@
         "ZmbM_DH_Master_Night": 150,
         "ZmbM_DH_Master_Day": 100,
         "ZombieBase": 1,
-        "Animal_DBO_Tiger": 25,
         "ZmbM_NBC_Yellow": 2,
         "Animal_UrsusMaritimus": 25,
         "ZmbM_NBC_Grey": 2,
@@ -39,7 +38,6 @@
         "Animal_GallusGallusDomesticus": 1,
         "ZmbM_SoldierNormal_Base": 3,
         "ZmbM_DH_NightWalker": 25,
-        "Animal_DBO_Tiger_s": 25,
         "PlayerBase": 0
     },
     "ItemRarity": {

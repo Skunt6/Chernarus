@@ -17,8 +17,6 @@
 		<file path="env/bear_territories.xml" />
 		<!--Dayz dog-->
 		<file path="env/dog_territories.xml" />
-		<!--tiger-->
-		<file path="env/Tiger_territories.xml" />
 		<!--Horse-->
 		<file path="env/wild_horse_territories.xml" />
 
@@ -53,9 +51,6 @@
 		<territory type="Herd" name="WildHorse" behavior="DZDeerGroupBeh">
 			<file usable="wild_horse_territories" />
 		</territory>
-		<!--tiger-->
-		<territory type="Herd" name="Tiger" behavior="BlissBearGroupBeh">
-			<file usable="Tiger_territories"/>
 		</territory>
 		<!--Dayz dog-->
 		<territory type="Herd" name="WildDog" behavior="DZWolfGroupBeh">
