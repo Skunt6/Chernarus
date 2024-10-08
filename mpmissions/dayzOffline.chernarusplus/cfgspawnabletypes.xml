@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+<!--PVZ zombies-->
+	<type name="ZmbM_Mummy">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_DH_AlmostTransparent_Red">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_DH_Invisible_RedEye">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_DH_NightWalker">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_DH_Invisible_Ghillie">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+	<type name="ZmbF_DH_WhiteLady">
+        <cargo preset="bloodsuckerloot" />
+    </type>
 <!--Creatures-->
 	<type name="ZmbM_BloodSucker_normal">
         <cargo preset="bloodsuckerloot" />
@@ -15,6 +34,24 @@
         <cargo preset="bloodsuckerloot" />
     </type>
     <type name="ZmbM_BloodSucker_superweird">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+	<type name="ZmbM_BloodSucker_normalR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_mediumR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_hardR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_superhardR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_superweirdR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+	<type name="ZmbM_BloodSucker_Alien">
         <cargo preset="bloodsuckerloot" />
     </type>
 <!--Gunner Truck-->
