@@ -24,7 +24,7 @@
     "Rewards": [
         {
             "ClassName": "ItemCharCoalIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
@@ -32,7 +32,7 @@
         },
         {
             "ClassName": "ItemSulfurIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
@@ -40,7 +40,7 @@
         },
         {
             "ClassName": "ItemCopperIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
@@ -48,7 +48,7 @@
         },
         {
             "ClassName": "ItemDiamondIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
@@ -56,7 +56,7 @@
         },
         {
             "ClassName": "ItemGoldIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
@@ -64,7 +64,7 @@
         },
         {
             "ClassName": "ItemIronIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
@@ -72,7 +72,7 @@
         },
         {
             "ClassName": "ItemSilverIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
@@ -80,7 +80,7 @@
         },
         {
             "ClassName": "ItemTinIngot",
-            "Amount": 1,
+            "Amount": 4,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,
