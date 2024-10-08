@@ -2,18 +2,18 @@
     "ConfigVersion": 28,
     "ID": 11,
     "ObjectiveType": 4,
-    "ObjectiveText": "Find Transmitter",
+    "ObjectiveText": "Look in inventory for tin ingot.",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "PersonalRadio",
-            "QuantityPercent": -1,
+            "ClassName": "ItemTinIngot",
+            "QuantityPercent": 100,
             "MinQuantityPercent": -1
         }
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 0
+    "NeedAnyCollection": 1
 }
