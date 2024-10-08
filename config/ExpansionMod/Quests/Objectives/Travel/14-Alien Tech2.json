@@ -1,17 +1,15 @@
 {
     "ConfigVersion": 28,
-    "ID": 6,
+    "ID": 14,
     "ObjectiveType": 3,
-    "ObjectiveText": "Go to Dr. Elena",
+    "ObjectiveText": "Head on in for a closer look.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        10714.900390625,
-        350.5050048828125,
-        5673.25
+        3048.41, 241.831, 13818.1
     ],
-    "MaxDistance": 50.0,
-    "MarkerName": "Dr. Elena",
+    "MaxDistance": 300.0,
+    "MarkerName": "?",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

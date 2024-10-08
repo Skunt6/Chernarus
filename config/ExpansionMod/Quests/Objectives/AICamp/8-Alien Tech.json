@@ -2,10 +2,10 @@
     "ConfigVersion": 28,
     "ID": 8,
     "ObjectiveType": 8,
-    "ObjectiveText": "Hit the Rebels",
-    "TimeLimit": 300,
+    "ObjectiveText": "Defeat the ambush!!",
+    "TimeLimit": -1,
     "Active": 1,
-    "InfectedDeletionRadius": 500.0,
+    "InfectedDeletionRadius": 0.0,
     "MaxDistance": -1.0,
     "MinDistance": -1.0,
     "AllowedWeapons": [],
@@ -76,7 +76,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9862.28, 177.406, 6715.33
+                    2970.92, 282.437, 14109
                 ]
             ]
         },
@@ -133,8 +133,8 @@
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 200.0,
-            "MaxDistRadius": 600.0,
+            "MinDistRadius": 30.0,
+            "MaxDistRadius": 70.0,
             "DespawnRadius": 600.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -145,7 +145,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9857.2, 177.4, 6715.63
+                    2986.57, 273.502, 14070.1
                 ]
             ]
         },
@@ -202,8 +202,8 @@
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 200.0,
-            "MaxDistRadius": 600.0,
+            "MinDistRadius": 30.0,
+            "MaxDistRadius": 70.0,
             "DespawnRadius": 600.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -214,7 +214,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9857.35, 177.4, 6712.5
+                    3017.38, 271.536, 14068.6
                 ]
             ]
         },
@@ -271,8 +271,8 @@
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 200.0,
-            "MaxDistRadius": 600.0,
+            "MinDistRadius": 30.0,
+            "MaxDistRadius": 70.0,
             "DespawnRadius": 600.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -283,7 +283,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9858.89, 176.651, 6720.33
+                    3060.93, 272.891, 14095.4
                 ]
             ]
         },
@@ -340,8 +340,8 @@
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": 0.75,
             "DamageReceivedMultiplier": 1.0,
-            "MinDistRadius": 200.0,
-            "MaxDistRadius": 600.0,
+            "MinDistRadius": 30.0,
+            "MaxDistRadius": 70.0,
             "DespawnRadius": 600.0,
             "MinSpreadRadius": 0.0,
             "MaxSpreadRadius": 0.0,
@@ -352,7 +352,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9903.34, 178.307, 6700.53
+                    3047.36, 277.218, 14114.3
                 ]
             ]
         }

@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 28,
-    "ID": 14,
+    "ID": 13,
     "ObjectiveType": 3,
-    "ObjectiveText": "Go further down the trial.",
+    "ObjectiveText": "Get a good look.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        9940.97, 234.605, 6361.38
+        2974.65, 369.85, 14393
     ],
     "MaxDistance": 1.0,
     "MarkerName": "?",

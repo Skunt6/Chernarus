@@ -1,18 +1,16 @@
 {
     "ConfigVersion": 28,
-    "ID": 13,
+    "ID": 6,
     "ObjectiveType": 3,
-    "ObjectiveText": "Go to Pass Oreshka",
+    "ObjectiveText": "Find the vault",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        9864.2060546875,
-        249.64796447753907,
-        6247.43896484375
+        3039.82, 241.216, 13742.1
     ],
     "MaxDistance": 1.0,
-    "MarkerName": "?",
-    "ShowDistance": 1,
+    "MarkerName": "",
+    "ShowDistance": 0,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0
 }

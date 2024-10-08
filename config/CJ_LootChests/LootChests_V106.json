@@ -18,16 +18,9 @@
             "lootrandomize": 0.0,
             "light": 1,
             "loot": [
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0",
-                "ExpansionBanknoteUSD|1.0"
+                "ItemAlienIngot|1.0",
+                "ItemAlienNugget|1.0",
+                "ExpansionQuestItemPackage|1.0"
             ]
         },
         {
