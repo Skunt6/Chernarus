@@ -3,11 +3,11 @@
     
     <!--PVZ zombies-->
         <territory color="4286338815">
-            <zone name="InfectedPVZ" smin="0" smax="0" dmin="15" dmax="30" x="3037.95" z="13707.4" r="150"/><3037.95, 235.314, 13707.4>
+            <zone name="InfectedPVZ" smin="0" smax="0" dmin="15" dmax="30" x="3037.95" z="13707.4" r="50"/>
         </territory>
     <!--Creatures-->
          <territory color="4286338816">
-            <zone name="InfectedBloodsucker" smin="0" smax="0" dmin="15" dmax="30" x="3037.95" z="13707.4" r="150"/>
+            <zone name="InfectedBloodsucker" smin="0" smax="0" dmin="15" dmax="30" x="3037.95" z="13707.4" r="50"/>
         </territory>   
 
 
