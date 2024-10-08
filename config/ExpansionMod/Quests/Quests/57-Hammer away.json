@@ -1,0 +1,122 @@
+{
+    "ConfigVersion": 22,
+    "ID": 57,
+    "Type": 1,
+    "Title": "Thorne Grimwald: Hammer Away",
+    "Descriptions": [
+        "Hark, brave survivor! I beseech thee to undertake a task of great consequence. Thou must crush the very souls of the undead, but lay aside thy firearms—take up this mighty hammer instead. Strike down one hundred of the foul creatures, and shouldst thou return unscathed and victorious, a trove of resources, unearthed by my diligent miners from the hills, shall be thy reward. Prove thy strength, and let the hammer be the instrument of their doom!"
+    ],
+    "ObjectiveText": "Put a end to the wicked undead.",
+    "FollowUpQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "t_warhammer04",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ItemCharCoalNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemSulfurNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemCopperNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemDiamondNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemGoldNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemIronNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemSilverNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemTinNugget",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        20
+    ],
+    "QuestTurnInIDs": [
+        20
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 12,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

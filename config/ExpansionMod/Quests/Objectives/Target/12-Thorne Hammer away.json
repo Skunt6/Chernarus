@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 12,
     "ObjectiveType": 2,
-    "ObjectiveText": "Collect 150 undead heads.",
+    "ObjectiveText": "Collect 50 undead souls.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -12,7 +12,7 @@
     ],
     "MaxDistance": 500.0,
     "MinDistance": -1.0,
-    "Amount": 150,
+    "Amount": 50,
     "ClassNames": [
         "ZmbM_CitizenASkinny_Base",
         "ZmbM_CitizenASkinny_LT_Base",
@@ -107,12 +107,10 @@
     ],
     "CountSelfKill": 0,
     "AllowedWeapons": [
-        "t_longsword01"
+        "t_warhammer04"
     ],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],
-    "AllowedDamageZones": [
-        "Head"
-    ]
+    "AllowedDamageZones": []
 }
