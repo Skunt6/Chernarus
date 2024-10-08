@@ -7041,7 +7041,7 @@
     <value name="Tier4"/>
   </type>
 <!--Medieval Arms-->
-    <type name="t_breastplate">
+  <type name="t_breastplate">
     <nominal>0</nominal>
     <lifetime>4000</lifetime>
     <restock>0</restock>
