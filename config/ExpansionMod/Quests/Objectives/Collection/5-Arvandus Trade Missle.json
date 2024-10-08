@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Look in inventory for need materials.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ItemCharCoalIngot",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ItemSulfurIngot",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "ItemCopperIngot",
+            "QuantityPercent": 100,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}
