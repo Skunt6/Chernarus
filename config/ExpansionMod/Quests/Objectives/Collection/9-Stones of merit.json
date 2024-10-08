@@ -8,54 +8,6 @@
     "Collections": [
         {
             "Amount": 4,
-            "ClassName": "ItemCharCoalIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemSulfurIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemCopperIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemDiamondIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemGoldIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemIronIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemSilverIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
-            "ClassName": "ItemTinIngot",
-            "QuantityPercent": 100,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 4,
             "ClassName": "ItemRodochrosite",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1

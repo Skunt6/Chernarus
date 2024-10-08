@@ -1,12 +1,12 @@
 {
     "ConfigVersion": 22,
-    "ID": 23,
+    "ID": 49,
     "Type": 1,
-    "Title": "Arvandus: Stones of Merit",
+    "Title": "Arvandus: Lime Kilm",
     "Descriptions": [
-        "I'm Arvandus Metalsmith, and I need your help finding mysterious gems scattered across this harsh landscape. If you come across any gems during your quest, I’ll reward you handsomely. Let’s uncover the secrets of these treasures. Start your mission now!"
+        " A place where raw materials are transformed by fire into essential building blocks"
     ],
-    "ObjectiveText": "Find the Stones",
+    "ObjectiveText": "Lime Kilm",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -18,8 +18,17 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "expansionbanknoteUSD",
-            "Amount": 40000,
+            "ClassName": "BBP_Mortar_Mix",
+            "Amount": 4,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "BBP_Concrete_Brick_Pile",
+            "Amount": 5,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -27,10 +36,10 @@
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 0,
+    "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
         7
@@ -42,19 +51,19 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 9,
+            "ID": 6,
             "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 300,
+    "ReputationReward": 0,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 0,
-    "SequentialObjectives": 1,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

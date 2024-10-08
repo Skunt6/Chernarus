@@ -2,13 +2,13 @@
     "ConfigVersion": 28,
     "ID": 6,
     "ObjectiveType": 4,
-    "ObjectiveText": "Acquire the stones.",
+    "ObjectiveText": "Look in inventory for Charcoal ingot.",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 2,
-            "ClassName": "ItemStarRuby",
+            "Amount": 1,
+            "ClassName": "ItemCharCoalIngot",
             "QuantityPercent": 100,
             "MinQuantityPercent": -1
         }
