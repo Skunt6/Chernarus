@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+<!--Creatures-->
+    <event name="InfectedBloodsucker">
+        <nominal>10</nominal>
+        <min>1</min>
+        <max>10</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+             <child lootmax="0" lootmin="0" max="0" min="70" type="ZmbM_BloodSucker_normal"/>
+             <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_BloodSucker_medium"/>
+             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_hard"/>
+             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superhard"/>
+             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superweird"/>
+        </children>
+    </event>
 <!--Gunner Truck-->
     <event name="VehicleGunnerTruck">
     <nominal>2</nominal>
