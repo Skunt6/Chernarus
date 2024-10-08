@@ -20,6 +20,12 @@
              <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_hard"/>
              <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superhard"/>
              <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superweird"/>
+             <child lootmax="0" lootmin="0" max="0" min="70" type="ZmbM_BloodSucker_normalR"/>
+             <child lootmax="0" lootmin="0" max="0" min="20" type="ZmbM_BloodSucker_mediumR"/>
+             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_hardR"/>
+             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superhardR"/>
+             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_superweirdR"/>
+             <child lootmax="0" lootmin="0" max="0" min="10" type="ZmbM_BloodSucker_Alien"/>
         </children>
     </event>
 <!--Gunner Truck-->
