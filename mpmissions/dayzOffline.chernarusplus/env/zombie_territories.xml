@@ -7,7 +7,7 @@
         </territory>
     <!--Creatures-->
          <territory color="4286338816">
-            <zone name="InfectedBloodsucker" smin="0" smax="0" dmin="1" dmax="3" x="3037.95" z="13707.4" r="50"/>
+            <zone name="InfectedBloodsucker" smin="0" smax="0" dmin="15" dmax="30" x="3037.95" z="13707.4" r="50"/>
         </territory>   
 
 
