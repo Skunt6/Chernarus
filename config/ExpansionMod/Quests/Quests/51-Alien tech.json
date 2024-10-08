@@ -7,7 +7,7 @@
         "Survivor, I've got a mission for you. Command intercepted a strange transmission some time ago—definitely out of the ordinary. The signal came from north of Novaya Petrovka, near a strange gas cloud. Don’t worry, the gas isn’t toxic, but it’s definitely unnatural. None of the scouts are willing to approach it, which is why I'm bringing this to you. Oh, and take this—one of our scouts retrieved it from the coordinates included in the signal. Good luck out there."
     ],
     "ObjectiveText": "Scout out the area.",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 52,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,

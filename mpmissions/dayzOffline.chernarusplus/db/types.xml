@@ -2070,7 +2070,7 @@
         
     </type>
 <!--Gauss rifle-->
-  <type name="ER7_Gauss">
+    <type name="ER7_Gauss">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
