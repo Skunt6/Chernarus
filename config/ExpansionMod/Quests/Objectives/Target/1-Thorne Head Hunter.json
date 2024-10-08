@@ -2,17 +2,17 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 25 Infected in Zelenogorsk",
+    "ObjectiveText": "Collect 50 undead heads.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        2727.85009765625,
-        204.44140625,
-        5276.85009765625
+        0.0,
+        0.0,
+        0.0
     ],
     "MaxDistance": 500.0,
     "MinDistance": -1.0,
-    "Amount": 25,
+    "Amount": 50,
     "ClassNames": [
         "ZmbM_CitizenASkinny_Base",
         "ZmbM_CitizenASkinny_LT_Base",
@@ -106,9 +106,13 @@
         "ZmbM_usSoldier_Officer_Convoy"
     ],
     "CountSelfKill": 0,
-    "AllowedWeapons": [],
+    "AllowedWeapons": [
+        "t_longsword01"
+    ],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],
-    "AllowedDamageZones": []
+    "AllowedDamageZones": [
+        "Head"
+    ]
 }

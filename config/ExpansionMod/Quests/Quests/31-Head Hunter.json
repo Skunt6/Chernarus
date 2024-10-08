@@ -1,0 +1,122 @@
+{
+    "ConfigVersion": 22,
+    "ID": 31,
+    "Type": 1,
+    "Title": "Thorne Grimwald: Head Hunter",
+    "Descriptions": [
+        "Hark, brave survivor! I beseech thee to undertake a task of grave import. Thou must collect the heads of the fallen, but do so not with thy fanciful firearms—take up this longsword instead. Shouldst thou return unscathed and victorious, a trove of resources, unearthed by my diligent miners from the hills, shall be thy reward. Prove thy mettle and let the blade be thy instrument of justice!"
+    ],
+    "ObjectiveText": "Collect the heads of the undead.",
+    "FollowUpQuest": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "t_longsword01",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ItemCharCoalIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemSulfurIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemCopperIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemDiamondIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemGoldIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemIronIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemSilverIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ItemTinIngot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        20
+    ],
+    "QuestTurnInIDs": [
+        20
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
