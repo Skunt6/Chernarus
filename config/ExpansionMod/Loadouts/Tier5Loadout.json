@@ -75,12 +75,12 @@
                                 "Max": 0.0
                             },
                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                {
+                                    "Min": 0.33,
+                                    "Max": 0.88,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -146,12 +146,12 @@
                                         "Max": 0.0
                                     },
                                     "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 0.88,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -165,12 +165,12 @@
                                         "Max": 0.0
                                     },
                                     "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 0.88,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -184,12 +184,12 @@
                                         "Max": 0.0
                                     },
                                     "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 0.88,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -203,12 +203,12 @@
                                         "Max": 0.0
                                     },
                                     "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 0.88,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -222,12 +222,12 @@
                                         "Max": 0.0
                                     },
                                     "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 0.88,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -401,12 +401,12 @@
                                 "Max": 0.0
                             },
                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                {
+                                    "Min": 0.33,
+                                    "Max": 0.88,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [
                                 {
                                     "ClassName": "Battery9V",
@@ -416,12 +416,12 @@
                                         "Max": 0.0
                                     },
                                     "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 0.88,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -473,12 +473,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -511,12 +511,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -530,12 +530,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -549,12 +549,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -568,12 +568,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -587,12 +587,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -606,12 +606,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -625,12 +625,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -644,12 +644,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -663,12 +663,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -682,12 +682,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -701,12 +701,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -720,12 +720,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -739,12 +739,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -758,12 +758,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -777,12 +777,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -796,12 +796,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -815,12 +815,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -834,12 +834,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -853,12 +853,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -872,12 +872,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -891,12 +891,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -910,12 +910,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -929,12 +929,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -948,12 +948,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -967,12 +967,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -986,12 +986,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6363,12 +6363,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6382,12 +6382,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6401,12 +6401,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6420,12 +6420,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6439,12 +6439,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6458,12 +6458,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6477,12 +6477,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6496,12 +6496,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6515,12 +6515,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6534,12 +6534,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6553,12 +6553,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6572,12 +6572,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6591,12 +6591,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6610,12 +6610,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6629,12 +6629,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6648,12 +6648,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6667,12 +6667,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6686,12 +6686,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6705,12 +6705,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6724,12 +6724,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6743,12 +6743,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6756,18 +6756,18 @@
         },
         {
             "ClassName": "GCGN_Ammo_3006",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6775,18 +6775,18 @@
         },
         {
             "ClassName": "GCGN_Ammo_408Chey",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6794,18 +6794,18 @@
         },
         {
             "ClassName": "GCGN_Ammo_50Cal",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6813,18 +6813,18 @@
         },
         {
             "ClassName": "GCGN_Ammo_762x51",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6832,18 +6832,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mm",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6851,18 +6851,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mmAP",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6870,18 +6870,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_145Cal",
-            "Chance": 0.024,
+            "Chance": 0.0024,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6889,18 +6889,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_300ACC",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6908,18 +6908,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_338",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6927,18 +6927,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_44",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6946,18 +6946,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_45_70mm",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6965,18 +6965,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_46x30",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6984,18 +6984,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_5_7x28mm",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -7003,18 +7003,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_500_SW",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -7022,18 +7022,18 @@
         },
         {
             "ClassName": "SNAFU_Ammo_762x25",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -7041,18 +7041,18 @@
         },
         {
             "ClassName": "SNAFU_MD_Ammo_556x45mm_M855A1",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 1.0,
                 "Max": 100.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -10195,7 +10195,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_3006",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10214,7 +10214,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_408Chey",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10233,7 +10233,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_50Cal",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10252,7 +10252,7 @@
         },
         {
             "ClassName": "GCGN_Ammo_762x51",
-            "Chance": 0.008,
+            "Chance": 0.0008,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12057,7 +12057,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mm",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12076,7 +12076,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_127x55mmAP",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12095,7 +12095,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_145Cal",
-            "Chance": 0.024,
+            "Chance": 0.0024,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12114,7 +12114,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_300ACC",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12133,7 +12133,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_338",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12152,7 +12152,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_44",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12171,7 +12171,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_45_70mm",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12190,7 +12190,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_46x30",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12209,7 +12209,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_5_7x28mm",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12228,7 +12228,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_500_SW",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12247,7 +12247,7 @@
         },
         {
             "ClassName": "SNAFU_Ammo_762x25",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14318,7 +14318,7 @@
         },
         {
             "ClassName": "SNAFU_MD_Ammo_556x45mm_M855A1",
-            "Chance": 0.04,
+            "Chance": 0.004,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -26544,12 +26544,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [
                 {
                     "SlotName": "Shoulder",
@@ -26562,12 +26562,12 @@
                                 "Max": 0.0
                             },
                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                {
+                                    "Min": 0.33,
+                                    "Max": 0.88,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [
                                 {
                                     "SlotName": "",
@@ -26580,12 +26580,12 @@
                                                 "Max": 0.0
                                             },
                                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                                {
+                                                    "Min": 0.33,
+                                                    "Max": 0.88,
+                                                    "Zone": ""
+                                                }
+                                            ],
                                             "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
@@ -26599,12 +26599,12 @@
                                                 "Max": 0.0
                                             },
                                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                                {
+                                                    "Min": 0.33,
+                                                    "Max": 0.88,
+                                                    "Zone": ""
+                                                }
+                                            ],
                                             "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
@@ -26618,12 +26618,12 @@
                                                 "Max": 0.0
                                             },
                                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                                {
+                                                    "Min": 0.33,
+                                                    "Max": 0.88,
+                                                    "Zone": ""
+                                                }
+                                            ],
                                             "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
@@ -26637,12 +26637,12 @@
                                                 "Max": 0.0
                                             },
                                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                                {
+                                                    "Min": 0.33,
+                                                    "Max": 0.88,
+                                                    "Zone": ""
+                                                }
+                                            ],
                                             "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
@@ -26656,12 +26656,12 @@
                                                 "Max": 0.0
                                             },
                                             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                                                {
+                                                    "Min": 0.33,
+                                                    "Max": 0.88,
+                                                    "Zone": ""
+                                                }
+                                            ],
                                             "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
