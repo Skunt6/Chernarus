@@ -67,13 +67,11 @@ Example messages:
         <text>Friendly AI wears Green armband</text>
     </message>
     
-    <!--Server restart-->
+    <!--Server restart
 
     <message>
         <deadline>355</deadline>
         <text>Natures Weavers will shutdown in roughly #tmin minutes.</text>
-    </message>
-    
-    <!--Server restart end-->
+    </message>-->
 
 </messages>
