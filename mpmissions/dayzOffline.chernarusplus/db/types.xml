@@ -1529,9 +1529,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-
-    
- 	<type name="CP_Plant_CannabisFuture">
+    <type name="CP_Plant_CannabisFuture">
         <lifetime>600000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
@@ -1711,9 +1709,9 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-     	<type name="CP_Plant_CannabisNomad">
-        <lifetime>600000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <type name="CP_Plant_CannabisNomad">
+    <lifetime>600000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisNomad">
         <nominal>6</nominal>
@@ -1887,8 +1885,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="Herbals"/>
     </type>
-
-    
     <type name="CP_Relief_Balm">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -1904,8 +1900,6 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-
-
     <type name="CP_Pouch">
         <nominal>15</nominal>
         <lifetime>3600</lifetime>
@@ -15760,6 +15754,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_Ammo_408Chey">
     <nominal>35</nominal>
@@ -15771,6 +15767,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_Ammo_50Cal">
     <nominal>35</nominal>
@@ -15782,6 +15780,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_Ammo_762x51">
     <nominal>35</nominal>
@@ -15877,6 +15877,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_M1Garand_FlashHider">
     <nominal>1</nominal>
@@ -15889,6 +15891,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_M1Garand_Supp">
     <nominal>1</nominal>
@@ -15901,6 +15905,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_M1Garand">
     <nominal>1</nominal>
@@ -15913,6 +15919,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_M200_Mag">
     <nominal>1</nominal>
@@ -16113,6 +16121,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_VEPR">
     <nominal>1</nominal>
@@ -16125,6 +16135,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="GCGN_Vityaz_Mag">
     <nominal>1</nominal>
@@ -16450,6 +16462,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SN_Springfield">
     <nominal>1</nominal>
@@ -16462,6 +16476,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SN_USP_Mag">
     <nominal>1</nominal>
@@ -16474,6 +16490,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SN_USP">
     <nominal>1</nominal>
@@ -16486,6 +16504,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_408_Suppressor_T">
     <nominal>1</nominal>
@@ -16714,6 +16734,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_AK19">
     <nominal>1</nominal>
@@ -16726,6 +16748,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_AK19Muzzel">
     <nominal>1</nominal>
@@ -16738,6 +16762,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_AK308_Mag">
     <nominal>1</nominal>
@@ -16965,6 +16991,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_127x55mmAP">
     <nominal>35</nominal>
@@ -16976,6 +17004,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_145Cal">
     <nominal>35</nominal>
@@ -16987,6 +17017,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_300ACC">
     <nominal>35</nominal>
@@ -16998,6 +17030,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_338">
     <nominal>35</nominal>
@@ -17009,6 +17043,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_44">
     <nominal>35</nominal>
@@ -17020,6 +17056,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_45_70mm">
     <nominal>35</nominal>
@@ -17031,6 +17069,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_46x30">
     <nominal>35</nominal>
@@ -17042,6 +17082,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_5_7x28mm">
     <nominal>35</nominal>
@@ -17053,6 +17095,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_500_SW">
     <nominal>35</nominal>
@@ -17064,6 +17108,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Ammo_762x25">
     <nominal>35</nominal>
@@ -17075,6 +17121,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_AR15_Modular16_GUN">
     <nominal>1</nominal>
@@ -17185,7 +17233,7 @@
     <usage name="Underground"/>
   </type>
   <type name="SNAFU_BMAG300_Black">
-    <nominal>1</nominal>
+    <nominal>5</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -17195,6 +17243,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_BMAG300_Tan">
     <nominal>1</nominal>
@@ -17209,7 +17259,7 @@
     <usage name="Underground"/>
   </type>
   <type name="SNAFU_BMAG556_Black">
-    <nominal>1</nominal>
+    <nominal>5</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -17219,6 +17269,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_BMAG556_Tan">
     <nominal>1</nominal>
@@ -18826,6 +18878,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_PDW_45ACP">
     <nominal>1</nominal>
@@ -18838,6 +18892,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_PDW_9mm_Mag">
     <nominal>1</nominal>
@@ -18850,6 +18906,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_PDW_9mm">
     <nominal>1</nominal>
@@ -18862,6 +18920,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_PEQ1_Laser">
     <nominal>1</nominal>
@@ -19128,7 +19188,7 @@
     <usage name="Underground"/>
   </type>
   <type name="SNAFU_ScarH_100RND_Mag_Black">
-    <nominal>1</nominal>
+    <nominal>5</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -19138,6 +19198,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_ScarH_100RND_Mag_Tan">
     <nominal>1</nominal>
@@ -19318,6 +19380,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_SKS_30Rnd_Mag">
     <nominal>1</nominal>
@@ -19330,6 +19394,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_SKS_Bayonet">
     <nominal>1</nominal>
@@ -19342,6 +19408,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_SKS">
     <nominal>1</nominal>
@@ -19354,6 +19422,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_SPMOD">
     <nominal>1</nominal>
@@ -19868,6 +19938,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUAUG_BK">
     <nominal>1</nominal>
@@ -19880,6 +19952,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUAUG">
     <nominal>1</nominal>
@@ -19892,6 +19966,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUAX50_GUN">
     <nominal>1</nominal>
@@ -19928,6 +20004,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUDSASA58_Stock">
     <nominal>1</nominal>
@@ -19976,6 +20054,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUGevar_10rdMag">
     <nominal>1</nominal>
@@ -20888,6 +20968,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUUzi_72rdMag">
     <nominal>1</nominal>
@@ -20900,6 +20982,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUUzi">
     <nominal>1</nominal>
@@ -20912,6 +20996,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUVECTOR_45acp_GUN">
     <nominal>1</nominal>
@@ -20924,6 +21010,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUVECTOR_45acp_Mag">
     <nominal>1</nominal>
@@ -20936,6 +21024,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUVECTOR_9mm_GUN">
     <nominal>1</nominal>
@@ -20948,6 +21038,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUVECTOR_9mm_Mag">
     <nominal>1</nominal>
@@ -20960,6 +21052,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUVSSK">
     <nominal>1</nominal>
@@ -21044,6 +21138,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="Tec9_Mag">
     <nominal>1</nominal>
@@ -21056,6 +21152,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="VR80_Gun">
     <nominal>1</nominal>
@@ -21116,6 +21214,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_50bmg_Suppressor_B">
     <nominal>1</nominal>
@@ -21236,6 +21336,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Shotgunchoke_Blue">
     <nominal>1</nominal>
@@ -21248,6 +21350,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Shotgunchoke_Brown">
     <nominal>1</nominal>
@@ -21260,6 +21364,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Shotgunchoke_Green">
     <nominal>1</nominal>
@@ -21272,6 +21378,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Shotgunchoke_Purple">
     <nominal>1</nominal>
@@ -21284,6 +21392,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Shotgunchoke_Red">
     <nominal>1</nominal>
@@ -21296,6 +21406,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Shotgunchoke_Tur">
     <nominal>1</nominal>
@@ -21308,6 +21420,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFU_Shotgunchoke_Yellow">
     <nominal>1</nominal>
@@ -21320,6 +21434,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SNAFUAR15_SPR_Black_GUN">
     <nominal>1</nominal>
@@ -21368,6 +21484,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
   <type name="SR3_Vikhr_Mag">
     <nominal>1</nominal>
@@ -21380,6 +21498,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="1" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Underground"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
   </type>
 
 
