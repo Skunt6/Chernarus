@@ -61,7 +61,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-        <type name="ZmbM_BloodSucker_superhard">
+    <type name="ZmbM_BloodSucker_superhard">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -71,7 +71,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-        <type name="ZmbM_BloodSucker_superweird">
+    <type name="ZmbM_BloodSucker_superweird">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -81,7 +81,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-        <type name="ZmbM_BloodSucker_superweirdR">
+    <type name="ZmbM_BloodSucker_superweirdR">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -91,7 +91,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-        <type name="ZmbM_BloodSucker_superhardR">
+    <type name="ZmbM_BloodSucker_superhardR">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -101,7 +101,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-        <type name="ZmbM_BloodSucker_Alien">
+    <type name="ZmbM_BloodSucker_Alien">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -21501,7 +21501,6 @@
     <usage name="Military"/>
     <value name="Tier4"/>
   </type>
-
 
 <!--Expansion-->
     <!-- ADDITONAL VANILLA CAR VARIANTS -->
