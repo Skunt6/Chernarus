@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 23,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Look in inventory for matierals.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ItemIronIngot",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "WoodenLog",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}
