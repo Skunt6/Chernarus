@@ -15,6 +15,7 @@
       "*/.dll": true,
       "@CF/": true,
       "@Community-Online-Tools/": true,
+      "BEC/": true,
       "@Juggernaut Armor/": true,
       "@Code Lock": true,
       "@MMG_Inventory_Increased": true,
