@@ -3917,7 +3917,7 @@
         <usage name="Village"/>
     </type>
 <!--BBP-->
-        <type name="BBP_Carpet_Base">
+    <type name="BBP_Carpet_Base">
         <lifetime>604800</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>

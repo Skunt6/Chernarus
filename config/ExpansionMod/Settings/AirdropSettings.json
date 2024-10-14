@@ -224,7 +224,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_BakedBeansCan_Opened",
+                    "Name": "dzn_BakedBeansCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -287,7 +287,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_BrisketSpread_Opened",
+                    "Name": "dzn_BrisketSpread_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -368,7 +368,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_CatFoodCan_Opened",
+                    "Name": "dzn_CatFoodCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -476,7 +476,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_DogFoodCan_Opened",
+                    "Name": "dzn_DogFoodCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -548,7 +548,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_Lunchmeat_Opened",
+                    "Name": "dzn_Lunchmeat_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -602,7 +602,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_Pajka_Opened",
+                    "Name": "dzn_Pajka_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -620,7 +620,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_Pate_Opened",
+                    "Name": "dzn_Pate_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -638,7 +638,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_PeachesCan_Opened",
+                    "Name": "dzn_PeachesCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -701,7 +701,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_PorkCan_Opened",
+                    "Name": "dzn_PorkCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -800,7 +800,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_SardinesCan_Opened",
+                    "Name": "dzn_SardinesCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -881,7 +881,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_SpaghettiCan_Opened",
+                    "Name": "dzn_SpaghettiCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -935,7 +935,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_TunaCan_Opened",
+                    "Name": "dzn_TunaCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -953,7 +953,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_dzn_UnknownFoodCan_Opened",
+                    "Name": "dzn_UnknownFoodCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
