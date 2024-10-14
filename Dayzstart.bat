@@ -39,10 +39,5 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 
-:: Start BEC
-echo Starting BEC...
-cd "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\BEC"  # Change this to your actual BEC folder path
-start BEC.exe -f Config.cfg --dsc
-
 :: Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
 start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-profiles=config" "-mod=@QuickMoveItemsByCategory;@Survivor Animations;@DayZ Horse;@Winter Chernarus V2;@Namalsk Survival;@Fast Travel;@Techs 4x4 All Terrain Vehicles;@dbo_creatures;@CJ187-LootChest;@Custom Keycards;@Code Lock;@BaseBuildingPlus;@BBPWallpaperBeerGarden;@BBPItemPack;@PvZmoD_TheDarkHorde;@KillAssets;@FlipTransport;@DrugsPLUS;@dzr_notes;@Juggernaut Armor;@BulletStacksPlusPlusEnhanced;@GunnerTruckOshkosh;@GRW ER7 Gauss Rifle;@TangoMedievalPack;@CannabisPlus;@DayZ-Dog;@Community-Online-Tools;@DayZ Editor Loader;@DayZOresAndGems;@MMG - Mightys Military Gear;@MMG Base Storage;@SNAFU Weapons;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@InventoryInCar;@Dabs Framework;@CF;@Natures Weavers;" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
