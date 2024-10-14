@@ -218,7 +218,7 @@
         {
             "ClassName": "mag_saiga_drum20rnd",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1080,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
