@@ -13,7 +13,7 @@
     "UseFactionReputation": 0,
     "EnableFactionPersistence": 0,
     "EnableItemRarity": 1,
-    "UseItemRarityOnInventoryIcons": 0,
+    "UseItemRarityOnInventoryIcons": 1,
     "UseItemRarityForMarketPurchase": 1,
     "UseItemRarityForMarketSell": 1,
     "MaxReputation": 0,
