@@ -75,7 +75,7 @@
         {
             "ClassName": "m4_plastichndgrd",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 650,
+            "MinPriceThreshold": 600,
             "SellPricePercent": 100,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
