@@ -7,10 +7,10 @@
     "ChatColors": {
         "SystemChatColor": "39FF14",
         "AdminChatColor": "FF392BFF",
-        "GlobalChatColor": "F22613FF",
+        "GlobalChatColor": "0AFA7AFF",
         "DirectChatColor": "FFFFFFFF",
         "TransportChatColor": "FFCE09FF",
-        "PartyChatColor": "0AFA7AFF",
+        "PartyChatColor": "FFA500",
         "TransmitterChatColor": "F9FF49FF",
         "StatusMessageColor": "4B77BEFF",
         "ActionMessageColor": "F7CA18FF",
