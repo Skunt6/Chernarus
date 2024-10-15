@@ -69,6 +69,7 @@ BEC/
 docs/
 dta/
 keys/
+sakhal/
 logs/
 steamapps/
 config/DataCache/
@@ -86,6 +87,7 @@ config/ExpansionMod/Logs/
 mpmissions/dayzOffline.chernarusplus/storage_0/
 mpmissions/dayzOffline.chernarusplus/storage_1/
 mpmissions/dayzOffline.enoch/
+mpmissions/dayzOffline.sakhal/
 config/ExpansionMod/Quests/PlayerData/
 config/ExpansionMod/Quests/GroupData/
 config/ExpansionMod/ATM/

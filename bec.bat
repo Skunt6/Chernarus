@@ -8,6 +8,11 @@ if %errorLevel% NEQ 0 (
     exit /b
 )
 
+:start
+taskkill /im Bec.exe /F
+:: Time in seconds to wait before..
+timeout 10
+
 :: Change to the BEC directory
 cd "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\BEC"
 
