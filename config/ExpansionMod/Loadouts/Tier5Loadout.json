@@ -26546,7 +26546,7 @@
             "Health": [
                 {
                     "Min": 0.33,
-                    "Max": 0.88,
+                    "Max": 1.0,
                     "Zone": ""
                 }
             ],
@@ -26555,7 +26555,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "SNAFUKivaari_Black_GUN",
+                            "ClassName": "Expansion_AWM",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -26564,7 +26564,7 @@
                             "Health": [
                                 {
                                     "Min": 0.33,
-                                    "Max": 0.88,
+                                    "Max": 1.0,
                                     "Zone": ""
                                 }
                             ],
@@ -26573,7 +26573,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "SNAFUKivaari_338_Supp",
+                                            "ClassName": "Mag_Expansion_AWM_5Rnd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -26582,7 +26582,7 @@
                                             "Health": [
                                                 {
                                                     "Min": 0.33,
-                                                    "Max": 0.88,
+                                                    "Max": 1.0,
                                                     "Zone": ""
                                                 }
                                             ],
@@ -26592,8 +26592,8 @@
                                             "Sets": []
                                         },
                                         {
-                                            "ClassName": "SNAFU_Tango6T_Black",
-                                            "Chance": 1.0,
+                                            "ClassName": "ExpansionHAMROptic",
+                                            "Chance": 0.5,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -26601,68 +26601,70 @@
                                             "Health": [
                                                 {
                                                     "Min": 0.33,
-                                                    "Max": 0.88,
+                                                    "Max": 1.0,
                                                     "Zone": ""
                                                 }
                                             ],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "SNAFUKivaari_10rdMag",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [
+                                            "InventoryAttachments": [
                                                 {
-                                                    "Min": 0.33,
-                                                    "Max": 0.88,
-                                                    "Zone": ""
-                                                }
-                                            ],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "SNAFUKivaari_25rdMag",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [
+                                                    "ClassName": "Battery9V",
+                                                    "Chance": 1.0,
+                                                    "Quantity": {
+                                                        "Min": 0.0,
+                                                        "Max": 0.0
+                                                    },
+                                                    "Health": [
+                                                        {
+                                                            "Min": 0.33,
+                                                            "Max": 1.0,
+                                                            "Zone": ""
+                                                        }
+                                                    ],
+                                                    "InventoryAttachments": [],
+                                                    "InventoryCargo": [],
+                                                    "ConstructionPartsBuilt": [],
+                                                    "Sets": []
+                                                },
                                                 {
-                                                    "Min": 0.33,
-                                                    "Max": 0.88,
-                                                    "Zone": ""
+                                                    "ClassName": "FNP45_MRDSOptic",
+                                                    "Chance": 1.0,
+                                                    "Quantity": {
+                                                        "Min": 0.0,
+                                                        "Max": 0.0
+                                                    },
+                                                    "Health": [
+                                                        {
+                                                            "Min": 0.33,
+                                                            "Max": 1.0,
+                                                            "Zone": ""
+                                                        }
+                                                    ],
+                                                    "InventoryAttachments": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+                                                            },
+                                                            "Health": [
+                                                                {
+                                                                    "Min": 0.33,
+                                                                    "Max": 1.0,
+                                                                    "Zone": ""
+                                                                }
+                                                            ],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+                                                        }
+                                                    ],
+                                                    "InventoryCargo": [],
+                                                    "ConstructionPartsBuilt": [],
+                                                    "Sets": []
                                                 }
                                             ],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "SNAFU_Bipod",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [
-                                                {
-                                                    "Min": 0.33,
-                                                    "Max": 0.88,
-                                                    "Zone": ""
-                                                }
-                                            ],
-                                            "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
@@ -26670,72 +26672,53 @@
                                     ]
                                 }
                             ],
-                            "InventoryCargo": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Mag_Expansion_AWM_5Rnd",
+                                    "Chance": 1.0,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 1.0,
+                                            "Zone": ""
+                                        }
+                                    ],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "Ammo_Expansion_338",
+                                    "Chance": 1.0,
+                                    "Quantity": {
+                                        "Min": 0.0,
+                                        "Max": 0.0
+                                    },
+                                    "Health": [
+                                        {
+                                            "Min": 0.33,
+                                            "Max": 1.0,
+                                            "Zone": ""
+                                        }
+                                    ],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         }
                     ]
                 }
             ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "SNAFU_Ammo_338",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "SNAFU_Ammo_338",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "SNAFU_Ammo_338",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
+            "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
             "Sets": []
         }
