@@ -326,7 +326,7 @@
             "SlotName": "Armband",
             "Items": [
                 {
-                    "ClassName": "Armband_Orange",
+                    "ClassName": "Armband_Red",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -11485,7 +11485,7 @@
         },
         {
             "ClassName": "NailBox",
-            "Chance": 0.04,
+            "Chance": 0.5,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
