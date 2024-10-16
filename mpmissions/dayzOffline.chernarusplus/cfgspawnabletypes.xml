@@ -10668,6 +10668,22 @@
 		</attachments>
 	</type>
 <!--Vanilla-->
+	<!-- VEHICLES -->
+	<type name="Boat_01_Black">
+		<attachments chance="0.10">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Blue">
+		<attachments chance="0.10">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Camo">
+		<attachments chance="0.10">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
