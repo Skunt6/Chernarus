@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 	<type Name = "Hordes_Saves">
+        <Horde_Data		Current_Position = "14904/13660" Destination_Position = "14904/13660"	Current_Waypoint = "32"/>
 	</type>
 </types>
