@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_Marmalade",
+            "ClassName": "Marmalade",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_Honey",
+            "ClassName": "Honey",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_Pajka",
+            "ClassName": "Pajka",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_Pate",
+            "ClassName": "Pate",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_BrisketSpread",
+            "ClassName": "BrisketSpread",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_SardinesCan",
+            "ClassName": "SardinesCan",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_TunaCan",
+            "ClassName": "TunaCan",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_DogFoodCan",
+            "ClassName": "DogFoodCan",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -194,7 +194,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_CatFoodCan",
+            "ClassName": "CatFoodCan",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -205,7 +205,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_PorkCan",
+            "ClassName": "PorkCan",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -216,7 +216,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_Lunchmeat",
+            "ClassName": "Lunchmeat",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_UnknownFoodCan",
+            "ClassName": "UnknownFoodCan",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -238,7 +238,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_PeachesCan",
+            "ClassName": "PeachesCan",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
@@ -249,7 +249,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_SpaghettiCan",
+            "ClassName": "SpaghettiCan",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
@@ -260,7 +260,7 @@
             "Variants": []
         },
         {
-            "ClassName": "dzn_BakedBeansCan",
+            "ClassName": "BakedBeansCan",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,

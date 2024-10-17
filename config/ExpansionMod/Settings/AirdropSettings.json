@@ -215,7 +215,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_BakedBeansCan",
+                    "Name": "BakedBeansCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -224,7 +224,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_BakedBeansCan_Opened",
+                    "Name": "BakedBeansCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -278,7 +278,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_BrisketSpread",
+                    "Name": "BrisketSpread",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -287,7 +287,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_BrisketSpread_Opened",
+                    "Name": "BrisketSpread_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -332,7 +332,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Canteen",
+                    "Name": "Canteen",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -359,7 +359,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_CatFoodCan",
+                    "Name": "CatFoodCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -368,7 +368,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_CatFoodCan_Opened",
+                    "Name": "CatFoodCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -467,7 +467,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_DogFoodCan",
+                    "Name": "DogFoodCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -476,7 +476,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_DogFoodCan_Opened",
+                    "Name": "DogFoodCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -503,7 +503,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Honey",
+                    "Name": "Honey",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -539,7 +539,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Lunchmeat",
+                    "Name": "Lunchmeat",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -548,7 +548,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Lunchmeat_Opened",
+                    "Name": "Lunchmeat_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -584,7 +584,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Marmalade",
+                    "Name": "Marmalade",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -593,7 +593,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Pajka",
+                    "Name": "Pajka",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -602,7 +602,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Pajka_Opened",
+                    "Name": "Pajka_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -611,7 +611,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Pate",
+                    "Name": "Pate",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -620,7 +620,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_Pate_Opened",
+                    "Name": "Pate_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -629,7 +629,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_PeachesCan",
+                    "Name": "PeachesCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -638,7 +638,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_PeachesCan_Opened",
+                    "Name": "PeachesCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -692,7 +692,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_PorkCan",
+                    "Name": "PorkCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -701,7 +701,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_PorkCan_Opened",
+                    "Name": "PorkCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -791,7 +791,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SardinesCan",
+                    "Name": "SardinesCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -800,7 +800,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SardinesCan_Opened",
+                    "Name": "SardinesCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -827,7 +827,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SodaCan_Cola",
+                    "Name": "SodaCan_Cola",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -836,7 +836,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SodaCan_Fronta",
+                    "Name": "SodaCan_Fronta",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -845,7 +845,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SodaCan_Kvass",
+                    "Name": "SodaCan_Kvass",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -854,7 +854,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SodaCan_Pipsi",
+                    "Name": "SodaCan_Pipsi",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -863,7 +863,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SodaCan_Spite",
+                    "Name": "SodaCan_Spite",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -872,7 +872,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SpaghettiCan",
+                    "Name": "SpaghettiCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -881,7 +881,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_SpaghettiCan_Opened",
+                    "Name": "SpaghettiCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -926,7 +926,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_TunaCan",
+                    "Name": "TunaCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -935,7 +935,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_TunaCan_Opened",
+                    "Name": "TunaCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -944,7 +944,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_UnknownFoodCan",
+                    "Name": "UnknownFoodCan",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,
@@ -953,7 +953,7 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_UnknownFoodCan_Opened",
+                    "Name": "UnknownFoodCan_Opened",
                     "Chance": 1.0,
                     "Attachments": [],
                     "QuantityPercent": -1,

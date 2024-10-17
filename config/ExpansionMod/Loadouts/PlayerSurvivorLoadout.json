@@ -506,7 +506,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_tool_watch2",
+            "ClassName": "tool_watch2",
             "Chance": 1.0,
             "Quantity": {
                 "Min": 0.0,

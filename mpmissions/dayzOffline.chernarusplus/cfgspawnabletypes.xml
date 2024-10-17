@@ -13713,9 +13713,9 @@
 	<type name="NBCPantsYellow">
 		<damage min="0.0" max="0.35" />
 	</type>
-	<type name="dzn_WaterBottle">
+	<type name="WaterBottle">
 	</type>
-	<type name="dzn_Canteen">
+	<type name="Canteen">
 	</type>
 	
 <!-- FUTURE

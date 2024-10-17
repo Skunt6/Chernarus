@@ -226,7 +226,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "dzn_SodaCan_Cola",
+                            "ClassName": "SodaCan_Cola",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
                                 "Min": 0.0,

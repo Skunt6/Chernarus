@@ -2662,7 +2662,7 @@
                                     "Sets": []
                                 },
                                 {
-                                    "ClassName": "dzn_Canteen",
+                                    "ClassName": "Canteen",
                                     "Chance": 1.0,
                                     "Quantity": {
                                         "Min": 0.0,
@@ -12611,7 +12611,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_BakedBeansCan",
+            "ClassName": "BakedBeansCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -12630,7 +12630,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_BakedBeansCan_Opened",
+            "ClassName": "BakedBeansCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -12744,7 +12744,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_BrisketSpread",
+            "ClassName": "BrisketSpread",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -12763,7 +12763,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_BrisketSpread_Opened",
+            "ClassName": "BrisketSpread_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -12858,7 +12858,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Canteen",
+            "ClassName": "Canteen",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -12915,7 +12915,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_CatFoodCan",
+            "ClassName": "CatFoodCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -12934,7 +12934,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_CatFoodCan_Opened",
+            "ClassName": "CatFoodCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13143,7 +13143,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_DogFoodCan",
+            "ClassName": "DogFoodCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13162,7 +13162,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_DogFoodCan_Opened",
+            "ClassName": "DogFoodCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13219,7 +13219,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Honey",
+            "ClassName": "Honey",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13295,7 +13295,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Lunchmeat",
+            "ClassName": "Lunchmeat",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13314,7 +13314,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Lunchmeat_Opened",
+            "ClassName": "Lunchmeat_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13390,7 +13390,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Marmalade",
+            "ClassName": "Marmalade",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13409,7 +13409,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Pajka",
+            "ClassName": "Pajka",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13428,7 +13428,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Pajka_Opened",
+            "ClassName": "Pajka_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13447,7 +13447,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Pate",
+            "ClassName": "Pate",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13466,7 +13466,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_Pate_Opened",
+            "ClassName": "Pate_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13485,7 +13485,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_PeachesCan",
+            "ClassName": "PeachesCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13504,7 +13504,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_PeachesCan_Opened",
+            "ClassName": "PeachesCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13618,7 +13618,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_PorkCan",
+            "ClassName": "PorkCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13637,7 +13637,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_PorkCan_Opened",
+            "ClassName": "PorkCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13827,7 +13827,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SardinesCan",
+            "ClassName": "SardinesCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13846,7 +13846,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SardinesCan_Opened",
+            "ClassName": "SardinesCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13903,7 +13903,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SodaCan_Cola",
+            "ClassName": "SodaCan_Cola",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13922,7 +13922,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SodaCan_Fronta",
+            "ClassName": "SodaCan_Fronta",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13941,7 +13941,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SodaCan_Kvass",
+            "ClassName": "SodaCan_Kvass",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13960,7 +13960,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SodaCan_Pipsi",
+            "ClassName": "SodaCan_Pipsi",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13979,7 +13979,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SodaCan_Spite",
+            "ClassName": "SodaCan_Spite",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -13998,7 +13998,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SpaghettiCan",
+            "ClassName": "SpaghettiCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -14017,7 +14017,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_SpaghettiCan_Opened",
+            "ClassName": "SpaghettiCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -14112,7 +14112,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_TunaCan",
+            "ClassName": "TunaCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -14131,7 +14131,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_TunaCan_Opened",
+            "ClassName": "TunaCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -14150,7 +14150,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_UnknownFoodCan",
+            "ClassName": "UnknownFoodCan",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
@@ -14169,7 +14169,7 @@
             "Sets": []
         },
         {
-            "ClassName": "dzn_UnknownFoodCan_Opened",
+            "ClassName": "UnknownFoodCan_Opened",
             "Chance": 0.02,
             "Quantity": {
                 "Min": 0.0,
