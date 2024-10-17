@@ -1,37 +1,50 @@
 void main()
 {
+	DC_FastTravel.SpawnBoard(1, "3711.67 403.273 5992.69", "63 0 0"); //Green Mountain with m_ID = 1 in the config
+  	DC_FastTravel.SpawnBoard(2, "10722.2 350.986 5678.11", "-162.716 0 0"); // Echo with m_ID = 2 in the config
+	DC_FastTravel.SpawnBoard(3, "14201.3 196.715 15285.3", "-74.1487 0 0"); // Trailside with m_ID = 3 in the config
+	DC_FastTravel.SpawnBoard(4, "1896.99 442.394 15000.9", "-135.043 0 0"); // north tisy with m_ID = 4 in the config
 	//INIT ECONOMY--------------------------------------
-	Hive ce = CreateHive();
-	if ( ce )
-		ce.InitOffline();
-
-	//DATE RESET AFTER ECONOMY INIT-------------------------
+	CreateHive();
+	GetHive().InitOffline();
 	int year, month, day, hour, minute;
-	int reset_month = 9, reset_day = 20;
-	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
+	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
 
-	if ((month == reset_month) && (day < reset_day))
-	{
-		GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
+	//Change here the dates for whatever months you desire
+    if ( month < 12 )
+    {
+    	year = 2011;
+        month = 12;
+        day = 25;
+		
+		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
-	else
-	{
-		if ((month == reset_month + 1) && (day > reset_day))
-		{
-			GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-		}
-		else
-		{
-			if ((month < reset_month) || (month > reset_month + 1))
-			{
-				GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-			}
-		}
-	}
+
 }
+
 
 class CustomMission: MissionServer
 {
+	override void OnInit()
+	{
+		super.OnInit();
+
+		// this piece of code is recommended otherwise event system is switched on automatically and runs from default values
+		// comment this whole block if NOT using Namalsk Survival
+		if ( m_EventManagerServer )
+		{
+			// enable/disable event system, min time between events, max time between events, max number of events at the same time
+			m_EventManagerServer.OnInitServer( true, 550, 1000, 2 );
+			// registering events and their probability
+			m_EventManagerServer.RegisterEvent( Aurora, 0.85 );
+			m_EventManagerServer.RegisterEvent( Blizzard, 0.4 );
+			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.5 );
+			m_EventManagerServer.RegisterEvent( Snowfall, 0.7 );
+			m_EventManagerServer.RegisterEvent( EVRStorm, 0.15 );
+			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
+		}
+	}
+	
 	void SetRandomHealth(EntityAI itemEnt)
 	{
 		if ( itemEnt )
@@ -66,21 +79,11 @@ class CustomMission: MissionServer
 			
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
 			player.SetQuickBarEntityShortcut(itemEnt, 2);
-			
+
 			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
 			int rndIndex = Math.RandomInt( 0, 4 );
 			itemEnt = itemClothing.GetInventory().CreateInInventory( chemlightArray[rndIndex] );
-			SetRandomHealth( itemEnt );
 			player.SetQuickBarEntityShortcut(itemEnt, 1);
-
-			rand = Math.RandomFloatInclusive( 0.0, 1.0 );
-			if ( rand < 0.35 )
-				itemEnt = player.GetInventory().CreateInInventory( "Apple" );
-			else if ( rand > 0.65 )
-				itemEnt = player.GetInventory().CreateInInventory( "Pear" );
-			else
-				itemEnt = player.GetInventory().CreateInInventory( "Plum" );
-			player.SetQuickBarEntityShortcut(itemEnt, 3);
 			SetRandomHealth( itemEnt );
 		}
 		
