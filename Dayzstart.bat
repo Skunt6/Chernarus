@@ -10,8 +10,6 @@ if %errorLevel% NEQ 0 (
 
 :start
 taskkill /im DayZServer_x64.exe /F
-:: Time in seconds to wait before..
-timeout 10
 
 echo Performing git pull to update the repository...
 cd "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus"
