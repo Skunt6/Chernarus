@@ -183,83 +183,83 @@
         }
     ],
     "InventoryCargo": [
-    {
-        "ClassName": "Pen_Black",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+        {
+            "ClassName": "Pen_Black",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
-        "ClassName": "Pen_Blue",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+        {
+            "ClassName": "Pen_Blue",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
-        "ClassName": "Pen_Green",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+        {
+            "ClassName": "Pen_Green",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
-        "ClassName": "Pen_Red",
-        "Chance": 0.25,
-        "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
+        {
+            "ClassName": "Pen_Red",
+            "Chance": 0.25,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [
+                {
+                    "Min": 0.699999988079071,
+                    "Max": 1.0,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         },
-        "Health": [
-            {
-                "Min": 0.699999988079071,
-                "Max": 1.0,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
+        {
             "ClassName": "BBP_TapeMeasure",
             "Chance": 0.025,
             "Quantity": {
@@ -5625,12 +5625,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5644,12 +5644,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5663,12 +5663,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5682,12 +5682,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5701,12 +5701,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5720,12 +5720,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5739,12 +5739,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5758,12 +5758,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5777,12 +5777,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5796,12 +5796,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5815,12 +5815,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5834,12 +5834,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5853,12 +5853,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5872,12 +5872,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5891,12 +5891,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5910,12 +5910,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5929,12 +5929,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5948,12 +5948,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5967,12 +5967,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -5986,12 +5986,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6005,12 +6005,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6024,12 +6024,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6043,12 +6043,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6062,12 +6062,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6081,12 +6081,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6100,12 +6100,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6119,12 +6119,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6138,12 +6138,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6157,12 +6157,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6176,12 +6176,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6195,12 +6195,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6214,12 +6214,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6233,12 +6233,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6252,12 +6252,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6271,12 +6271,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6290,12 +6290,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6309,12 +6309,12 @@
                 "Max": 0.0
             },
             "Health": [
-                        {
-                            "Min": 0.33,
-                            "Max": 0.88,
-                            "Zone": ""
-                        }
-                    ],
+                {
+                    "Min": 0.33,
+                    "Max": 0.88,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -6333,7 +6333,6 @@
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
-        
         {
             "ClassName": "ItemStarRuby",
             "Chance": 0.001,
@@ -6817,7 +6816,7 @@
         },
         {
             "ClassName": "PetrolLighter",
-            "Chance": 0.2,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8416,7 +8415,7 @@
         },
         {
             "ClassName": "GCGN_M82_Barret",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8429,7 +8428,7 @@
         },
         {
             "ClassName": "AA12_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8455,7 +8454,7 @@
         },
         {
             "ClassName": "ACR_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8533,7 +8532,7 @@
         },
         {
             "ClassName": "GCGN_HK416",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8546,7 +8545,7 @@
         },
         {
             "ClassName": "GCGN_M110_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8559,7 +8558,7 @@
         },
         {
             "ClassName": "GCGN_M110_Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8585,7 +8584,7 @@
         },
         {
             "ClassName": "GCGN_M110_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8637,7 +8636,7 @@
         },
         {
             "ClassName": "GCGN_M1Garand",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8663,7 +8662,7 @@
         },
         {
             "ClassName": "GCGN_M200_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8676,7 +8675,7 @@
         },
         {
             "ClassName": "GCGN_M200",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8702,7 +8701,7 @@
         },
         {
             "ClassName": "GCGN_M249",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8715,7 +8714,7 @@
         },
         {
             "ClassName": "GCGN_M4A1",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8741,7 +8740,7 @@
         },
         {
             "ClassName": "GCGN_M700",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8806,7 +8805,7 @@
         },
         {
             "ClassName": "GCGN_MP7",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8832,7 +8831,7 @@
         },
         {
             "ClassName": "GCGN_VEPR",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8858,7 +8857,7 @@
         },
         {
             "ClassName": "GCGN_Vityaz",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8871,7 +8870,7 @@
         },
         {
             "ClassName": "HK416_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8884,7 +8883,7 @@
         },
         {
             "ClassName": "IA2_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8897,7 +8896,7 @@
         },
         {
             "ClassName": "M4_6933_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -8910,7 +8909,7 @@
         },
         {
             "ClassName": "MK18_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9040,7 +9039,7 @@
         },
         {
             "ClassName": "SCAR_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9053,7 +9052,7 @@
         },
         {
             "ClassName": "SG550_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9092,7 +9091,7 @@
         },
         {
             "ClassName": "SN_Auto_Shotgun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9105,7 +9104,7 @@
         },
         {
             "ClassName": "SN_Glock19",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9118,7 +9117,7 @@
         },
         {
             "ClassName": "SN_M870",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9144,7 +9143,7 @@
         },
         {
             "ClassName": "SN_M9",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9170,7 +9169,7 @@
         },
         {
             "ClassName": "SN_Mp443",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9196,7 +9195,7 @@
         },
         {
             "ClassName": "SN_Springfield",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9222,7 +9221,7 @@
         },
         {
             "ClassName": "SN_USP",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9248,7 +9247,7 @@
         },
         {
             "ClassName": "SNAFU_ADAR_Modular16_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9261,7 +9260,7 @@
         },
         {
             "ClassName": "SNAFU_AEK545_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9274,7 +9273,7 @@
         },
         {
             "ClassName": "SNAFU_AFG_02_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9287,7 +9286,7 @@
         },
         {
             "ClassName": "SNAFU_AFG_02_OD",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9300,7 +9299,7 @@
         },
         {
             "ClassName": "SNAFU_AFG_02_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9326,7 +9325,7 @@
         },
         {
             "ClassName": "SNAFU_Agram_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9391,7 +9390,7 @@
         },
         {
             "ClassName": "SNAFU_AK_HG",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9430,7 +9429,7 @@
         },
         {
             "ClassName": "SNAFU_AK103A",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9456,7 +9455,7 @@
         },
         {
             "ClassName": "SNAFU_AK12A",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9482,7 +9481,7 @@
         },
         {
             "ClassName": "SNAFU_AK19",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9521,7 +9520,7 @@
         },
         {
             "ClassName": "SNAFU_AK308",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9729,7 +9728,7 @@
         },
         {
             "ClassName": "SNAFU_AKWalther",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9885,7 +9884,7 @@
         },
         {
             "ClassName": "SNAFU_AR15_Modular16_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9898,7 +9897,7 @@
         },
         {
             "ClassName": "SNAFU_AR15SPRBK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9911,7 +9910,7 @@
         },
         {
             "ClassName": "SNAFU_AR15SPRTAN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9924,7 +9923,7 @@
         },
         {
             "ClassName": "SNAFU_AS50_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -9963,7 +9962,7 @@
         },
         {
             "ClassName": "SNAFU_AWM_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10054,7 +10053,7 @@
         },
         {
             "ClassName": "SNAFU_CALI_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10223,7 +10222,7 @@
         },
         {
             "ClassName": "SNAFU_CZ805_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10236,7 +10235,7 @@
         },
         {
             "ClassName": "SNAFU_Docter",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10314,7 +10313,7 @@
         },
         {
             "ClassName": "SNAFU_Fort12_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10340,7 +10339,7 @@
         },
         {
             "ClassName": "SNAFU_FRF2",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10353,7 +10352,7 @@
         },
         {
             "ClassName": "SNAFU_GADAR",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10444,7 +10443,7 @@
         },
         {
             "ClassName": "SNAFU_HG625",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10457,7 +10456,7 @@
         },
         {
             "ClassName": "SNAFU_HGGS",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10470,7 +10469,7 @@
         },
         {
             "ClassName": "SNAFU_HGMlok_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10483,7 +10482,7 @@
         },
         {
             "ClassName": "SNAFU_HGMlok",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10600,7 +10599,7 @@
         },
         {
             "ClassName": "SNAFU_HWalther",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10626,7 +10625,7 @@
         },
         {
             "ClassName": "SNAFU_KAC_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10665,7 +10664,7 @@
         },
         {
             "ClassName": "SNAFU_Kobra",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10743,7 +10742,7 @@
         },
         {
             "ClassName": "SNAFU_LVOA556_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10756,7 +10755,7 @@
         },
         {
             "ClassName": "SNAFU_LVOAHG",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10782,7 +10781,7 @@
         },
         {
             "ClassName": "SNAFU_M14",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10821,7 +10820,7 @@
         },
         {
             "ClassName": "SNAFU_M1918A2",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10834,7 +10833,7 @@
         },
         {
             "ClassName": "SNAFU_M200B_BK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10847,7 +10846,7 @@
         },
         {
             "ClassName": "SNAFU_M200Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10860,7 +10859,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_BK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10873,7 +10872,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10886,7 +10885,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_Snow",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10899,7 +10898,7 @@
         },
         {
             "ClassName": "SNAFU_M200S_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10912,7 +10911,7 @@
         },
         {
             "ClassName": "SNAFU_M200SNOW",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10951,7 +10950,7 @@
         },
         {
             "ClassName": "SNAFU_M249HG",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10977,7 +10976,7 @@
         },
         {
             "ClassName": "SNAFU_M300BK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -10990,7 +10989,7 @@
         },
         {
             "ClassName": "SNAFU_M300Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11016,7 +11015,7 @@
         },
         {
             "ClassName": "SNAFU_M300TAN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11029,7 +11028,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_10_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11042,7 +11041,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_14_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11055,7 +11054,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_14DV_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11068,7 +11067,7 @@
         },
         {
             "ClassName": "SNAFU_M4300AC_16_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11081,7 +11080,7 @@
         },
         {
             "ClassName": "SNAFU_M4556_Modular14_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11094,7 +11093,7 @@
         },
         {
             "ClassName": "SNAFU_M4556_Modular16_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11107,7 +11106,7 @@
         },
         {
             "ClassName": "SNAFU_M48",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11146,7 +11145,7 @@
         },
         {
             "ClassName": "SNAFU_M76",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11198,7 +11197,7 @@
         },
         {
             "ClassName": "SNAFU_MAR10_Black_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11211,7 +11210,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR07",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11224,7 +11223,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR08",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11237,7 +11236,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR09",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11250,7 +11249,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR10",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11263,7 +11262,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR13",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11276,7 +11275,7 @@
         },
         {
             "ClassName": "SNAFU_MCMR15",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11341,7 +11340,7 @@
         },
         {
             "ClassName": "SNAFU_MK10",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11354,7 +11353,7 @@
         },
         {
             "ClassName": "SNAFU_MK13",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11367,7 +11366,7 @@
         },
         {
             "ClassName": "SNAFU_MK15",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11393,7 +11392,7 @@
         },
         {
             "ClassName": "SNAFU_MK4710Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11406,7 +11405,7 @@
         },
         {
             "ClassName": "SNAFU_MK4716Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11419,7 +11418,7 @@
         },
         {
             "ClassName": "SNAFU_MK47HG",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11445,7 +11444,7 @@
         },
         {
             "ClassName": "SNAFU_MK7",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11458,7 +11457,7 @@
         },
         {
             "ClassName": "SNAFU_MK9",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11562,7 +11561,7 @@
         },
         {
             "ClassName": "SNAFU_MP9_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11588,7 +11587,7 @@
         },
         {
             "ClassName": "SNAFU_MPX_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11705,7 +11704,7 @@
         },
         {
             "ClassName": "SNAFU_MWalther",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11783,7 +11782,7 @@
         },
         {
             "ClassName": "SNAFU_PDW_45ACP",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11809,7 +11808,7 @@
         },
         {
             "ClassName": "SNAFU_PDW_9mm",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11861,7 +11860,7 @@
         },
         {
             "ClassName": "Snafu_pkp_Black_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11874,7 +11873,7 @@
         },
         {
             "ClassName": "Snafu_pkp_NBlack_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -11978,7 +11977,7 @@
         },
         {
             "ClassName": "SNAFU_RPK16_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12004,7 +12003,7 @@
         },
         {
             "ClassName": "SNAFU_RPK16_Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12030,7 +12029,7 @@
         },
         {
             "ClassName": "SNAFU_RPK16_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12056,7 +12055,7 @@
         },
         {
             "ClassName": "SNAFU_Saint_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12082,7 +12081,7 @@
         },
         {
             "ClassName": "SNAFU_Saint556_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12199,7 +12198,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_Black_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12212,7 +12211,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_DKMC_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12225,7 +12224,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_OD_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12238,7 +12237,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_SIL_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12251,7 +12250,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_SIL_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12264,7 +12263,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_Snow_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12277,7 +12276,7 @@
         },
         {
             "ClassName": "Snafu_ScarH_Tan_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12342,7 +12341,7 @@
         },
         {
             "ClassName": "SNAFU_SKS",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12355,7 +12354,7 @@
         },
         {
             "ClassName": "SNAFU_SPMOD",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12368,7 +12367,7 @@
         },
         {
             "ClassName": "SNAFU_SR25_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12420,7 +12419,7 @@
         },
         {
             "ClassName": "SNAFU_SR3HG",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12589,7 +12588,7 @@
         },
         {
             "ClassName": "SNAFU_TP82S",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12602,7 +12601,7 @@
         },
         {
             "ClassName": "SNAFU_Trenchgun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12654,7 +12653,7 @@
         },
         {
             "ClassName": "SNAFU_U100",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12693,7 +12692,7 @@
         },
         {
             "ClassName": "SNAFU_Walther",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12732,7 +12731,7 @@
         },
         {
             "ClassName": "SNAFUAlligator",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12758,7 +12757,7 @@
         },
         {
             "ClassName": "SNAFUAPS",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12771,7 +12770,7 @@
         },
         {
             "ClassName": "SNAFUAR15_AFG",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12836,7 +12835,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_SIL",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12849,7 +12848,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_SQSIL",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12875,7 +12874,7 @@
         },
         {
             "ClassName": "SNAFUASh12",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12901,7 +12900,7 @@
         },
         {
             "ClassName": "SNAFUAUG_BK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12914,7 +12913,7 @@
         },
         {
             "ClassName": "SNAFUAUG",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12927,7 +12926,7 @@
         },
         {
             "ClassName": "SNAFUAX50_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12953,7 +12952,7 @@
         },
         {
             "ClassName": "SNAFUChiappaRhino",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -12992,7 +12991,7 @@
         },
         {
             "ClassName": "SNAFUDVL10M2",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13005,7 +13004,7 @@
         },
         {
             "ClassName": "SNAFUFAMAS",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13031,7 +13030,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13044,7 +13043,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13057,7 +13056,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Grey",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13096,7 +13095,7 @@
         },
         {
             "ClassName": "SNAFUGevar_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13122,7 +13121,7 @@
         },
         {
             "ClassName": "SNAFUGM6Lynx",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13161,7 +13160,7 @@
         },
         {
             "ClassName": "SNAFUHoneyBadger_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13174,7 +13173,7 @@
         },
         {
             "ClassName": "SNAFUHoneyBadger_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13200,7 +13199,7 @@
         },
         {
             "ClassName": "SNAFUKH9",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13252,7 +13251,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Black_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13265,7 +13264,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Grey_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13278,7 +13277,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Snow_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13291,7 +13290,7 @@
         },
         {
             "ClassName": "SNAFUKivaari_Tan_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13317,7 +13316,7 @@
         },
         {
             "ClassName": "SNAFUM1A_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13330,7 +13329,7 @@
         },
         {
             "ClassName": "SNAFUM1A_Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13343,7 +13342,7 @@
         },
         {
             "ClassName": "SNAFUM1A_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13356,7 +13355,7 @@
         },
         {
             "ClassName": "SNAFUM24_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13395,7 +13394,7 @@
         },
         {
             "ClassName": "SNAFUM96",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13408,7 +13407,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Atac_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13421,7 +13420,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Digi_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13434,7 +13433,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Ger_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13460,7 +13459,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Mc_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13473,7 +13472,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Snow_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13486,7 +13485,7 @@
         },
         {
             "ClassName": "SNAFUM98B_Wood_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13512,7 +13511,7 @@
         },
         {
             "ClassName": "SNAFUMarlin1895",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13538,7 +13537,7 @@
         },
         {
             "ClassName": "SNAFUMk12",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13577,7 +13576,7 @@
         },
         {
             "ClassName": "SNAFUP90",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13603,7 +13602,7 @@
         },
         {
             "ClassName": "SNAFUPPSh",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13629,7 +13628,7 @@
         },
         {
             "ClassName": "SNAFUPPSKN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13655,7 +13654,7 @@
         },
         {
             "ClassName": "SNAFURPD",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13668,7 +13667,7 @@
         },
         {
             "ClassName": "SNAFURSASS_dkmc_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13694,7 +13693,7 @@
         },
         {
             "ClassName": "SNAFURSASS_od_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13707,7 +13706,7 @@
         },
         {
             "ClassName": "SNAFURSASS_Wood_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13720,7 +13719,7 @@
         },
         {
             "ClassName": "SNAFUSA80",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13733,7 +13732,7 @@
         },
         {
             "ClassName": "SNAFUScar_AFG_BK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13746,7 +13745,7 @@
         },
         {
             "ClassName": "SNAFUScar_AFG_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13759,7 +13758,7 @@
         },
         {
             "ClassName": "SNAFUSR3_Vikhr",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13785,7 +13784,7 @@
         },
         {
             "ClassName": "SNAFUSRSA2",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13811,7 +13810,7 @@
         },
         {
             "ClassName": "SNAFUSten",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13824,7 +13823,7 @@
         },
         {
             "ClassName": "SNAFUSWM629",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13837,7 +13836,7 @@
         },
         {
             "ClassName": "SNAFUT5000_Dkmcc_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13863,7 +13862,7 @@
         },
         {
             "ClassName": "SNAFUT5000_Snow_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13876,7 +13875,7 @@
         },
         {
             "ClassName": "SNAFUT5000_Wood_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13902,7 +13901,7 @@
         },
         {
             "ClassName": "SNAFUTac21",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13915,7 +13914,7 @@
         },
         {
             "ClassName": "SNAFUTAR21_Black",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13928,7 +13927,7 @@
         },
         {
             "ClassName": "SNAFUTAR21_Green",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13941,7 +13940,7 @@
         },
         {
             "ClassName": "SNAFUTAR21_Tan",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -13967,7 +13966,7 @@
         },
         {
             "ClassName": "SNAFUThompsonMk2",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14019,7 +14018,7 @@
         },
         {
             "ClassName": "SNAFUUzi",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14032,7 +14031,7 @@
         },
         {
             "ClassName": "SNAFUVECTOR_45acp_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14058,7 +14057,7 @@
         },
         {
             "ClassName": "SNAFUVECTOR_9mm_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14084,7 +14083,7 @@
         },
         {
             "ClassName": "SNAFUVSSK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14097,7 +14096,7 @@
         },
         {
             "ClassName": "SNHK417_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14123,7 +14122,7 @@
         },
         {
             "ClassName": "SNSA58_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14136,7 +14135,7 @@
         },
         {
             "ClassName": "Spas12_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14162,7 +14161,7 @@
         },
         {
             "ClassName": "Tec9_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14188,7 +14187,7 @@
         },
         {
             "ClassName": "VR80_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14227,7 +14226,7 @@
         },
         {
             "ClassName": "GCGN_BenelliM4",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14240,7 +14239,7 @@
         },
         {
             "ClassName": "GCGN_M1Garand_FH",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14357,7 +14356,7 @@
         },
         {
             "ClassName": "SNAFU_AWM_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14383,7 +14382,7 @@
         },
         {
             "ClassName": "SNAFU_Kabar",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14396,7 +14395,7 @@
         },
         {
             "ClassName": "SNAFU_Kabar_BK",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14409,7 +14408,7 @@
         },
         {
             "ClassName": "SNAFU_PL14HQP",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14539,7 +14538,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_Black_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14552,7 +14551,7 @@
         },
         {
             "ClassName": "SNAFUAR15_SPR_Tan_GUN",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -14578,7 +14577,7 @@
         },
         {
             "ClassName": "SR3_Vikhr_Gun",
-            "Chance": 0.00005,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0

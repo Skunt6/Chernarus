@@ -12004,7 +12004,7 @@
         },
         {
             "ClassName": "PetrolLighter",
-            "Chance": 0.2,
+            "Chance": 0.05,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -22853,7 +22853,7 @@
         },
         {
             "ClassName": "GCGN_M1Garand_FH",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -23081,7 +23081,7 @@
         },
         {
             "ClassName": "SNAFU_Kabar_BK",
-            "Chance": 5e-05,
+            "Chance": "0.00005",
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
