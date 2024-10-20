@@ -16,9 +16,9 @@ $modListPath = "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\server_ma
 # Directory where mods are downloaded by SteamCMD
 $downloadPath = "C:\Program Files (x86)\Steam\steamapps\workshop\content\221100"
 # Path to DayZ server mods folder
-$serverModsPath = "C:\Users\rt603\Desktop\projects\Dayz-servers\Livonia"
+$serverModsPath = "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus"
 # Path to DayZ server keys folder
-$keysFolderPath = "C:\Users\rt603\Desktop\projects\Dayz-servers\Livonia\keys"
+$keysFolderPath = "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\keys"
 
 # Function to replace entire mod folder on the server and update keys
 function UpdateModFolders {
