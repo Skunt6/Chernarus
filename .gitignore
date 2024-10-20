@@ -3,6 +3,7 @@
 *.ADM
 *.RPT
 *.txt
+!mod_list.txt
 *.html
 *.exe
 *.MDMP

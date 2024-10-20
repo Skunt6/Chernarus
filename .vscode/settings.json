@@ -7,6 +7,7 @@
       "*/.pbo": true,
       "*/.html": true,
       "*/.MDMP": true,
+      "!**mod_list.txt": true,
       "*/.ADM": true,
       "*/.RPT": true,
       "*/.bin": true,
