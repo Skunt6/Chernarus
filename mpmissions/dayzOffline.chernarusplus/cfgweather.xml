@@ -14,11 +14,14 @@
         <changelimits min="0.0" max="1.0" />
     </overcast>
     <fog>
-        <current actual="0.0" time="60" duration="120" />
-        <limit min="0.0" max="1.0" />
-        <timelimits min="60" max="120" />
+        <!-- Initial conditions of the fog (target value, time to change, how long will it stay) -->
+        <current actual="0.1" time="120" duration="240" />
+        <!-- What is the range of the fog value (0..1) -->
+        <limits min="0.0" max="1.0" />
+        <!-- How long does it take to the fog to change from one value to other (time in seconds) -->
+        <timelimits min="900" max="1800" />
+        <!-- How much should the fog change (0..1) -->
         <changelimits min="0.0" max="1.0" />
-        <thresholds min="0.3" max="1.0" end="60" />
     </fog>
     <!-- Rain should always remain at 0 for this world. -->
     <rain>
