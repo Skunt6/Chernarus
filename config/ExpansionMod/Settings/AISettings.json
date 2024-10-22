@@ -11,7 +11,7 @@
     ],
     "MaximumDynamicPatrols": -1,
     "Vaulting": 1,
-    "SniperProneDistanceThreshold": 800.0,
+    "SniperProneDistanceThreshold": 0.0,
     "Manners": 0,
     "MemeLevel": 1,
     "CanRecruitFriendly": 1,
