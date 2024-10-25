@@ -1,0 +1,226 @@
+{
+    "LocationName": "Converted Old Config",
+    "KeycardDoors": [
+        {
+            "ClassName": "evg_simpleDoor2_DoubleWall1",
+            "Position": [
+                3039.3798828125,
+                242.97799682617188,
+                13742.099609375
+            ],
+            "Orientation": [
+                94.01069641113281,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 300.0,
+            "ItemsToOpen": [
+                "evg_keycards_White"
+            ],
+            "DamageToItem": -1.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "Quest door",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_barDoor",
+            "Position": [
+                1684.3399658203126,
+                449.572998046875,
+                14206.2998046875
+            ],
+            "Orientation": [
+                162.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 320.0,
+            "ItemsToOpen": [
+                "evg_keycards_Tisy05",
+                "evg_keycards_All"
+            ],
+            "DamageToItem": -1.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "Tisy",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_barDoor",
+            "Position": [
+                2334.739990234375,
+                251.3730010986328,
+                11775.2001953125
+            ],
+            "Orientation": [
+                -32.013301849365237,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 320.0,
+            "ItemsToOpen": [
+                "evg_keycards_Green",
+                "evg_keycards_All"
+            ],
+            "DamageToItem": -1.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "Depot",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_barDoor",
+            "Position": [
+                5039.330078125,
+                340.3489990234375,
+                9844.9599609375
+            ],
+            "Orientation": [
+                88.42430114746094,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 320.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01",
+                "evg_keycards_All"
+            ],
+            "DamageToItem": -1.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "West Airfield",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_barDoor",
+            "Position": [
+                2077.5,
+                93.79239654541016,
+                3286.800048828125
+            ],
+            "Orientation": [
+                6.994589805603027,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 320.0,
+            "ItemsToOpen": [
+                "evg_keycards_Red",
+                "evg_keycards_All"
+            ],
+            "DamageToItem": -1.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "Pavlovo Gas Zone",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_outsideDoor",
+            "Position": [
+                13797.900390625,
+                22.29520034790039,
+                11137.2998046875
+            ],
+            "Orientation": [
+                -23.1564998626709,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 320.0,
+            "ItemsToOpen": [
+                "evg_keycards_Blue",
+                "evg_keycards_All"
+            ],
+            "DamageToItem": -1.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "Rify Gas Zone",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        }
+    ]
+}
