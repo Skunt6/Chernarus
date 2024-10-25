@@ -11,20 +11,20 @@ if %errorLevel% NEQ 0 (
 :start
 taskkill /im DayZServer_x64.exe /F
 
-echo Performing git pull to update the repository...
-cd "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus"
-git pull
+echo Performing git pull to update Dayz_Servers repository...
+cd "C:\Users\rt603\Desktop\projects\Dayz_Servers"
+git pull --recurse-submodules
 
 echo Copying mods to appropriate folder...
-powershell.exe -ExecutionPolicy Bypass -File "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\server_manager\UploadMods.ps1"
+powershell.exe -ExecutionPolicy Bypass -File "C:\Users\rt603\Desktop\projects\Dayz_servers\Chernarus\server_manager\UploadMods.ps1"
 
 echo Copying Updated Server files to appropriate folder...
-powershell.exe -ExecutionPolicy Bypass -File "C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus\server_manager\ServerUpdate.ps1"
+powershell.exe -ExecutionPolicy Bypass -File "C:\Users\rt603\Desktop\projects\Dayz_servers\Chernarus\server_manager\ServerUpdate.ps1"
 
 :: Server name (This is just for the bat file)
 set serverName=Natures Weavers
 :: Server files location
-set serverLocation="C:\Users\rt603\Desktop\projects\Dayz-servers\Chernarus"
+set serverLocation="C:\Users\rt603\Desktop\projects\Dayz_servers\Chernarus"
 :: Server Port
 set serverPort=2302
 :: Server config
